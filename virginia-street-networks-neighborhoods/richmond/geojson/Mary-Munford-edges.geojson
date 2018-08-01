@@ -1,0 +1,2737 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4986165, 
+            37.5641039
+          ], 
+          [
+            -77.4985566, 
+            37.5641589
+          ], 
+          [
+            -77.4980542, 
+            37.5646204
+          ], 
+          [
+            -77.4979993, 
+            37.5646709
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "3135953354", 
+        "length": "83.29651367860669", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619054", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4986165, 
+            37.5641039
+          ], 
+          [
+            -77.4978016, 
+            37.5637552
+          ], 
+          [
+            -77.4977447, 
+            37.5635811
+          ], 
+          [
+            -77.4979723, 
+            37.5632782
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Willetta Drive', 'North Willetta Drive']", 
+        "to": "49622644", 
+        "length": "140.86416987712101", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619054", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035297, 6040435]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4986165, 
+            37.5641039
+          ], 
+          [
+            -77.4989247, 
+            37.56373
+          ], 
+          [
+            -77.4991582, 
+            37.563334
+          ], 
+          [
+            -77.4992937, 
+            37.5629231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49616375", 
+        "length": "145.5355417828654", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619054", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4924775, 
+            37.5620322
+          ], 
+          [
+            -77.492374, 
+            37.561983
+          ], 
+          [
+            -77.4922784, 
+            37.5619375
+          ], 
+          [
+            -77.4915848, 
+            37.5616003
+          ], 
+          [
+            -77.4911876, 
+            37.561416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953369", 
+        "length": "132.7897710324191", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953357", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911876, 
+            37.561416
+          ], 
+          [
+            -77.4905148, 
+            37.5610916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953359", 
+        "length": "69.4319330535014", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953369", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909355, 
+            37.5594373
+          ], 
+          [
+            -77.4924525, 
+            37.5601588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Floyd Avenue", 
+        "to": "49615800", 
+        "length": "155.98247506589843", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182531906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909355, 
+            37.5594373
+          ], 
+          [
+            -77.489712, 
+            37.5605624
+          ], 
+          [
+            -77.4896641, 
+            37.5606064
+          ], 
+          [
+            -77.489604, 
+            37.5606617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "3135953360", 
+        "length": "179.80285357216292", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615798", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909355, 
+            37.5594373
+          ], 
+          [
+            -77.4903562, 
+            37.559167
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Floyd Avenue", 
+        "to": "1928937498", 
+        "length": "59.26899344113798", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615798", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6034039"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909355, 
+            37.5594373
+          ], 
+          [
+            -77.4910286, 
+            37.5593529
+          ], 
+          [
+            -77.491286, 
+            37.55901
+          ], 
+          [
+            -77.4916057, 
+            37.5585839
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49614438", 
+        "length": "111.99458675273544", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615798", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049569, 
+            37.5679966
+          ], 
+          [
+            -77.5062055, 
+            37.5662201
+          ], 
+          [
+            -77.5062529, 
+            37.5661333
+          ], 
+          [
+            -77.5062904, 
+            37.5660474
+          ], 
+          [
+            -77.5063095, 
+            37.5659982
+          ], 
+          [
+            -77.5063304, 
+            37.5659337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarke Road", 
+        "to": "49618914", 
+        "length": "259.94999903743775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953348", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049569, 
+            37.5679966
+          ], 
+          [
+            -77.504316, 
+            37.5676895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953372", 
+        "length": "66.02495799099285", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953348", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049569, 
+            37.5679966
+          ], 
+          [
+            -77.5055367, 
+            37.5682728
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953348", 
+        "length": "59.63714311938227", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953373", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903562, 
+            37.559167
+          ], 
+          [
+            -77.4901883, 
+            37.5590518
+          ], 
+          [
+            -77.4901366, 
+            37.5589545
+          ], 
+          [
+            -77.4901561, 
+            37.5587148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Floyd Avenue", 
+        "to": "49611041", 
+        "length": "58.03855869012313", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1928937498", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531909"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897814, 
+            37.5592694
+          ], 
+          [
+            -77.4899397, 
+            37.5591783
+          ], 
+          [
+            -77.490047, 
+            37.5591528
+          ], 
+          [
+            -77.4901596, 
+            37.5591443
+          ], 
+          [
+            -77.4903562, 
+            37.559167
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "1928937498", 
+        "length": "54.615138952704015", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1928937499", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "182532053"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897814, 
+            37.5592694
+          ], 
+          [
+            -77.4901561, 
+            37.5587148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49611041", 
+        "length": "69.97631207938633", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1928937499", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032539"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5025654, 
+            37.5651518
+          ], 
+          [
+            -77.5032061, 
+            37.5643417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Lock Lane", 
+        "to": "49626084", 
+        "length": "106.34673766158252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622762", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5025654, 
+            37.5651518
+          ], 
+          [
+            -77.5034654, 
+            37.5655881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Calumet Road", 
+        "to": "49626084", 
+        "length": "93.01112131179534", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626085", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5025654, 
+            37.5651518
+          ], 
+          [
+            -77.5016675, 
+            37.5664246
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Lock Lane", 
+        "to": "3135953351", 
+        "length": "162.19864786375837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626084", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498491, 
+            37.5615807
+          ], 
+          [
+            -77.4989837, 
+            37.5608823
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "to": "2700711457", 
+        "length": "89.00207441551682", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616233", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498491, 
+            37.5615807
+          ], 
+          [
+            -77.4983758, 
+            37.5617439
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "to": "2700711457", 
+        "length": "20.800606116935253", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2700711458", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4980618, 
+            37.5621889
+          ], 
+          [
+            -77.4965607, 
+            37.5614817
+          ], 
+          [
+            -77.4965102, 
+            37.5614494
+          ], 
+          [
+            -77.4964792, 
+            37.5613952
+          ], 
+          [
+            -77.4964906, 
+            37.5613293
+          ], 
+          [
+            -77.4965357, 
+            37.5612457
+          ], 
+          [
+            -77.4966476, 
+            37.5610838
+          ], 
+          [
+            -77.4967821, 
+            37.560906
+          ], 
+          [
+            -77.496857, 
+            37.560875
+          ], 
+          [
+            -77.496945, 
+            37.5608711
+          ], 
+          [
+            -77.4970238, 
+            37.5609033
+          ], 
+          [
+            -77.498491, 
+            37.5615807
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['North Ashlawn Drive', 'South Ashlawn Drive']", 
+        "to": "2700711457", 
+        "length": "400.1460328444359", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614795", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037187, 6033732]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4983758, 
+            37.5617439
+          ], 
+          [
+            -77.4980618, 
+            37.5621889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "to": "2700711458", 
+        "length": "56.712219448210874", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614795", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4995552, 
+            37.5622789
+          ], 
+          [
+            -77.4985094, 
+            37.5618042
+          ], 
+          [
+            -77.4983758, 
+            37.5617439
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Ashlawn Drive", 
+        "to": "2700711458", 
+        "length": "119.80827921485835", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623606", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "264393120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4916057, 
+            37.5585839
+          ], 
+          [
+            -77.4903453, 
+            37.5579969
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ellwood Avenue", 
+        "to": "49614438", 
+        "length": "128.89258993420876", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614437", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033580"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4916057, 
+            37.5585839
+          ], 
+          [
+            -77.4930779, 
+            37.5592869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ellwood Avenue", 
+        "to": "49614438", 
+        "length": "151.5381738105991", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033580"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4975774, 
+            37.5602551
+          ], 
+          [
+            -77.4973599, 
+            37.5601585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "2066706777", 
+        "length": "21.98190313842846", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616230", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4975774, 
+            37.5602551
+          ], 
+          [
+            -77.4989837, 
+            37.5608823
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616230", 
+        "length": "142.27095858654988", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616233", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937308, 
+            37.5583935
+          ], 
+          [
+            -77.4938762, 
+            37.5584618
+          ], 
+          [
+            -77.4945656, 
+            37.5587858
+          ], 
+          [
+            -77.494785, 
+            37.5588889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "3140730813", 
+        "length": "108.05610274022237", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616226", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4930779, 
+            37.5592869
+          ], 
+          [
+            -77.4934233, 
+            37.5588143
+          ], 
+          [
+            -77.4934945, 
+            37.5587168
+          ], 
+          [
+            -77.4937308, 
+            37.5583935
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49616226", 
+        "length": "114.84046473733711", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040830"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933512, 
+            37.5608479
+          ], 
+          [
+            -77.4941721, 
+            37.5612019
+          ], 
+          [
+            -77.4944035, 
+            37.5613016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kingcrest Parkway", 
+        "to": "49618601", 
+        "length": "105.61637887168307", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622647", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036564"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4944035, 
+            37.5613016
+          ], 
+          [
+            -77.4946133, 
+            37.561008
+          ], 
+          [
+            -77.4949279, 
+            37.5605675
+          ], 
+          [
+            -77.4954384, 
+            37.5598528
+          ], 
+          [
+            -77.495777, 
+            37.5593787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49616229", 
+        "length": "245.7825264847183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618601", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035109"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948148, 
+            37.5617827
+          ], 
+          [
+            -77.4942634, 
+            37.5614941
+          ], 
+          [
+            -77.4944035, 
+            37.5613016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Kingcrest Parkway', 'Antrim Avenue']", 
+        "to": "49618601", 
+        "length": "82.97635813937066", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618605", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6036562, 6035109]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940589, 
+            37.5627897
+          ], 
+          [
+            -77.4944461, 
+            37.5622739
+          ], 
+          [
+            -77.4948148, 
+            37.5617827
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618605", 
+        "length": "130.33343761269467", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953356", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948148, 
+            37.5617827
+          ], 
+          [
+            -77.4974631, 
+            37.5630374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kingcrest Parkway", 
+        "to": "49620708", 
+        "length": "272.02153769916384", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618605", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036562"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5059848, 
+            37.5641986
+          ], 
+          [
+            -77.5053813, 
+            37.5650765
+          ], 
+          [
+            -77.5053696, 
+            37.5653802
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maxwell Road", 
+        "to": "49624753", 
+        "length": "144.9963903044845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145935282", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040690"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5060459, 
+            37.5657306
+          ], 
+          [
+            -77.5056592, 
+            37.5655484
+          ], 
+          [
+            -77.5055257, 
+            37.5654871
+          ], 
+          [
+            -77.5054626, 
+            37.5654538
+          ], 
+          [
+            -77.5053696, 
+            37.5653802
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elderslie Place", 
+        "to": "49624753", 
+        "length": "71.53319923466586", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037532"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5038103, 
+            37.5674471
+          ], 
+          [
+            -77.5050571, 
+            37.5656795
+          ], 
+          [
+            -77.5053696, 
+            37.5653802
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maxwell Road", 
+        "to": "49624753", 
+        "length": "268.4581645941753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953349", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040690"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5059848, 
+            37.5641986
+          ], 
+          [
+            -77.5061124, 
+            37.5642576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "2145935282", 
+        "length": "13.024048184992264", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616242", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5059848, 
+            37.5641986
+          ], 
+          [
+            -77.503959, 
+            37.5632518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "2145935282", 
+        "length": "207.3417367236495", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3083195189", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503959, 
+            37.5632518
+          ], 
+          [
+            -77.5032061, 
+            37.5643417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Lock Lane", 
+        "to": "3083195189", 
+        "length": "138.20990061212513", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622762", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503959, 
+            37.5632518
+          ], 
+          [
+            -77.503843, 
+            37.5631947
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "3083195189", 
+        "length": "12.038873264748315", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3083195190", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4995552, 
+            37.5622789
+          ], 
+          [
+            -77.500157, 
+            37.56144
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "3140730820", 
+        "length": "107.33906502601452", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623606", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4995552, 
+            37.5622789
+          ], 
+          [
+            -77.4994758, 
+            37.5624048
+          ], 
+          [
+            -77.4993871, 
+            37.5625973
+          ], 
+          [
+            -77.4993217, 
+            37.562775
+          ], 
+          [
+            -77.4992937, 
+            37.5629231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49616375", 
+        "length": "75.695734269334", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623606", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905148, 
+            37.5610916
+          ], 
+          [
+            -77.4909711, 
+            37.5604903
+          ], 
+          [
+            -77.4910145, 
+            37.5604405
+          ], 
+          [
+            -77.4910819, 
+            37.5604068
+          ], 
+          [
+            -77.4911415, 
+            37.5604076
+          ], 
+          [
+            -77.4911975, 
+            37.5604237
+          ], 
+          [
+            -77.4918182, 
+            37.5607254
+          ], 
+          [
+            -77.4918959, 
+            37.5607544
+          ], 
+          [
+            -77.4919308, 
+            37.5607573
+          ], 
+          [
+            -77.491967, 
+            37.5607549
+          ], 
+          [
+            -77.4919928, 
+            37.5607429
+          ], 
+          [
+            -77.4920106, 
+            37.5607283
+          ], 
+          [
+            -77.4920384, 
+            37.5606956
+          ], 
+          [
+            -77.4924525, 
+            37.5601588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Lafayette Street', 'Reveille Street', 'Sterling Street']", 
+        "to": "49615800", 
+        "length": "259.6468378426895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953359", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039728, 6038619, 6040830]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4930779, 
+            37.5592869
+          ], 
+          [
+            -77.4927746, 
+            37.5597097
+          ], 
+          [
+            -77.4924525, 
+            37.5601588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49615800", 
+        "length": "111.55908025312212", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040830"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5072616, 
+            37.5647991
+          ], 
+          [
+            -77.5061124, 
+            37.5642576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616242", 
+        "length": "117.86947616268935", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616244", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5072616, 
+            37.5647991
+          ], 
+          [
+            -77.5069232, 
+            37.5652156
+          ], 
+          [
+            -77.5064864, 
+            37.5656239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarke Road", 
+        "to": "3140763509", 
+        "length": "114.6452957312583", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616244", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5034654, 
+            37.5655881
+          ], 
+          [
+            -77.5026109, 
+            37.5668746
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Lock Lane", 
+        "to": "3135953350", 
+        "length": "161.71252628653113", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626085", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040229"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5034654, 
+            37.5655881
+          ], 
+          [
+            -77.5040183, 
+            37.5658561
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Calumet Road", 
+        "to": "49626086", 
+        "length": "57.13768389208954", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626085", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494785, 
+            37.5588889
+          ], 
+          [
+            -77.495777, 
+            37.5593787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616229", 
+        "length": "103.04510764238078", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140730813", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933512, 
+            37.5608479
+          ], 
+          [
+            -77.4935162, 
+            37.5606225
+          ], 
+          [
+            -77.4937467, 
+            37.5603076
+          ], 
+          [
+            -77.494785, 
+            37.5588889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "3140730813", 
+        "length": "251.9105155065922", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622647", 
+        "ref": "VA 197", 
+        "highway": "secondary", 
+        "osmid": "6039314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979755, 
+            37.5623112
+          ], 
+          [
+            -77.4980618, 
+            37.5621889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "to": "49614795", 
+        "length": "15.58641370543304", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616373", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979755, 
+            37.5623112
+          ], 
+          [
+            -77.4978234, 
+            37.5625267
+          ], 
+          [
+            -77.4974631, 
+            37.5630374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "to": "49620708", 
+        "length": "92.54818406557686", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616373", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979755, 
+            37.5623112
+          ], 
+          [
+            -77.4984683, 
+            37.5625499
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Willetta Drive", 
+        "to": "49616373", 
+        "length": "50.918703875595945", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616374", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4967371, 
+            37.5640663
+          ], 
+          [
+            -77.4952805, 
+            37.5633721
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953370", 
+        "length": "149.84788376955797", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953355", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4967371, 
+            37.5640663
+          ], 
+          [
+            -77.4971081, 
+            37.5635405
+          ], 
+          [
+            -77.4974631, 
+            37.5630374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "to": "49620708", 
+        "length": "131.12518809034322", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953355", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979993, 
+            37.5646709
+          ], 
+          [
+            -77.497919, 
+            37.5646324
+          ], 
+          [
+            -77.4967371, 
+            37.5640663
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953355", 
+        "length": "130.02320135481102", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953354", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.500157, 
+            37.56144
+          ], 
+          [
+            -77.4989837, 
+            37.5608823
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "3140730820", 
+        "length": "120.62154329879577", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616233", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5038103, 
+            37.5674471
+          ], 
+          [
+            -77.5032041, 
+            37.5671578
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953371", 
+        "length": "62.38314079486212", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953349", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5038103, 
+            37.5674471
+          ], 
+          [
+            -77.504316, 
+            37.5676895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953349", 
+        "length": "52.10173392785428", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953372", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5026109, 
+            37.5668746
+          ], 
+          [
+            -77.5032041, 
+            37.5671578
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953350", 
+        "length": "61.0514730500447", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953371", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5026109, 
+            37.5668746
+          ], 
+          [
+            -77.5016675, 
+            37.5664246
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953351", 
+        "length": "97.07168319421288", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953350", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5016675, 
+            37.5664246
+          ], 
+          [
+            -77.5010993, 
+            37.5661529
+          ], 
+          [
+            -77.5005484, 
+            37.5658895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953352", 
+        "length": "115.22512370005367", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953351", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5005484, 
+            37.5658895
+          ], 
+          [
+            -77.500012, 
+            37.5656336
+          ], 
+          [
+            -77.4995802, 
+            37.5654277
+          ], 
+          [
+            -77.499554, 
+            37.5654152
+          ], 
+          [
+            -77.4994884, 
+            37.5653839
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953353", 
+        "length": "109.06936543259165", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953352", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5005484, 
+            37.5658895
+          ], 
+          [
+            -77.5028411, 
+            37.562714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Willway Avenue", 
+        "to": "49616237", 
+        "length": "406.9509328779441", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953352", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4994884, 
+            37.5653839
+          ], 
+          [
+            -77.4994214, 
+            37.5653518
+          ], 
+          [
+            -77.499028, 
+            37.5651635
+          ], 
+          [
+            -77.4984565, 
+            37.5648898
+          ], 
+          [
+            -77.4980647, 
+            37.5647022
+          ], 
+          [
+            -77.4979993, 
+            37.5646709
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953354", 
+        "length": "153.37942982132463", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953353", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940589, 
+            37.5627897
+          ], 
+          [
+            -77.4952805, 
+            37.5633721
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953356", 
+        "length": "125.68440129469344", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953370", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940589, 
+            37.5627897
+          ], 
+          [
+            -77.4934843, 
+            37.5625145
+          ], 
+          [
+            -77.4925946, 
+            37.5620883
+          ], 
+          [
+            -77.4925723, 
+            37.5620776
+          ], 
+          [
+            -77.4924775, 
+            37.5620322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953357", 
+        "length": "162.90822915784625", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953356", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933512, 
+            37.5608479
+          ], 
+          [
+            -77.4928587, 
+            37.5615155
+          ], 
+          [
+            -77.4925389, 
+            37.561949
+          ], 
+          [
+            -77.4925193, 
+            37.5619755
+          ], 
+          [
+            -77.4924775, 
+            37.5620322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "3135953357", 
+        "length": "152.59644225382988", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622647", 
+        "ref": "VA 197", 
+        "highway": "secondary", 
+        "osmid": "6039314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905148, 
+            37.5610916
+          ], 
+          [
+            -77.4898745, 
+            37.5607894
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953368", 
+        "length": "65.70369465949086", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953359", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4898745, 
+            37.5607894
+          ], 
+          [
+            -77.4897667, 
+            37.5607385
+          ], 
+          [
+            -77.489706, 
+            37.5607099
+          ], 
+          [
+            -77.489604, 
+            37.5606617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "to": "3135953360", 
+        "length": "27.75901349063482", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953368", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4901561, 
+            37.5587148
+          ], 
+          [
+            -77.4902134, 
+            37.5584973
+          ], 
+          [
+            -77.4903453, 
+            37.5579969
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cameron Street", 
+        "to": "49614437", 
+        "length": "81.57336379006767", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611041", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6038544"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4973599, 
+            37.5601585
+          ], 
+          [
+            -77.4971727, 
+            37.5600663
+          ], 
+          [
+            -77.4959445, 
+            37.5594612
+          ], 
+          [
+            -77.495777, 
+            37.5593787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616229", 
+        "length": "164.32126785872052", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2066706777", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5060459, 
+            37.5657306
+          ], 
+          [
+            -77.5061673, 
+            37.5657944
+          ], 
+          [
+            -77.5062267, 
+            37.5658311
+          ], 
+          [
+            -77.5062836, 
+            37.5658756
+          ], 
+          [
+            -77.506309, 
+            37.5659026
+          ], 
+          [
+            -77.5063304, 
+            37.5659337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elderslie Place", 
+        "to": "49618914", 
+        "length": "34.21532246702819", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037532"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5064864, 
+            37.5656239
+          ], 
+          [
+            -77.5064472, 
+            37.5656799
+          ], 
+          [
+            -77.5064162, 
+            37.5657347
+          ], 
+          [
+            -77.5063776, 
+            37.5658213
+          ], 
+          [
+            -77.5063304, 
+            37.5659337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarke Road", 
+        "to": "49618914", 
+        "length": "37.1950496789208", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763509", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4974631, 
+            37.5630374
+          ], 
+          [
+            -77.4979723, 
+            37.5632782
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kingcrest Parkway", 
+        "to": "49620708", 
+        "length": "52.276896892392806", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622644", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036562"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032061, 
+            37.5643417
+          ], 
+          [
+            -77.504193, 
+            37.5647721
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Grandway Road", 
+        "to": "49622763", 
+        "length": "99.31021283482879", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622762", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036627"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5028411, 
+            37.562714
+          ], 
+          [
+            -77.5031215, 
+            37.5628428
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616237", 
+        "length": "28.5730266545685", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616238", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5036884, 
+            37.5631196
+          ], 
+          [
+            -77.5033772, 
+            37.5629676
+          ], 
+          [
+            -77.5031215, 
+            37.5628428
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616238", 
+        "length": "58.70321009143221", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616239", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5036884, 
+            37.5631196
+          ], 
+          [
+            -77.503843, 
+            37.5631947
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cary Street Road", 
+        "to": "49616239", 
+        "length": "15.9864950331042", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3083195190", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "307768299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979723, 
+            37.5632782
+          ], 
+          [
+            -77.4984683, 
+            37.5625499
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Willetta Drive", 
+        "to": "49622644", 
+        "length": "92.05642156876064", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616374", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040435"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5060459, 
+            37.5657306
+          ], 
+          [
+            -77.506101, 
+            37.5657313
+          ], 
+          [
+            -77.5061539, 
+            37.5657268
+          ], 
+          [
+            -77.5062109, 
+            37.5657167
+          ], 
+          [
+            -77.5062981, 
+            37.5656939
+          ], 
+          [
+            -77.5063781, 
+            37.5656654
+          ], 
+          [
+            -77.5064864, 
+            37.5656239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "3140763509", 
+        "length": "41.131965797066826", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308800533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4984683, 
+            37.5625499
+          ], 
+          [
+            -77.4992937, 
+            37.5629231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Willetta Drive", 
+        "to": "49616375", 
+        "length": "83.77964654420062", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616374", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034238"
+      }
+    }
+  ]
+}

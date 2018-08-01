@@ -1,0 +1,3025 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.443547, 
+            37.5439075
+          ], 
+          [
+            -77.4439703, 
+            37.5434602
+          ], 
+          [
+            -77.444363, 
+            37.5430454
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Foushee Street", 
+        "access": "yes", 
+        "to": "49613442", 
+        "length": "119.88850936600059", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619609", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.444363, 
+            37.5430454
+          ], 
+          [
+            -77.4434886, 
+            37.5425225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "access": "yes", 
+        "to": "49613442", 
+        "length": "96.58793752166045", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615916", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "424824098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.444363, 
+            37.5430454
+          ], 
+          [
+            -77.444743, 
+            37.5432726
+          ], 
+          [
+            -77.4452846, 
+            37.5435966
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "49619686", 
+        "length": "101.8062268385649", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613442", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "6035548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4451885, 
+            37.5421824
+          ], 
+          [
+            -77.4450837, 
+            37.5422838
+          ], 
+          [
+            -77.4449562, 
+            37.5424185
+          ], 
+          [
+            -77.444773, 
+            37.5426121
+          ], 
+          [
+            -77.4447584, 
+            37.5426275
+          ], 
+          [
+            -77.444363, 
+            37.5430454
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Foushee Street", 
+        "access": "yes", 
+        "to": "49613442", 
+        "length": "120.48526791778096", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033320"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.446013, 
+            37.5413019
+          ], 
+          [
+            -77.4465265, 
+            37.5415941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Canal Street", 
+        "access": "", 
+        "to": "452656328", 
+        "length": "55.74207560742092", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613444", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.446013, 
+            37.5413019
+          ], 
+          [
+            -77.445137, 
+            37.5407806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "access": "yes", 
+        "to": "49613444", 
+        "length": "96.59514595663842", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624075", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4451885, 
+            37.5421824
+          ], 
+          [
+            -77.4455878, 
+            37.5417511
+          ], 
+          [
+            -77.4457596, 
+            37.5415697
+          ], 
+          [
+            -77.446013, 
+            37.5413019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Foushee Street", 
+        "access": "yes", 
+        "to": "49613444", 
+        "length": "121.97968264429093", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033320"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4426773, 
+            37.5433795
+          ], 
+          [
+            -77.443547, 
+            37.5439075
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Franklin Street", 
+        "access": "", 
+        "to": "49618777", 
+        "length": "96.60043115029396", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619609", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035512"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418618, 
+            37.5442412
+          ], 
+          [
+            -77.4422638, 
+            37.5438164
+          ], 
+          [
+            -77.4426773, 
+            37.5433795
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 1st Street", 
+        "access": "yes", 
+        "to": "49618777", 
+        "length": "119.82626362337848", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618778", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4426773, 
+            37.5433795
+          ], 
+          [
+            -77.4430943, 
+            37.542939
+          ], 
+          [
+            -77.4434886, 
+            37.5425225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 1st Street", 
+        "access": "yes", 
+        "to": "49615916", 
+        "length": "119.18631483327096", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618777", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4426773, 
+            37.5433795
+          ], 
+          [
+            -77.4419522, 
+            37.5429472
+          ], 
+          [
+            -77.4417654, 
+            37.5428359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Franklin Street", 
+        "access": "", 
+        "to": "49613386", 
+        "length": "100.6145427565935", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618777", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035512"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4487186, 
+            37.5456501
+          ], 
+          [
+            -77.4486778, 
+            37.5456933
+          ], 
+          [
+            -77.4483033, 
+            37.5460893
+          ], 
+          [
+            -77.4479109, 
+            37.5465041
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Henry Street", 
+        "access": "yes", 
+        "to": "49626396", 
+        "length": "118.72708007200995", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3329638721", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4487186, 
+            37.5456501
+          ], 
+          [
+            -77.4488855, 
+            37.5457363
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "1659282301", 
+        "length": "17.56584942923471", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3329638721", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "326331537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.447853, 
+            37.5451325
+          ], 
+          [
+            -77.4479465, 
+            37.5451884
+          ], 
+          [
+            -77.4483053, 
+            37.5454029
+          ], 
+          [
+            -77.4487186, 
+            37.5456501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "3329638721", 
+        "length": "95.61122906580249", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614797", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "6035548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469394, 
+            37.5418483
+          ], 
+          [
+            -77.4465113, 
+            37.5423006
+          ], 
+          [
+            -77.4463822, 
+            37.542437
+          ], 
+          [
+            -77.4460993, 
+            37.5427359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Adams Street", 
+        "access": "yes", 
+        "to": "49616267", 
+        "length": "123.43346222969595", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609836", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460993, 
+            37.5427359
+          ], 
+          [
+            -77.4469569, 
+            37.5432587
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49616267", 
+        "length": "95.40226177763647", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616269", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "327367189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4452846, 
+            37.5435966
+          ], 
+          [
+            -77.4456965, 
+            37.5431615
+          ], 
+          [
+            -77.4458168, 
+            37.5430344
+          ], 
+          [
+            -77.4460993, 
+            37.5427359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Adams Street", 
+        "access": "yes", 
+        "to": "49616267", 
+        "length": "119.69532716594549", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619686", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460993, 
+            37.5427359
+          ], 
+          [
+            -77.4455582, 
+            37.5424055
+          ], 
+          [
+            -77.4451885, 
+            37.5421824
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49611327", 
+        "length": "101.20401354839395", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616267", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "327367189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4461482, 
+            37.544113
+          ], 
+          [
+            -77.4463602, 
+            37.5438892
+          ], 
+          [
+            -77.4465547, 
+            37.5436837
+          ], 
+          [
+            -77.4466819, 
+            37.5435492
+          ], 
+          [
+            -77.4469569, 
+            37.5432587
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Jefferson Street", 
+        "access": "yes", 
+        "to": "49616269", 
+        "length": "118.8080687071749", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619688", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041196"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469569, 
+            37.5432587
+          ], 
+          [
+            -77.4477828, 
+            37.5423856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Jefferson Street", 
+        "access": "yes", 
+        "to": "49616269", 
+        "length": "121.39152793461743", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622692", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041196"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469569, 
+            37.5432587
+          ], 
+          [
+            -77.4478094, 
+            37.5437533
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49616269", 
+        "length": "93.1597621745195", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616270", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "327367189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4478094, 
+            37.5437533
+          ], 
+          [
+            -77.4474324, 
+            37.5441557
+          ], 
+          [
+            -77.4474008, 
+            37.5441894
+          ], 
+          [
+            -77.4469968, 
+            37.5446205
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Madison Street", 
+        "access": "yes", 
+        "to": "49619689", 
+        "length": "120.16321545815255", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616270", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040465"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4489264, 
+            37.5444227
+          ], 
+          [
+            -77.4486785, 
+            37.5442786
+          ], 
+          [
+            -77.4478094, 
+            37.5437533
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49616270", 
+        "length": "123.48368994378822", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282286", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "327367189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4453356, 
+            37.5449717
+          ], 
+          [
+            -77.445047, 
+            37.5448
+          ], 
+          [
+            -77.444949, 
+            37.5447417
+          ], 
+          [
+            -77.4447863, 
+            37.5446449
+          ], 
+          [
+            -77.4444707, 
+            37.5444571
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49622929", 
+        "length": "95.3618526260849", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626392", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4444707, 
+            37.5444571
+          ], 
+          [
+            -77.443547, 
+            37.5439075
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49619609", 
+        "length": "101.84647312862263", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622929", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436615, 
+            37.545312
+          ], 
+          [
+            -77.4440635, 
+            37.5448872
+          ], 
+          [
+            -77.4444707, 
+            37.5444571
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North Adams Street", 
+        "access": "yes", 
+        "to": "49622929", 
+        "length": "118.88722100984259", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1655052147", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54172721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486821, 
+            37.5469927
+          ], 
+          [
+            -77.4479109, 
+            37.5465041
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49626396", 
+        "length": "87.05556788421812", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282327", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488855, 
+            37.5457363
+          ], 
+          [
+            -77.4488795, 
+            37.5460417
+          ], 
+          [
+            -77.448883, 
+            37.546379
+          ], 
+          [
+            -77.44888, 
+            37.546416
+          ], 
+          [
+            -77.4488657, 
+            37.5465902
+          ], 
+          [
+            -77.4488173, 
+            37.5467602
+          ], 
+          [
+            -77.4487516, 
+            37.5468891
+          ], 
+          [
+            -77.4486821, 
+            37.5469927
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "North Belvidere Street", 
+        "access": "", 
+        "to": "1659282327", 
+        "length": "142.9303056207517", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282301", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "135207690"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486821, 
+            37.5469927
+          ], 
+          [
+            -77.4483292, 
+            37.5474397
+          ], 
+          [
+            -77.4479873, 
+            37.5478859
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "North Belvidere Street", 
+        "access": "", 
+        "to": "1659282334", 
+        "length": "116.7247745235014", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282327", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "268207604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4453356, 
+            37.5449717
+          ], 
+          [
+            -77.4457404, 
+            37.5445441
+          ], 
+          [
+            -77.4461482, 
+            37.544113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Jefferson Street", 
+        "access": "yes", 
+        "to": "49619688", 
+        "length": "119.40544876157603", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626392", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040499"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4453356, 
+            37.5449717
+          ], 
+          [
+            -77.4461982, 
+            37.5454851
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49626392", 
+        "length": "95.11908775342334", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626394", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4445264, 
+            37.5458267
+          ], 
+          [
+            -77.4449197, 
+            37.5454111
+          ], 
+          [
+            -77.4449221, 
+            37.5454086
+          ], 
+          [
+            -77.4453356, 
+            37.5449717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Jefferson Street", 
+        "access": "yes", 
+        "to": "49626392", 
+        "length": "118.89582901394621", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631165", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040499"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4427378, 
+            37.5447624
+          ], 
+          [
+            -77.4431399, 
+            37.5443376
+          ], 
+          [
+            -77.443547, 
+            37.5439075
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Foushee Street", 
+        "access": "yes", 
+        "to": "49619609", 
+        "length": "118.88753605925045", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620916", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469968, 
+            37.5446205
+          ], 
+          [
+            -77.4465957, 
+            37.5450548
+          ], 
+          [
+            -77.4461982, 
+            37.5454851
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Madison Street", 
+        "access": "yes", 
+        "to": "49626394", 
+        "length": "119.19708991109303", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619689", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4461982, 
+            37.5454851
+          ], 
+          [
+            -77.4457888, 
+            37.5459283
+          ], 
+          [
+            -77.4454016, 
+            37.5463474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Madison Street", 
+        "access": "yes", 
+        "to": "49631556", 
+        "length": "118.88600587368947", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626394", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4461982, 
+            37.5454851
+          ], 
+          [
+            -77.4470519, 
+            37.5459973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49626394", 
+        "length": "94.41154872513047", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614798", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479109, 
+            37.5465041
+          ], 
+          [
+            -77.4474953, 
+            37.5469435
+          ], 
+          [
+            -77.4471021, 
+            37.5473592
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Henry Street", 
+        "access": "yes", 
+        "to": "49627977", 
+        "length": "118.88267022719592", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626396", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479109, 
+            37.5465041
+          ], 
+          [
+            -77.4472199, 
+            37.5460929
+          ], 
+          [
+            -77.4470519, 
+            37.5459973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49614798", 
+        "length": "94.42783208327232", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626396", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479873, 
+            37.5478859
+          ], 
+          [
+            -77.4476484, 
+            37.5483348
+          ], 
+          [
+            -77.4475716, 
+            37.548426
+          ], 
+          [
+            -77.4472946, 
+            37.5487613
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "North Belvidere Street", 
+        "access": "", 
+        "to": "1659282344", 
+        "length": "114.96904247280642", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282334", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "268207606"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4471021, 
+            37.5473592
+          ], 
+          [
+            -77.4474691, 
+            37.5475776
+          ], 
+          [
+            -77.4479873, 
+            37.5478859
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "1659282334", 
+        "length": "97.59910706939979", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627977", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4442314, 
+            37.5402418
+          ], 
+          [
+            -77.4438503, 
+            37.5406445
+          ], 
+          [
+            -77.4438063, 
+            37.540691
+          ], 
+          [
+            -77.4434148, 
+            37.5411047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 2nd Street", 
+        "access": "yes", 
+        "to": "49611329", 
+        "length": "119.9930642958901", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630884", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152634460"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4442314, 
+            37.5402418
+          ], 
+          [
+            -77.4445238, 
+            37.5404157
+          ], 
+          [
+            -77.4449031, 
+            37.5406415
+          ], 
+          [
+            -77.445137, 
+            37.5407806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "access": "yes", 
+        "to": "49624075", 
+        "length": "99.85189083690274", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630884", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4433276, 
+            37.5397039
+          ], 
+          [
+            -77.443788, 
+            37.5399779
+          ], 
+          [
+            -77.4438099, 
+            37.539991
+          ], 
+          [
+            -77.4442314, 
+            37.5402418
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "access": "yes", 
+        "to": "49630884", 
+        "length": "99.66529901416459", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614166", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4472946, 
+            37.5487613
+          ], 
+          [
+            -77.4471099, 
+            37.5486517
+          ], 
+          [
+            -77.4467446, 
+            37.5484347
+          ], 
+          [
+            -77.4465837, 
+            37.5483391
+          ], 
+          [
+            -77.4463221, 
+            37.5481838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596238", 
+        "length": "107.14739055626283", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282344", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4434886, 
+            37.5425225
+          ], 
+          [
+            -77.4438271, 
+            37.5421647
+          ], 
+          [
+            -77.44389, 
+            37.5420982
+          ], 
+          [
+            -77.4439455, 
+            37.5420396
+          ], 
+          [
+            -77.4439571, 
+            37.5420273
+          ], 
+          [
+            -77.4440422, 
+            37.5419375
+          ], 
+          [
+            -77.4443203, 
+            37.5416435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 1st Street", 
+        "access": "yes", 
+        "to": "49611328", 
+        "length": "122.2238656614939", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615916", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037194"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425754, 
+            37.5419765
+          ], 
+          [
+            -77.443125, 
+            37.5423051
+          ], 
+          [
+            -77.4431596, 
+            37.5423258
+          ], 
+          [
+            -77.4434886, 
+            37.5425225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "access": "yes", 
+        "to": "49615916", 
+        "length": "100.86743875399014", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613384", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "424824098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4434148, 
+            37.5411047
+          ], 
+          [
+            -77.4430089, 
+            37.5415335
+          ], 
+          [
+            -77.4429071, 
+            37.5416411
+          ], 
+          [
+            -77.4428772, 
+            37.5416727
+          ], 
+          [
+            -77.4425754, 
+            37.5419765
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "South 2nd Street", 
+        "access": "yes", 
+        "to": "49613384", 
+        "length": "122.00303252465594", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611329", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040298"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425754, 
+            37.5419765
+          ], 
+          [
+            -77.4423411, 
+            37.5422251
+          ], 
+          [
+            -77.44216, 
+            37.5424173
+          ], 
+          [
+            -77.4417654, 
+            37.5428359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 2nd Street", 
+        "access": "yes", 
+        "to": "49613386", 
+        "length": "119.3315600036781", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613384", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033308"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4416792, 
+            37.5414404
+          ], 
+          [
+            -77.4421987, 
+            37.5417511
+          ], 
+          [
+            -77.4425754, 
+            37.5419765
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "access": "yes", 
+        "to": "49613384", 
+        "length": "99.00786248961944", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614165", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "432532503"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4477828, 
+            37.5423856
+          ], 
+          [
+            -77.4482004, 
+            37.5426425
+          ], 
+          [
+            -77.4485441, 
+            37.5428525
+          ], 
+          [
+            -77.448942, 
+            37.5431086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Canal Street", 
+        "access": "", 
+        "to": "445851865", 
+        "length": "130.0776600951072", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622692", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[38230980, 6036588, 38230981]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469394, 
+            37.5418483
+          ], 
+          [
+            -77.4472874, 
+            37.5420694
+          ], 
+          [
+            -77.4477828, 
+            37.5423856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Canal Street", 
+        "access": "", 
+        "to": "49622692", 
+        "length": "95.41506910735424", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609836", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418618, 
+            37.5442412
+          ], 
+          [
+            -77.4422654, 
+            37.5444814
+          ], 
+          [
+            -77.4427378, 
+            37.5447624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Grace Street", 
+        "access": "", 
+        "to": "49620916", 
+        "length": "96.58560237529588", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618778", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424965466"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4427378, 
+            37.5447624
+          ], 
+          [
+            -77.4431379, 
+            37.5450005
+          ], 
+          [
+            -77.4436615, 
+            37.545312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "1655052147", 
+        "length": "101.8457262036135", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620916", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4419545, 
+            37.5455901
+          ], 
+          [
+            -77.4423254, 
+            37.5451982
+          ], 
+          [
+            -77.4427378, 
+            37.5447624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Foushee Street", 
+        "access": "yes", 
+        "to": "49620916", 
+        "length": "115.09632002324288", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1991596239", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446323, 
+            37.5471802
+          ], 
+          [
+            -77.4454863, 
+            37.5476873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596213", 
+        "length": "94.09014828184125", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596248", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4454016, 
+            37.5463474
+          ], 
+          [
+            -77.4451003, 
+            37.5466736
+          ], 
+          [
+            -77.4450047, 
+            37.546777
+          ], 
+          [
+            -77.4446323, 
+            37.5471802
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Madison Street", 
+        "access": "yes", 
+        "to": "1991596213", 
+        "length": "114.81587928582202", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631556", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446323, 
+            37.5471802
+          ], 
+          [
+            -77.4437443, 
+            37.546653
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596253", 
+        "length": "97.83062765676722", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596213", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436615, 
+            37.545312
+          ], 
+          [
+            -77.4441306, 
+            37.5455912
+          ], 
+          [
+            -77.4445264, 
+            37.5458267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49631165", 
+        "length": "95.36782947162965", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1655052147", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4445264, 
+            37.5458267
+          ], 
+          [
+            -77.4454016, 
+            37.5463474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49631556", 
+        "length": "96.49447944656512", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631165", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4437443, 
+            37.546653
+          ], 
+          [
+            -77.4441202, 
+            37.5462558
+          ], 
+          [
+            -77.4445264, 
+            37.5458267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Jefferson Street", 
+        "access": "yes", 
+        "to": "49631165", 
+        "length": "114.9076628639059", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596253", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040499"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4451885, 
+            37.5421824
+          ], 
+          [
+            -77.4443203, 
+            37.5416435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Cary Street", 
+        "access": "yes", 
+        "to": "49611328", 
+        "length": "97.2394411073986", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611327", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229539"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443203, 
+            37.5416435
+          ], 
+          [
+            -77.4434148, 
+            37.5411047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Cary Street", 
+        "access": "yes", 
+        "to": "49611329", 
+        "length": "99.84409463875392", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611328", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229539"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443203, 
+            37.5416435
+          ], 
+          [
+            -77.4447118, 
+            37.5412299
+          ], 
+          [
+            -77.444747, 
+            37.5411927
+          ], 
+          [
+            -77.4448682, 
+            37.5410647
+          ], 
+          [
+            -77.4449861, 
+            37.5409401
+          ], 
+          [
+            -77.445137, 
+            37.5407806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 1st Street", 
+        "access": "yes", 
+        "to": "49624075", 
+        "length": "119.99804637706639", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611328", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037194"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4434148, 
+            37.5411047
+          ], 
+          [
+            -77.4429867, 
+            37.5408499
+          ], 
+          [
+            -77.4429486, 
+            37.5408273
+          ], 
+          [
+            -77.4428516, 
+            37.5407696
+          ], 
+          [
+            -77.4426885, 
+            37.5406725
+          ], 
+          [
+            -77.4425103, 
+            37.5405665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Cary Street", 
+        "access": "yes", 
+        "to": "49611330", 
+        "length": "99.73396567285207", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611329", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229539"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4416792, 
+            37.5414404
+          ], 
+          [
+            -77.4420738, 
+            37.5410272
+          ], 
+          [
+            -77.4421041, 
+            37.5409953
+          ], 
+          [
+            -77.4425103, 
+            37.5405665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 3rd Street", 
+        "access": "yes", 
+        "to": "49611330", 
+        "length": "121.73957729480526", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614165", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033510"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425103, 
+            37.5405665
+          ], 
+          [
+            -77.4429037, 
+            37.5401513
+          ], 
+          [
+            -77.4430251, 
+            37.5400231
+          ], 
+          [
+            -77.4433276, 
+            37.5397039
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 3rd Street", 
+        "access": "yes", 
+        "to": "49614166", 
+        "length": "120.00376137748276", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611330", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033510"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4454016, 
+            37.5463474
+          ], 
+          [
+            -77.4457828, 
+            37.5465742
+          ], 
+          [
+            -77.4462487, 
+            37.5468643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49614799", 
+        "length": "94.2709384575993", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631556", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4465265, 
+            37.5415941
+          ], 
+          [
+            -77.4469394, 
+            37.5418483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Canal Street", 
+        "access": "", 
+        "to": "49609836", 
+        "length": "46.102373572482605", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "452656328", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4471021, 
+            37.5473592
+          ], 
+          [
+            -77.4467051, 
+            37.547779
+          ], 
+          [
+            -77.4464687, 
+            37.5480289
+          ], 
+          [
+            -77.4463221, 
+            37.5481838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Henry Street", 
+        "access": "yes", 
+        "to": "1991596238", 
+        "length": "114.64442750044536", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4471021, 
+            37.5473592
+          ], 
+          [
+            -77.4462487, 
+            37.5468643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49627977", 
+        "length": "93.24058500679016", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614799", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4470519, 
+            37.5459973
+          ], 
+          [
+            -77.4474525, 
+            37.5455649
+          ], 
+          [
+            -77.447853, 
+            37.5451325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Monroe Street", 
+        "access": "yes", 
+        "to": "49614797", 
+        "length": "119.3451282361948", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469968, 
+            37.5446205
+          ], 
+          [
+            -77.4476536, 
+            37.5450133
+          ], 
+          [
+            -77.4477684, 
+            37.5450819
+          ], 
+          [
+            -77.447853, 
+            37.5451325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "49614797", 
+        "length": "94.57475250067334", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619689", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "6035548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4462487, 
+            37.5468643
+          ], 
+          [
+            -77.4466454, 
+            37.5464361
+          ], 
+          [
+            -77.4470519, 
+            37.5459973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Monroe Street", 
+        "access": "yes", 
+        "to": "49614798", 
+        "length": "119.6514871838522", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614799", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4454863, 
+            37.5476873
+          ], 
+          [
+            -77.4458618, 
+            37.547282
+          ], 
+          [
+            -77.4462487, 
+            37.5468643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North Monroe Street", 
+        "access": "yes", 
+        "to": "49614799", 
+        "length": "113.5767827270581", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596248", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4463221, 
+            37.5481838
+          ], 
+          [
+            -77.4454863, 
+            37.5476873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596248", 
+        "length": "92.09835819962358", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596238", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.448942, 
+            37.5431086
+          ], 
+          [
+            -77.4489264, 
+            37.5444227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "access": "", 
+        "to": "1659282286", 
+        "length": "146.1688966865474", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445851865", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "37961357"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4410805, 
+            37.5450666
+          ], 
+          [
+            -77.4414673, 
+            37.5446579
+          ], 
+          [
+            -77.4418618, 
+            37.5442412
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 1st Street", 
+        "access": "yes", 
+        "to": "49618778", 
+        "length": "114.78613128287721", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596258", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4419545, 
+            37.5455901
+          ], 
+          [
+            -77.4428788, 
+            37.546139
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596239", 
+        "length": "101.84063475027862", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596252", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4419545, 
+            37.5455901
+          ], 
+          [
+            -77.4410805, 
+            37.5450666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "access": "", 
+        "to": "1991596258", 
+        "length": "96.59788783331004", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596239", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "270511646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436615, 
+            37.545312
+          ], 
+          [
+            -77.4432523, 
+            37.5457444
+          ], 
+          [
+            -77.4428788, 
+            37.546139
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North Adams Street", 
+        "access": "yes", 
+        "to": "1991596252", 
+        "length": "115.00198140194462", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1655052147", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54172721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4428788, 
+            37.546139
+          ], 
+          [
+            -77.4437443, 
+            37.546653
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596252", 
+        "length": "95.36277944873885", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596253", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4452846, 
+            37.5435966
+          ], 
+          [
+            -77.4461482, 
+            37.544113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "49619688", 
+        "length": "95.39129614145997", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619686", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "6035548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4461482, 
+            37.544113
+          ], 
+          [
+            -77.4469968, 
+            37.5446205
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "49619689", 
+        "length": "93.73866996059667", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619688", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "6035548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4489264, 
+            37.5444227
+          ], 
+          [
+            -77.4489174, 
+            37.5446429
+          ], 
+          [
+            -77.4489035, 
+            37.5452338
+          ], 
+          [
+            -77.4488855, 
+            37.5457363
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "access": "", 
+        "to": "1659282301", 
+        "length": "146.15363398599735", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1659282286", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "37961357"
+      }
+    }
+  ]
+}

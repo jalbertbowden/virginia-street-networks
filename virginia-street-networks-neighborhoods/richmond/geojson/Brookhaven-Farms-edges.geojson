@@ -1,0 +1,573 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5126732, 
+            37.4793936
+          ], 
+          [
+            -77.5128537, 
+            37.4793406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street Road", 
+        "to": "49617707", 
+        "length": "16.987658203174153", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "534496284", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51334745"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.512187, 
+            37.4788234
+          ], 
+          [
+            -77.512459, 
+            37.4790655
+          ], 
+          [
+            -77.5125132, 
+            37.4791365
+          ], 
+          [
+            -77.5125732, 
+            37.4792237
+          ], 
+          [
+            -77.5126732, 
+            37.4793936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookhaven Road", 
+        "to": "49617707", 
+        "length": "77.21744379010227", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617708", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034742"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5126732, 
+            37.4793936
+          ], 
+          [
+            -77.5119036, 
+            37.4796261
+          ], 
+          [
+            -77.5115, 
+            37.4797425
+          ], 
+          [
+            -77.5105859, 
+            37.480004
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street Road", 
+        "to": "49611943", 
+        "length": "196.3550010259308", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617707", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51334745"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5103682, 
+            37.479292
+          ], 
+          [
+            -77.5104276, 
+            37.4796951
+          ], 
+          [
+            -77.5105859, 
+            37.480004
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elkhardt Lane", 
+        "to": "49611943", 
+        "length": "82.23106810074876", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624817", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5105859, 
+            37.480004
+          ], 
+          [
+            -77.5096483, 
+            37.4802722
+          ], 
+          [
+            -77.5084478, 
+            37.4806507
+          ], 
+          [
+            -77.5078965, 
+            37.4808244
+          ], 
+          [
+            -77.5078674, 
+            37.4808333
+          ], 
+          [
+            -77.5068914, 
+            37.4811295
+          ], 
+          [
+            -77.5064152, 
+            37.4812851
+          ], 
+          [
+            -77.5061756, 
+            37.4813754
+          ], 
+          [
+            -77.5058011, 
+            37.4815165
+          ], 
+          [
+            -77.5051251, 
+            37.4817952
+          ], 
+          [
+            -77.504805, 
+            37.4819474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "['2', '3']", 
+        "name": "Hull Street Road", 
+        "to": "2393503870", 
+        "length": "554.9596758443005", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611943", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "[51334745, 230917593]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5108966, 
+            37.4756722
+          ], 
+          [
+            -77.5113021, 
+            37.476169
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bywood Lane", 
+        "to": "49628938", 
+        "length": "65.83720107831505", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610843", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039625"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5108966, 
+            37.4756722
+          ], 
+          [
+            -77.5102697, 
+            37.4766235
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Shadybrook Lane", 
+        "to": "49628938", 
+        "length": "119.4059267108737", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624820", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039427"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5139646, 
+            37.4769196
+          ], 
+          [
+            -77.5130664, 
+            37.4760528
+          ], 
+          [
+            -77.5118664, 
+            37.4748581
+          ], 
+          [
+            -77.5116156, 
+            37.4748269
+          ], 
+          [
+            -77.5114153, 
+            37.4748694
+          ], 
+          [
+            -77.5108966, 
+            37.4756722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Mandalay Drive', 'Shadybrook Lane']", 
+        "to": "49628938", 
+        "length": "435.8156879815442", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609195", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039427, 6031852]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.512187, 
+            37.4788234
+          ], 
+          [
+            -77.5110129, 
+            37.4782881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookhaven Road", 
+        "to": "49617708", 
+        "length": "119.51995956524009", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617709", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034742"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.512187, 
+            37.4788234
+          ], 
+          [
+            -77.5128653, 
+            37.4776227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elk Road", 
+        "to": "49617708", 
+        "length": "146.35595861472876", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618110", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5102697, 
+            37.4766235
+          ], 
+          [
+            -77.5111829, 
+            37.477534
+          ], 
+          [
+            -77.5113253, 
+            37.4777627
+          ], 
+          [
+            -77.5111779, 
+            37.4780592
+          ], 
+          [
+            -77.5110129, 
+            37.4782881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kirby Road", 
+        "to": "49617709", 
+        "length": "222.5917772622533", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624820", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037568"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5102697, 
+            37.4766235
+          ], 
+          [
+            -77.509492, 
+            37.4775332
+          ], 
+          [
+            -77.5110129, 
+            37.4782881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Shadybrook Lane', 'Brookhaven Road']", 
+        "to": "49617709", 
+        "length": "280.61331494452725", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49624820", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039427, 6034742]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5110129, 
+            37.4782881
+          ], 
+          [
+            -77.5103682, 
+            37.479292
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kirby Road", 
+        "to": "49617709", 
+        "length": "125.32442126982002", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624817", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037568"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5136595, 
+            37.4784042
+          ], 
+          [
+            -77.5128653, 
+            37.4776227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bywood Lane", 
+        "to": "49629261", 
+        "length": "111.66907591140159", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618110", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039625"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5103682, 
+            37.479292
+          ], 
+          [
+            -77.5085154, 
+            37.4786117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elkhardt Lane", 
+        "to": "49624817", 
+        "length": "180.19703125613776", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632215", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5113021, 
+            37.476169
+          ], 
+          [
+            -77.511533, 
+            37.476049
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49610844", 
+        "length": "24.36294783573295", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610843", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032466"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5113021, 
+            37.476169
+          ], 
+          [
+            -77.5128653, 
+            37.4776227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bywood Lane", 
+        "to": "49618110", 
+        "length": "212.56198367086043", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610843", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039625"
+      }
+    }
+  ]
+}

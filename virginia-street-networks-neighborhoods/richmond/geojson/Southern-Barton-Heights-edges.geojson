@@ -1,0 +1,2478 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4334061, 
+            37.5583448
+          ], 
+          [
+            -77.433395, 
+            37.5587191
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49617361", 
+        "name": "Saint James Street", 
+        "to": "49628161", 
+        "length": "41.64348993825922", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039064"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4334061, 
+            37.5583448
+          ], 
+          [
+            -77.4344446, 
+            37.5584401
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612962", 
+        "name": "King Street", 
+        "to": "49628161", 
+        "length": "92.17879687684531", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4334282, 
+            37.5576868
+          ], 
+          [
+            -77.4334173, 
+            37.5580127
+          ], 
+          [
+            -77.4334061, 
+            37.5583448
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49624575", 
+        "name": "Saint James Street", 
+        "to": "49628161", 
+        "length": "73.21281325864668", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039064"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4376732, 
+            37.5620799
+          ], 
+          [
+            -77.4375578, 
+            37.5634818
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49623161", 
+        "name": "Fendall Avenue", 
+        "to": "49628547", 
+        "length": "156.2596858009484", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4368081, 
+            37.5609907
+          ], 
+          [
+            -77.4377154, 
+            37.5610942
+          ], 
+          [
+            -77.4376732, 
+            37.5620799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617219", 
+        "name": "['West Home Street', 'Fendall Avenue']", 
+        "to": "49628547", 
+        "length": "190.51912576481857", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6034538, 6039286]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363146, 
+            37.5619752
+          ], 
+          [
+            -77.4369885, 
+            37.5620373
+          ], 
+          [
+            -77.4376732, 
+            37.5620799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625159", 
+        "name": "West Roberts Street", 
+        "to": "49628547", 
+        "length": "120.37132656720952", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303677, 
+            37.5574213
+          ], 
+          [
+            -77.4309135, 
+            37.5574636
+          ], 
+          [
+            -77.4313939, 
+            37.5575009
+          ], 
+          [
+            -77.4313951, 
+            37.556831
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49619982", 
+        "name": "['East Fells Street', 'Lamb Avenue']", 
+        "to": "49614472", 
+        "length": "165.42658712883764", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6033594, 6035651]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314618, 
+            37.5585407
+          ], 
+          [
+            -77.4314292, 
+            37.5592299
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614475", 
+        "name": "Lamb Avenue", 
+        "to": "49614473", 
+        "length": "76.71100705224167", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153191442"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314618, 
+            37.5585407
+          ], 
+          [
+            -77.4315124, 
+            37.5577676
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659075229", 
+        "name": "Lamb Avenue", 
+        "to": "49614473", 
+        "length": "86.10468426772424", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153191442"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314618, 
+            37.5585407
+          ], 
+          [
+            -77.4309095, 
+            37.558509
+          ], 
+          [
+            -77.4302895, 
+            37.5584734
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614473", 
+        "name": "Wellford Street", 
+        "to": "49618854", 
+        "length": "103.63535236630352", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6035212"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302679, 
+            37.5591656
+          ], 
+          [
+            -77.4308666, 
+            37.5591888
+          ], 
+          [
+            -77.4314292, 
+            37.5592299
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627299", 
+        "name": "Minor Street", 
+        "to": "49614475", 
+        "length": "102.6670469690018", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6038648"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314292, 
+            37.5592299
+          ], 
+          [
+            -77.4314183, 
+            37.5593943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614477", 
+        "name": "Lamb Avenue", 
+        "to": "49614475", 
+        "length": "18.31083533541955", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153191442"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314183, 
+            37.5593943
+          ], 
+          [
+            -77.4333799, 
+            37.559461
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617362", 
+        "name": "Tybee Terrace", 
+        "to": "49614477", 
+        "length": "173.11614176546325", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314183, 
+            37.5593943
+          ], 
+          [
+            -77.431412, 
+            37.5596137
+          ], 
+          [
+            -77.4314022, 
+            37.5599545
+          ], 
+          [
+            -77.4313599, 
+            37.5600666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614477", 
+        "name": "Lamb Avenue", 
+        "to": "49614479", 
+        "length": "75.33944193058394", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153191442"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.430451, 
+            37.5564941
+          ], 
+          [
+            -77.4303053, 
+            37.5564303
+          ], 
+          [
+            -77.4300427, 
+            37.5563979
+          ], 
+          [
+            -77.4299055, 
+            37.5563852
+          ], 
+          [
+            -77.4294125, 
+            37.5563397
+          ], 
+          [
+            -77.429378, 
+            37.5569355
+          ], 
+          [
+            -77.4294018, 
+            37.5570644
+          ], 
+          [
+            -77.4295356, 
+            37.5572518
+          ], 
+          [
+            -77.4296674, 
+            37.5573722
+          ], 
+          [
+            -77.429857, 
+            37.5573855
+          ], 
+          [
+            -77.4303677, 
+            37.5574213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618796", 
+        "name": "['East Fells Street', 'Fritz Street', 'Sewell Street']", 
+        "to": "49619982", 
+        "length": "278.553354470009", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6035283, 6039316, 6035651]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.430451, 
+            37.5564941
+          ], 
+          [
+            -77.4304107, 
+            37.5567392
+          ], 
+          [
+            -77.4303677, 
+            37.5574213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618796", 
+        "name": "Monteiro Street", 
+        "to": "49619982", 
+        "length": "103.45427885366502", 
+        "key": "1", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303677, 
+            37.5574213
+          ], 
+          [
+            -77.429857, 
+            37.5573855
+          ], 
+          [
+            -77.4296674, 
+            37.5573722
+          ], 
+          [
+            -77.4295356, 
+            37.5572518
+          ], 
+          [
+            -77.4294018, 
+            37.5570644
+          ], 
+          [
+            -77.429378, 
+            37.5569355
+          ], 
+          [
+            -77.4294125, 
+            37.5563397
+          ], 
+          [
+            -77.4299055, 
+            37.5563852
+          ], 
+          [
+            -77.4300427, 
+            37.5563979
+          ], 
+          [
+            -77.4303053, 
+            37.5564303
+          ], 
+          [
+            -77.430451, 
+            37.5564941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49619982", 
+        "name": "['East Fells Street', 'Fritz Street', 'Sewell Street']", 
+        "to": "49618796", 
+        "length": "278.55335447001795", 
+        "key": "2", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6035283, 6035651, 6039316]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303677, 
+            37.5574213
+          ], 
+          [
+            -77.4302895, 
+            37.5584734
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618854", 
+        "name": "Monteiro Street", 
+        "to": "49619982", 
+        "length": "117.22410573992009", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312853, 
+            37.5605916
+          ], 
+          [
+            -77.4313217, 
+            37.5601431
+          ], 
+          [
+            -77.4313599, 
+            37.5600666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614481", 
+        "name": "Lamb Avenue", 
+        "to": "49614479", 
+        "length": "59.13928614291344", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "273393404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303267, 
+            37.5598865
+          ], 
+          [
+            -77.4304848, 
+            37.5600308
+          ], 
+          [
+            -77.4313599, 
+            37.5600666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616823", 
+        "name": "Poe Street", 
+        "to": "49614479", 
+        "length": "98.51925371435273", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "273393402"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4323442, 
+            37.5601254
+          ], 
+          [
+            -77.4318172, 
+            37.5601029
+          ], 
+          [
+            -77.4313599, 
+            37.5600666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616821", 
+        "name": "Poe Street", 
+        "to": "49614479", 
+        "length": "87.05535817554168", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6034403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4323236, 
+            37.5606489
+          ], 
+          [
+            -77.4317982, 
+            37.5606199
+          ], 
+          [
+            -77.4312853, 
+            37.5605916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618240", 
+        "name": "East Home Street", 
+        "to": "49614481", 
+        "length": "91.76852210563608", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312853, 
+            37.5605916
+          ], 
+          [
+            -77.43128, 
+            37.5611249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614483", 
+        "name": "Lamb Avenue", 
+        "to": "49614481", 
+        "length": "59.318802621868194", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "273393404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4308028, 
+            37.5605713
+          ], 
+          [
+            -77.4309672, 
+            37.5605824
+          ], 
+          [
+            -77.4312853, 
+            37.5605916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3629316958", 
+        "name": "East Home Street", 
+        "to": "49614481", 
+        "length": "42.613206019791356", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286982, 
+            37.5610437
+          ], 
+          [
+            -77.4287749, 
+            37.5611822
+          ], 
+          [
+            -77.4290255, 
+            37.5616348
+          ], 
+          [
+            -77.4291745, 
+            37.562061
+          ], 
+          [
+            -77.4292366, 
+            37.5622736
+          ], 
+          [
+            -77.4292669, 
+            37.5624895
+          ], 
+          [
+            -77.4292726, 
+            37.5627195
+          ], 
+          [
+            -77.4292454, 
+            37.562919
+          ], 
+          [
+            -77.4291614, 
+            37.5630098
+          ], 
+          [
+            -77.429063, 
+            37.5630976
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612543", 
+        "name": "Richmond Henrico Turnpike", 
+        "to": "49612547", 
+        "length": "242.9182019893542", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033069"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312769, 
+            37.5615889
+          ], 
+          [
+            -77.4317685, 
+            37.5616159
+          ], 
+          [
+            -77.4322858, 
+            37.5616444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614484", 
+        "name": "East Roberts Street", 
+        "to": "49618242", 
+        "length": "89.16749371209433", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6036718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312769, 
+            37.5615889
+          ], 
+          [
+            -77.43128, 
+            37.5611249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614484", 
+        "name": "Lamb Avenue", 
+        "to": "49614483", 
+        "length": "51.60970622753722", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "273393404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312769, 
+            37.5615889
+          ], 
+          [
+            -77.4312298, 
+            37.5625902
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614486", 
+        "name": "Lamb Avenue", 
+        "to": "49614484", 
+        "length": "111.44824468357785", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "273393404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312769, 
+            37.5615889
+          ], 
+          [
+            -77.4308383, 
+            37.5615662
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49623006", 
+        "name": "East Roberts Street", 
+        "to": "49614484", 
+        "length": "38.75321558808457", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153193147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312298, 
+            37.5625902
+          ], 
+          [
+            -77.4307284, 
+            37.562561
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615137", 
+        "name": "East Battery Street", 
+        "to": "49614486", 
+        "length": "44.326438031917974", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4322588, 
+            37.5626408
+          ], 
+          [
+            -77.43174, 
+            37.5626086
+          ], 
+          [
+            -77.4312298, 
+            37.5625902
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615135", 
+        "name": "East Battery Street", 
+        "to": "49614486", 
+        "length": "90.91106785812934", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332463, 
+            37.5626874
+          ], 
+          [
+            -77.4332236, 
+            37.5631781
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617368", 
+        "name": "North Avenue", 
+        "to": "49615134", 
+        "length": "54.61540669980702", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332463, 
+            37.5626874
+          ], 
+          [
+            -77.4332903, 
+            37.561694
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617365", 
+        "name": "North Avenue", 
+        "to": "49615134", 
+        "length": "110.56024425443694", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4322588, 
+            37.5626408
+          ], 
+          [
+            -77.4327326, 
+            37.5626617
+          ], 
+          [
+            -77.4332463, 
+            37.5626874
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615135", 
+        "name": "East Battery Street", 
+        "to": "49615134", 
+        "length": "87.2202658769574", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4322588, 
+            37.5626408
+          ], 
+          [
+            -77.4322858, 
+            37.5616444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618242", 
+        "name": "Barton Avenue", 
+        "to": "49615135", 
+        "length": "110.85140489489652", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6034976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4344446, 
+            37.5584401
+          ], 
+          [
+            -77.4344336, 
+            37.5587998
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612963", 
+        "name": "Rose Avenue", 
+        "to": "49612962", 
+        "length": "40.01983866874385", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4334282, 
+            37.5576868
+          ], 
+          [
+            -77.4344691, 
+            37.557784
+          ], 
+          [
+            -77.434457, 
+            37.5581092
+          ], 
+          [
+            -77.4344446, 
+            37.5584401
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624575", 
+        "name": "['Fells Street', 'Rose Avenue']", 
+        "to": "49612962", 
+        "length": "165.4218123960192", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6033218, 6037444]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302679, 
+            37.5591656
+          ], 
+          [
+            -77.4302895, 
+            37.5584734
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618854", 
+        "name": "Monteiro Street", 
+        "to": "49627299", 
+        "length": "77.01436632251313", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303267, 
+            37.5598865
+          ], 
+          [
+            -77.4302491, 
+            37.5597256
+          ], 
+          [
+            -77.430254, 
+            37.5595729
+          ], 
+          [
+            -77.4302679, 
+            37.5591656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616823", 
+        "name": "Monteiro Street", 
+        "to": "49627299", 
+        "length": "81.46840750005157", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354052, 
+            37.5598831
+          ], 
+          [
+            -77.4348834, 
+            37.5598329
+          ], 
+          [
+            -77.4343912, 
+            37.5597855
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611859", 
+        "name": "Yancey Street", 
+        "to": "49612965", 
+        "length": "90.06199872918108", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4333627, 
+            37.5596967
+          ], 
+          [
+            -77.4338668, 
+            37.5597402
+          ], 
+          [
+            -77.4343912, 
+            37.5597855
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616195", 
+        "name": "Yancey Street", 
+        "to": "49612965", 
+        "length": "91.22023665983686", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4344336, 
+            37.5587998
+          ], 
+          [
+            -77.4344114, 
+            37.5593161
+          ], 
+          [
+            -77.4343912, 
+            37.5597855
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612963", 
+        "name": "Rose Avenue", 
+        "to": "49612965", 
+        "length": "109.69944062222514", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4343912, 
+            37.5597855
+          ], 
+          [
+            -77.4343331, 
+            37.5607905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612967", 
+        "name": "Rose Avenue", 
+        "to": "49612965", 
+        "length": "111.89970519662131", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4333246, 
+            37.5607331
+          ], 
+          [
+            -77.4338481, 
+            37.5607629
+          ], 
+          [
+            -77.4343331, 
+            37.5607905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617217", 
+        "name": "West Home Street", 
+        "to": "49612967", 
+        "length": "89.14821330962245", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034538"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4353636, 
+            37.5608723
+          ], 
+          [
+            -77.4348546, 
+            37.5608319
+          ], 
+          [
+            -77.4343331, 
+            37.5607905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611860", 
+        "name": "West Home Street", 
+        "to": "49612967", 
+        "length": "91.31336184481485", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034538"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4343331, 
+            37.5607905
+          ], 
+          [
+            -77.434296, 
+            37.561789
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612969", 
+        "name": "Rose Avenue", 
+        "to": "49612967", 
+        "length": "111.10757769594238", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4342462, 
+            37.5632447
+          ], 
+          [
+            -77.4342754, 
+            37.562392
+          ], 
+          [
+            -77.434296, 
+            37.561789
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612971", 
+        "name": "Rose Avenue", 
+        "to": "49612969", 
+        "length": "161.97158357849688", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332903, 
+            37.561694
+          ], 
+          [
+            -77.4337968, 
+            37.5617418
+          ], 
+          [
+            -77.434296, 
+            37.561789
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617365", 
+        "name": "West Roberts Street", 
+        "to": "49612969", 
+        "length": "89.29862589714331", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4353256, 
+            37.561878
+          ], 
+          [
+            -77.4348142, 
+            37.5618338
+          ], 
+          [
+            -77.434296, 
+            37.561789
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611861", 
+        "name": "West Roberts Street", 
+        "to": "49612969", 
+        "length": "91.3165294158567", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4368081, 
+            37.5609907
+          ], 
+          [
+            -77.4367934, 
+            37.561646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625155", 
+        "name": "Joshua Street", 
+        "to": "49617219", 
+        "length": "72.89808786788443", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037725"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4368081, 
+            37.5609907
+          ], 
+          [
+            -77.436377, 
+            37.5609624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617219", 
+        "name": "West Home Street", 
+        "to": "49617218", 
+        "length": "38.1400315226038", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034538"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332236, 
+            37.5631781
+          ], 
+          [
+            -77.4337377, 
+            37.563211
+          ], 
+          [
+            -77.4342462, 
+            37.5632447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617368", 
+        "name": "Wickham Street", 
+        "to": "49612971", 
+        "length": "90.46343406839873", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036775"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4352682, 
+            37.5633251
+          ], 
+          [
+            -77.4347619, 
+            37.5632853
+          ], 
+          [
+            -77.4342462, 
+            37.5632447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611862", 
+        "name": "Wickham Street", 
+        "to": "49612971", 
+        "length": "90.54921564864205", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036775"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4322858, 
+            37.5616444
+          ], 
+          [
+            -77.4323236, 
+            37.5606489
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618240", 
+        "name": "Barton Avenue", 
+        "to": "49618242", 
+        "length": "110.77588387951249", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6034976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4322858, 
+            37.5616444
+          ], 
+          [
+            -77.43276, 
+            37.5616678
+          ], 
+          [
+            -77.4332903, 
+            37.561694
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618242", 
+        "name": "East Roberts Street", 
+        "to": "49617365", 
+        "length": "88.73720847296863", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6036718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4333404, 
+            37.5601695
+          ], 
+          [
+            -77.4333246, 
+            37.5607331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617217", 
+        "name": "North Avenue", 
+        "to": "49616819", 
+        "length": "62.70259482671188", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4333404, 
+            37.5601695
+          ], 
+          [
+            -77.4333627, 
+            37.5596967
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616195", 
+        "name": "St James St", 
+        "to": "49616819", 
+        "length": "52.62451808533958", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4323442, 
+            37.5601254
+          ], 
+          [
+            -77.4328303, 
+            37.5601469
+          ], 
+          [
+            -77.4333404, 
+            37.5601695
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616821", 
+        "name": "Poe Street", 
+        "to": "49616819", 
+        "length": "87.97239684601257", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6034403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4323442, 
+            37.5601254
+          ], 
+          [
+            -77.4323236, 
+            37.5606489
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616821", 
+        "name": "Barton Avenue", 
+        "to": "49618240", 
+        "length": "58.255266366668394", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6034976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303267, 
+            37.5598865
+          ], 
+          [
+            -77.4302646, 
+            37.5610607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615953", 
+        "name": "Monteiro Street", 
+        "to": "49616823", 
+        "length": "130.71659364915848", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44888580"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4289492, 
+            37.5551598
+          ], 
+          [
+            -77.4287288, 
+            37.5555809
+          ], 
+          [
+            -77.4285816, 
+            37.5560237
+          ], 
+          [
+            -77.4285604, 
+            37.5564429
+          ], 
+          [
+            -77.4286775, 
+            37.5567856
+          ], 
+          [
+            -77.4290133, 
+            37.5572822
+          ], 
+          [
+            -77.4291188, 
+            37.5577397
+          ], 
+          [
+            -77.4291069, 
+            37.5578659
+          ], 
+          [
+            -77.4290885, 
+            37.5580605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612532", 
+        "name": "Richmond Henrico Turnpike", 
+        "to": "49616755", 
+        "length": "337.977237247914", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033069"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286982, 
+            37.5610437
+          ], 
+          [
+            -77.4286153, 
+            37.5608011
+          ], 
+          [
+            -77.4285935, 
+            37.5605596
+          ], 
+          [
+            -77.428612, 
+            37.5600726
+          ], 
+          [
+            -77.4287143, 
+            37.5596064
+          ], 
+          [
+            -77.4290337, 
+            37.5583378
+          ], 
+          [
+            -77.4290885, 
+            37.5580605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612543", 
+        "name": "Richmond Henrico Turnpike", 
+        "to": "49616755", 
+        "length": "336.81364453102157", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033069"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4333246, 
+            37.5607331
+          ], 
+          [
+            -77.4332903, 
+            37.561694
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617365", 
+        "name": "North Avenue", 
+        "to": "49617217", 
+        "length": "106.92008676661497", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354052, 
+            37.5598831
+          ], 
+          [
+            -77.4359148, 
+            37.559933
+          ], 
+          [
+            -77.4364224, 
+            37.5599827
+          ], 
+          [
+            -77.436377, 
+            37.5609624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611859", 
+        "name": "['Greenwood Avenue', 'Yancey Street']", 
+        "to": "49617218", 
+        "length": "199.41083814130724", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6037728, 6034191]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4353636, 
+            37.5608723
+          ], 
+          [
+            -77.4358795, 
+            37.5609182
+          ], 
+          [
+            -77.436377, 
+            37.5609624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611860", 
+        "name": "West Home Street", 
+        "to": "49617218", 
+        "length": "89.91139587621387", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034538"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.436377, 
+            37.5609624
+          ], 
+          [
+            -77.4363146, 
+            37.5619752
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625159", 
+        "name": "Greenwood Avenue", 
+        "to": "49617218", 
+        "length": "112.78422216016904", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4333627, 
+            37.5596967
+          ], 
+          [
+            -77.4333799, 
+            37.559461
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617362", 
+        "name": "St James St", 
+        "to": "49616195", 
+        "length": "26.259856337097638", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4353256, 
+            37.561878
+          ], 
+          [
+            -77.4358469, 
+            37.5619292
+          ], 
+          [
+            -77.4363146, 
+            37.5619752
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611861", 
+        "name": "West Roberts Street", 
+        "to": "49625159", 
+        "length": "87.86628258180531", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363146, 
+            37.5619752
+          ], 
+          [
+            -77.436292, 
+            37.5633898
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49623159", 
+        "name": "Greenwood Avenue", 
+        "to": "49625159", 
+        "length": "157.35327747431728", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303029, 
+            37.5616781
+          ], 
+          [
+            -77.4302715, 
+            37.5615566
+          ], 
+          [
+            -77.4302646, 
+            37.5610607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3639717235", 
+        "name": "Monteiro Street", 
+        "to": "49615953", 
+        "length": "68.95511079645237", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44888580"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302646, 
+            37.5610607
+          ], 
+          [
+            -77.43128, 
+            37.5611249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615953", 
+        "name": "Vale Street", 
+        "to": "49614483", 
+        "length": "89.81160530561584", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034086"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286982, 
+            37.5610437
+          ], 
+          [
+            -77.4287579, 
+            37.5610031
+          ], 
+          [
+            -77.4287919, 
+            37.56098
+          ], 
+          [
+            -77.4289235, 
+            37.5609799
+          ], 
+          [
+            -77.4302646, 
+            37.5610607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612543", 
+        "name": "Vale Street", 
+        "to": "49615953", 
+        "length": "141.0718794019438", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034086"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.433395, 
+            37.5587191
+          ], 
+          [
+            -77.4333846, 
+            37.5592311
+          ], 
+          [
+            -77.4333799, 
+            37.559461
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49617361", 
+        "name": "Saint James Street", 
+        "to": "49617362", 
+        "length": "82.52949886801048", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039064"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354052, 
+            37.5598831
+          ], 
+          [
+            -77.4353636, 
+            37.5608723
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611860", 
+        "name": "Miller Avenue", 
+        "to": "49611859", 
+        "length": "110.08613260713248", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4353636, 
+            37.5608723
+          ], 
+          [
+            -77.4353256, 
+            37.561878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611861", 
+        "name": "Miller Avenue", 
+        "to": "49611860", 
+        "length": "111.91040955015856", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4353256, 
+            37.561878
+          ], 
+          [
+            -77.4353014, 
+            37.5624885
+          ], 
+          [
+            -77.4352682, 
+            37.5633251
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611861", 
+        "name": "Miller Avenue", 
+        "to": "49611862", 
+        "length": "161.03505662995985", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.436292, 
+            37.5633898
+          ], 
+          [
+            -77.4357827, 
+            37.5633564
+          ], 
+          [
+            -77.4352682, 
+            37.5633251
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49623159", 
+        "name": "Wickham Street", 
+        "to": "49611862", 
+        "length": "90.55197192333742", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036775"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.433395, 
+            37.5587191
+          ], 
+          [
+            -77.4339105, 
+            37.5587592
+          ], 
+          [
+            -77.4344336, 
+            37.5587998
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49617361", 
+        "name": "School Street", 
+        "to": "49612963", 
+        "length": "92.01452962538553", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038685"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.436292, 
+            37.5633898
+          ], 
+          [
+            -77.4369333, 
+            37.5634354
+          ], 
+          [
+            -77.4375578, 
+            37.5634818
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49623159", 
+        "name": "Wickham Street", 
+        "to": "49623161", 
+        "length": "112.06977952114286", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036775"
+      }
+    }
+  ]
+}

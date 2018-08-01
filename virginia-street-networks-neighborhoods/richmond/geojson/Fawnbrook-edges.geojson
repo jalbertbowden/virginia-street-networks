@@ -1,0 +1,735 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082814, 
+            37.4740152
+          ], 
+          [
+            -77.5082278, 
+            37.4737257
+          ], 
+          [
+            -77.5081312, 
+            37.4735639
+          ], 
+          [
+            -77.5080132, 
+            37.4734447
+          ], 
+          [
+            -77.5078308, 
+            37.4733255
+          ], 
+          [
+            -77.5075888, 
+            37.4732652
+          ], 
+          [
+            -77.5073678, 
+            37.4732422
+          ], 
+          [
+            -77.5070648, 
+            37.4732652
+          ], 
+          [
+            -77.5068759, 
+            37.473317
+          ], 
+          [
+            -77.5045907, 
+            37.4742025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628065", 
+        "name": "['Geneva Drive', 'Saint Moritz Drive']", 
+        "to": "49615747", 
+        "length": "401.23557190190076", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6039032, 46845991]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5045907, 
+            37.4742025
+          ], 
+          [
+            -77.5042605, 
+            37.4738917
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619379", 
+        "name": "Saint Moritz Court", 
+        "to": "49615747", 
+        "length": "45.21728867063356", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035417"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5044083, 
+            37.4749688
+          ], 
+          [
+            -77.5043547, 
+            37.474756
+          ], 
+          [
+            -77.5043868, 
+            37.4745431
+          ], 
+          [
+            -77.5044619, 
+            37.4743643
+          ], 
+          [
+            -77.5045907, 
+            37.4742025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612793", 
+        "name": "Saint Moritz Drive", 
+        "to": "49615747", 
+        "length": "90.23621859332319", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503271, 
+            37.4749688
+          ], 
+          [
+            -77.5044083, 
+            37.4749688
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612793", 
+        "name": "Fawnbrook Boulevard", 
+        "to": "49612791", 
+        "length": "100.39094243232557", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033154"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503271, 
+            37.4749688
+          ], 
+          [
+            -77.5032836, 
+            37.4767252
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618723", 
+        "name": "Hey Road", 
+        "to": "49612791", 
+        "length": "195.3609607784633", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5068437, 
+            37.4748411
+          ], 
+          [
+            -77.5066506, 
+            37.474458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616468", 
+        "name": "Susten Court", 
+        "to": "49616467", 
+        "length": "45.89356504813859", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034276"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5054383, 
+            37.47565
+          ], 
+          [
+            -77.5054597, 
+            37.475335
+          ], 
+          [
+            -77.505567, 
+            37.4750966
+          ], 
+          [
+            -77.5056958, 
+            37.4748922
+          ], 
+          [
+            -77.5059211, 
+            37.4747134
+          ], 
+          [
+            -77.5062429, 
+            37.4745601
+          ], 
+          [
+            -77.5066506, 
+            37.474458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49629048", 
+        "name": "Susten Lane", 
+        "to": "49616468", 
+        "length": "187.65646916539868", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039502"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5081956, 
+            37.4744154
+          ], 
+          [
+            -77.5073909, 
+            37.4743643
+          ], 
+          [
+            -77.5066506, 
+            37.474458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628064", 
+        "name": "Susten Lane", 
+        "to": "49616468", 
+        "length": "137.43305647125257", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039500"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5065832, 
+            37.4772671
+          ], 
+          [
+            -77.5054674, 
+            37.477199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628058", 
+        "name": "Geneva Drive", 
+        "to": "49628057", 
+        "length": "98.78095972752513", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5067897, 
+            37.4765817
+          ], 
+          [
+            -77.506692, 
+            37.4767812
+          ], 
+          [
+            -77.5066151, 
+            37.4770085
+          ], 
+          [
+            -77.5065832, 
+            37.4772671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145765988", 
+        "name": "", 
+        "to": "49628057", 
+        "length": "78.88426802115528", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204580131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.508099, 
+            37.47565
+          ], 
+          [
+            -77.5081307, 
+            37.4762769
+          ], 
+          [
+            -77.5080818, 
+            37.4765263
+          ], 
+          [
+            -77.507963, 
+            37.4767646
+          ], 
+          [
+            -77.5077046, 
+            37.4770916
+          ], 
+          [
+            -77.5076069, 
+            37.477208
+          ], 
+          [
+            -77.5073415, 
+            37.4772745
+          ], 
+          [
+            -77.5065832, 
+            37.4772671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628062", 
+        "name": "Geneva Drive", 
+        "to": "49628057", 
+        "length": "276.35443780958246", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5054674, 
+            37.477199
+          ], 
+          [
+            -77.5054996, 
+            37.4762624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49629043", 
+        "name": "Susten Lane", 
+        "to": "49628058", 
+        "length": "104.21327734117588", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039498"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5054674, 
+            37.477199
+          ], 
+          [
+            -77.5053708, 
+            37.4783399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620081", 
+        "name": "Susten Lane", 
+        "to": "49628058", 
+        "length": "127.18417984831726", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039498"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5033307, 
+            37.4786763
+          ], 
+          [
+            -77.5032894, 
+            37.4782462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618719", 
+        "name": "Hey Road", 
+        "to": "49618716", 
+        "length": "47.97710798992018", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5081956, 
+            37.4744154
+          ], 
+          [
+            -77.5080346, 
+            37.4751136
+          ], 
+          [
+            -77.508099, 
+            37.47565
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628064", 
+        "name": "Geneva Drive", 
+        "to": "49628062", 
+        "length": "138.87983026663986", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039032"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5054383, 
+            37.47565
+          ], 
+          [
+            -77.5063502, 
+            37.4757181
+          ], 
+          [
+            -77.508099, 
+            37.47565
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49629048", 
+        "name": "Zurich Drive", 
+        "to": "49628062", 
+        "length": "235.40250218090887", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040837"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032894, 
+            37.4782462
+          ], 
+          [
+            -77.5053708, 
+            37.4783399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620081", 
+        "name": "Nestle Avenue", 
+        "to": "49618719", 
+        "length": "184.01506355790892", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035702"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5081956, 
+            37.4744154
+          ], 
+          [
+            -77.5082814, 
+            37.4740152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628065", 
+        "name": "Geneva Drive", 
+        "to": "49628064", 
+        "length": "45.152479651686136", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039032"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082814, 
+            37.4740152
+          ], 
+          [
+            -77.5086355, 
+            37.4739897
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49632360", 
+        "name": "Lanz Road", 
+        "to": "49628065", 
+        "length": "31.385686348887493", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5038581, 
+            37.4719199
+          ], 
+          [
+            -77.5036542, 
+            37.4714856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49621046", 
+        "name": "Templeton Road", 
+        "to": "49626924", 
+        "length": "51.54999811629866", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038484"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5063364, 
+            37.4781185
+          ], 
+          [
+            -77.506272, 
+            37.4783569
+          ], 
+          [
+            -77.506154, 
+            37.4784676
+          ], 
+          [
+            -77.5059716, 
+            37.4785187
+          ], 
+          [
+            -77.5057785, 
+            37.4785016
+          ], 
+          [
+            -77.5055961, 
+            37.478391
+          ], 
+          [
+            -77.5053708, 
+            37.4783399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620092", 
+        "name": "Nestle Avenue", 
+        "to": "49620081", 
+        "length": "118.41450348798953", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035702"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5036542, 
+            37.4714856
+          ], 
+          [
+            -77.5069694, 
+            37.4701317
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49621047", 
+        "name": "Pocosham Drive", 
+        "to": "49621046", 
+        "length": "329.12468549484385", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036035"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5044083, 
+            37.4749688
+          ], 
+          [
+            -77.5044298, 
+            37.4756415
+          ], 
+          [
+            -77.5054383, 
+            37.47565
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612793", 
+        "name": "['Zurich Drive', 'Saint Moritz Drive']", 
+        "to": "49629048", 
+        "length": "163.87178042950944", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6034026, 6040837]"
+      }
+    }
+  ]
+}

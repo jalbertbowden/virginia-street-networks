@@ -1,0 +1,1461 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483889, 
+            37.5182999
+          ], 
+          [
+            -77.4843667, 
+            37.5165031
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 45th Street", 
+        "to": "49622656", 
+        "length": "204.24644275507856", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612710", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036571"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483889, 
+            37.5182999
+          ], 
+          [
+            -77.4851397, 
+            37.5185388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49622656", 
+        "length": "113.4912063835727", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629854", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039883"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483889, 
+            37.5182999
+          ], 
+          [
+            -77.4828061, 
+            37.5181311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49622656", 
+        "length": "97.36106746979837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614599", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039883"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785318, 
+            37.5183848
+          ], 
+          [
+            -77.4791579, 
+            37.5175207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 42nd Street", 
+        "to": "49620419", 
+        "length": "110.85187454864732", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618971", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785318, 
+            37.5183848
+          ], 
+          [
+            -77.4774221, 
+            37.5178659
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Forest Hill Avenue", 
+        "to": "49620419", 
+        "length": "113.6445648303147", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618651", 
+        "ref": "SR 683", 
+        "highway": "secondary", 
+        "osmid": "323733103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4814221, 
+            37.5145143
+          ], 
+          [
+            -77.4804286, 
+            37.5158257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 42nd Street", 
+        "to": "49627397", 
+        "length": "170.17149259568885", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797897, 
+            37.5166722
+          ], 
+          [
+            -77.4804286, 
+            37.5158257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 42nd Street", 
+        "to": "49627399", 
+        "length": "109.73534755114338", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797897, 
+            37.5166722
+          ], 
+          [
+            -77.4791579, 
+            37.5175207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 42nd Street", 
+        "to": "49627399", 
+        "length": "109.60608864007577", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618971", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797897, 
+            37.5166722
+          ], 
+          [
+            -77.4809053, 
+            37.5171909
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49627399", 
+        "length": "114.08335771137705", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629861", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152674334"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4786914, 
+            37.5161591
+          ], 
+          [
+            -77.4792515, 
+            37.5164207
+          ], 
+          [
+            -77.4797897, 
+            37.5166722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49627399", 
+        "length": "112.45250112987264", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618646", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152674334"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4813691, 
+            37.519635
+          ], 
+          [
+            -77.4828061, 
+            37.5181311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Taylor Avenue", 
+        "to": "49614602", 
+        "length": "209.88394195557146", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614599", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815339, 
+            37.5163424
+          ], 
+          [
+            -77.4821692, 
+            37.515524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 43rd Street", 
+        "to": "49624087", 
+        "length": "106.8990010924421", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612706", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815339, 
+            37.5163424
+          ], 
+          [
+            -77.4809053, 
+            37.5171909
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 43rd Street", 
+        "to": "49624087", 
+        "length": "109.46291924462248", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629861", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815339, 
+            37.5163424
+          ], 
+          [
+            -77.4804286, 
+            37.5158257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rhodes Avenue", 
+        "to": "49624087", 
+        "length": "113.18820703632232", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037201"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879452, 
+            37.5180945
+          ], 
+          [
+            -77.4880628, 
+            37.5175747
+          ], 
+          [
+            -77.4881152, 
+            37.5174529
+          ], 
+          [
+            -77.488184, 
+            37.517338
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 48th Street", 
+        "to": "1844361294", 
+        "length": "87.20125316735036", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844361298", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034686"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.488184, 
+            37.517338
+          ], 
+          [
+            -77.4882042, 
+            37.5171945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "1844361294", 
+        "length": "16.060145179491172", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392698", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "173669897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.488184, 
+            37.517338
+          ], 
+          [
+            -77.4881724, 
+            37.5176007
+          ], 
+          [
+            -77.4881834, 
+            37.5177651
+          ], 
+          [
+            -77.4882386, 
+            37.5179606
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "1844392702", 
+        "length": "69.83174196264598", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844361294", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "173669897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868936, 
+            37.5169654
+          ], 
+          [
+            -77.487193, 
+            37.5160767
+          ], 
+          [
+            -77.4874963, 
+            37.5150024
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 47th Street", 
+        "to": "49622607", 
+        "length": "224.76481827002004", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612712", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4856668, 
+            37.5167429
+          ], 
+          [
+            -77.4858382, 
+            37.5162116
+          ], 
+          [
+            -77.485807, 
+            37.515847
+          ], 
+          [
+            -77.485593, 
+            37.5152481
+          ], 
+          [
+            -77.4855163, 
+            37.5148266
+          ], 
+          [
+            -77.4858717, 
+            37.5148822
+          ], 
+          [
+            -77.4865235, 
+            37.5149821
+          ], 
+          [
+            -77.4869473, 
+            37.514893
+          ], 
+          [
+            -77.4870924, 
+            37.5149219
+          ], 
+          [
+            -77.4874963, 
+            37.5150024
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['West 46th Street', 'Bassett Avenue']", 
+        "to": "49622607", 
+        "length": "397.3973983518129", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6036552, 6040170]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4882386, 
+            37.5179606
+          ], 
+          [
+            -77.4880918, 
+            37.5180059
+          ], 
+          [
+            -77.4879912, 
+            37.5180378
+          ], 
+          [
+            -77.4879452, 
+            37.5180945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 48th Street", 
+        "to": "1844361298", 
+        "length": "30.953706101821453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1844392702", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "173666846"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879452, 
+            37.5180945
+          ], 
+          [
+            -77.4876699, 
+            37.5189724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 48th Street", 
+        "to": "1844361298", 
+        "length": "100.62059268573228", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617583", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "173669892"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4786914, 
+            37.5161591
+          ], 
+          [
+            -77.4780742, 
+            37.517012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 41st Street", 
+        "to": "49618647", 
+        "length": "109.38108557150974", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618646", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035123"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4791579, 
+            37.5175207
+          ], 
+          [
+            -77.4786276, 
+            37.5172718
+          ], 
+          [
+            -77.4780742, 
+            37.517012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Boscobel Avenue", 
+        "to": "49618647", 
+        "length": "111.09359091703035", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618971", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035268"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4780742, 
+            37.517012
+          ], 
+          [
+            -77.4774221, 
+            37.5178659
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 41st Street", 
+        "to": "49618647", 
+        "length": "111.04072920378628", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618651", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035123"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4827267, 
+            37.5145551
+          ], 
+          [
+            -77.4821692, 
+            37.515524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 43rd Street", 
+        "to": "49631576", 
+        "length": "118.4605473780238", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612706", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4791579, 
+            37.5175207
+          ], 
+          [
+            -77.4802616, 
+            37.5180461
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Boscobel Avenue", 
+        "to": "49618972", 
+        "length": "113.55963482763362", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618971", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035268"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4802616, 
+            37.5180461
+          ], 
+          [
+            -77.4809053, 
+            37.5171909
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 43rd Street", 
+        "to": "49618972", 
+        "length": "110.78266796124599", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629861", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864343, 
+            37.5187583
+          ], 
+          [
+            -77.4858563, 
+            37.5186603
+          ], 
+          [
+            -77.4851397, 
+            37.5185388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49629854", 
+        "length": "116.78951874427341", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625651", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039883"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4851397, 
+            37.5185388
+          ], 
+          [
+            -77.4856668, 
+            37.5167429
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 46th Street", 
+        "to": "49629854", 
+        "length": "205.09246242245808", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040170"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4821692, 
+            37.515524
+          ], 
+          [
+            -77.4832594, 
+            37.5159912
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reedy Avenue", 
+        "to": "49612706", 
+        "length": "109.3210935918995", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612708", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4832594, 
+            37.5159912
+          ], 
+          [
+            -77.4843667, 
+            37.5165031
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reedy Avenue", 
+        "to": "49612708", 
+        "length": "113.07028985509793", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612710", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4832594, 
+            37.5159912
+          ], 
+          [
+            -77.484209, 
+            37.5146643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 44th Street", 
+        "to": "49612708", 
+        "length": "169.70642458497642", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843667, 
+            37.5165031
+          ], 
+          [
+            -77.4828061, 
+            37.5181311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Taylor Avenue", 
+        "to": "49612710", 
+        "length": "227.4728504858839", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614599", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843667, 
+            37.5165031
+          ], 
+          [
+            -77.4856668, 
+            37.5167429
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reedy Avenue", 
+        "to": "49612710", 
+        "length": "117.75788291236917", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868936, 
+            37.5169654
+          ], 
+          [
+            -77.4863041, 
+            37.5168585
+          ], 
+          [
+            -77.4856668, 
+            37.5167429
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reedy Avenue", 
+        "to": "49612711", 
+        "length": "111.02386070373916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612712", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864343, 
+            37.5187583
+          ], 
+          [
+            -77.4866407, 
+            37.5179551
+          ], 
+          [
+            -77.4868936, 
+            37.5169654
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 47th Street", 
+        "to": "49612712", 
+        "length": "203.49255726173806", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625651", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868936, 
+            37.5169654
+          ], 
+          [
+            -77.4875641, 
+            37.5170826
+          ], 
+          [
+            -77.4882042, 
+            37.5171945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reedy Avenue", 
+        "to": "1844392698", 
+        "length": "118.39780280160925", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612712", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872158, 
+            37.5207332
+          ], 
+          [
+            -77.487393, 
+            37.5200462
+          ], 
+          [
+            -77.4876699, 
+            37.5189724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 48th Street", 
+        "to": "49617583", 
+        "length": "199.90227192378467", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617585", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "173669892"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876699, 
+            37.5189724
+          ], 
+          [
+            -77.4864343, 
+            37.5187583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49617583", 
+        "length": "111.57481271895759", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625651", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039883"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4888632, 
+            37.5191651
+          ], 
+          [
+            -77.4887299, 
+            37.5191641
+          ], 
+          [
+            -77.4876699, 
+            37.5189724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dunston Avenue", 
+        "to": "49617583", 
+        "length": "107.67252126035399", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1844392711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039883"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4882386, 
+            37.5179606
+          ], 
+          [
+            -77.4882746, 
+            37.5180292
+          ], 
+          [
+            -77.4883419, 
+            37.5182112
+          ], 
+          [
+            -77.488493, 
+            37.5184559
+          ], 
+          [
+            -77.4886343, 
+            37.5186551
+          ], 
+          [
+            -77.488705, 
+            37.5187688
+          ], 
+          [
+            -77.4888177, 
+            37.5189953
+          ], 
+          [
+            -77.4888632, 
+            37.5191651
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "1844392711", 
+        "length": "145.58144018254336", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392702", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "173669897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4888632, 
+            37.5191651
+          ], 
+          [
+            -77.4888869, 
+            37.5192623
+          ], 
+          [
+            -77.4888897, 
+            37.5193789
+          ], 
+          [
+            -77.4888538, 
+            37.519504
+          ], 
+          [
+            -77.4888233, 
+            37.5195914
+          ], 
+          [
+            -77.4886223, 
+            37.5200586
+          ], 
+          [
+            -77.4885595, 
+            37.5202543
+          ], 
+          [
+            -77.4885514, 
+            37.5202797
+          ], 
+          [
+            -77.4884522, 
+            37.5206301
+          ], 
+          [
+            -77.4883837, 
+            37.5208437
+          ], 
+          [
+            -77.4883072, 
+            37.5210083
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "1844392726", 
+        "length": "212.5923302372862", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392711", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "173669897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883072, 
+            37.5210083
+          ], 
+          [
+            -77.4879327, 
+            37.5208751
+          ], 
+          [
+            -77.4872158, 
+            37.5207332
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Forest Hill Avenue", 
+        "to": "49617585", 
+        "length": "101.38963726210831", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1844392726", 
+        "ref": "SR 683", 
+        "highway": "secondary", 
+        "osmid": "323733109"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.477296, 
+            37.5166301
+          ], 
+          [
+            -77.4769694, 
+            37.5164716
+          ], 
+          [
+            -77.4766461, 
+            37.5163084
+          ], 
+          [
+            -77.4764651, 
+            37.5161418
+          ], 
+          [
+            -77.4762328, 
+            37.5159293
+          ], 
+          [
+            -77.4757471, 
+            37.515701
+          ], 
+          [
+            -77.4753278, 
+            37.5155223
+          ], 
+          [
+            -77.474892, 
+            37.515376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sharon Court", 
+        "to": "49622777", 
+        "length": "256.8841146007882", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632255", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041174"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2937 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4733292, 
+            37.4975945
+          ], 
+          [
+            -77.474373, 
+            37.498811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Evergreen Avenue", 
+        "to": "49613952", 
+        "length": "163.6825217508221", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4733292, 
+            37.4975945
+          ], 
+          [
+            -77.472562, 
+            37.496141
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Evergreen Avenue", 
+        "to": "49613952", 
+        "length": "175.27088073724272", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619801", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4733292, 
+            37.4975945
+          ], 
+          [
+            -77.4743514, 
+            37.497152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Deloak Avenue", 
+        "to": "49613952", 
+        "length": "102.75753184834915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613954", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4733292, 
+            37.4975945
+          ], 
+          [
+            -77.4724042, 
+            37.4980435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Deloak Avenue", 
+        "to": "49613952", 
+        "length": "95.69149583726099", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613951", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4743514, 
+            37.497152
+          ], 
+          [
+            -77.475094, 
+            37.4968305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Deloak Avenue", 
+        "to": "49613954", 
+        "length": "74.65271424303704", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613955", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4743514, 
+            37.497152
+          ], 
+          [
+            -77.474706, 
+            37.497447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Floral Avenue", 
+        "to": "49613954", 
+        "length": "45.3406852268141", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626533", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4743514, 
+            37.497152
+          ], 
+          [
+            -77.474006, 
+            37.496547
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Floral Avenue", 
+        "to": "49613954", 
+        "length": "73.87304431920475", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626535", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4726749, 
+            37.5026637
+          ], 
+          [
+            -77.4729145, 
+            37.5024538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "2730553989", 
+        "length": "31.496631438435305", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1849809811", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4726749, 
+            37.5026637
+          ], 
+          [
+            -77.4718255, 
+            37.503173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "49615335", 
+        "length": "93.94883538743095", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2730553989", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4658361, 
+            37.4995929
+          ], 
+          [
+            -77.4652515, 
+            37.5002215
+          ], 
+          [
+            -77.4651207, 
+            37.5005693
+          ], 
+          [
+            -77.464906, 
+            37.501147
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Legion Avenue", 
+        "to": "49615496", 
+        "length": "194.24761536115665", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615498", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033932"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.464906, 
+            37.501147
+          ], 
+          [
+            -77.4659572, 
+            37.5009343
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49615496", 
+        "length": "95.72781344842397", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617795", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633944, 
+            37.5007254
+          ], 
+          [
+            -77.4642856, 
+            37.500974
+          ], 
+          [
+            -77.464906, 
+            37.501147
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49615496", 
+        "length": "141.38734342565763", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627437", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4647959, 
+            37.4989264
+          ], 
+          [
+            -77.4653238, 
+            37.4992689
+          ], 
+          [
+            -77.4658361, 
+            37.4995929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49615498", 
+        "length": "117.98954824913784", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618146", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4665411, 
+            37.5002506
+          ], 
+          [
+            -77.4662573, 
+            37.4998922
+          ], 
+          [
+            -77.4658361, 
+            37.4995929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49615498", 
+        "length": "96.97345547882904", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4705953, 
+            37.493621
+          ], 
+          [
+            -77.4707383, 
+            37.4932653
+          ], 
+          [
+            -77.4709263, 
+            37.4927932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617804", 
+        "length": "96.5957289723464", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394591094", 
+        "ref": "VA 10;VA 161", 
+        "highway": "primary", 
+        "osmid": "231040203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668491, 
+            37.5024311
+          ], 
+          [
+            -77.4659572, 
+            37.5009343
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Robinview Drive", 
+        "to": "49617794", 
+        "length": "184.14828875920404", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617795", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668491, 
+            37.5024311
+          ], 
+          [
+            -77.4677555, 
+            37.501861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49617794", 
+        "length": "102.0668371292299", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623679", 
+        "ref": "SR 10", 
+        "highway": "secondary", 
+        "osmid": "174319548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4638128, 
+            37.4983676
+          ], 
+          [
+            -77.463012, 
+            37.4992117
+          ], 
+          [
+            -77.4627785, 
+            37.499471
+          ], 
+          [
+            -77.4622881, 
+            37.5002861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hollister Avenue", 
+        "to": "49630350", 
+        "length": "253.41187278822434", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618145", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622881, 
+            37.5002861
+          ], 
+          [
+            -77.4633944, 
+            37.5007254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49630350", 
+        "length": "109.16663878595197", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627437", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609805, 
+            37.4997304
+          ], 
+          [
+            -77.4615971, 
+            37.5000344
+          ], 
+          [
+            -77.4622881, 
+            37.5002861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49630350", 
+        "length": "131.1551463453468", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621214", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4601119, 
+            37.4990857
+          ], 
+          [
+            -77.4619239, 
+            37.4971961
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Evert Avenue", 
+        "to": "49615120", 
+        "length": "264.083527176279", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615121", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033840"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4601119, 
+            37.4990857
+          ], 
+          [
+            -77.4609805, 
+            37.4997304
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49615120", 
+        "length": "104.96091628480404", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621214", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4619239, 
+            37.4971961
+          ], 
+          [
+            -77.4629009, 
+            37.4977973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49615121", 
+        "length": "109.10787489358859", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618143", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659572, 
+            37.5009343
+          ], 
+          [
+            -77.4662678, 
+            37.500784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49617795", 
+        "length": "32.10362671405969", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620930", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4753327, 
+            37.5009431
+          ], 
+          [
+            -77.4744761, 
+            37.5014968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "49615337", 
+        "length": "97.49959111011665", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615339", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4753327, 
+            37.5009431
+          ], 
+          [
+            -77.4736624, 
+            37.4993249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greystone Avenue", 
+        "to": "49620780", 
+        "length": "232.6345956401248", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615339", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4759897, 
+            37.4978313
+          ], 
+          [
+            -77.4751336, 
+            37.4983233
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49630043", 
+        "length": "93.2833943435909", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628144", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4759897, 
+            37.4978313
+          ], 
+          [
+            -77.4771325, 
+            37.4989074
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pebble Court", 
+        "to": "49628144", 
+        "length": "156.51043201671715", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4759897, 
+            37.4978313
+          ], 
+          [
+            -77.4757352, 
+            37.4976051
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pebble Court", 
+        "to": "49628143", 
+        "length": "33.72484676412149", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628144", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4751336, 
+            37.4983233
+          ], 
+          [
+            -77.474373, 
+            37.498811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49630043", 
+        "length": "86.29798886985832", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756349, 
+            37.4997814
+          ], 
+          [
+            -77.4759181, 
+            37.4995701
+          ], 
+          [
+            -77.4762098, 
+            37.4994181
+          ], 
+          [
+            -77.4751336, 
+            37.4983233
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bedrock Lane", 
+        "to": "49630043", 
+        "length": "219.52542558058866", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630049", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039957"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729527, 
+            37.5015473
+          ], 
+          [
+            -77.473472, 
+            37.502095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298569", 
+        "length": "76.22865612060386", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298566", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729527, 
+            37.5015473
+          ], 
+          [
+            -77.4730402, 
+            37.501804
+          ], 
+          [
+            -77.47305, 
+            37.5019085
+          ], 
+          [
+            -77.4730365, 
+            37.5020336
+          ], 
+          [
+            -77.4730157, 
+            37.5021441
+          ], 
+          [
+            -77.4729899, 
+            37.5022895
+          ], 
+          [
+            -77.4729655, 
+            37.502366
+          ], 
+          [
+            -77.4729145, 
+            37.5024538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "1849809811", 
+        "length": "103.48606709289473", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298566", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "6032546"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729527, 
+            37.5015473
+          ], 
+          [
+            -77.4727043, 
+            37.5012936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298566", 
+        "length": "35.73088551992104", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298567", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730086, 
+            37.5014643
+          ], 
+          [
+            -77.4735771, 
+            37.5020273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "1849809830", 
+        "length": "80.23567624737704", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615336", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730086, 
+            37.5014643
+          ], 
+          [
+            -77.4727826, 
+            37.5012359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49626747", 
+        "length": "32.29645773734424", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1849809830", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.474339, 
+            37.5015745
+          ], 
+          [
+            -77.4741503, 
+            37.5016471
+          ], 
+          [
+            -77.4740913, 
+            37.5016634
+          ], 
+          [
+            -77.4740223, 
+            37.5016744
+          ], 
+          [
+            -77.4738767, 
+            37.5016683
+          ], 
+          [
+            -77.4737667, 
+            37.5016574
+          ], 
+          [
+            -77.4735654, 
+            37.5016372
+          ], 
+          [
+            -77.4733748, 
+            37.5016156
+          ], 
+          [
+            -77.4732871, 
+            37.501583
+          ], 
+          [
+            -77.4730086, 
+            37.5014643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "1849809830", 
+        "length": "124.2122388844118", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610085", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "6032176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701975, 
+            37.5029055
+          ], 
+          [
+            -77.4693566, 
+            37.5033843
+          ], 
+          [
+            -77.4685332, 
+            37.5025632
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Decatur Street', 'Mayhew Street']", 
+        "to": "49631687", 
+        "length": "208.03559281483928", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618156", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6040968, 6038470]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4685332, 
+            37.5025632
+          ], 
+          [
+            -77.4682336, 
+            37.5027521
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49631685", 
+        "length": "33.768680870082484", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631687", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040824"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4685332, 
+            37.5025632
+          ], 
+          [
+            -77.4693373, 
+            37.5020467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49631687", 
+        "length": "91.29424517406846", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618158", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040824"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4685332, 
+            37.5025632
+          ], 
+          [
+            -77.4677555, 
+            37.501861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mayhew Street", 
+        "to": "49623679", 
+        "length": "103.96769999990829", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631687", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736624, 
+            37.4993249
+          ], 
+          [
+            -77.474373, 
+            37.498811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49620780", 
+        "length": "84.84769826514301", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736624, 
+            37.4993249
+          ], 
+          [
+            -77.4727821, 
+            37.4998571
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49620780", 
+        "length": "97.66332185341462", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615959", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736624, 
+            37.4993249
+          ], 
+          [
+            -77.4724042, 
+            37.4980435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greystone Avenue", 
+        "to": "49620780", 
+        "length": "180.66714089823458", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613951", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4647959, 
+            37.4989264
+          ], 
+          [
+            -77.4640394, 
+            37.4997118
+          ], 
+          [
+            -77.4637078, 
+            37.5001157
+          ], 
+          [
+            -77.4633944, 
+            37.5007254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bundy Avenue", 
+        "to": "49627437", 
+        "length": "236.79352408877554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618146", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038713"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4712694, 
+            37.4955246
+          ], 
+          [
+            -77.471693, 
+            37.4938512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greystone Avenue", 
+        "to": "49620782", 
+        "length": "189.84282067814024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620784", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4712694, 
+            37.4955246
+          ], 
+          [
+            -77.4715321, 
+            37.4964815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greystone Avenue", 
+        "to": "49620782", 
+        "length": "108.92785451547452", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619800", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4712694, 
+            37.4955246
+          ], 
+          [
+            -77.4701339, 
+            37.4954988
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clover Lane", 
+        "to": "49620782", 
+        "length": "100.24557856250611", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2394591095", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.472562, 
+            37.496141
+          ], 
+          [
+            -77.4724762, 
+            37.4955366
+          ], 
+          [
+            -77.4724655, 
+            37.4949493
+          ], 
+          [
+            -77.4726693, 
+            37.4942087
+          ], 
+          [
+            -77.471693, 
+            37.4938512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Horner Lane', 'Evergreen Avenue']", 
+        "to": "49620784", 
+        "length": "312.18534521459736", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619801", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6038225, 6036618]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471693, 
+            37.4938512
+          ], 
+          [
+            -77.4705953, 
+            37.493621
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Horner Lane", 
+        "to": "49620784", 
+        "length": "100.19771502803998", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2394591094", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038225"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.473472, 
+            37.502095
+          ], 
+          [
+            -77.4735771, 
+            37.5020273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "598298569", 
+        "length": "11.946015706155553", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615336", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.473472, 
+            37.502095
+          ], 
+          [
+            -77.4729145, 
+            37.5024538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "1849809811", 
+        "length": "63.3452747544484", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298569", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4662678, 
+            37.500784
+          ], 
+          [
+            -77.4670784, 
+            37.5006166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chapel Drive", 
+        "to": "49618148", 
+        "length": "73.91171738067528", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620930", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4665411, 
+            37.5002506
+          ], 
+          [
+            -77.4664615, 
+            37.5005712
+          ], 
+          [
+            -77.4662678, 
+            37.500784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Circle", 
+        "to": "49620930", 
+        "length": "65.53961937511788", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035998"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4702905, 
+            37.4987726
+          ], 
+          [
+            -77.4702389, 
+            37.4988526
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "2394590918", 
+        "length": "9.995456159628535", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2394590921", 
+        "ref": "SR 10", 
+        "highway": "secondary", 
+        "osmid": "174319548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4702905, 
+            37.4987726
+          ], 
+          [
+            -77.4704551, 
+            37.4988799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "E Belt Blvd", 
+        "to": "2394590918", 
+        "length": "18.799053207928402", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613949", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "174304417"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4702905, 
+            37.4987726
+          ], 
+          [
+            -77.4704234, 
+            37.4986161
+          ], 
+          [
+            -77.4705037, 
+            37.4984709
+          ], 
+          [
+            -77.4705942, 
+            37.4981817
+          ], 
+          [
+            -77.4706252, 
+            37.4979697
+          ], 
+          [
+            -77.470634, 
+            37.4977401
+          ], 
+          [
+            -77.4706141, 
+            37.4974369
+          ], 
+          [
+            -77.4705633, 
+            37.497188
+          ], 
+          [
+            -77.4704551, 
+            37.496876
+          ], 
+          [
+            -77.4704429, 
+            37.4968484
+          ], 
+          [
+            -77.4703601, 
+            37.4966605
+          ], 
+          [
+            -77.4702452, 
+            37.4963643
+          ], 
+          [
+            -77.4701657, 
+            37.4960365
+          ], 
+          [
+            -77.4701414, 
+            37.4957596
+          ], 
+          [
+            -77.4701339, 
+            37.4954988
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "2394591095", 
+        "length": "375.74273070396913", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394590918", 
+        "ref": "VA 10;VA 161", 
+        "highway": "primary", 
+        "osmid": "231040203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727043, 
+            37.5012936
+          ], 
+          [
+            -77.4718403, 
+            37.5004344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298567", 
+        "length": "122.25103629622303", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298568", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727043, 
+            37.5012936
+          ], 
+          [
+            -77.4727826, 
+            37.5012359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "598298567", 
+        "length": "9.429992445696715", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626747", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038470"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727043, 
+            37.5012936
+          ], 
+          [
+            -77.471006, 
+            37.502347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "598298567", 
+        "length": "190.2235760268667", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618639", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038470"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718403, 
+            37.5004344
+          ], 
+          [
+            -77.4701731, 
+            37.5014992
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "598298568", 
+        "length": "188.8631198566593", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618640", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718403, 
+            37.5004344
+          ], 
+          [
+            -77.4719217, 
+            37.5003822
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "598298568", 
+        "length": "9.235957077248095", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626748", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718403, 
+            37.5004344
+          ], 
+          [
+            -77.4711095, 
+            37.4997173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298568", 
+        "length": "102.5684367105819", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624301", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4702389, 
+            37.4988526
+          ], 
+          [
+            -77.4711095, 
+            37.4997173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49624301", 
+        "length": "123.09348038762484", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394590921", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4702389, 
+            37.4988526
+          ], 
+          [
+            -77.4688655, 
+            37.5009832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "2394590921", 
+        "length": "266.16953141089715", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618151", 
+        "ref": "SR 10", 
+        "highway": "secondary", 
+        "osmid": "174319548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4724042, 
+            37.4980435
+          ], 
+          [
+            -77.4715321, 
+            37.4964815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greystone Avenue", 
+        "to": "49619800", 
+        "length": "190.01734745332695", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613951", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4724042, 
+            37.4980435
+          ], 
+          [
+            -77.4712422, 
+            37.498498
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Deloak Avenue", 
+        "to": "49613950", 
+        "length": "114.32338827223109", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613951", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4710274, 
+            37.503668
+          ], 
+          [
+            -77.4701975, 
+            37.5029055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49615332", 
+        "length": "112.04983035744655", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618156", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4710274, 
+            37.503668
+          ], 
+          [
+            -77.4718255, 
+            37.503173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "49615332", 
+        "length": "89.39015689565237", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615335", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471006, 
+            37.502347
+          ], 
+          [
+            -77.4701731, 
+            37.5014992
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spaine Street", 
+        "to": "49618639", 
+        "length": "119.55543738706663", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618640", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471006, 
+            37.502347
+          ], 
+          [
+            -77.4701975, 
+            37.5029055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49618639", 
+        "length": "94.59600750179395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618156", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038470"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471006, 
+            37.502347
+          ], 
+          [
+            -77.4718255, 
+            37.503173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spaine Street", 
+        "to": "49615335", 
+        "length": "116.91692965833428", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618639", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701731, 
+            37.5014992
+          ], 
+          [
+            -77.4688655, 
+            37.5009832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spaine Street", 
+        "to": "49618640", 
+        "length": "128.86874780727453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618151", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711095, 
+            37.4997173
+          ], 
+          [
+            -77.470312, 
+            37.5011224
+          ], 
+          [
+            -77.4701758, 
+            37.5013328
+          ], 
+          [
+            -77.4701731, 
+            37.5014992
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Merry Oaks Avenue", 
+        "to": "49618640", 
+        "length": "216.21435380981978", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624301", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701731, 
+            37.5014992
+          ], 
+          [
+            -77.4693373, 
+            37.5020467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49618640", 
+        "length": "95.64272666848873", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618158", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040824"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727821, 
+            37.4998571
+          ], 
+          [
+            -77.4744761, 
+            37.5014968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Welton Avenue", 
+        "to": "49615959", 
+        "length": "235.8090933756642", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615337", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727821, 
+            37.4998571
+          ], 
+          [
+            -77.4719217, 
+            37.5003822
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49615959", 
+        "length": "95.7885350069163", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626748", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46843108"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727821, 
+            37.4998571
+          ], 
+          [
+            -77.4712422, 
+            37.498498
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Welton Avenue", 
+        "to": "49615959", 
+        "length": "203.2642533780078", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613950", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4715321, 
+            37.4964815
+          ], 
+          [
+            -77.472562, 
+            37.496141
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunlight Avenue", 
+        "to": "49619800", 
+        "length": "98.45987360790481", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619801", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035583"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.472562, 
+            37.496141
+          ], 
+          [
+            -77.4732165, 
+            37.4959367
+          ], 
+          [
+            -77.4732916, 
+            37.4952983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunlight Avenue", 
+        "to": "49619803", 
+        "length": "133.38203206161683", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619801", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035583"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609805, 
+            37.4997304
+          ], 
+          [
+            -77.4629009, 
+            37.4977973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Richeson Avenue", 
+        "to": "49618143", 
+        "length": "273.765179486007", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621214", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4629009, 
+            37.4977973
+          ], 
+          [
+            -77.4638128, 
+            37.4983676
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618143", 
+        "length": "102.46478537762928", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618145", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4638128, 
+            37.4983676
+          ], 
+          [
+            -77.4647959, 
+            37.4989264
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618145", 
+        "length": "106.71895365036866", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618146", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4665411, 
+            37.5002506
+          ], 
+          [
+            -77.4670784, 
+            37.5006166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618148", 
+        "length": "62.49083972121611", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4670784, 
+            37.5006166
+          ], 
+          [
+            -77.4681011, 
+            37.5009115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618148", 
+        "length": "96.01999580483864", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618150", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.474339, 
+            37.5015745
+          ], 
+          [
+            -77.4735771, 
+            37.5020273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "49615336", 
+        "length": "84.00175898505417", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610085", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.474339, 
+            37.5015745
+          ], 
+          [
+            -77.4744761, 
+            37.5014968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "49610085", 
+        "length": "14.867519487622689", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615337", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917619"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4681011, 
+            37.5009115
+          ], 
+          [
+            -77.468528, 
+            37.5012567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618160", 
+        "length": "53.78862754112212", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618150", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4688655, 
+            37.5009832
+          ], 
+          [
+            -77.4684416, 
+            37.5008973
+          ], 
+          [
+            -77.4681011, 
+            37.5009115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618150", 
+        "length": "68.6935638537718", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618151", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034936"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4688655, 
+            37.5009832
+          ], 
+          [
+            -77.468528, 
+            37.5012567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49618160", 
+        "length": "42.57129929856719", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618151", 
+        "ref": "SR 10", 
+        "highway": "secondary", 
+        "osmid": "174319548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701975, 
+            37.5029055
+          ], 
+          [
+            -77.4693373, 
+            37.5020467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618156", 
+        "length": "122.00634910224512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618158", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4693373, 
+            37.5020467
+          ], 
+          [
+            -77.468528, 
+            37.5012567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McGuire Drive", 
+        "to": "49618160", 
+        "length": "113.2283228660063", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618158", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.468528, 
+            37.5012567
+          ], 
+          [
+            -77.4677555, 
+            37.501861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49618160", 
+        "length": "95.73000736483336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623679", 
+        "ref": "SR 10", 
+        "highway": "secondary", 
+        "osmid": "174319548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701339, 
+            37.4954988
+          ], 
+          [
+            -77.4701437, 
+            37.4951865
+          ], 
+          [
+            -77.470168, 
+            37.4949446
+          ], 
+          [
+            -77.4702166, 
+            37.4946799
+          ], 
+          [
+            -77.4702829, 
+            37.494417
+          ], 
+          [
+            -77.470417, 
+            37.4940435
+          ], 
+          [
+            -77.4705953, 
+            37.493621
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "2394591094", 
+        "length": "214.06407345568348", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394591095", 
+        "ref": "VA 10;VA 161", 
+        "highway": "primary", 
+        "osmid": "231040203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727826, 
+            37.5012359
+          ], 
+          [
+            -77.4719217, 
+            37.5003822
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49626748", 
+        "length": "121.60238355868115", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626747", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4719217, 
+            37.5003822
+          ], 
+          [
+            -77.4704551, 
+            37.4988799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49613949", 
+        "length": "211.35111663789488", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626748", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4704551, 
+            37.4988799
+          ], 
+          [
+            -77.4712422, 
+            37.498498
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Deloak Avenue", 
+        "to": "49613949", 
+        "length": "81.41557704276869", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613950", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033447"
+      }
+    }
+  ]
+}

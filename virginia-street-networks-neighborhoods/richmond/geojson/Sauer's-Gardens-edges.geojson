@@ -1,0 +1,4373 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483512, 
+            37.5735083
+          ], 
+          [
+            -77.4848956, 
+            37.5746433
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225219", 
+        "length": "175.53825345113992", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225217", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483512, 
+            37.5735083
+          ], 
+          [
+            -77.4835999, 
+            37.5734166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westwood Avenue", 
+        "to": "2755225217", 
+        "length": "12.809089953888147", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614755", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "6033715"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483512, 
+            37.5735083
+          ], 
+          [
+            -77.482907, 
+            37.5729975
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225217", 
+        "length": "77.925410321518", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238119", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4827987, 
+            37.5687435
+          ], 
+          [
+            -77.4831037, 
+            37.5683395
+          ], 
+          [
+            -77.4834372, 
+            37.5678978
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "2441973122", 
+        "length": "109.62067598928539", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623993", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4834372, 
+            37.5678978
+          ], 
+          [
+            -77.4849756, 
+            37.5688099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973123", 
+        "length": "169.37117711039048", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973122", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4834372, 
+            37.5678978
+          ], 
+          [
+            -77.4824493, 
+            37.5673076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973122", 
+        "length": "109.06375982770894", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973121", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848956, 
+            37.5746433
+          ], 
+          [
+            -77.4850029, 
+            37.5745574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "2755225219", 
+        "length": "13.44453523248562", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618626", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848956, 
+            37.5746433
+          ], 
+          [
+            -77.4858788, 
+            37.5754497
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225220", 
+        "length": "124.72706728122641", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225219", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858788, 
+            37.5754497
+          ], 
+          [
+            -77.4859859, 
+            37.5753705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "2755225220", 
+        "length": "12.912615088668916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614100", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858788, 
+            37.5754497
+          ], 
+          [
+            -77.4868637, 
+            37.5762576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225221", 
+        "length": "124.95052672728703", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225220", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868637, 
+            37.5762576
+          ], 
+          [
+            -77.486967, 
+            37.576171
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "2755225221", 
+        "length": "13.255166674567246", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868637, 
+            37.5762576
+          ], 
+          [
+            -77.4876817, 
+            37.5769286
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225222", 
+        "length": "103.77652226338996", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225221", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876817, 
+            37.5769286
+          ], 
+          [
+            -77.4877868, 
+            37.5768479
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "2755225222", 
+        "length": "12.89967114673935", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4816891, 
+            37.5680547
+          ], 
+          [
+            -77.4817278, 
+            37.5680167
+          ], 
+          [
+            -77.4819829, 
+            37.5677659
+          ], 
+          [
+            -77.4820025, 
+            37.5677467
+          ], 
+          [
+            -77.4824493, 
+            37.5673076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "2441973121", 
+        "length": "106.75618549682437", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626022", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531992"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4916334, 
+            37.57278
+          ], 
+          [
+            -77.4902576, 
+            37.5719639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973128", 
+        "length": "151.4912825107668", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973127", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4916334, 
+            37.57278
+          ], 
+          [
+            -77.4920385, 
+            37.5730266
+          ], 
+          [
+            -77.493055, 
+            37.5736218
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Monument Avenue", 
+        "to": "2441973134", 
+        "length": "156.44108852462895", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973128", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[20294451, 273390620]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490843, 
+            37.5735646
+          ], 
+          [
+            -77.4912062, 
+            37.573204
+          ], 
+          [
+            -77.4916334, 
+            37.57278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "2441973128", 
+        "length": "111.67241309995575", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623615", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4792689, 
+            37.5731173
+          ], 
+          [
+            -77.4793696, 
+            37.5732217
+          ], 
+          [
+            -77.4793858, 
+            37.5732538
+          ], 
+          [
+            -77.4794316, 
+            37.5733445
+          ], 
+          [
+            -77.4794471, 
+            37.5734611
+          ], 
+          [
+            -77.4794006, 
+            37.5735962
+          ], 
+          [
+            -77.4793154, 
+            37.573719
+          ], 
+          [
+            -77.4791527, 
+            37.5739216
+          ], 
+          [
+            -77.4789126, 
+            37.574118
+          ], 
+          [
+            -77.4787344, 
+            37.5742162
+          ], 
+          [
+            -77.4785563, 
+            37.5742408
+          ], 
+          [
+            -77.4783859, 
+            37.5742408
+          ], 
+          [
+            -77.4782542, 
+            37.5742346
+          ], 
+          [
+            -77.4781303, 
+            37.5741733
+          ], 
+          [
+            -77.4779908, 
+            37.5740873
+          ], 
+          [
+            -77.4778824, 
+            37.5739707
+          ], 
+          [
+            -77.4778282, 
+            37.5738479
+          ], 
+          [
+            -77.4778256, 
+            37.573817
+          ], 
+          [
+            -77.4778127, 
+            37.5736637
+          ], 
+          [
+            -77.4778514, 
+            37.573498
+          ], 
+          [
+            -77.4779366, 
+            37.5733629
+          ], 
+          [
+            -77.478138, 
+            37.5732217
+          ], 
+          [
+            -77.4783007, 
+            37.5731296
+          ], 
+          [
+            -77.4783662, 
+            37.5731003
+          ], 
+          [
+            -77.4786028, 
+            37.5729945
+          ], 
+          [
+            -77.4788042, 
+            37.5729516
+          ], 
+          [
+            -77.4788429, 
+            37.5729542
+          ], 
+          [
+            -77.4789823, 
+            37.5729638
+          ], 
+          [
+            -77.4790976, 
+            37.5730073
+          ], 
+          [
+            -77.479145, 
+            37.5730252
+          ], 
+          [
+            -77.4792689, 
+            37.5731173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mastin Lane", 
+        "to": "2594038281", 
+        "length": "444.40477667151595", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594038281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253482174"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4792689, 
+            37.5731173
+          ], 
+          [
+            -77.479145, 
+            37.5730252
+          ], 
+          [
+            -77.4790976, 
+            37.5730073
+          ], 
+          [
+            -77.4789823, 
+            37.5729638
+          ], 
+          [
+            -77.4788429, 
+            37.5729542
+          ], 
+          [
+            -77.4788042, 
+            37.5729516
+          ], 
+          [
+            -77.4786028, 
+            37.5729945
+          ], 
+          [
+            -77.4783662, 
+            37.5731003
+          ], 
+          [
+            -77.4783007, 
+            37.5731296
+          ], 
+          [
+            -77.478138, 
+            37.5732217
+          ], 
+          [
+            -77.4779366, 
+            37.5733629
+          ], 
+          [
+            -77.4778514, 
+            37.573498
+          ], 
+          [
+            -77.4778127, 
+            37.5736637
+          ], 
+          [
+            -77.4778256, 
+            37.573817
+          ], 
+          [
+            -77.4778282, 
+            37.5738479
+          ], 
+          [
+            -77.4778824, 
+            37.5739707
+          ], 
+          [
+            -77.4779908, 
+            37.5740873
+          ], 
+          [
+            -77.4781303, 
+            37.5741733
+          ], 
+          [
+            -77.4782542, 
+            37.5742346
+          ], 
+          [
+            -77.4783859, 
+            37.5742408
+          ], 
+          [
+            -77.4785563, 
+            37.5742408
+          ], 
+          [
+            -77.4787344, 
+            37.5742162
+          ], 
+          [
+            -77.4789126, 
+            37.574118
+          ], 
+          [
+            -77.4791527, 
+            37.5739216
+          ], 
+          [
+            -77.4793154, 
+            37.573719
+          ], 
+          [
+            -77.4794006, 
+            37.5735962
+          ], 
+          [
+            -77.4794471, 
+            37.5734611
+          ], 
+          [
+            -77.4794316, 
+            37.5733445
+          ], 
+          [
+            -77.4793858, 
+            37.5732538
+          ], 
+          [
+            -77.4793696, 
+            37.5732217
+          ], 
+          [
+            -77.4792689, 
+            37.5731173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mastin Lane", 
+        "to": "2594038281", 
+        "length": "444.404776669831", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "2594038281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253482174"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4811727, 
+            37.5715218
+          ], 
+          [
+            -77.4810427, 
+            37.5715825
+          ], 
+          [
+            -77.4808413, 
+            37.5717299
+          ], 
+          [
+            -77.4804308, 
+            37.5721657
+          ], 
+          [
+            -77.4804077, 
+            37.5722011
+          ], 
+          [
+            -77.4803146, 
+            37.5723438
+          ], 
+          [
+            -77.4802633, 
+            37.5723873
+          ], 
+          [
+            -77.4800977, 
+            37.572528
+          ], 
+          [
+            -77.4796859, 
+            37.5728212
+          ], 
+          [
+            -77.4796407, 
+            37.5728533
+          ], 
+          [
+            -77.4792689, 
+            37.5731173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mastin Lane", 
+        "to": "2594038281", 
+        "length": "246.43993252526187", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755238121", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253482174"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492304, 
+            37.5744148
+          ], 
+          [
+            -77.4926575, 
+            37.5740415
+          ], 
+          [
+            -77.493055, 
+            37.5736218
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "2441973134", 
+        "length": "110.28421563016083", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885051, 
+            37.5721574
+          ], 
+          [
+            -77.4878438, 
+            37.5730001
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614095", 
+        "length": "110.38105772610545", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614097", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885051, 
+            37.5721574
+          ], 
+          [
+            -77.4873873, 
+            37.5714846
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49614095", 
+        "length": "123.73535166668235", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885051, 
+            37.5721574
+          ], 
+          [
+            -77.489586, 
+            37.572808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49614095", 
+        "length": "119.6506876583186", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630614", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885051, 
+            37.5721574
+          ], 
+          [
+            -77.4887206, 
+            37.571881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614095", 
+        "length": "36.13920443836515", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2975942473", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4878438, 
+            37.5730001
+          ], 
+          [
+            -77.4872672, 
+            37.5737476
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614097", 
+        "length": "97.44861622041964", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614098", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889312, 
+            37.5736492
+          ], 
+          [
+            -77.4882752, 
+            37.5732576
+          ], 
+          [
+            -77.4878438, 
+            37.5730001
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49614097", 
+        "length": "120.00621525704005", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628396", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4878438, 
+            37.5730001
+          ], 
+          [
+            -77.486731, 
+            37.5723408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49614097", 
+        "length": "122.4788300741615", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866633, 
+            37.5745303
+          ], 
+          [
+            -77.4869648, 
+            37.5741395
+          ], 
+          [
+            -77.4872672, 
+            37.5737476
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614098", 
+        "length": "102.04400934166097", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614099", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872672, 
+            37.5737476
+          ], 
+          [
+            -77.4861612, 
+            37.5730876
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49614098", 
+        "length": "122.04525321503071", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040444"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883505, 
+            37.5743948
+          ], 
+          [
+            -77.4876982, 
+            37.5740051
+          ], 
+          [
+            -77.4872672, 
+            37.5737476
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49614098", 
+        "length": "119.58961142882421", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630617", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040444"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866633, 
+            37.5745303
+          ], 
+          [
+            -77.485562, 
+            37.573873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49614099", 
+        "length": "121.53280463008902", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618625", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866633, 
+            37.5745303
+          ], 
+          [
+            -77.4877452, 
+            37.5751719
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49614099", 
+        "length": "119.11608255107592", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866633, 
+            37.5745303
+          ], 
+          [
+            -77.4859859, 
+            37.5753705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614099", 
+        "length": "110.9017606167708", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614100", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4859859, 
+            37.5753705
+          ], 
+          [
+            -77.4850029, 
+            37.5745574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49618626", 
+        "length": "125.2519003546494", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614100", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4859859, 
+            37.5753705
+          ], 
+          [
+            -77.486967, 
+            37.576171
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49614100", 
+        "length": "124.12635466042471", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630621", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4805694, 
+            37.568388
+          ], 
+          [
+            -77.4805479, 
+            37.5682732
+          ], 
+          [
+            -77.4805412, 
+            37.5681548
+          ], 
+          [
+            -77.4805587, 
+            37.5680436
+          ], 
+          [
+            -77.4805895, 
+            37.5679507
+          ], 
+          [
+            -77.4806485, 
+            37.5678486
+          ], 
+          [
+            -77.4807303, 
+            37.5677417
+          ], 
+          [
+            -77.4808256, 
+            37.567636
+          ], 
+          [
+            -77.4812601, 
+            37.5671336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "452660464", 
+        "length": "157.8354790865331", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3430493589", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808716, 
+            37.5688204
+          ], 
+          [
+            -77.4807344, 
+            37.568699
+          ], 
+          [
+            -77.4806807, 
+            37.5686225
+          ], 
+          [
+            -77.480611, 
+            37.5684949
+          ], 
+          [
+            -77.4805694, 
+            37.568388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3430493589", 
+        "length": "55.773818394515104", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611068", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4806313, 
+            37.5690245
+          ], 
+          [
+            -77.4806391, 
+            37.5688727
+          ], 
+          [
+            -77.4806163, 
+            37.5687373
+          ], 
+          [
+            -77.4805694, 
+            37.568388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3430493589", 
+        "length": "71.16245630935931", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611069", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808496, 
+            37.5712466
+          ], 
+          [
+            -77.4811727, 
+            37.5715218
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238121", 
+        "length": "41.812152135327906", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412185878", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808496, 
+            37.5712466
+          ], 
+          [
+            -77.479485, 
+            37.5700843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "3412185878", 
+        "length": "176.59305744130046", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238124", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808496, 
+            37.5712466
+          ], 
+          [
+            -77.480943, 
+            37.5711734
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "3412185878", 
+        "length": "11.579532282454236", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632033", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908806, 
+            37.575898
+          ], 
+          [
+            -77.4912242, 
+            37.5755297
+          ], 
+          [
+            -77.4915384, 
+            37.5751929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49615639", 
+        "length": "97.5347568466877", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615640", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915384, 
+            37.5751929
+          ], 
+          [
+            -77.4901139, 
+            37.5743477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49615639", 
+        "length": "156.86460275654554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623617", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492304, 
+            37.5744148
+          ], 
+          [
+            -77.4919148, 
+            37.5748104
+          ], 
+          [
+            -77.4915384, 
+            37.5751929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49615639", 
+        "length": "109.74962328171907", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902013, 
+            37.5766262
+          ], 
+          [
+            -77.4905497, 
+            37.5762542
+          ], 
+          [
+            -77.4908806, 
+            37.575898
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49615640", 
+        "length": "100.72732952447112", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615641", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908806, 
+            37.575898
+          ], 
+          [
+            -77.4894589, 
+            37.5750515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49615640", 
+        "length": "156.75293796306977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040444"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4895366, 
+            37.5773387
+          ], 
+          [
+            -77.4898793, 
+            37.5769714
+          ], 
+          [
+            -77.4902013, 
+            37.5766262
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49615641", 
+        "length": "98.55752058702612", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612976", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902013, 
+            37.5766262
+          ], 
+          [
+            -77.4887784, 
+            37.5757825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49615641", 
+        "length": "156.64977944964727", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883505, 
+            37.5743948
+          ], 
+          [
+            -77.4880638, 
+            37.5747629
+          ], 
+          [
+            -77.4877452, 
+            37.5751719
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49630619", 
+        "length": "101.57767721692844", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630617", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877452, 
+            37.5751719
+          ], 
+          [
+            -77.4887784, 
+            37.5757825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49630619", 
+        "length": "113.61257698706743", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877452, 
+            37.5751719
+          ], 
+          [
+            -77.486967, 
+            37.576171
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49630619", 
+        "length": "130.59475219153296", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.486967, 
+            37.576171
+          ], 
+          [
+            -77.4877868, 
+            37.5768479
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49630621", 
+        "length": "104.35933294373355", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623623", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772974, 
+            37.5725958
+          ], 
+          [
+            -77.4772196, 
+            37.5724568
+          ], 
+          [
+            -77.4771778, 
+            37.5724279
+          ], 
+          [
+            -77.4771187, 
+            37.5724066
+          ], 
+          [
+            -77.4770171, 
+            37.5723986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1928937502", 
+        "length": "36.5274994380737", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1928937505", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "182532052"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4770171, 
+            37.5723986
+          ], 
+          [
+            -77.4775268, 
+            37.5718835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "1928937502", 
+        "length": "72.81105638067224", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611044", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "182531993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4873873, 
+            37.5714846
+          ], 
+          [
+            -77.4876995, 
+            37.5710839
+          ], 
+          [
+            -77.4880572, 
+            37.5706247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "2441973125", 
+        "length": "112.40720748046587", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4880572, 
+            37.5706247
+          ], 
+          [
+            -77.4864731, 
+            37.5696938
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973125", 
+        "length": "173.84876942823328", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973124", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4880572, 
+            37.5706247
+          ], 
+          [
+            -77.4891723, 
+            37.5713019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973126", 
+        "length": "123.8438188858182", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973125", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864731, 
+            37.5696938
+          ], 
+          [
+            -77.486127, 
+            37.5701433
+          ], 
+          [
+            -77.4858204, 
+            37.5705415
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49628585", 
+        "length": "110.45785704511945", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2441973124", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864731, 
+            37.5696938
+          ], 
+          [
+            -77.4849756, 
+            37.5688099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973124", 
+        "length": "164.60415020688492", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973123", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.480943, 
+            37.5711734
+          ], 
+          [
+            -77.4800975, 
+            37.5704557
+          ], 
+          [
+            -77.4795734, 
+            37.5700108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49626025", 
+        "length": "176.91810061207642", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49632033", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.480943, 
+            37.5711734
+          ], 
+          [
+            -77.4819349, 
+            37.572005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49632033", 
+        "length": "127.28605176167932", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631700", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.480943, 
+            37.5711734
+          ], 
+          [
+            -77.480985, 
+            37.5711296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49632033", 
+        "length": "6.119063437183205", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623999", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835999, 
+            37.5734166
+          ], 
+          [
+            -77.4850029, 
+            37.5745574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49614755", 
+        "length": "177.1923244451584", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618626", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835999, 
+            37.5734166
+          ], 
+          [
+            -77.4829974, 
+            37.572905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49616964", 
+        "length": "77.83980730468726", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614755", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835999, 
+            37.5734166
+          ], 
+          [
+            -77.4839975, 
+            37.5729129
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49614755", 
+        "length": "66.08555622119351", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628590", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772974, 
+            37.5725958
+          ], 
+          [
+            -77.4773179, 
+            37.5724087
+          ], 
+          [
+            -77.4773813, 
+            37.5722322
+          ], 
+          [
+            -77.4775268, 
+            37.5718835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "49611044", 
+        "length": "82.15089360892966", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1928937505", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032540"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.479485, 
+            37.5700843
+          ], 
+          [
+            -77.4787216, 
+            37.5708064
+          ], 
+          [
+            -77.4775268, 
+            37.5718835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49611044", 
+        "length": "264.30674371208585", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755238124", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "182531993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887206, 
+            37.571881
+          ], 
+          [
+            -77.4888365, 
+            37.5717325
+          ], 
+          [
+            -77.4891723, 
+            37.5713019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "2441973126", 
+        "length": "75.7262727271916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2975942473", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4891723, 
+            37.5713019
+          ], 
+          [
+            -77.4902576, 
+            37.5719639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "2441973127", 
+        "length": "120.72981189888627", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973126", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "273390620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808716, 
+            37.5688204
+          ], 
+          [
+            -77.4810121, 
+            37.5686888
+          ], 
+          [
+            -77.4811419, 
+            37.5685651
+          ], 
+          [
+            -77.4812719, 
+            37.5684454
+          ], 
+          [
+            -77.4816891, 
+            37.5680547
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49626022", 
+        "length": "111.56977690817054", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611068", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531992"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4827987, 
+            37.5687435
+          ], 
+          [
+            -77.4823811, 
+            37.5684842
+          ], 
+          [
+            -77.4822526, 
+            37.5684045
+          ], 
+          [
+            -77.4820382, 
+            37.5682714
+          ], 
+          [
+            -77.4816891, 
+            37.5680547
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49626022", 
+        "length": "124.25331619869877", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623993", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4795734, 
+            37.5700108
+          ], 
+          [
+            -77.4797973, 
+            37.5697982
+          ], 
+          [
+            -77.4801249, 
+            37.5694871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49626024", 
+        "length": "75.87393826554407", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626025", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "182531991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815619, 
+            37.5703482
+          ], 
+          [
+            -77.4814253, 
+            37.5702663
+          ], 
+          [
+            -77.4811604, 
+            37.5701076
+          ], 
+          [
+            -77.4810864, 
+            37.5700633
+          ], 
+          [
+            -77.4806585, 
+            37.5698068
+          ], 
+          [
+            -77.480435, 
+            37.5696729
+          ], 
+          [
+            -77.4801249, 
+            37.5694871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49626024", 
+        "length": "158.8149540989959", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623997", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4801249, 
+            37.5694871
+          ], 
+          [
+            -77.4801561, 
+            37.5694586
+          ], 
+          [
+            -77.4806313, 
+            37.5690245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49611069", 
+        "length": "68.12148568055512", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626024", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "182531991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858204, 
+            37.5705415
+          ], 
+          [
+            -77.4842433, 
+            37.5695922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49628585", 
+        "length": "174.5836599056761", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631547", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858204, 
+            37.5705415
+          ], 
+          [
+            -77.4873873, 
+            37.5714846
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49628585", 
+        "length": "173.4490719509522", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4851968, 
+            37.5713597
+          ], 
+          [
+            -77.4855115, 
+            37.5709467
+          ], 
+          [
+            -77.4858204, 
+            37.5705415
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49628585", 
+        "length": "106.3214102719713", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628411", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.489586, 
+            37.572808
+          ], 
+          [
+            -77.4899004, 
+            37.5724129
+          ], 
+          [
+            -77.4902576, 
+            37.5719639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "2441973127", 
+        "length": "110.99506505122281", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630614", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.484587, 
+            37.5721608
+          ], 
+          [
+            -77.482826, 
+            37.5711056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49628588", 
+        "length": "194.61657627560464", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631081", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4851968, 
+            37.5713597
+          ], 
+          [
+            -77.4848992, 
+            37.5717506
+          ], 
+          [
+            -77.484587, 
+            37.5721608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49628588", 
+        "length": "104.06409128948562", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628411", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.484587, 
+            37.5721608
+          ], 
+          [
+            -77.4839975, 
+            37.5729129
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49628588", 
+        "length": "98.48113387462243", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628590", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4839975, 
+            37.5729129
+          ], 
+          [
+            -77.485562, 
+            37.573873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49628590", 
+        "length": "174.42827293379176", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618625", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4839975, 
+            37.5729129
+          ], 
+          [
+            -77.4821491, 
+            37.5718019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49628590", 
+        "length": "204.50457160104332", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631698", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4795734, 
+            37.5700108
+          ], 
+          [
+            -77.479485, 
+            37.5700843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "2755238124", 
+        "length": "11.294574264388215", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626025", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "182531993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4894589, 
+            37.5750515
+          ], 
+          [
+            -77.4898007, 
+            37.5746842
+          ], 
+          [
+            -77.4901139, 
+            37.5743477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49623617", 
+        "length": "97.27220222426288", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490843, 
+            37.5735646
+          ], 
+          [
+            -77.4904827, 
+            37.5739516
+          ], 
+          [
+            -77.4901139, 
+            37.5743477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49623617", 
+        "length": "108.24825808922198", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623615", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4901139, 
+            37.5743477
+          ], 
+          [
+            -77.4889312, 
+            37.5736492
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49623617", 
+        "length": "130.02352399308003", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628396", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4827987, 
+            37.5687435
+          ], 
+          [
+            -77.4842433, 
+            37.5695922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49623993", 
+        "length": "158.52581442041793", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631547", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4821784, 
+            37.569633
+          ], 
+          [
+            -77.4825014, 
+            37.5691699
+          ], 
+          [
+            -77.4827987, 
+            37.5687435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49623993", 
+        "length": "113.04333816435226", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623995", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815619, 
+            37.5703482
+          ], 
+          [
+            -77.482826, 
+            37.5711056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49631081", 
+        "length": "139.69915853757223", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623997", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815619, 
+            37.5703482
+          ], 
+          [
+            -77.4818842, 
+            37.5699733
+          ], 
+          [
+            -77.4821784, 
+            37.569633
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49623995", 
+        "length": "96.34305020307502", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623997", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815619, 
+            37.5703482
+          ], 
+          [
+            -77.481307, 
+            37.5706902
+          ], 
+          [
+            -77.481237, 
+            37.5707857
+          ], 
+          [
+            -77.4811237, 
+            37.5709404
+          ], 
+          [
+            -77.480985, 
+            37.5711296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49623999", 
+        "length": "100.69975812393717", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623997", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4873873, 
+            37.5714846
+          ], 
+          [
+            -77.486731, 
+            37.5723408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618619", 
+        "length": "111.4296933771167", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4821784, 
+            37.569633
+          ], 
+          [
+            -77.4815503, 
+            37.5692424
+          ], 
+          [
+            -77.4811174, 
+            37.5689732
+          ], 
+          [
+            -77.4808716, 
+            37.5688204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49611068", 
+        "length": "146.42987231516807", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623995", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808716, 
+            37.5688204
+          ], 
+          [
+            -77.4806313, 
+            37.5690245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49611068", 
+        "length": "31.050731845689498", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611069", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531992"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490843, 
+            37.5735646
+          ], 
+          [
+            -77.492304, 
+            37.5744148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49623615", 
+        "length": "159.78163351400528", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490843, 
+            37.5735646
+          ], 
+          [
+            -77.489586, 
+            37.572808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49623615", 
+        "length": "139.14361369986077", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630614", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.485562, 
+            37.573873
+          ], 
+          [
+            -77.4850029, 
+            37.5745574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618625", 
+        "length": "90.6859664842062", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618626", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4861612, 
+            37.5730876
+          ], 
+          [
+            -77.4858722, 
+            37.5734664
+          ], 
+          [
+            -77.485562, 
+            37.573873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618625", 
+        "length": "102.0855776006814", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887784, 
+            37.5757825
+          ], 
+          [
+            -77.4891376, 
+            37.5754021
+          ], 
+          [
+            -77.4894589, 
+            37.5750515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49623619", 
+        "length": "101.04347734825068", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4894589, 
+            37.5750515
+          ], 
+          [
+            -77.4883505, 
+            37.5743948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49623619", 
+        "length": "121.99285005581777", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630617", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040444"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829974, 
+            37.572905
+          ], 
+          [
+            -77.4819349, 
+            37.572005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49631700", 
+        "length": "137.0912635301008", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616964", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829974, 
+            37.572905
+          ], 
+          [
+            -77.482907, 
+            37.5729975
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dabney Road", 
+        "to": "49616964", 
+        "length": "13.013867019561498", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755238119", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20295020"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887784, 
+            37.5757825
+          ], 
+          [
+            -77.4877868, 
+            37.5768479
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49623621", 
+        "length": "147.25161231154618", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772753, 
+            37.575426
+          ], 
+          [
+            -77.4771262, 
+            37.5742015
+          ], 
+          [
+            -77.4771262, 
+            37.5737662
+          ], 
+          [
+            -77.477152, 
+            37.5734601
+          ], 
+          [
+            -77.4772974, 
+            37.5725958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1928937505", 
+        "length": "316.351934487003", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451148406", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032540"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887206, 
+            37.571881
+          ], 
+          [
+            -77.4890139, 
+            37.5720473
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Park", 
+        "to": "2975942473", 
+        "length": "31.79129165028801", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2975942479", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "294029240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842433, 
+            37.5695922
+          ], 
+          [
+            -77.4845866, 
+            37.5692254
+          ], 
+          [
+            -77.4849756, 
+            37.5688099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "2441973123", 
+        "length": "108.34697300265522", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631547", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4890139, 
+            37.5720473
+          ], 
+          [
+            -77.4895467, 
+            37.5723493
+          ], 
+          [
+            -77.4897632, 
+            37.5721079
+          ], 
+          [
+            -77.4892975, 
+            37.5718201
+          ], 
+          [
+            -77.4892568, 
+            37.571815
+          ], 
+          [
+            -77.4892194, 
+            37.5718227
+          ], 
+          [
+            -77.4890139, 
+            37.5720473
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Park", 
+        "to": "2975942479", 
+        "length": "180.64424989127627", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2975942479", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "294029240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4890139, 
+            37.5720473
+          ], 
+          [
+            -77.4892194, 
+            37.5718227
+          ], 
+          [
+            -77.4892568, 
+            37.571815
+          ], 
+          [
+            -77.4892975, 
+            37.5718201
+          ], 
+          [
+            -77.4897632, 
+            37.5721079
+          ], 
+          [
+            -77.4895467, 
+            37.5723493
+          ], 
+          [
+            -77.4890139, 
+            37.5720473
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Monument Park", 
+        "to": "2975942479", 
+        "length": "180.6442498906955", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "2975942479", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "294029240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4821491, 
+            37.5718019
+          ], 
+          [
+            -77.482826, 
+            37.5711056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49631698", 
+        "length": "97.7699019251916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631081", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4821491, 
+            37.5718019
+          ], 
+          [
+            -77.4819349, 
+            37.572005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49631698", 
+        "length": "29.44289765496158", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631700", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4821491, 
+            37.5718019
+          ], 
+          [
+            -77.480985, 
+            37.5711296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49631698", 
+        "length": "126.97757315504992", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623999", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4819349, 
+            37.572005
+          ], 
+          [
+            -77.4818327, 
+            37.5720841
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49631700", 
+        "length": "12.592758171068853", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755238138", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835131, 
+            37.5703715
+          ], 
+          [
+            -77.4831759, 
+            37.5707317
+          ], 
+          [
+            -77.482826, 
+            37.5711056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49631081", 
+        "length": "101.66638829492766", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628410", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835131, 
+            37.5703715
+          ], 
+          [
+            -77.4838754, 
+            37.5699848
+          ], 
+          [
+            -77.4842433, 
+            37.5695922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49631547", 
+        "length": "107.96829351317608", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628410", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835131, 
+            37.5703715
+          ], 
+          [
+            -77.4851968, 
+            37.5713597
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49628411", 
+        "length": "184.69688946326485", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628410", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835131, 
+            37.5703715
+          ], 
+          [
+            -77.4821784, 
+            37.569633
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49623995", 
+        "length": "143.50016971431046", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628410", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889312, 
+            37.5736492
+          ], 
+          [
+            -77.4886484, 
+            37.5740123
+          ], 
+          [
+            -77.4883505, 
+            37.5743948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49630617", 
+        "length": "97.45750597298499", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628396", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482907, 
+            37.5729975
+          ], 
+          [
+            -77.4818327, 
+            37.5720841
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238119", 
+        "length": "138.89046983709824", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238138", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4861612, 
+            37.5730876
+          ], 
+          [
+            -77.486731, 
+            37.5723408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618621", 
+        "length": "97.07088002259606", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.489586, 
+            37.572808
+          ], 
+          [
+            -77.4892704, 
+            37.5732135
+          ], 
+          [
+            -77.4889312, 
+            37.5736492
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49628396", 
+        "length": "109.93720792841006", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630614", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772753, 
+            37.575426
+          ], 
+          [
+            -77.4769234, 
+            37.5735961
+          ], 
+          [
+            -77.4768172, 
+            37.5728886
+          ], 
+          [
+            -77.4768172, 
+            37.5723036
+          ], 
+          [
+            -77.4768173, 
+            37.5720444
+          ], 
+          [
+            -77.4768548, 
+            37.5718318
+          ], 
+          [
+            -77.4769095, 
+            37.5716031
+          ], 
+          [
+            -77.4769793, 
+            37.5714032
+          ], 
+          [
+            -77.4770705, 
+            37.5712119
+          ], 
+          [
+            -77.4771874, 
+            37.5710242
+          ], 
+          [
+            -77.4773162, 
+            37.5708286
+          ], 
+          [
+            -77.4774932, 
+            37.5706202
+          ], 
+          [
+            -77.478426, 
+            37.5697128
+          ], 
+          [
+            -77.4800444, 
+            37.5682354
+          ], 
+          [
+            -77.4812601, 
+            37.5671336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "", 
+        "to": "452660464", 
+        "length": "1060.9921223870228", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451148406", 
+        "ref": "I 195", 
+        "highway": "motorway", 
+        "osmid": "[38259307, 38259284, 38259311]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4811727, 
+            37.5715218
+          ], 
+          [
+            -77.4818327, 
+            37.5720841
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238138", 
+        "length": "85.4218081990317", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238121", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }
+  ]
+}

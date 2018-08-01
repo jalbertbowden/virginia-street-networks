@@ -1,0 +1,3024 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757596, 
+            37.5081141
+          ], 
+          [
+            -77.475713, 
+            37.5086394
+          ], 
+          [
+            -77.4757155, 
+            37.5087337
+          ], 
+          [
+            -77.4757393, 
+            37.5089094
+          ], 
+          [
+            -77.4757668, 
+            37.5090543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mardick Road", 
+        "to": "49612288", 
+        "length": "105.01585239457314", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612290", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032990"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757668, 
+            37.5090543
+          ], 
+          [
+            -77.4744876, 
+            37.5092656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "49612288", 
+        "length": "115.2859423274264", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610963", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757668, 
+            37.5090543
+          ], 
+          [
+            -77.4761974, 
+            37.5089777
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "49612288", 
+        "length": "38.93589392762173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612607", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4734833, 
+            37.5104919
+          ], 
+          [
+            -77.4732268, 
+            37.5094824
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 37th Street", 
+        "to": "49624320", 
+        "length": "114.54087335796724", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624321", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037313"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4734833, 
+            37.5104919
+          ], 
+          [
+            -77.4746387, 
+            37.5102919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49624320", 
+        "length": "104.33922886404221", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622767", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4734833, 
+            37.5104919
+          ], 
+          [
+            -77.4723972, 
+            37.5106726
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49624320", 
+        "length": "97.91081303190509", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626839", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4759936, 
+            37.506932
+          ], 
+          [
+            -77.4758686, 
+            37.5071785
+          ], 
+          [
+            -77.4758491, 
+            37.507248
+          ], 
+          [
+            -77.4758372, 
+            37.5073361
+          ], 
+          [
+            -77.4758269, 
+            37.5074507
+          ], 
+          [
+            -77.4757596, 
+            37.5081141
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mardick Road", 
+        "to": "49612290", 
+        "length": "134.1319265838888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612292", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032990"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772033, 
+            37.5088012
+          ], 
+          [
+            -77.4771608, 
+            37.5086533
+          ], 
+          [
+            -77.477097, 
+            37.5085193
+          ], 
+          [
+            -77.4769956, 
+            37.5083972
+          ], 
+          [
+            -77.4768267, 
+            37.5082701
+          ], 
+          [
+            -77.476644, 
+            37.5082026
+          ], 
+          [
+            -77.4764513, 
+            37.5081649
+          ], 
+          [
+            -77.4757596, 
+            37.5081141
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Marcy Place", 
+        "to": "49612290", 
+        "length": "166.19355125948442", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616653", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034336"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4720668, 
+            37.5074356
+          ], 
+          [
+            -77.4727997, 
+            37.5081443
+          ], 
+          [
+            -77.4728954, 
+            37.5082961
+          ], 
+          [
+            -77.4729576, 
+            37.5084467
+          ], 
+          [
+            -77.4730144, 
+            37.5086943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 37th Street", 
+        "to": "49624323", 
+        "length": "166.4532919376406", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623632", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037313"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730144, 
+            37.5086943
+          ], 
+          [
+            -77.4732268, 
+            37.5094824
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 37th Street", 
+        "to": "49624323", 
+        "length": "89.63826857534256", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624321", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037313"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4735951, 
+            37.5075538
+          ], 
+          [
+            -77.4735126, 
+            37.5084671
+          ], 
+          [
+            -77.4735032, 
+            37.5085288
+          ], 
+          [
+            -77.4734752, 
+            37.5085882
+          ], 
+          [
+            -77.4734174, 
+            37.5086208
+          ], 
+          [
+            -77.4730144, 
+            37.5086943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['McLennan Street', 'Larne Road']", 
+        "to": "49624323", 
+        "length": "158.5520407476306", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626949", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6038496, 6039774]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730144, 
+            37.5086943
+          ], 
+          [
+            -77.471989, 
+            37.5088811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McLennan Street", 
+        "to": "49624323", 
+        "length": "92.82749359721927", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4779131, 
+            37.5086718
+          ], 
+          [
+            -77.478007, 
+            37.5079941
+          ], 
+          [
+            -77.4780091, 
+            37.5078572
+          ], 
+          [
+            -77.4779813, 
+            37.5077771
+          ], 
+          [
+            -77.4779229, 
+            37.507709
+          ], 
+          [
+            -77.4778294, 
+            37.5076371
+          ], 
+          [
+            -77.4776326, 
+            37.5075547
+          ], 
+          [
+            -77.4759936, 
+            37.506932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49612292", 
+        "length": "300.9301706982252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623642", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4747683, 
+            37.5065619
+          ], 
+          [
+            -77.4750414, 
+            37.506589
+          ], 
+          [
+            -77.4752557, 
+            37.5066402
+          ], 
+          [
+            -77.4759936, 
+            37.506932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49612292", 
+        "length": "116.78075010243916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4713085, 
+            37.5108521
+          ], 
+          [
+            -77.4709851, 
+            37.5095821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 35th Street", 
+        "to": "49613958", 
+        "length": "144.11036069884565", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613959", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4713085, 
+            37.5108521
+          ], 
+          [
+            -77.4700817, 
+            37.5110613
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49613958", 
+        "length": "110.71186923360673", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623068", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4713085, 
+            37.5108521
+          ], 
+          [
+            -77.4723972, 
+            37.5106726
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49613958", 
+        "length": "98.10785963407585", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626839", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709851, 
+            37.5095821
+          ], 
+          [
+            -77.4708121, 
+            37.5090724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 35th Street", 
+        "to": "49613959", 
+        "length": "58.71092201582314", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613961", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709851, 
+            37.5095821
+          ], 
+          [
+            -77.4697148, 
+            37.5097908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McLennan Street", 
+        "to": "49613959", 
+        "length": "114.45751585059728", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623069", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4704124, 
+            37.5084544
+          ], 
+          [
+            -77.4707005, 
+            37.5087306
+          ], 
+          [
+            -77.4708121, 
+            37.5090724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 35th Street", 
+        "to": "49613961", 
+        "length": "79.14530156237186", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613962", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4708121, 
+            37.5090724
+          ], 
+          [
+            -77.471989, 
+            37.5088811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McLennan Street", 
+        "to": "49613961", 
+        "length": "105.9967641347231", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4704124, 
+            37.5084544
+          ], 
+          [
+            -77.4692515, 
+            37.5073125
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 35th Street", 
+        "to": "49613962", 
+        "length": "163.16571924928644", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613964", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4704124, 
+            37.5084544
+          ], 
+          [
+            -77.4694467, 
+            37.5086114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49613962", 
+        "length": "86.97632621056677", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623071", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4723972, 
+            37.5106726
+          ], 
+          [
+            -77.471989, 
+            37.5088811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 36th Street", 
+        "to": "49629398", 
+        "length": "202.49049248581363", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626839", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4692515, 
+            37.5073125
+          ], 
+          [
+            -77.4684416, 
+            37.5078286
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49613964", 
+        "length": "91.66076812201597", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623059", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4692515, 
+            37.5073125
+          ], 
+          [
+            -77.4700954, 
+            37.5067893
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49613964", 
+        "length": "94.50294824719809", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684603, 
+            37.5064888
+          ], 
+          [
+            -77.4688574, 
+            37.5069023
+          ], 
+          [
+            -77.4692515, 
+            37.5073125
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 35th Street", 
+        "to": "49613964", 
+        "length": "115.18323899832976", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613966", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772033, 
+            37.5088012
+          ], 
+          [
+            -77.4779131, 
+            37.5086718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "49616653", 
+        "length": "64.25920775120105", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623642", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772033, 
+            37.5088012
+          ], 
+          [
+            -77.4763551, 
+            37.50895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "49616653", 
+        "length": "76.64596421962452", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3088578970", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684603, 
+            37.5064888
+          ], 
+          [
+            -77.4676517, 
+            37.5070012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49613966", 
+        "length": "91.31456966528653", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623061", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684603, 
+            37.5064888
+          ], 
+          [
+            -77.4692689, 
+            37.5059772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49629399", 
+        "length": "91.25944282137908", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613966", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4692541, 
+            37.5086414
+          ], 
+          [
+            -77.4684416, 
+            37.5078286
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 34th Street", 
+        "to": "49623057", 
+        "length": "115.37872213007218", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623059", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036733"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4680881, 
+            37.5088231
+          ], 
+          [
+            -77.4687814, 
+            37.5087151
+          ], 
+          [
+            -77.4692541, 
+            37.5086414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49623057", 
+        "length": "104.84407925302742", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623627", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4692541, 
+            37.5086414
+          ], 
+          [
+            -77.4694467, 
+            37.5086114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49623057", 
+        "length": "17.317895916976", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623071", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691152, 
+            37.5112264
+          ], 
+          [
+            -77.4692432, 
+            37.5112046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49624723", 
+        "length": "11.550613719945915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3088570536", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691152, 
+            37.5112264
+          ], 
+          [
+            -77.4688033, 
+            37.5112793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49624723", 
+        "length": "28.140446077656513", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627745", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684416, 
+            37.5078286
+          ], 
+          [
+            -77.4680495, 
+            37.5074179
+          ], 
+          [
+            -77.4676517, 
+            37.5070012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 34th Street", 
+        "to": "49623061", 
+        "length": "115.44126927263855", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623059", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036733"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4676517, 
+            37.5070012
+          ], 
+          [
+            -77.4668264, 
+            37.5075326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49623061", 
+        "length": "93.78728067700013", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630574", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4766224, 
+            37.5099574
+          ], 
+          [
+            -77.4764644, 
+            37.509362
+          ], 
+          [
+            -77.4763551, 
+            37.50895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Darden Road", 
+        "to": "3088578970", 
+        "length": "114.50440397182115", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612606", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033081"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4763551, 
+            37.50895
+          ], 
+          [
+            -77.4761974, 
+            37.5089777
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "3088578970", 
+        "length": "14.251074027794916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612607", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4761974, 
+            37.5089777
+          ], 
+          [
+            -77.4763091, 
+            37.5093857
+          ], 
+          [
+            -77.4764726, 
+            37.5099832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Darden Road", 
+        "to": "3088578971", 
+        "length": "114.44346649555845", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612607", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304335168"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4764726, 
+            37.5099832
+          ], 
+          [
+            -77.4766224, 
+            37.5099574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "4", 
+        "name": "Midlothian Turnpike", 
+        "to": "3088578971", 
+        "length": "13.524784655774509", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612606", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "6038888"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4764726, 
+            37.5099832
+          ], 
+          [
+            -77.4746387, 
+            37.5102919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "4", 
+        "name": "Midlothian Turnpike", 
+        "to": "3088578971", 
+        "length": "165.40747307383535", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622767", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "6038888"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700817, 
+            37.5110613
+          ], 
+          [
+            -77.4692432, 
+            37.5112046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49623068", 
+        "length": "75.6771530323079", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3088570536", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700817, 
+            37.5110613
+          ], 
+          [
+            -77.4697148, 
+            37.5097908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 34th Street", 
+        "to": "49623069", 
+        "length": "144.9732984971492", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623068", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036735"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4697148, 
+            37.5097908
+          ], 
+          [
+            -77.4694467, 
+            37.5086114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 34th Street", 
+        "to": "49623071", 
+        "length": "133.29591579316147", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623069", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036735"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684236, 
+            37.5100074
+          ], 
+          [
+            -77.4690838, 
+            37.5098967
+          ], 
+          [
+            -77.4697148, 
+            37.5097908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McLennan Street", 
+        "to": "49623069", 
+        "length": "116.442111177358", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700954, 
+            37.5067893
+          ], 
+          [
+            -77.4708672, 
+            37.5062605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49623514", 
+        "length": "89.9824929911902", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623516", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700954, 
+            37.5067893
+          ], 
+          [
+            -77.4712828, 
+            37.5078815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 36th Street", 
+        "to": "49623631", 
+        "length": "160.41829192228715", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700954, 
+            37.5067893
+          ], 
+          [
+            -77.4696746, 
+            37.5063758
+          ], 
+          [
+            -77.4692689, 
+            37.5059772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 36th Street", 
+        "to": "49629399", 
+        "length": "116.09080005683354", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4779131, 
+            37.5086718
+          ], 
+          [
+            -77.4785714, 
+            37.5085742
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "49623730", 
+        "length": "59.088572205437", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623642", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700505, 
+            37.5054606
+          ], 
+          [
+            -77.4711341, 
+            37.504764
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49624327", 
+        "length": "123.06450428225612", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632194", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4708672, 
+            37.5062605
+          ], 
+          [
+            -77.4704552, 
+            37.5058569
+          ], 
+          [
+            -77.4700505, 
+            37.5054606
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 37th Street", 
+        "to": "49624327", 
+        "length": "114.49226666876066", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623516", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037313"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700505, 
+            37.5054606
+          ], 
+          [
+            -77.4692689, 
+            37.5059772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49629399", 
+        "length": "89.76462071158366", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4748365, 
+            37.5060128
+          ], 
+          [
+            -77.4747683, 
+            37.5065619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Roanoke Street", 
+        "to": "49631020", 
+        "length": "61.37007305193952", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.466155, 
+            37.5117309
+          ], 
+          [
+            -77.4659384, 
+            37.5117679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627741", 
+        "length": "19.54824987593041", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625068", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4784676, 
+            37.5096213
+          ], 
+          [
+            -77.4785714, 
+            37.5085742
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wythemar Street", 
+        "to": "49623729", 
+        "length": "116.82454719761647", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623730", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037020"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4784676, 
+            37.5096213
+          ], 
+          [
+            -77.4781929, 
+            37.5096756
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "4", 
+        "name": "Midlothian Turnpike", 
+        "to": "49623729", 
+        "length": "24.978037928012917", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625844", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "6038888"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785714, 
+            37.5085742
+          ], 
+          [
+            -77.4786381, 
+            37.5079234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wythemar Street", 
+        "to": "49623730", 
+        "length": "72.62488466131316", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037020"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684236, 
+            37.5100074
+          ], 
+          [
+            -77.4688033, 
+            37.5112793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 33rd Street", 
+        "to": "49627745", 
+        "length": "145.38114148617765", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684236, 
+            37.5100074
+          ], 
+          [
+            -77.4680881, 
+            37.5088231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 33rd Street", 
+        "to": "49629623", 
+        "length": "135.01030826350728", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623627", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684904, 
+            37.5113327
+          ], 
+          [
+            -77.4688033, 
+            37.5112793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627743", 
+        "length": "28.238356108853615", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627745", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4684904, 
+            37.5113327
+          ], 
+          [
+            -77.4673144, 
+            37.5115383
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627742", 
+        "length": "106.2465765453907", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627743", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4766224, 
+            37.5099574
+          ], 
+          [
+            -77.4781929, 
+            37.5096756
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "4", 
+        "name": "Midlothian Turnpike", 
+        "to": "49612606", 
+        "length": "142.06614411300777", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625844", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "6038888"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4735951, 
+            37.5075538
+          ], 
+          [
+            -77.4728997, 
+            37.5068713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Winber Drive", 
+        "to": "49626949", 
+        "length": "97.60812333148911", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623634", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038552"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4735951, 
+            37.5075538
+          ], 
+          [
+            -77.4737043, 
+            37.5065017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larne Avenue", 
+        "to": "49626949", 
+        "length": "117.41713203903934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623636", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038526"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4680881, 
+            37.5088231
+          ], 
+          [
+            -77.4676153, 
+            37.5083612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 33rd Street", 
+        "to": "49623627", 
+        "length": "66.17890524864795", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623512", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4732268, 
+            37.5094824
+          ], 
+          [
+            -77.4744876, 
+            37.5092656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Larchmont Lane", 
+        "to": "49624321", 
+        "length": "113.82478206820583", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610963", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4647296, 
+            37.511974
+          ], 
+          [
+            -77.4650266, 
+            37.5119234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49617230", 
+        "length": "26.80118310404772", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615570", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4646591, 
+            37.5098247
+          ], 
+          [
+            -77.4647261, 
+            37.5114865
+          ], 
+          [
+            -77.4647296, 
+            37.511974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 31st Street", 
+        "to": "49617230", 
+        "length": "239.15397301196344", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617231", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034543"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4712828, 
+            37.5078815
+          ], 
+          [
+            -77.4720668, 
+            37.5074356
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49623631", 
+        "length": "85.11663491327045", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623632", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471989, 
+            37.5088811
+          ], 
+          [
+            -77.4716985, 
+            37.5082919
+          ], 
+          [
+            -77.4712828, 
+            37.5078815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 36th Street", 
+        "to": "49623631", 
+        "length": "128.92584425011768", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4720668, 
+            37.5074356
+          ], 
+          [
+            -77.4728997, 
+            37.5068713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49623632", 
+        "length": "96.64443608990007", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623634", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4720668, 
+            37.5074356
+          ], 
+          [
+            -77.4708672, 
+            37.5062605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 37th Street", 
+        "to": "49623632", 
+        "length": "168.18496465351203", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623516", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037313"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650266, 
+            37.5119234
+          ], 
+          [
+            -77.4659384, 
+            37.5117679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49615570", 
+        "length": "82.28429543184082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625068", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4744876, 
+            37.5092656
+          ], 
+          [
+            -77.4747683, 
+            37.5065619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Roanoke Street", 
+        "to": "49610963", 
+        "length": "301.74057306927614", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4746387, 
+            37.5102919
+          ], 
+          [
+            -77.474516, 
+            37.5098006
+          ], 
+          [
+            -77.4744876, 
+            37.5096813
+          ], 
+          [
+            -77.4744781, 
+            37.5095803
+          ], 
+          [
+            -77.474476, 
+            37.5094501
+          ], 
+          [
+            -77.4744876, 
+            37.5092656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Roanoke Street", 
+        "to": "49610963", 
+        "length": "115.50596871960579", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622767", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4728997, 
+            37.5068713
+          ], 
+          [
+            -77.4733521, 
+            37.5065622
+          ], 
+          [
+            -77.4735122, 
+            37.5065229
+          ], 
+          [
+            -77.4737043, 
+            37.5065017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49623636", 
+        "length": "84.58169579363494", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623634", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4717324, 
+            37.50572
+          ], 
+          [
+            -77.4720774, 
+            37.5055117
+          ], 
+          [
+            -77.4721616, 
+            37.5054816
+          ], 
+          [
+            -77.472264, 
+            37.5054816
+          ], 
+          [
+            -77.4723713, 
+            37.5055143
+          ], 
+          [
+            -77.4734809, 
+            37.505944
+          ], 
+          [
+            -77.473646, 
+            37.5060252
+          ], 
+          [
+            -77.4737104, 
+            37.5060893
+          ], 
+          [
+            -77.473745, 
+            37.5061732
+          ], 
+          [
+            -77.4737043, 
+            37.5065017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Larne Avenue', 'McRand Street']", 
+        "to": "49623636", 
+        "length": "247.31921207785226", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623517", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6036920, 6038526]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4737043, 
+            37.5065017
+          ], 
+          [
+            -77.4747683, 
+            37.5065619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peyton Avenue", 
+        "to": "49623636", 
+        "length": "94.11945587641013", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623637", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4676153, 
+            37.5083612
+          ], 
+          [
+            -77.4684416, 
+            37.5078286
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49623512", 
+        "length": "93.93928676791175", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623059", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4676153, 
+            37.5083612
+          ], 
+          [
+            -77.4668028, 
+            37.5088596
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49611357", 
+        "length": "90.62144107030461", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623512", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668264, 
+            37.5075326
+          ], 
+          [
+            -77.4672267, 
+            37.507953
+          ], 
+          [
+            -77.4676153, 
+            37.5083612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East 33rd Street", 
+        "to": "49623512", 
+        "length": "115.49420241861546", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630574", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040165"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4658742, 
+            37.5096253
+          ], 
+          [
+            -77.4664889, 
+            37.5095236
+          ], 
+          [
+            -77.467066, 
+            37.5094272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49611354", 
+        "length": "107.43682490496288", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623522", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036923"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668028, 
+            37.5088596
+          ], 
+          [
+            -77.4670231, 
+            37.5091123
+          ], 
+          [
+            -77.4670683, 
+            37.5092374
+          ], 
+          [
+            -77.467066, 
+            37.5094272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 32nd Street", 
+        "to": "49611354", 
+        "length": "69.75952348379194", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611357", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032673"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4646591, 
+            37.5098247
+          ], 
+          [
+            -77.4658742, 
+            37.5096253
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49617231", 
+        "length": "109.47858028058211", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623522", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036923"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4643664, 
+            37.5091198
+          ], 
+          [
+            -77.4646249, 
+            37.5093954
+          ], 
+          [
+            -77.4646549, 
+            37.5094449
+          ], 
+          [
+            -77.4646618, 
+            37.5095176
+          ], 
+          [
+            -77.4646591, 
+            37.5098247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 31st Street", 
+        "to": "49617231", 
+        "length": "86.58440583127367", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617235", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034543"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4708672, 
+            37.5062605
+          ], 
+          [
+            -77.4717324, 
+            37.50572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McRand Street", 
+        "to": "49623516", 
+        "length": "97.17014882364543", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623517", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660063, 
+            37.5080714
+          ], 
+          [
+            -77.4664198, 
+            37.5084807
+          ], 
+          [
+            -77.4668028, 
+            37.5088596
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 32nd Street", 
+        "to": "49611357", 
+        "length": "112.35909968059859", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611359", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032673"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660063, 
+            37.5080714
+          ], 
+          [
+            -77.4655674, 
+            37.5083502
+          ], 
+          [
+            -77.46518, 
+            37.508605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49625072", 
+        "length": "94.0126866152371", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611359", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660063, 
+            37.5080714
+          ], 
+          [
+            -77.4668264, 
+            37.5075326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49611359", 
+        "length": "93.95394211832225", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630574", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4658742, 
+            37.5096253
+          ], 
+          [
+            -77.4658592, 
+            37.509433
+          ], 
+          [
+            -77.4658392, 
+            37.5093042
+          ], 
+          [
+            -77.4657735, 
+            37.5091787
+          ], 
+          [
+            -77.46518, 
+            37.508605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Blake Lane", 
+        "to": "49625072", 
+        "length": "133.524927780762", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623522", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037697"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659384, 
+            37.5117679
+          ], 
+          [
+            -77.4659347, 
+            37.5112863
+          ], 
+          [
+            -77.4658742, 
+            37.5096253
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Blake Lane", 
+        "to": "49623522", 
+        "length": "238.39146666604344", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625068", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037697"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4728997, 
+            37.5068713
+          ], 
+          [
+            -77.4717324, 
+            37.50572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Winber Drive", 
+        "to": "49623634", 
+        "length": "164.3355685558052", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623517", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038552"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.46518, 
+            37.508605
+          ], 
+          [
+            -77.4643664, 
+            37.5091198
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49625072", 
+        "length": "91.82430327713982", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617235", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }
+  ]
+}

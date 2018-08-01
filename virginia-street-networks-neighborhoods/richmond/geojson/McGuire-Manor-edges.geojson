@@ -1,0 +1,1649 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757905, 
+            37.4883966
+          ], 
+          [
+            -77.476681, 
+            37.4890651
+          ], 
+          [
+            -77.477749, 
+            37.4895238
+          ], 
+          [
+            -77.4775992, 
+            37.4898229
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Catalina Drive', 'Cranford Avenue']", 
+        "to": "49617271", 
+        "length": "251.16690061276267", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617727", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6034752, 6035787]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757905, 
+            37.4883966
+          ], 
+          [
+            -77.4751157, 
+            37.4889687
+          ], 
+          [
+            -77.4749133, 
+            37.4891692
+          ], 
+          [
+            -77.4747611, 
+            37.4893033
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cullen Road", 
+        "to": "3584195876", 
+        "length": "135.79926630150393", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617727", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038036"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757905, 
+            37.4883966
+          ], 
+          [
+            -77.4748011, 
+            37.4877123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cranford Avenue", 
+        "to": "49617725", 
+        "length": "115.83563712367618", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617727", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034752"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757905, 
+            37.4883966
+          ], 
+          [
+            -77.4767024, 
+            37.4875972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cullen Road", 
+        "to": "49625567", 
+        "length": "119.92859337978463", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617727", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038036"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4776423, 
+            37.4882547
+          ], 
+          [
+            -77.4790002, 
+            37.4871057
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Allwood Avenue", 
+        "to": "49624904", 
+        "length": "175.19979651957524", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624902", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037614"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4776423, 
+            37.4882547
+          ], 
+          [
+            -77.479307, 
+            37.489547
+          ], 
+          [
+            -77.4802746, 
+            37.489991
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cooks Road", 
+        "to": "49616868", 
+        "length": "304.1827500325056", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624902", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4776423, 
+            37.4882547
+          ], 
+          [
+            -77.4767024, 
+            37.4875972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cooks Road", 
+        "to": "49625567", 
+        "length": "110.58563757216564", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624902", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4791897, 
+            37.4917986
+          ], 
+          [
+            -77.4779143, 
+            37.4938248
+          ], 
+          [
+            -77.4777576, 
+            37.4940569
+          ], 
+          [
+            -77.4775945, 
+            37.4942464
+          ], 
+          [
+            -77.4772352, 
+            37.4945544
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Alaska Drive", 
+        "to": "49616865", 
+        "length": "353.3983843992397", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616867", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034417"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772352, 
+            37.4945544
+          ], 
+          [
+            -77.4771938, 
+            37.494501
+          ], 
+          [
+            -77.4770701, 
+            37.4944
+          ], 
+          [
+            -77.4769374, 
+            37.4943259
+          ], 
+          [
+            -77.4763688, 
+            37.494094
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49616605", 
+        "length": "93.37678602215874", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616865", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4772352, 
+            37.4945544
+          ], 
+          [
+            -77.4776214, 
+            37.495053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49616865", 
+        "length": "65.09271141815394", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618733", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4790002, 
+            37.4871057
+          ], 
+          [
+            -77.4796369, 
+            37.4883241
+          ], 
+          [
+            -77.4799572, 
+            37.4885493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lovells Road", 
+        "to": "49627809", 
+        "length": "184.47546295287148", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624904", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4790002, 
+            37.4871057
+          ], 
+          [
+            -77.4803297, 
+            37.4868025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Allwood Avenue", 
+        "to": "49624904", 
+        "length": "122.08795472945229", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620211", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037614"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4790002, 
+            37.4871057
+          ], 
+          [
+            -77.4785799, 
+            37.4863544
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lovells Road", 
+        "to": "49624904", 
+        "length": "91.42755660619673", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625943", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4722111, 
+            37.4905114
+          ], 
+          [
+            -77.4727116, 
+            37.4898617
+          ], 
+          [
+            -77.4731503, 
+            37.4892886
+          ], 
+          [
+            -77.4733831, 
+            37.4889933
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617808", 
+        "length": "198.01661676894992", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612473", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4733831, 
+            37.4889933
+          ], 
+          [
+            -77.4736255, 
+            37.488747
+          ], 
+          [
+            -77.4740721, 
+            37.4883436
+          ], 
+          [
+            -77.4748011, 
+            37.4877123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617725", 
+        "length": "189.7164478434714", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617808", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4732649, 
+            37.4909619
+          ], 
+          [
+            -77.4722111, 
+            37.4905114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kinsley Avenue", 
+        "to": "49612473", 
+        "length": "105.64032004980261", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612475", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033041"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4732649, 
+            37.4909619
+          ], 
+          [
+            -77.4727929, 
+            37.4916769
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunbury Road", 
+        "to": "49613810", 
+        "length": "89.77550372640911", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612475", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033400"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4732649, 
+            37.4909619
+          ], 
+          [
+            -77.4761537, 
+            37.4920703
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kinsley Avenue", 
+        "to": "49612477", 
+        "length": "283.1854248707069", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612475", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033041"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4814348, 
+            37.4884626
+          ], 
+          [
+            -77.4825803, 
+            37.4890848
+          ], 
+          [
+            -77.4826201, 
+            37.4891064
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warwick Road", 
+        "to": "3049242147", 
+        "length": "126.76983977276456", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616870", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "300832066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826201, 
+            37.4891064
+          ], 
+          [
+            -77.4825318, 
+            37.4892638
+          ], 
+          [
+            -77.4823972, 
+            37.4894082
+          ], 
+          [
+            -77.4823161, 
+            37.4894733
+          ], 
+          [
+            -77.4821024, 
+            37.4896449
+          ], 
+          [
+            -77.4818441, 
+            37.4898788
+          ], 
+          [
+            -77.4815894, 
+            37.4901675
+          ], 
+          [
+            -77.4815141, 
+            37.4902893
+          ], 
+          [
+            -77.4808368, 
+            37.4913848
+          ], 
+          [
+            -77.4803019, 
+            37.49225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49623558", 
+        "length": "407.9374577109381", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049242147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4776214, 
+            37.495053
+          ], 
+          [
+            -77.4771719, 
+            37.4952765
+          ], 
+          [
+            -77.4770281, 
+            37.4953288
+          ], 
+          [
+            -77.4768842, 
+            37.4953787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Court", 
+        "to": "3049241620", 
+        "length": "74.63147777222255", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618733", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4776214, 
+            37.495053
+          ], 
+          [
+            -77.4776996, 
+            37.4951361
+          ], 
+          [
+            -77.4778088, 
+            37.495217
+          ], 
+          [
+            -77.4779379, 
+            37.4952964
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "3049241622", 
+        "length": "39.13429083976683", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618733", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785656, 
+            37.4950582
+          ], 
+          [
+            -77.4784274, 
+            37.4952314
+          ], 
+          [
+            -77.4782127, 
+            37.4953036
+          ], 
+          [
+            -77.4780635, 
+            37.495318
+          ], 
+          [
+            -77.4779379, 
+            37.4952964
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "3049241622", 
+        "length": "67.98341692913013", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619886", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785799, 
+            37.4863544
+          ], 
+          [
+            -77.4783819, 
+            37.4859038
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lovells Road", 
+        "to": "49625943", 
+        "length": "53.07775848304589", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627804", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4767024, 
+            37.4875972
+          ], 
+          [
+            -77.4778885, 
+            37.4866171
+          ], 
+          [
+            -77.4785799, 
+            37.4863544
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cullen Road", 
+        "to": "49625943", 
+        "length": "218.79204130879504", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625567", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038036"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4802746, 
+            37.489991
+          ], 
+          [
+            -77.4791897, 
+            37.4917986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Alaska Drive", 
+        "to": "49616867", 
+        "length": "222.68647638882683", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616868", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034417"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4802746, 
+            37.489991
+          ], 
+          [
+            -77.4814348, 
+            37.4884626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Alaska Drive", 
+        "to": "49616868", 
+        "length": "198.45321691336406", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616870", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034417"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4763688, 
+            37.494094
+          ], 
+          [
+            -77.4751375, 
+            37.4936023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49616605", 
+        "length": "121.647851067919", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620280", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4763688, 
+            37.494094
+          ], 
+          [
+            -77.4754675, 
+            37.4953453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kingswood Street", 
+        "to": "49616605", 
+        "length": "160.3016776635524", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613802", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034323"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4763688, 
+            37.494094
+          ], 
+          [
+            -77.4773602, 
+            37.4925607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kingswood Street", 
+        "to": "49616605", 
+        "length": "191.67577950198867", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612479", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034323"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4796024, 
+            37.4933813
+          ], 
+          [
+            -77.4792441, 
+            37.4939609
+          ], 
+          [
+            -77.4785656, 
+            37.4950582
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49619886", 
+        "length": "207.74863662882439", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624938", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4796024, 
+            37.4933813
+          ], 
+          [
+            -77.4801686, 
+            37.4924656
+          ], 
+          [
+            -77.4803019, 
+            37.49225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49623558", 
+        "length": "140.15696243651834", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624938", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4767024, 
+            37.4875972
+          ], 
+          [
+            -77.4756997, 
+            37.4869113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cooks Road", 
+        "to": "49625567", 
+        "length": "116.83987277373686", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2394591080", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4791897, 
+            37.4917986
+          ], 
+          [
+            -77.4803019, 
+            37.49225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Margrave Avenue", 
+        "to": "49623558", 
+        "length": "110.24877677261753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616867", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4803297, 
+            37.4868025
+          ], 
+          [
+            -77.4804477, 
+            37.4872878
+          ], 
+          [
+            -77.4806838, 
+            37.487773
+          ], 
+          [
+            -77.4809842, 
+            37.4881391
+          ], 
+          [
+            -77.4814348, 
+            37.4884626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warwick Road", 
+        "to": "49616870", 
+        "length": "215.04375201731864", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620211", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "300832066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785457, 
+            37.4832062
+          ], 
+          [
+            -77.4793569, 
+            37.4837032
+          ], 
+          [
+            -77.4795572, 
+            37.4838824
+          ], 
+          [
+            -77.4796242, 
+            37.4839537
+          ], 
+          [
+            -77.4796871, 
+            37.4840206
+          ], 
+          [
+            -77.4797611, 
+            37.4841293
+          ], 
+          [
+            -77.4799263, 
+            37.4844257
+          ], 
+          [
+            -77.4803297, 
+            37.4868025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warwick Road", 
+        "to": "49620211", 
+        "length": "452.8118511842782", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049235258", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "300832066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756997, 
+            37.4869113
+          ], 
+          [
+            -77.4760703, 
+            37.4865079
+          ], 
+          [
+            -77.476292, 
+            37.4862326
+          ], 
+          [
+            -77.4767862, 
+            37.4855917
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617811", 
+        "length": "175.43373817762694", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394591080", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756997, 
+            37.4869113
+          ], 
+          [
+            -77.4748011, 
+            37.4877123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "2394591080", 
+        "length": "119.27741762835691", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617725", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4758779, 
+            37.4957539
+          ], 
+          [
+            -77.4754675, 
+            37.4953453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunbury Road", 
+        "to": "49613801", 
+        "length": "58.11259272109542", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613802", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033400"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4754675, 
+            37.4953453
+          ], 
+          [
+            -77.4745738, 
+            37.494452
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunbury Road", 
+        "to": "49613802", 
+        "length": "126.85464220720577", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613804", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033400"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4745738, 
+            37.494452
+          ], 
+          [
+            -77.4751375, 
+            37.4936023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Catalina Drive", 
+        "to": "49613804", 
+        "length": "106.80163738881787", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620280", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035787"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4745738, 
+            37.494452
+          ], 
+          [
+            -77.473458, 
+            37.4933114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunbury Road", 
+        "to": "49613804", 
+        "length": "160.59460164374056", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613808", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033400"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4751375, 
+            37.4936023
+          ], 
+          [
+            -77.4740374, 
+            37.4932092
+          ], 
+          [
+            -77.473458, 
+            37.4933114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clarkson Road", 
+        "to": "49613808", 
+        "length": "158.85492268258116", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620280", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727929, 
+            37.4916769
+          ], 
+          [
+            -77.4726641, 
+            37.4920515
+          ], 
+          [
+            -77.4727285, 
+            37.492392
+          ], 
+          [
+            -77.473458, 
+            37.4933114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sunbury Road", 
+        "to": "49613808", 
+        "length": "202.3233157792058", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613810", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033400"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727929, 
+            37.4916769
+          ], 
+          [
+            -77.4756114, 
+            37.492888
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sheffield Road", 
+        "to": "49613810", 
+        "length": "282.86893728869217", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620282", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4767862, 
+            37.4855917
+          ], 
+          [
+            -77.477065, 
+            37.4852146
+          ], 
+          [
+            -77.477339, 
+            37.4848363
+          ], 
+          [
+            -77.4778695, 
+            37.4841325
+          ], 
+          [
+            -77.4781974, 
+            37.4836889
+          ], 
+          [
+            -77.4785457, 
+            37.4832062
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "3049235258", 
+        "length": "307.44348382035537", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617811", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4775992, 
+            37.4898229
+          ], 
+          [
+            -77.4761537, 
+            37.4920703
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Catalina Drive", 
+        "to": "49612477", 
+        "length": "280.6399134731178", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617271", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035787"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4775992, 
+            37.4898229
+          ], 
+          [
+            -77.4787366, 
+            37.4903319
+          ], 
+          [
+            -77.4773602, 
+            37.4925607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Kelnor Avenue', 'Kingswood Street']", 
+        "to": "49612479", 
+        "length": "391.3054303835503", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617271", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6034323, 6034556]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4751375, 
+            37.4936023
+          ], 
+          [
+            -77.4756114, 
+            37.492888
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Catalina Drive", 
+        "to": "49620280", 
+        "length": "89.78402250707866", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620282", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035787"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756114, 
+            37.492888
+          ], 
+          [
+            -77.4761537, 
+            37.4920703
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Catalina Drive", 
+        "to": "49612477", 
+        "length": "102.77288994074775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620282", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035787"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4761537, 
+            37.4920703
+          ], 
+          [
+            -77.4773602, 
+            37.4925607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kinsley Avenue", 
+        "to": "49612479", 
+        "length": "119.63291605612837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612477", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033041"
+      }
+    }
+  ]
+}

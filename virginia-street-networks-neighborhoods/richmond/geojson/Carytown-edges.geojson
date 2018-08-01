@@ -1,0 +1,3280 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4782115, 
+            37.5535914
+          ], 
+          [
+            -77.4784467, 
+            37.5531737
+          ], 
+          [
+            -77.4785177, 
+            37.5530476
+          ], 
+          [
+            -77.4785842, 
+            37.5529294
+          ], 
+          [
+            -77.4786298, 
+            37.5528485
+          ], 
+          [
+            -77.478821, 
+            37.552509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Sheppard Street", 
+        "access": "", 
+        "to": "49616324", 
+        "length": "131.84309012471272", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614125", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6041249"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4782115, 
+            37.5535914
+          ], 
+          [
+            -77.4769874, 
+            37.5531582
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Ellwood Avenue", 
+        "access": "", 
+        "to": "49614125", 
+        "length": "118.20551202217784", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614443", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4782115, 
+            37.5535914
+          ], 
+          [
+            -77.4794673, 
+            37.5540358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Ellwood Avenue", 
+        "access": "", 
+        "to": "49614444", 
+        "length": "121.26520071270818", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614125", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4825408, 
+            37.5528755
+          ], 
+          [
+            -77.4833671, 
+            37.553172
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "49613912", 
+        "length": "79.97815666247067", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625872", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "266493122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829773, 
+            37.5521
+          ], 
+          [
+            -77.4827566, 
+            37.5524921
+          ], 
+          [
+            -77.4825408, 
+            37.5528755
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McCloy Street", 
+        "access": "", 
+        "to": "49625872", 
+        "length": "94.4542387710741", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2782571168", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6038000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4825408, 
+            37.5528755
+          ], 
+          [
+            -77.4807994, 
+            37.5522589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "49625872", 
+        "length": "168.17525601128605", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3341440413", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "266493122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4820988, 
+            37.5536606
+          ], 
+          [
+            -77.4823279, 
+            37.5532536
+          ], 
+          [
+            -77.4825408, 
+            37.5528755
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McCloy Street", 
+        "access": "", 
+        "to": "49625872", 
+        "length": "95.62680062272852", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616329", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6038000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4859417, 
+            37.5527791
+          ], 
+          [
+            -77.4863498, 
+            37.5529813
+          ], 
+          [
+            -77.4869768, 
+            37.5532627
+          ], 
+          [
+            -77.4872431, 
+            37.553367
+          ], 
+          [
+            -77.4879937, 
+            37.5536364
+          ], 
+          [
+            -77.4882247, 
+            37.553728
+          ], 
+          [
+            -77.4884309, 
+            37.5538192
+          ], 
+          [
+            -77.4885972, 
+            37.5539086
+          ], 
+          [
+            -77.4887504, 
+            37.5539938
+          ], 
+          [
+            -77.4888869, 
+            37.5540872
+          ], 
+          [
+            -77.4890183, 
+            37.5541829
+          ], 
+          [
+            -77.4891205, 
+            37.5542724
+          ], 
+          [
+            -77.4892225, 
+            37.5543744
+          ], 
+          [
+            -77.4893217, 
+            37.5544893
+          ], 
+          [
+            -77.4894073, 
+            37.554606
+          ], 
+          [
+            -77.489488, 
+            37.5547274
+          ], 
+          [
+            -77.4895736, 
+            37.5548888
+          ], 
+          [
+            -77.4896406, 
+            37.5550313
+          ], 
+          [
+            -77.4896865, 
+            37.5551676
+          ], 
+          [
+            -77.4897213, 
+            37.5553037
+          ], 
+          [
+            -77.4897399, 
+            37.5554459
+          ], 
+          [
+            -77.4897401, 
+            37.5555844
+          ], 
+          [
+            -77.4897184, 
+            37.5558117
+          ], 
+          [
+            -77.4895658, 
+            37.5567262
+          ], 
+          [
+            -77.4895275, 
+            37.5568945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2594625582", 
+        "length": "633.7418056501157", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445851320", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "90276742"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4895275, 
+            37.5568945
+          ], 
+          [
+            -77.4894958, 
+            37.5570343
+          ], 
+          [
+            -77.489426, 
+            37.5572661
+          ], 
+          [
+            -77.4893375, 
+            37.5575085
+          ], 
+          [
+            -77.4892624, 
+            37.5576849
+          ], 
+          [
+            -77.4891659, 
+            37.5578891
+          ], 
+          [
+            -77.4889569, 
+            37.5582359
+          ], 
+          [
+            -77.488855, 
+            37.5583698
+          ], 
+          [
+            -77.4887743, 
+            37.5584462
+          ], 
+          [
+            -77.4886857, 
+            37.5584929
+          ], 
+          [
+            -77.488593, 
+            37.5585196
+          ], 
+          [
+            -77.4884848, 
+            37.5585378
+          ], 
+          [
+            -77.4883695, 
+            37.5585378
+          ], 
+          [
+            -77.4882649, 
+            37.558525
+          ], 
+          [
+            -77.4880373, 
+            37.5584758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "49615842", 
+        "length": "254.69027435272608", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594625582", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "90276742"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897027, 
+            37.5545933
+          ], 
+          [
+            -77.4896141, 
+            37.5548377
+          ], 
+          [
+            -77.4895502, 
+            37.5550297
+          ], 
+          [
+            -77.4894981, 
+            37.5552233
+          ], 
+          [
+            -77.4894667, 
+            37.555365
+          ], 
+          [
+            -77.4894504, 
+            37.555495
+          ], 
+          [
+            -77.4894502, 
+            37.5556203
+          ], 
+          [
+            -77.4894609, 
+            37.5557457
+          ], 
+          [
+            -77.4895306, 
+            37.5562263
+          ], 
+          [
+            -77.489536, 
+            37.5564538
+          ], 
+          [
+            -77.4895333, 
+            37.5566388
+          ], 
+          [
+            -77.4895275, 
+            37.5568945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2594625582", 
+        "length": "258.9767115432462", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611053", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "[6038305, 46420364]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4771624, 
+            37.5500183
+          ], 
+          [
+            -77.4767389, 
+            37.550789
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South Boulevard", 
+        "access": "", 
+        "to": "49614788", 
+        "length": "93.50365105557255", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622840", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "38364240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4771624, 
+            37.5500183
+          ], 
+          [
+            -77.4772806, 
+            37.5498033
+          ], 
+          [
+            -77.4775804, 
+            37.5492576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South Boulevard", 
+        "access": "", 
+        "to": "49622841", 
+        "length": "92.2903967475848", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614788", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "38364240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858297, 
+            37.5531062
+          ], 
+          [
+            -77.4840595, 
+            37.5524801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "49613913", 
+        "length": "170.9245497215459", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782571034", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858297, 
+            37.5531062
+          ], 
+          [
+            -77.4876971, 
+            37.5537701
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "2782571034", 
+        "length": "180.46393560173604", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614766", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852061, 
+            37.5538215
+          ], 
+          [
+            -77.4855165, 
+            37.5534668
+          ], 
+          [
+            -77.4858297, 
+            37.5531062
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Freeman Road", 
+        "access": "", 
+        "to": "2782571034", 
+        "length": "96.71368749035486", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620806", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035957"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4888713, 
+            37.5560398
+          ], 
+          [
+            -77.489082, 
+            37.5562144
+          ], 
+          [
+            -77.4892117, 
+            37.5562782
+          ], 
+          [
+            -77.4892654, 
+            37.5563031
+          ], 
+          [
+            -77.4893737, 
+            37.5563509
+          ], 
+          [
+            -77.4895228, 
+            37.5563863
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "2594625436", 
+        "length": "70.4737173391556", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782570305", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "[253546440, 253546438]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4895228, 
+            37.5563863
+          ], 
+          [
+            -77.4893905, 
+            37.5562811
+          ], 
+          [
+            -77.4892676, 
+            37.5562204
+          ], 
+          [
+            -77.489107, 
+            37.5561447
+          ], 
+          [
+            -77.4888713, 
+            37.5560398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "2782570305", 
+        "length": "69.59958532660625", 
+        "key": "1", 
+        "oneway": "True", 
+        "from": "2594625436", 
+        "ref": "SR 147", 
+        "highway": "secondary", 
+        "osmid": "[182532013, 253546439]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4803482, 
+            37.5530455
+          ], 
+          [
+            -77.4805793, 
+            37.5526349
+          ], 
+          [
+            -77.4807994, 
+            37.5522589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "3341440413", 
+        "length": "96.11491594255784", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616328", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039228"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4807994, 
+            37.5522589
+          ], 
+          [
+            -77.4792785, 
+            37.5517034
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "3341440413", 
+        "length": "147.6615161263812", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49632094", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041068"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4812288, 
+            37.5514812
+          ], 
+          [
+            -77.481008, 
+            37.5518734
+          ], 
+          [
+            -77.4807994, 
+            37.5522589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "3341440413", 
+        "length": "94.42758159485163", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614761", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "266493119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829773, 
+            37.5521
+          ], 
+          [
+            -77.4812288, 
+            37.5514812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "49614761", 
+        "length": "168.84816479147912", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782571168", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829773, 
+            37.5521
+          ], 
+          [
+            -77.4840595, 
+            37.5524801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "2782571168", 
+        "length": "104.37389114471333", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613913", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4786247, 
+            37.549627
+          ], 
+          [
+            -77.4785157, 
+            37.5495885
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "access": "", 
+        "to": "3075591844", 
+        "length": "10.522689170330992", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623858", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38335242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4786247, 
+            37.549627
+          ], 
+          [
+            -77.4800761, 
+            37.5501407
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "access": "", 
+        "to": "3075591844", 
+        "length": "140.16299490244444", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623860", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38335242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4786247, 
+            37.549627
+          ], 
+          [
+            -77.4781868, 
+            37.5504048
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "3075591844", 
+        "length": "94.73868417061678", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614759", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040350"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4771934, 
+            37.5519372
+          ], 
+          [
+            -77.4773025, 
+            37.5519755
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "3075591845", 
+        "length": "10.521441511355352", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616320", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4771934, 
+            37.5519372
+          ], 
+          [
+            -77.4767344, 
+            37.551776
+          ], 
+          [
+            -77.4762831, 
+            37.5516174
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616317", 
+        "length": "87.79876062699483", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3075591845", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4771934, 
+            37.5519372
+          ], 
+          [
+            -77.477657, 
+            37.5511111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "3075591845", 
+        "length": "100.5678678816157", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3075591846", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "303221622"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.477657, 
+            37.5511111
+          ], 
+          [
+            -77.4777734, 
+            37.5511536
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "49630964", 
+        "length": "11.30050663464966", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3075591846", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041068"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.477657, 
+            37.5511111
+          ], 
+          [
+            -77.4780778, 
+            37.5503662
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "3075591846", 
+        "length": "90.7824113735243", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3075591847", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "303221622"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4780778, 
+            37.5503662
+          ], 
+          [
+            -77.4785157, 
+            37.5495885
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "3075591847", 
+        "length": "94.72853565983773", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623858", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "303221622"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4780778, 
+            37.5503662
+          ], 
+          [
+            -77.4781868, 
+            37.5504048
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "3075591847", 
+        "length": "10.527128851819663", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614759", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797035, 
+            37.5509414
+          ], 
+          [
+            -77.4812288, 
+            37.5514812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "49614760", 
+        "length": "147.29486958124753", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614761", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4800761, 
+            37.5501407
+          ], 
+          [
+            -77.4800753, 
+            37.5502809
+          ], 
+          [
+            -77.4797035, 
+            37.5509414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Sheppard Street", 
+        "access": "", 
+        "to": "49614760", 
+        "length": "96.04295164698573", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623860", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[266493115, 83606950]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4792785, 
+            37.5517034
+          ], 
+          [
+            -77.4794827, 
+            37.5513336
+          ], 
+          [
+            -77.4797035, 
+            37.5509414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Sheppard Street", 
+        "access": "", 
+        "to": "49614760", 
+        "length": "92.6711409120922", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632094", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "83606950"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797035, 
+            37.5509414
+          ], 
+          [
+            -77.4786413, 
+            37.5505656
+          ], 
+          [
+            -77.4781868, 
+            37.5504048
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "access": "", 
+        "to": "49614759", 
+        "length": "146.45817480769685", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614760", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4812288, 
+            37.5514812
+          ], 
+          [
+            -77.4814581, 
+            37.551074
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "49614761", 
+        "length": "49.599898998046974", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2441784085", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "236116056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897027, 
+            37.5545933
+          ], 
+          [
+            -77.4894829, 
+            37.5549357
+          ], 
+          [
+            -77.4893729, 
+            37.5551295
+          ], 
+          [
+            -77.4888974, 
+            37.5559512
+          ], 
+          [
+            -77.4888713, 
+            37.5560398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2782570305", 
+        "length": "177.04208371693377", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611053", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "[46420362, 46420365]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4870719, 
+            37.5544884
+          ], 
+          [
+            -77.4872139, 
+            37.5543143
+          ], 
+          [
+            -77.4873757, 
+            37.5541266
+          ], 
+          [
+            -77.4876971, 
+            37.5537701
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Nansemond Street", 
+        "access": "", 
+        "to": "49614766", 
+        "length": "97.08531386355205", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3341621845", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836569, 
+            37.5519567
+          ], 
+          [
+            -77.4859417, 
+            37.5527791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "", 
+        "access": "", 
+        "to": "445851320", 
+        "length": "221.26604848320963", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594624178", 
+        "ref": "I 195", 
+        "highway": "motorway", 
+        "osmid": "253547114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4805297, 
+            37.5503012
+          ], 
+          [
+            -77.4810038, 
+            37.5505636
+          ], 
+          [
+            -77.4821187, 
+            37.5512485
+          ], 
+          [
+            -77.4827422, 
+            37.5516016
+          ], 
+          [
+            -77.4830373, 
+            37.5517419
+          ], 
+          [
+            -77.4832435, 
+            37.551831
+          ], 
+          [
+            -77.4836569, 
+            37.5519567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2594624178", 
+        "length": "333.02109733089304", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "449538804", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38173946"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4800761, 
+            37.5501407
+          ], 
+          [
+            -77.4805297, 
+            37.5503012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "access": "", 
+        "to": "49623860", 
+        "length": "43.80237365253317", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "449538804", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38335242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4882897, 
+            37.5571575
+          ], 
+          [
+            -77.4883415, 
+            37.557069
+          ], 
+          [
+            -77.4884222, 
+            37.5569302
+          ], 
+          [
+            -77.4884663, 
+            37.5568541
+          ], 
+          [
+            -77.4884991, 
+            37.5567979
+          ], 
+          [
+            -77.4885893, 
+            37.5566426
+          ], 
+          [
+            -77.4886398, 
+            37.5565554
+          ], 
+          [
+            -77.4887415, 
+            37.5563681
+          ], 
+          [
+            -77.4888066, 
+            37.5562408
+          ], 
+          [
+            -77.4888434, 
+            37.5561466
+          ], 
+          [
+            -77.4888713, 
+            37.5560398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Thompson Street", 
+        "access": "", 
+        "to": "2782570305", 
+        "length": "134.80040758111284", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614449", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "6035435"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4882897, 
+            37.5571575
+          ], 
+          [
+            -77.488262, 
+            37.5572073
+          ], 
+          [
+            -77.4880092, 
+            37.5576672
+          ], 
+          [
+            -77.4878603, 
+            37.5579323
+          ], 
+          [
+            -77.4876565, 
+            37.5582951
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North Thompson Street", 
+        "access": "", 
+        "to": "49615841", 
+        "length": "138.30229215043795", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614449", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6036929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4767389, 
+            37.550789
+          ], 
+          [
+            -77.4762831, 
+            37.5516174
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South Boulevard", 
+        "access": "", 
+        "to": "49622840", 
+        "length": "100.52474264880571", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616317", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "38364240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4785157, 
+            37.5495885
+          ], 
+          [
+            -77.4780572, 
+            37.5494262
+          ], 
+          [
+            -77.4775804, 
+            37.5492576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "access": "", 
+        "to": "49622841", 
+        "length": "90.31712257593952", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623858", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38335242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4762831, 
+            37.5516174
+          ], 
+          [
+            -77.4756721, 
+            37.5526943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South Boulevard", 
+        "access": "", 
+        "to": "49616317", 
+        "length": "131.33918518001", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614442", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "6036659"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4773025, 
+            37.5519755
+          ], 
+          [
+            -77.4775954, 
+            37.5520784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616320", 
+        "length": "28.250252753431063", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616322", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4773025, 
+            37.5519755
+          ], 
+          [
+            -77.4777734, 
+            37.5511536
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "49630964", 
+        "length": "100.40573106912456", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616320", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040350"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4888713, 
+            37.5560398
+          ], 
+          [
+            -77.4883324, 
+            37.55585
+          ], 
+          [
+            -77.4872367, 
+            37.5554656
+          ], 
+          [
+            -77.4865418, 
+            37.5552215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616339", 
+        "length": "224.66769065386143", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782570305", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4775954, 
+            37.5520784
+          ], 
+          [
+            -77.4773577, 
+            37.5525004
+          ], 
+          [
+            -77.4772259, 
+            37.5527345
+          ], 
+          [
+            -77.4769874, 
+            37.5531582
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "49614443", 
+        "length": "131.5252280315928", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616322", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6040352, 236026095]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.478821, 
+            37.552509
+          ], 
+          [
+            -77.477743, 
+            37.5521303
+          ], 
+          [
+            -77.4775954, 
+            37.5520784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616322", 
+        "length": "118.21027462084538", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616324", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.478821, 
+            37.552509
+          ], 
+          [
+            -77.4800783, 
+            37.5529507
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616324", 
+        "length": "121.26548938588476", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616326", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4792785, 
+            37.5517034
+          ], 
+          [
+            -77.4790539, 
+            37.5520951
+          ], 
+          [
+            -77.478821, 
+            37.552509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Sheppard Street", 
+        "access": "", 
+        "to": "49616324", 
+        "length": "98.26740607288401", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632094", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "83606950"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852061, 
+            37.5538215
+          ], 
+          [
+            -77.4833671, 
+            37.553172
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "49620806", 
+        "length": "177.5239568877314", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613912", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "266493122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852061, 
+            37.5538215
+          ], 
+          [
+            -77.4870719, 
+            37.5544884
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "3341621845", 
+        "length": "180.4706589488891", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620806", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "266493122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4845901, 
+            37.5545358
+          ], 
+          [
+            -77.4848957, 
+            37.5541817
+          ], 
+          [
+            -77.4852061, 
+            37.5538215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Freeman Road", 
+        "access": "", 
+        "to": "49620806", 
+        "length": "96.24196007063523", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616335", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035957"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4820988, 
+            37.5536606
+          ], 
+          [
+            -77.4820279, 
+            37.5536356
+          ], 
+          [
+            -77.4811811, 
+            37.5533382
+          ], 
+          [
+            -77.4803482, 
+            37.5530455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616328", 
+        "length": "168.84715940968994", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616329", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4803482, 
+            37.5530455
+          ], 
+          [
+            -77.4800783, 
+            37.5529507
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616326", 
+        "length": "26.03072476377987", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616328", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4820988, 
+            37.5536606
+          ], 
+          [
+            -77.482543, 
+            37.5538166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616329", 
+        "length": "42.83991256380408", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616331", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4819291, 
+            37.5549069
+          ], 
+          [
+            -77.4821482, 
+            37.5545176
+          ], 
+          [
+            -77.4821625, 
+            37.5544922
+          ], 
+          [
+            -77.4822984, 
+            37.554251
+          ], 
+          [
+            -77.482543, 
+            37.5538166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Auburn Avenue", 
+        "access": "", 
+        "to": "49616331", 
+        "length": "132.8032281824644", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614445", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034607"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482543, 
+            37.5538166
+          ], 
+          [
+            -77.482669, 
+            37.5538609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616331", 
+        "length": "12.1540233673437", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613911", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4781868, 
+            37.5504048
+          ], 
+          [
+            -77.4777734, 
+            37.5511536
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Colonial Avenue", 
+        "access": "", 
+        "to": "49614759", 
+        "length": "90.91485478509543", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630964", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040350"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4845901, 
+            37.5545358
+          ], 
+          [
+            -77.483974, 
+            37.5543193
+          ], 
+          [
+            -77.4838299, 
+            37.5542687
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616333", 
+        "length": "73.32084733014719", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616335", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4838299, 
+            37.5542687
+          ], 
+          [
+            -77.4835825, 
+            37.554708
+          ], 
+          [
+            -77.483449, 
+            37.554945
+          ], 
+          [
+            -77.4832144, 
+            37.5553617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Dooley Avenue", 
+        "access": "yes", 
+        "to": "49614446", 
+        "length": "133.13483045968027", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616333", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039310"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4838299, 
+            37.5542687
+          ], 
+          [
+            -77.482669, 
+            37.5538609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49613911", 
+        "length": "111.96459056705415", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616333", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4845901, 
+            37.5545358
+          ], 
+          [
+            -77.4851108, 
+            37.5547187
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616335", 
+        "length": "50.21880912661509", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616337", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4859417, 
+            37.5527791
+          ], 
+          [
+            -77.4878331, 
+            37.5534388
+          ], 
+          [
+            -77.4881469, 
+            37.5535537
+          ], 
+          [
+            -77.4883668, 
+            37.5536472
+          ], 
+          [
+            -77.4885626, 
+            37.5537408
+          ], 
+          [
+            -77.4887343, 
+            37.5538343
+          ], 
+          [
+            -77.4888899, 
+            37.5539279
+          ], 
+          [
+            -77.4890293, 
+            37.5540278
+          ], 
+          [
+            -77.4891632, 
+            37.554134
+          ], 
+          [
+            -77.4892707, 
+            37.5542341
+          ], 
+          [
+            -77.489359, 
+            37.5543296
+          ], 
+          [
+            -77.4894504, 
+            37.5544361
+          ], 
+          [
+            -77.4895363, 
+            37.5545573
+          ], 
+          [
+            -77.4896141, 
+            37.5546743
+          ], 
+          [
+            -77.4896889, 
+            37.5548208
+          ], 
+          [
+            -77.4897559, 
+            37.5549611
+          ], 
+          [
+            -77.4898045, 
+            37.5550953
+          ], 
+          [
+            -77.489842, 
+            37.5552399
+          ], 
+          [
+            -77.4898686, 
+            37.5553566
+          ], 
+          [
+            -77.4898903, 
+            37.5554929
+          ], 
+          [
+            -77.4898984, 
+            37.5556311
+          ], 
+          [
+            -77.4898672, 
+            37.5560757
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "", 
+        "access": "", 
+        "to": "2594625465", 
+        "length": "555.608853276419", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445851320", 
+        "ref": "I 195", 
+        "highway": "motorway", 
+        "osmid": "253547114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4870719, 
+            37.5544884
+          ], 
+          [
+            -77.4867776, 
+            37.5548436
+          ], 
+          [
+            -77.4865418, 
+            37.5552215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Nansemond Street", 
+        "access": "", 
+        "to": "49616339", 
+        "length": "94.16197927208185", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3341621845", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865418, 
+            37.5552215
+          ], 
+          [
+            -77.4858063, 
+            37.5549631
+          ], 
+          [
+            -77.4854728, 
+            37.5548459
+          ], 
+          [
+            -77.4851108, 
+            37.5547187
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Cary Street", 
+        "access": "", 
+        "to": "49616337", 
+        "length": "138.0187385272744", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616339", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876565, 
+            37.5582951
+          ], 
+          [
+            -77.4872583, 
+            37.5590059
+          ], 
+          [
+            -77.4870688, 
+            37.5593559
+          ], 
+          [
+            -77.4870556, 
+            37.5593803
+          ], 
+          [
+            -77.4870319, 
+            37.5594241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North Thompson Street", 
+        "access": "", 
+        "to": "3135953364", 
+        "length": "137.12253389672355", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615841", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531996"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877242, 
+            37.5597636
+          ], 
+          [
+            -77.4871267, 
+            37.5594706
+          ], 
+          [
+            -77.4870926, 
+            37.5594539
+          ], 
+          [
+            -77.4870319, 
+            37.5594241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "3135953364", 
+        "length": "71.77684271912882", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3135953363", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308302659"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833671, 
+            37.553172
+          ], 
+          [
+            -77.483013, 
+            37.5535141
+          ], 
+          [
+            -77.482669, 
+            37.5538609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Beaumont Avenue", 
+        "access": "", 
+        "to": "49613911", 
+        "length": "98.29321318770397", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613912", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4840595, 
+            37.5524801
+          ], 
+          [
+            -77.4837069, 
+            37.5528285
+          ], 
+          [
+            -77.4833671, 
+            37.553172
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Beaumont Avenue", 
+        "access": "", 
+        "to": "49613912", 
+        "length": "98.23694872034915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613913", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4777734, 
+            37.5511536
+          ], 
+          [
+            -77.4782125, 
+            37.551314
+          ], 
+          [
+            -77.4792785, 
+            37.5517034
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Parkwood Avenue", 
+        "access": "", 
+        "to": "49632094", 
+        "length": "146.13171364650873", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630964", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041068"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4880373, 
+            37.5584758
+          ], 
+          [
+            -77.4880015, 
+            37.5584588
+          ], 
+          [
+            -77.4876565, 
+            37.5582951
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Floyd Avenue", 
+        "access": "", 
+        "to": "49615841", 
+        "length": "39.131973230700225", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615842", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "182531907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4853039, 
+            37.5574594
+          ], 
+          [
+            -77.4859798, 
+            37.5576995
+          ], 
+          [
+            -77.4863851, 
+            37.5578435
+          ], 
+          [
+            -77.4867829, 
+            37.5579848
+          ], 
+          [
+            -77.4869722, 
+            37.558052
+          ], 
+          [
+            -77.4871687, 
+            37.5581218
+          ], 
+          [
+            -77.4876565, 
+            37.5582951
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Floyd Avenue", 
+        "access": "", 
+        "to": "49615841", 
+        "length": "227.3101782000564", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "569092541", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877242, 
+            37.5597636
+          ], 
+          [
+            -77.4879755, 
+            37.5593214
+          ], 
+          [
+            -77.4883074, 
+            37.5587317
+          ], 
+          [
+            -77.4883053, 
+            37.5586842
+          ], 
+          [
+            -77.4882704, 
+            37.5586287
+          ], 
+          [
+            -77.4882088, 
+            37.5585888
+          ], 
+          [
+            -77.4880985, 
+            37.5585316
+          ], 
+          [
+            -77.4880373, 
+            37.5584758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "['Floyd Avenue', 'Berrington Court']", 
+        "access": "", 
+        "to": "49615842", 
+        "length": "164.81102330634465", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3135953363", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[182531908, 6032855]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4844939, 
+            37.5558144
+          ], 
+          [
+            -77.4847265, 
+            37.5554013
+          ], 
+          [
+            -77.4848031, 
+            37.5552653
+          ], 
+          [
+            -77.4848615, 
+            37.5551616
+          ], 
+          [
+            -77.4851108, 
+            37.5547187
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Crenshaw Avenue", 
+        "access": "yes", 
+        "to": "49616337", 
+        "length": "133.45924533387762", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614447", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034638"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4794673, 
+            37.5540358
+          ], 
+          [
+            -77.4796923, 
+            37.5536363
+          ], 
+          [
+            -77.4797705, 
+            37.5534973
+          ], 
+          [
+            -77.4798501, 
+            37.553356
+          ], 
+          [
+            -77.4798817, 
+            37.5532998
+          ], 
+          [
+            -77.4800783, 
+            37.5529507
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "49616326", 
+        "length": "132.17110499292255", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614444", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039226"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756721, 
+            37.5526943
+          ], 
+          [
+            -77.4757407, 
+            37.5527171
+          ], 
+          [
+            -77.4769874, 
+            37.5531582
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Ellwood Avenue", 
+        "access": "", 
+        "to": "49614443", 
+        "length": "126.94320886871232", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614442", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4794673, 
+            37.5540358
+          ], 
+          [
+            -77.4819291, 
+            37.5549069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Ellwood Avenue", 
+        "access": "", 
+        "to": "49614445", 
+        "length": "237.71627435016902", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614444", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4819291, 
+            37.5549069
+          ], 
+          [
+            -77.4832144, 
+            37.5553617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Ellwood Avenue", 
+        "access": "", 
+        "to": "49614446", 
+        "length": "124.11022136475013", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614445", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4832144, 
+            37.5553617
+          ], 
+          [
+            -77.4844939, 
+            37.5558144
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Ellwood Avenue", 
+        "access": "", 
+        "to": "49614447", 
+        "length": "123.54737689050542", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614446", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4898672, 
+            37.5560757
+          ], 
+          [
+            -77.4896194, 
+            37.5573664
+          ], 
+          [
+            -77.4895046, 
+            37.5577496
+          ], 
+          [
+            -77.4894022, 
+            37.5580316
+          ], 
+          [
+            -77.4892863, 
+            37.5583184
+          ], 
+          [
+            -77.4890108, 
+            37.5589131
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "55 mph", 
+        "lanes": "5", 
+        "name": "", 
+        "access": "", 
+        "to": "619615358", 
+        "length": "325.62207033305293", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594625465", 
+        "ref": "I 195", 
+        "highway": "motorway", 
+        "osmid": "123061051"
+      }
+    }
+  ]
+}

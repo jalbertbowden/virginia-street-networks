@@ -1,0 +1,3221 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325644, 
+            37.5481337
+          ], 
+          [
+            -77.4327345, 
+            37.5479157
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157064", 
+        "length": "28.512110301779163", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451094404", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6039697"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325644, 
+            37.5481337
+          ], 
+          [
+            -77.4326244, 
+            37.5480248
+          ], 
+          [
+            -77.4326614, 
+            37.5478738
+          ], 
+          [
+            -77.4326573, 
+            37.5477948
+          ], 
+          [
+            -77.4326492, 
+            37.5477206
+          ], 
+          [
+            -77.4326105, 
+            37.5476207
+          ], 
+          [
+            -77.4325414, 
+            37.5475353
+          ], 
+          [
+            -77.4324459, 
+            37.5474628
+          ], 
+          [
+            -77.4322468, 
+            37.5473715
+          ], 
+          [
+            -77.4320637, 
+            37.5473661
+          ], 
+          [
+            -77.4318544, 
+            37.5473822
+          ], 
+          [
+            -77.4316511, 
+            37.5473822
+          ], 
+          [
+            -77.4314133, 
+            37.54735
+          ], 
+          [
+            -77.4311958, 
+            37.5473
+          ], 
+          [
+            -77.4310311, 
+            37.5472517
+          ], 
+          [
+            -77.4308644, 
+            37.5471727
+          ], 
+          [
+            -77.4305433, 
+            37.5469857
+          ], 
+          [
+            -77.4301814, 
+            37.5467698
+          ], 
+          [
+            -77.4298013, 
+            37.5464958
+          ], 
+          [
+            -77.4296529, 
+            37.5463669
+          ], 
+          [
+            -77.4295127, 
+            37.5462379
+          ], 
+          [
+            -77.4293439, 
+            37.5460316
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1003940932", 
+        "length": "414.8252368352699", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451094404", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38256047"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4307196, 
+            37.5389663
+          ], 
+          [
+            -77.4312844, 
+            37.5393035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49626008", 
+        "length": "62.35363836902432", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "4319554902", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4307196, 
+            37.5389663
+          ], 
+          [
+            -77.429785, 
+            37.5384084
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "4319554902", 
+        "length": "103.17441540762219", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1003940950", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4292447, 
+            37.5380676
+          ], 
+          [
+            -77.4296664, 
+            37.538327
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "5", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "571666655", 
+        "length": "47.07148220893633", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631238", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374943"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4327345, 
+            37.5479157
+          ], 
+          [
+            -77.4329184, 
+            37.5480272
+          ], 
+          [
+            -77.4331001, 
+            37.5481408
+          ], 
+          [
+            -77.4332541, 
+            37.5482372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157063", 
+        "length": "58.124447765448544", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3006157064", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796858"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.434788, 
+            37.5472267
+          ], 
+          [
+            -77.4346094, 
+            37.5474112
+          ], 
+          [
+            -77.4345861, 
+            37.547434
+          ], 
+          [
+            -77.4343399, 
+            37.5476058
+          ], 
+          [
+            -77.434318, 
+            37.5476176
+          ], 
+          [
+            -77.4337931, 
+            37.5479003
+          ], 
+          [
+            -77.433761, 
+            37.5479204
+          ], 
+          [
+            -77.4332541, 
+            37.5482372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 4th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157063", 
+        "length": "176.87457300241252", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614113", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298377"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332541, 
+            37.5482372
+          ], 
+          [
+            -77.4331431, 
+            37.5483065
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 4th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49613238", 
+        "length": "12.459036528921963", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157063", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298377"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4327345, 
+            37.5479157
+          ], 
+          [
+            -77.4338923, 
+            37.5466987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49629090", 
+        "length": "169.551417624371", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157064", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298381"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4313678, 
+            37.5420027
+          ], 
+          [
+            -77.4304738, 
+            37.541467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Clay Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49616779", 
+        "length": "98.8261893138858", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624177", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4306436, 
+            37.5427449
+          ], 
+          [
+            -77.4309628, 
+            37.5424195
+          ], 
+          [
+            -77.4313678, 
+            37.5420027
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 10th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49616779", 
+        "length": "104.37470448193474", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2124721839", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253279981"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4291929, 
+            37.5427959
+          ], 
+          [
+            -77.4293447, 
+            37.5428831
+          ], 
+          [
+            -77.4295637, 
+            37.5430014
+          ], 
+          [
+            -77.4297564, 
+            37.5430956
+          ], 
+          [
+            -77.4299128, 
+            37.5431457
+          ], 
+          [
+            -77.4300625, 
+            37.543189
+          ], 
+          [
+            -77.4301608, 
+            37.5432106
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49616780", 
+        "length": "97.79140779703083", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620329", 
+        "ref": "SR 33", 
+        "highway": "secondary", 
+        "osmid": "153957421"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301608, 
+            37.5432106
+          ], 
+          [
+            -77.4302359, 
+            37.5432311
+          ], 
+          [
+            -77.4303719, 
+            37.5432683
+          ], 
+          [
+            -77.4305449, 
+            37.5433307
+          ], 
+          [
+            -77.4307183, 
+            37.5434048
+          ], 
+          [
+            -77.4312073, 
+            37.543653
+          ], 
+          [
+            -77.4320486, 
+            37.5441753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3748177404", 
+        "length": "199.26142321482138", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616780", 
+        "ref": "SR 33", 
+        "highway": "secondary", 
+        "osmid": "153957421"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4288443, 
+            37.5445487
+          ], 
+          [
+            -77.4293921, 
+            37.5440046
+          ], 
+          [
+            -77.4301608, 
+            37.5432106
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 10th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49616780", 
+        "length": "188.768873083903", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1003940925", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301608, 
+            37.5432106
+          ], 
+          [
+            -77.4302574, 
+            37.5431043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 10th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49616780", 
+        "length": "14.572877366670369", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1991039943", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152646906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4320817, 
+            37.5456286
+          ], 
+          [
+            -77.4316283, 
+            37.5453565
+          ], 
+          [
+            -77.4311776, 
+            37.5450904
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Jackson Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157069", 
+        "length": "99.70264346590645", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616168", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "370505920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4320486, 
+            37.5441753
+          ], 
+          [
+            -77.4316475, 
+            37.5446004
+          ], 
+          [
+            -77.4315421, 
+            37.5447118
+          ], 
+          [
+            -77.4313939, 
+            37.5448684
+          ], 
+          [
+            -77.4311776, 
+            37.5450904
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 8th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157069", 
+        "length": "127.51727413305926", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3748177404", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "323492642"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4304226, 
+            37.5458885
+          ], 
+          [
+            -77.4306525, 
+            37.5456474
+          ], 
+          [
+            -77.4309958, 
+            37.5452875
+          ], 
+          [
+            -77.4311776, 
+            37.5450904
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 8th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157069", 
+        "length": "110.9675024915779", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3006157087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "334083909"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301918, 
+            37.5461416
+          ], 
+          [
+            -77.4301513, 
+            37.5461595
+          ], 
+          [
+            -77.4301367, 
+            37.5461723
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49616014", 
+        "length": "6.008561525045451", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157073", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796859"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301367, 
+            37.5461723
+          ], 
+          [
+            -77.4301203, 
+            37.5461867
+          ], 
+          [
+            -77.430112, 
+            37.5462023
+          ], 
+          [
+            -77.4301021, 
+            37.5462207
+          ], 
+          [
+            -77.4300987, 
+            37.5462576
+          ], 
+          [
+            -77.4301107, 
+            37.5462933
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157084", 
+        "length": "14.490769255693227", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616014", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796859"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301367, 
+            37.5461723
+          ], 
+          [
+            -77.4300787, 
+            37.5461586
+          ], 
+          [
+            -77.4300023, 
+            37.5461299
+          ], 
+          [
+            -77.4299165, 
+            37.5460799
+          ], 
+          [
+            -77.4298333, 
+            37.5460161
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Duval Street Connection", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3411721054", 
+        "length": "32.39026461793545", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616014", 
+        "ref": "SR 353", 
+        "highway": "residential", 
+        "osmid": "441708932"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303241, 
+            37.5461577
+          ], 
+          [
+            -77.4302831, 
+            37.5461407
+          ], 
+          [
+            -77.4302373, 
+            37.5461351
+          ], 
+          [
+            -77.4301918, 
+            37.5461416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157073", 
+        "length": "12.244089854510722", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157071", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796859"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303699, 
+            37.5462082
+          ], 
+          [
+            -77.430356, 
+            37.5461842
+          ], 
+          [
+            -77.4303241, 
+            37.5461577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157071", 
+        "length": "7.011934073574453", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3411721075", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796859"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303241, 
+            37.5461577
+          ], 
+          [
+            -77.4303268, 
+            37.5461199
+          ], 
+          [
+            -77.4303338, 
+            37.5460764
+          ], 
+          [
+            -77.4303611, 
+            37.5460015
+          ], 
+          [
+            -77.4303759, 
+            37.5459607
+          ], 
+          [
+            -77.4304226, 
+            37.5458885
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 8th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157087", 
+        "length": "31.507370841434643", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157071", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "442675047"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4304226, 
+            37.5458885
+          ], 
+          [
+            -77.4303513, 
+            37.5459431
+          ], 
+          [
+            -77.4303058, 
+            37.545994
+          ], 
+          [
+            -77.4302486, 
+            37.5460755
+          ], 
+          [
+            -77.4302346, 
+            37.5460977
+          ], 
+          [
+            -77.4302217, 
+            37.5461144
+          ], 
+          [
+            -77.4301918, 
+            37.5461416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 8th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157073", 
+        "length": "35.006755052661845", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "334083910"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303449, 
+            37.5463212
+          ], 
+          [
+            -77.4303696, 
+            37.5462899
+          ], 
+          [
+            -77.4303801, 
+            37.5462541
+          ], 
+          [
+            -77.4303754, 
+            37.5462176
+          ], 
+          [
+            -77.4303699, 
+            37.5462082
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3411721075", 
+        "length": "13.428220317798585", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157079", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796859"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301107, 
+            37.5462933
+          ], 
+          [
+            -77.4301368, 
+            37.546324
+          ], 
+          [
+            -77.4301739, 
+            37.5463462
+          ], 
+          [
+            -77.4302183, 
+            37.5463577
+          ], 
+          [
+            -77.4302649, 
+            37.5463571
+          ], 
+          [
+            -77.4303087, 
+            37.5463444
+          ], 
+          [
+            -77.4303449, 
+            37.5463212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157079", 
+        "length": "24.66371962296393", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157084", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "296796859"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303449, 
+            37.5463212
+          ], 
+          [
+            -77.430455, 
+            37.5463347
+          ], 
+          [
+            -77.4305033, 
+            37.5463464
+          ], 
+          [
+            -77.4305762, 
+            37.5463751
+          ], 
+          [
+            -77.4307072, 
+            37.5464459
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Duval Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157095", 
+        "length": "35.43747688337726", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157079", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "334083908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4298333, 
+            37.5460161
+          ], 
+          [
+            -77.4298749, 
+            37.5460831
+          ], 
+          [
+            -77.4299178, 
+            37.5461235
+          ], 
+          [
+            -77.4300211, 
+            37.5461948
+          ], 
+          [
+            -77.4300466, 
+            37.5462182
+          ], 
+          [
+            -77.4301107, 
+            37.5462933
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Duval Street Connection", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157084", 
+        "length": "39.78398535634048", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3411721054", 
+        "ref": "SR 353", 
+        "highway": "residential", 
+        "osmid": "6040599"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4320817, 
+            37.5456286
+          ], 
+          [
+            -77.4327883, 
+            37.5460373
+          ], 
+          [
+            -77.4329194, 
+            37.5461132
+          ], 
+          [
+            -77.4329908, 
+            37.5461545
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Jackson Street", 
+        "tunnel": "yes", 
+        "access": "", 
+        "to": "49618849", 
+        "length": "99.2419246333252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616168", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[370505920, 370505921, 346922691]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4329908, 
+            37.5461545
+          ], 
+          [
+            -77.4338923, 
+            37.5466987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Jackson Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49618849", 
+        "length": "99.92055362516764", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629090", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "346922691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4309488, 
+            37.5468457
+          ], 
+          [
+            -77.4314963, 
+            37.5471794
+          ], 
+          [
+            -77.4315426, 
+            37.5471906
+          ], 
+          [
+            -77.4319084, 
+            37.5472159
+          ], 
+          [
+            -77.4319636, 
+            37.5472155
+          ], 
+          [
+            -77.4319942, 
+            37.5472054
+          ], 
+          [
+            -77.4320374, 
+            37.5471741
+          ], 
+          [
+            -77.4320763, 
+            37.5471332
+          ], 
+          [
+            -77.4326171, 
+            37.5465421
+          ], 
+          [
+            -77.4326631, 
+            37.5464927
+          ], 
+          [
+            -77.4329908, 
+            37.5461545
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Navy Hill Drive', 'East Duval Street']", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49618849", 
+        "length": "251.68605103653852", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3006157094", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[54376232, 6034114]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4338923, 
+            37.5466987
+          ], 
+          [
+            -77.434788, 
+            37.5472267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Jackson Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49629090", 
+        "length": "98.42803415203623", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614113", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "370505919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4320817, 
+            37.5456286
+          ], 
+          [
+            -77.4317689, 
+            37.5459653
+          ], 
+          [
+            -77.431722, 
+            37.5460157
+          ], 
+          [
+            -77.4315596, 
+            37.5461885
+          ], 
+          [
+            -77.4312423, 
+            37.5465261
+          ], 
+          [
+            -77.4312009, 
+            37.5465701
+          ], 
+          [
+            -77.4311404, 
+            37.5466345
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "3006157091", 
+        "length": "139.31470371297996", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616168", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "323475613"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4311404, 
+            37.5466345
+          ], 
+          [
+            -77.4309369, 
+            37.5464995
+          ], 
+          [
+            -77.4307867, 
+            37.5464133
+          ], 
+          [
+            -77.4306352, 
+            37.5463293
+          ], 
+          [
+            -77.4305248, 
+            37.5462751
+          ], 
+          [
+            -77.4304108, 
+            37.5462241
+          ], 
+          [
+            -77.4303699, 
+            37.5462082
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Duval Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3411721075", 
+        "length": "83.06531378055287", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157091", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "334083907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4311404, 
+            37.5466345
+          ], 
+          [
+            -77.4309488, 
+            37.5468457
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "3006157091", 
+        "length": "28.936463803341287", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3006157094", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "279628639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286337, 
+            37.5384591
+          ], 
+          [
+            -77.4283426, 
+            37.53873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "571666671", 
+        "length": "39.58581807706539", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609510", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4307072, 
+            37.5464459
+          ], 
+          [
+            -77.4307799, 
+            37.5465076
+          ], 
+          [
+            -77.4308308, 
+            37.5465671
+          ], 
+          [
+            -77.4308523, 
+            37.5466203
+          ], 
+          [
+            -77.4308603, 
+            37.5466734
+          ], 
+          [
+            -77.4308469, 
+            37.5467223
+          ], 
+          [
+            -77.4308147, 
+            37.5467606
+          ], 
+          [
+            -77.4307638, 
+            37.546784
+          ], 
+          [
+            -77.4307101, 
+            37.5467968
+          ], 
+          [
+            -77.4306404, 
+            37.5467861
+          ], 
+          [
+            -77.4305626, 
+            37.5467542
+          ], 
+          [
+            -77.4301753, 
+            37.5465264
+          ], 
+          [
+            -77.4296915, 
+            37.5462685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157107", 
+        "length": "158.29179554896803", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157095", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "296796861"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4307072, 
+            37.5464459
+          ], 
+          [
+            -77.4308252, 
+            37.5465101
+          ], 
+          [
+            -77.4309056, 
+            37.5465729
+          ], 
+          [
+            -77.4309392, 
+            37.5466111
+          ], 
+          [
+            -77.430974, 
+            37.5466632
+          ], 
+          [
+            -77.4309848, 
+            37.5467175
+          ], 
+          [
+            -77.4309848, 
+            37.5467441
+          ], 
+          [
+            -77.4309754, 
+            37.5467813
+          ], 
+          [
+            -77.4309488, 
+            37.5468457
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Duval Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157094", 
+        "length": "55.1407247757324", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157095", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "334083908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4312828, 
+            37.5435759
+          ], 
+          [
+            -77.4312003, 
+            37.5435197
+          ], 
+          [
+            -77.4311001, 
+            37.5434564
+          ], 
+          [
+            -77.4309993, 
+            37.5433914
+          ], 
+          [
+            -77.4308886, 
+            37.5433299
+          ], 
+          [
+            -77.4307509, 
+            37.5432592
+          ], 
+          [
+            -77.4307271, 
+            37.5432514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2124721838", 
+        "length": "61.0084027875064", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991039936", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "188477719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4307271, 
+            37.5432514
+          ], 
+          [
+            -77.4305973, 
+            37.543145
+          ], 
+          [
+            -77.4305611, 
+            37.5430918
+          ], 
+          [
+            -77.430549, 
+            37.5430099
+          ], 
+          [
+            -77.4305673, 
+            37.5429293
+          ], 
+          [
+            -77.4306436, 
+            37.5427449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2124721839", 
+        "length": "63.05480292399399", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2124721838", 
+        "ref": "", 
+        "highway": "secondary_link", 
+        "osmid": "202504974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4307271, 
+            37.5432514
+          ], 
+          [
+            -77.4306351, 
+            37.5432192
+          ], 
+          [
+            -77.4305249, 
+            37.5431801
+          ], 
+          [
+            -77.4303231, 
+            37.5431264
+          ], 
+          [
+            -77.4302574, 
+            37.5431043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1991039943", 
+        "length": "44.582544615665284", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2124721838", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "188477719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302574, 
+            37.5431043
+          ], 
+          [
+            -77.4303081, 
+            37.5430571
+          ], 
+          [
+            -77.4306436, 
+            37.5427449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 10th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2124721839", 
+        "length": "52.51683002588137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1991039943", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253279981"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4300295, 
+            37.5405596
+          ], 
+          [
+            -77.4296617, 
+            37.5409711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 12th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1654524311", 
+        "length": "56.09860179490025", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624181", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152646902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4308889, 
+            37.5469079
+          ], 
+          [
+            -77.4307948, 
+            37.5468993
+          ], 
+          [
+            -77.4306933, 
+            37.5468721
+          ], 
+          [
+            -77.4306083, 
+            37.546831
+          ], 
+          [
+            -77.4304965, 
+            37.5467617
+          ], 
+          [
+            -77.4301936, 
+            37.5465796
+          ], 
+          [
+            -77.4296915, 
+            37.5462685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "3006157107", 
+        "length": "128.8139952732694", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1859088407", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "86411968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4296915, 
+            37.5462685
+          ], 
+          [
+            -77.4293439, 
+            37.5460316
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1003940932", 
+        "length": "40.422208658925804", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3006157107", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "86411968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.43568, 
+            37.5477525
+          ], 
+          [
+            -77.4353279, 
+            37.5479487
+          ], 
+          [
+            -77.4350472, 
+            37.548039
+          ], 
+          [
+            -77.4347987, 
+            37.5480796
+          ], 
+          [
+            -77.4344104, 
+            37.5480905
+          ], 
+          [
+            -77.4339024, 
+            37.5480941
+          ], 
+          [
+            -77.4336529, 
+            37.5481319
+          ], 
+          [
+            -77.4333875, 
+            37.5482074
+          ], 
+          [
+            -77.4331431, 
+            37.5483065
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49613238", 
+        "length": "237.5757342844598", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629089", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298373"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4288443, 
+            37.5445487
+          ], 
+          [
+            -77.4286333, 
+            37.5442208
+          ], 
+          [
+            -77.4284691, 
+            37.5439145
+          ], 
+          [
+            -77.4282296, 
+            37.5434342
+          ], 
+          [
+            -77.4280879, 
+            37.5430824
+          ], 
+          [
+            -77.427945, 
+            37.5426534
+          ], 
+          [
+            -77.4279185, 
+            37.5425718
+          ], 
+          [
+            -77.4277752, 
+            37.5420391
+          ], 
+          [
+            -77.4277611, 
+            37.5419768
+          ], 
+          [
+            -77.4277544, 
+            37.5419002
+          ], 
+          [
+            -77.4277825, 
+            37.5416162
+          ], 
+          [
+            -77.4277946, 
+            37.5415674
+          ], 
+          [
+            -77.4278067, 
+            37.5415259
+          ], 
+          [
+            -77.4278402, 
+            37.5414568
+          ], 
+          [
+            -77.4290679, 
+            37.5401143
+          ], 
+          [
+            -77.4295823, 
+            37.5395781
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Duval Street Connection', '13th Street']", 
+        "tunnel": "yes", 
+        "access": "", 
+        "to": "49615031", 
+        "length": "620.9409412383329", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1003940925", 
+        "ref": "SR 353", 
+        "highway": "residential", 
+        "osmid": "[334083906, 263140125, 263140126]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4295823, 
+            37.5395781
+          ], 
+          [
+            -77.4289667, 
+            37.5391961
+          ], 
+          [
+            -77.42961, 
+            37.5385056
+          ], 
+          [
+            -77.4296981, 
+            37.5384373
+          ], 
+          [
+            -77.429785, 
+            37.5384084
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "['East Marshall Street', 'College St']", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1003940950", 
+        "length": "183.60536451796082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615031", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[86411969, 374649614]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4308889, 
+            37.5469079
+          ], 
+          [
+            -77.4309488, 
+            37.5468457
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "3006157094", 
+        "length": "8.704356337223981", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1859088407", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "279628639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4304738, 
+            37.541467
+          ], 
+          [
+            -77.4303412, 
+            37.5415978
+          ], 
+          [
+            -77.4302614, 
+            37.5416806
+          ], 
+          [
+            -77.4300691, 
+            37.5418867
+          ], 
+          [
+            -77.4293184, 
+            37.5426678
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 11th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1991039932", 
+        "length": "168.00140713995694", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624177", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649615"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4293184, 
+            37.5426678
+          ], 
+          [
+            -77.4291929, 
+            37.5427959
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 11th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49620329", 
+        "length": "18.041851280029405", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991039932", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649616"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4293184, 
+            37.5426678
+          ], 
+          [
+            -77.4289517, 
+            37.5424359
+          ], 
+          [
+            -77.428506, 
+            37.5421863
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49620330", 
+        "length": "89.48867878497026", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991039932", 
+        "ref": "SR 33", 
+        "highway": "secondary", 
+        "osmid": "188477714"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302574, 
+            37.5431043
+          ], 
+          [
+            -77.4301666, 
+            37.543072
+          ], 
+          [
+            -77.4301118, 
+            37.5430525
+          ], 
+          [
+            -77.429857, 
+            37.5429611
+          ], 
+          [
+            -77.4296877, 
+            37.542881
+          ], 
+          [
+            -77.4295106, 
+            37.5427832
+          ], 
+          [
+            -77.4293184, 
+            37.5426678
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1991039932", 
+        "length": "96.41964324659686", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991039943", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "188477719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4298333, 
+            37.5460161
+          ], 
+          [
+            -77.4297958, 
+            37.5459752
+          ], 
+          [
+            -77.4296534, 
+            37.5458104
+          ], 
+          [
+            -77.4295006, 
+            37.5455967
+          ], 
+          [
+            -77.4294287, 
+            37.5454779
+          ], 
+          [
+            -77.4288443, 
+            37.5445487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Duval Street Connection", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1003940925", 
+        "length": "185.3112137701653", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3411721054", 
+        "ref": "SR 353", 
+        "highway": "residential", 
+        "osmid": "334083906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4293439, 
+            37.5460316
+          ], 
+          [
+            -77.4292728, 
+            37.5459378
+          ], 
+          [
+            -77.4288534, 
+            37.5453426
+          ], 
+          [
+            -77.4285325, 
+            37.5448097
+          ], 
+          [
+            -77.428235, 
+            37.5442956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "29933562", 
+        "length": "216.60007900665315", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1003940932", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38256047"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4349279, 
+            37.5493767
+          ], 
+          [
+            -77.4347064, 
+            37.5492562
+          ], 
+          [
+            -77.4345378, 
+            37.5491535
+          ], 
+          [
+            -77.4344597, 
+            37.549082
+          ], 
+          [
+            -77.4343983, 
+            37.5490089
+          ], 
+          [
+            -77.4343553, 
+            37.5489122
+          ], 
+          [
+            -77.434334, 
+            37.5488388
+          ], 
+          [
+            -77.4343283, 
+            37.548748
+          ], 
+          [
+            -77.4343358, 
+            37.5486858
+          ], 
+          [
+            -77.4343607, 
+            37.548591
+          ], 
+          [
+            -77.4343983, 
+            37.5485155
+          ], 
+          [
+            -77.4344471, 
+            37.5484397
+          ], 
+          [
+            -77.4345309, 
+            37.5483567
+          ], 
+          [
+            -77.4347138, 
+            37.5482473
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "571675732", 
+        "length": "160.86427040759682", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451093829", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "45088996"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.434788, 
+            37.5472267
+          ], 
+          [
+            -77.43568, 
+            37.5477525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Jackson Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49614113", 
+        "length": "98.01974166336954", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "370505919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.43568, 
+            37.5477525
+          ], 
+          [
+            -77.4361666, 
+            37.5480023
+          ], 
+          [
+            -77.4366301, 
+            37.5482744
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Jackson Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49613395", 
+        "length": "101.9792415512672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039534"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4347138, 
+            37.5482473
+          ], 
+          [
+            -77.4350857, 
+            37.5481381
+          ], 
+          [
+            -77.4353664, 
+            37.5480275
+          ], 
+          [
+            -77.4355335, 
+            37.5479204
+          ], 
+          [
+            -77.43568, 
+            37.5477525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49629089", 
+        "length": "104.27102155159541", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571675732", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040791"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.429785, 
+            37.5384084
+          ], 
+          [
+            -77.4296664, 
+            37.538327
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "5", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "1003940950", 
+        "length": "13.834198639711643", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571666655", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374943"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4273187, 
+            37.5420881
+          ], 
+          [
+            -77.4273032, 
+            37.5418777
+          ], 
+          [
+            -77.4272682, 
+            37.5416438
+          ], 
+          [
+            -77.4272371, 
+            37.5414994
+          ], 
+          [
+            -77.4272326, 
+            37.541359
+          ], 
+          [
+            -77.4272612, 
+            37.5410166
+          ], 
+          [
+            -77.4273041, 
+            37.5405913
+          ], 
+          [
+            -77.427334, 
+            37.540351
+          ], 
+          [
+            -77.427369, 
+            37.540213
+          ], 
+          [
+            -77.4274182, 
+            37.5400787
+          ], 
+          [
+            -77.4274956, 
+            37.5399335
+          ], 
+          [
+            -77.4275676, 
+            37.5398381
+          ], 
+          [
+            -77.4277011, 
+            37.5396684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "571662809", 
+        "length": "277.39262209231725", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "29933563", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "45088497"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4277011, 
+            37.5396684
+          ], 
+          [
+            -77.4289996, 
+            37.5383074
+          ], 
+          [
+            -77.4290667, 
+            37.5382478
+          ], 
+          [
+            -77.4291449, 
+            37.5382157
+          ], 
+          [
+            -77.4292444, 
+            37.538198
+          ], 
+          [
+            -77.4293485, 
+            37.5382094
+          ], 
+          [
+            -77.4294663, 
+            37.5382408
+          ], 
+          [
+            -77.4296664, 
+            37.538327
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "571666655", 
+        "length": "255.77792893754435", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571662809", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "45087734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4283976, 
+            37.5422999
+          ], 
+          [
+            -77.4285014, 
+            37.5423579
+          ], 
+          [
+            -77.4288276, 
+            37.5425584
+          ], 
+          [
+            -77.4291929, 
+            37.5427959
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49620329", 
+        "length": "89.2604180010744", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2924777821", 
+        "ref": "SR 33", 
+        "highway": "secondary", 
+        "osmid": "[253279980, 356033614]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4283976, 
+            37.5422999
+          ], 
+          [
+            -77.428506, 
+            37.5421863
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 12th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2924777821", 
+        "length": "15.844376028293707", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620330", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "288924953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4296617, 
+            37.5409711
+          ], 
+          [
+            -77.4292699, 
+            37.5414061
+          ], 
+          [
+            -77.428506, 
+            37.5421863
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 12th Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49620330", 
+        "length": "169.3155930050881", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624181", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152646902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4283426, 
+            37.53873
+          ], 
+          [
+            -77.4281336, 
+            37.538826
+          ], 
+          [
+            -77.4280377, 
+            37.5388404
+          ], 
+          [
+            -77.4279332, 
+            37.5388298
+          ], 
+          [
+            -77.427833, 
+            37.5387924
+          ], 
+          [
+            -77.4277588, 
+            37.538734
+          ], 
+          [
+            -77.427721, 
+            37.5386767
+          ], 
+          [
+            -77.4277047, 
+            37.5385902
+          ], 
+          [
+            -77.4277149, 
+            37.5385171
+          ], 
+          [
+            -77.4277428, 
+            37.538441
+          ], 
+          [
+            -77.4278704, 
+            37.5382394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "29933566", 
+        "length": "117.19429710815812", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571666671", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "253279190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4296617, 
+            37.5409711
+          ], 
+          [
+            -77.4300738, 
+            37.5412162
+          ], 
+          [
+            -77.4304738, 
+            37.541467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Clay Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49624177", 
+        "length": "90.40619177021937", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624181", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "323494599"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4296617, 
+            37.5409711
+          ], 
+          [
+            -77.4292363, 
+            37.5407439
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Clay Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49624181", 
+        "length": "45.23455193727945", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624182", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "323494599"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.428235, 
+            37.5442956
+          ], 
+          [
+            -77.4273187, 
+            37.5420881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "Richmond-Petersburg Turnpike", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "29933563", 
+        "length": "258.4880125558863", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "29933562", 
+        "ref": "I 95", 
+        "highway": "motorway", 
+        "osmid": "31839711"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4273187, 
+            37.5420881
+          ], 
+          [
+            -77.4271578, 
+            37.5416948
+          ], 
+          [
+            -77.42704, 
+            37.5413331
+          ], 
+          [
+            -77.4269613, 
+            37.5410314
+          ], 
+          [
+            -77.4269321, 
+            37.540772
+          ], 
+          [
+            -77.4269156, 
+            37.5404698
+          ], 
+          [
+            -77.4269327, 
+            37.5401445
+          ], 
+          [
+            -77.4269641, 
+            37.539885
+          ], 
+          [
+            -77.4270179, 
+            37.5396656
+          ], 
+          [
+            -77.4271098, 
+            37.53939
+          ], 
+          [
+            -77.4272681, 
+            37.5390425
+          ], 
+          [
+            -77.4274118, 
+            37.5387981
+          ], 
+          [
+            -77.42757, 
+            37.5385732
+          ], 
+          [
+            -77.4278704, 
+            37.5382394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "Richmond-Petersburg Turnpike", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "29933566", 
+        "length": "451.5365189234882", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "29933563", 
+        "ref": "I 95", 
+        "highway": "motorway", 
+        "osmid": "[102209673, 102209643, 31839711]"
+      }
+    }
+  ]
+}

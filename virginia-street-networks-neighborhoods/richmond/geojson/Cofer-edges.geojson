@@ -1,0 +1,884 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4575503, 
+            37.4965319
+          ], 
+          [
+            -77.4550259, 
+            37.496546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614202", 
+        "name": "Hiden Road", 
+        "to": "49615106", 
+        "length": "222.7732460358189", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033835"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4575503, 
+            37.4965319
+          ], 
+          [
+            -77.4569464, 
+            37.4975505
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618956", 
+        "name": "Yale Avenue", 
+        "to": "49615106", 
+        "length": "125.2027663937228", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4579012, 
+            37.495848
+          ], 
+          [
+            -77.4578728, 
+            37.4960517
+          ], 
+          [
+            -77.4577888, 
+            37.4962234
+          ], 
+          [
+            -77.4575503, 
+            37.4965319
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617845", 
+        "name": "Yale Avenue", 
+        "to": "49615106", 
+        "length": "83.53444542621406", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576989, 
+            37.4943475
+          ], 
+          [
+            -77.4577579, 
+            37.4948844
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625897", 
+        "name": "Yale Avenue", 
+        "to": "3049189700", 
+        "length": "59.943924802976504", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576989, 
+            37.4943475
+          ], 
+          [
+            -77.4576077, 
+            37.4935173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625899", 
+        "name": "Yale Avenue", 
+        "to": "3049189700", 
+        "length": "92.69011585062115", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4584953, 
+            37.4948511
+          ], 
+          [
+            -77.4581893, 
+            37.4947689
+          ], 
+          [
+            -77.4580471, 
+            37.4946987
+          ], 
+          [
+            -77.4579318, 
+            37.494603
+          ], 
+          [
+            -77.457795, 
+            37.494488
+          ], 
+          [
+            -77.4576989, 
+            37.4943475
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3049189695", 
+        "name": "", 
+        "to": "3049189700", 
+        "length": "93.38313033483988", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "300828664"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569464, 
+            37.4975505
+          ], 
+          [
+            -77.4551332, 
+            37.4975079
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614201", 
+        "name": "Laurelbrook Drive", 
+        "to": "49618956", 
+        "length": "160.07532448960882", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035262"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569464, 
+            37.4975505
+          ], 
+          [
+            -77.4580085, 
+            37.4976696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618957", 
+        "name": "Laurelbrook Drive", 
+        "to": "49618956", 
+        "length": "94.65607272151908", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035262"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4591522, 
+            37.498445
+          ], 
+          [
+            -77.4603689, 
+            37.4970738
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617850", 
+        "name": "Hopkins Road", 
+        "to": "49630347", 
+        "length": "186.51543120718316", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 637", 
+        "highway": "secondary", 
+        "osmid": "300829780"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4580085, 
+            37.4976696
+          ], 
+          [
+            -77.4574614, 
+            37.4983421
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626232", 
+        "name": "Talbert Drive", 
+        "to": "49618957", 
+        "length": "89.02688506795619", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038213"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4580085, 
+            37.4976696
+          ], 
+          [
+            -77.4590845, 
+            37.4964329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617849", 
+        "name": "Talbert Drive", 
+        "to": "49618957", 
+        "length": "167.14311318803954", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038213"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612173, 
+            37.4938889
+          ], 
+          [
+            -77.4614735, 
+            37.4932859
+          ], 
+          [
+            -77.4615221, 
+            37.4929214
+          ], 
+          [
+            -77.4615265, 
+            37.492711
+          ], 
+          [
+            -77.461476, 
+            37.4923508
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619354", 
+        "name": "Gross Avenue", 
+        "to": "49610770", 
+        "length": "175.26203972198508", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035406"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576077, 
+            37.4935173
+          ], 
+          [
+            -77.4575856, 
+            37.4933455
+          ], 
+          [
+            -77.4574177, 
+            37.4929564
+          ], 
+          [
+            -77.4573956, 
+            37.4927566
+          ], 
+          [
+            -77.4586064, 
+            37.4926437
+          ], 
+          [
+            -77.4593552, 
+            37.4925768
+          ], 
+          [
+            -77.4597602, 
+            37.4925406
+          ], 
+          [
+            -77.4605101, 
+            37.4924736
+          ], 
+          [
+            -77.4612143, 
+            37.4924107
+          ], 
+          [
+            -77.461476, 
+            37.4923508
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625899", 
+        "name": "['Cofer Road', 'Yale Avenue']", 
+        "to": "49610770", 
+        "length": "450.4896979076827", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "['residential', 'tertiary']", 
+        "osmid": "[45121900, 6038012]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4594155, 
+            37.495763
+          ], 
+          [
+            -77.4593227, 
+            37.4948137
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627620", 
+        "name": "Springton Road", 
+        "to": "2730554006", 
+        "length": "105.90419145969328", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267609969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4594155, 
+            37.495763
+          ], 
+          [
+            -77.4579012, 
+            37.495848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617845", 
+        "name": "Lost Lane", 
+        "to": "2730554006", 
+        "length": "133.96596220462976", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4594155, 
+            37.495763
+          ], 
+          [
+            -77.4596444, 
+            37.4957502
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617847", 
+        "name": "Lost Lane", 
+        "to": "2730554006", 
+        "length": "20.24978748566689", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551332, 
+            37.4975079
+          ], 
+          [
+            -77.4550259, 
+            37.496546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614202", 
+        "name": "Bangle Drive", 
+        "to": "49614201", 
+        "length": "107.40671838957195", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610803, 
+            37.4942324
+          ], 
+          [
+            -77.4612173, 
+            37.4938889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619354", 
+        "name": "Gross Avenue", 
+        "to": "49619353", 
+        "length": "40.07349644079107", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035406"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593227, 
+            37.4948137
+          ], 
+          [
+            -77.4603071, 
+            37.4947442
+          ], 
+          [
+            -77.4605779, 
+            37.4947109
+          ], 
+          [
+            -77.4607401, 
+            37.494646
+          ], 
+          [
+            -77.4608676, 
+            37.4945492
+          ], 
+          [
+            -77.4610803, 
+            37.4942324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627620", 
+        "name": "Kenyon Avenue", 
+        "to": "49619353", 
+        "length": "182.92561396413538", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038809"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576077, 
+            37.4935173
+          ], 
+          [
+            -77.4583543, 
+            37.4935173
+          ], 
+          [
+            -77.4604485, 
+            37.4937416
+          ], 
+          [
+            -77.4612173, 
+            37.4938889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625899", 
+        "name": "Maurice Avenue", 
+        "to": "49619354", 
+        "length": "322.17086576722625", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041159"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4550259, 
+            37.496546
+          ], 
+          [
+            -77.454906, 
+            37.495647
+          ], 
+          [
+            -77.4578286, 
+            37.4954312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614202", 
+        "name": "['Culver Road', 'Bangle Drive']", 
+        "to": "49625896", 
+        "length": "359.57581034497866", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033521, 6041077]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4608087, 
+            37.4965375
+          ], 
+          [
+            -77.4603689, 
+            37.4970738
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618142", 
+        "name": "Hopkins Road", 
+        "to": "49617850", 
+        "length": "71.16490491518121", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 637", 
+        "highway": "secondary", 
+        "osmid": "300829780"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593227, 
+            37.4948137
+          ], 
+          [
+            -77.4584953, 
+            37.4948511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3049189695", 
+        "name": "Kenyon Avenue", 
+        "to": "49627620", 
+        "length": "73.13465390991792", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038809"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4578286, 
+            37.4954312
+          ], 
+          [
+            -77.4577579, 
+            37.4948844
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625897", 
+        "name": "Yale Avenue", 
+        "to": "49625896", 
+        "length": "61.13769895915262", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4578286, 
+            37.4954312
+          ], 
+          [
+            -77.4579012, 
+            37.495848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617845", 
+        "name": "Yale Avenue", 
+        "to": "49625896", 
+        "length": "46.799706737943865", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4577579, 
+            37.4948844
+          ], 
+          [
+            -77.4584953, 
+            37.4948511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3049189695", 
+        "name": "Kenyon Avenue", 
+        "to": "49625897", 
+        "length": "65.17923832224483", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038809"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4596444, 
+            37.4957502
+          ], 
+          [
+            -77.4590845, 
+            37.4964329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617849", 
+        "name": "Talbert Drive", 
+        "to": "49617847", 
+        "length": "90.5939238465843", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038213"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4596444, 
+            37.4957502
+          ], 
+          [
+            -77.46002, 
+            37.4953085
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3049189691", 
+        "name": "Talbert Drive", 
+        "to": "49617847", 
+        "length": "59.2642564878401", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038213"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590845, 
+            37.4964329
+          ], 
+          [
+            -77.4603689, 
+            37.4970738
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617849", 
+        "name": "Lost Lane", 
+        "to": "49617850", 
+        "length": "133.8957866679368", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034803"
+      }
+    }
+  ]
+}

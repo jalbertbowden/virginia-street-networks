@@ -1,0 +1,1130 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598255, 
+            37.5576695
+          ], 
+          [
+            -77.4595013, 
+            37.55748
+          ], 
+          [
+            -77.4587655, 
+            37.5570499
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "access": "", 
+        "to": "49623360", 
+        "length": "116.12478541265979", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617432", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4587655, 
+            37.5570499
+          ], 
+          [
+            -77.4582183, 
+            37.5576467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lodge Street", 
+        "access": "", 
+        "to": "49623360", 
+        "length": "82.06232157563745", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3412143945", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4595715, 
+            37.5562317
+          ], 
+          [
+            -77.4591687, 
+            37.5566414
+          ], 
+          [
+            -77.4587655, 
+            37.5570499
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lodge Street", 
+        "access": "", 
+        "to": "49623360", 
+        "length": "115.4675752846498", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623852", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572453, 
+            37.559298
+          ], 
+          [
+            -77.4571638, 
+            37.5593864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dinneen Street", 
+        "access": "", 
+        "to": "3412061252", 
+        "length": "12.178441231183946", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3412061257", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033935"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4589931, 
+            37.560413
+          ], 
+          [
+            -77.4575342, 
+            37.5595052
+          ], 
+          [
+            -77.4572453, 
+            37.559298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "3412061252", 
+        "length": "197.87908448230434", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412061348", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "334113923"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572453, 
+            37.559298
+          ], 
+          [
+            -77.4570832, 
+            37.5591706
+          ], 
+          [
+            -77.4568613, 
+            37.559054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "3412061238", 
+        "length": "43.59977652271283", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412061252", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "334113923"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460514, 
+            37.5567817
+          ], 
+          [
+            -77.4595715, 
+            37.5562317
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "2755278022", 
+        "length": "103.19267035069682", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623852", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "47968097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460514, 
+            37.5567817
+          ], 
+          [
+            -77.4600036, 
+            37.5573397
+          ], 
+          [
+            -77.4599902, 
+            37.5573992
+          ], 
+          [
+            -77.4599975, 
+            37.5577712
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278028", 
+        "length": "124.76761285072601", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278022", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4568613, 
+            37.559054
+          ], 
+          [
+            -77.4570024, 
+            37.5592012
+          ], 
+          [
+            -77.4571638, 
+            37.5593864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "3412061257", 
+        "length": "45.599836809712826", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412061238", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "334113924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567242, 
+            37.5598631
+          ], 
+          [
+            -77.4569966, 
+            37.5595677
+          ], 
+          [
+            -77.4571638, 
+            37.5593864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dinneen Street", 
+        "access": "", 
+        "to": "3412061257", 
+        "length": "65.67821538872676", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615503", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033935"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583455, 
+            37.5554941
+          ], 
+          [
+            -77.4585788, 
+            37.5556326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "903602874", 
+        "length": "25.700080616515883", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630647", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "47968097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598255, 
+            37.5576695
+          ], 
+          [
+            -77.459936, 
+            37.5577348
+          ], 
+          [
+            -77.4599975, 
+            37.5577712
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "access": "", 
+        "to": "2755278028", 
+        "length": "18.91976243485144", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617432", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599975, 
+            37.5577712
+          ], 
+          [
+            -77.4600411, 
+            37.5591569
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278030", 
+        "length": "154.1741584469986", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278028", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4600411, 
+            37.5591569
+          ], 
+          [
+            -77.4590214, 
+            37.5585276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "access": "", 
+        "to": "2755278030", 
+        "length": "113.94255946347721", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617433", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4600411, 
+            37.5591569
+          ], 
+          [
+            -77.4600559, 
+            37.5593777
+          ], 
+          [
+            -77.46008, 
+            37.5595
+          ], 
+          [
+            -77.4601243, 
+            37.5596488
+          ], 
+          [
+            -77.4601555, 
+            37.5597382
+          ], 
+          [
+            -77.4602624, 
+            37.5600443
+          ], 
+          [
+            -77.4602933, 
+            37.5601995
+          ], 
+          [
+            -77.4603107, 
+            37.5603951
+          ], 
+          [
+            -77.4602424, 
+            37.5608621
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "3412061461", 
+        "length": "192.58702718435114", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278030", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551562, 
+            37.5615701
+          ], 
+          [
+            -77.4558392, 
+            37.5608265
+          ], 
+          [
+            -77.4559622, 
+            37.5606926
+          ], 
+          [
+            -77.4559939, 
+            37.5606581
+          ], 
+          [
+            -77.4564369, 
+            37.5601759
+          ], 
+          [
+            -77.4564936, 
+            37.5601142
+          ], 
+          [
+            -77.4567242, 
+            37.5598631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dinneen Street", 
+        "access": "", 
+        "to": "49615503", 
+        "length": "234.86426700332106", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615506", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033935"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567242, 
+            37.5598631
+          ], 
+          [
+            -77.4585071, 
+            37.5609017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Moore Street", 
+        "access": "", 
+        "to": "49615503", 
+        "length": "195.08012421616775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615511", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039802"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567242, 
+            37.5598631
+          ], 
+          [
+            -77.4543663, 
+            37.558396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Moore Street", 
+        "access": "", 
+        "to": "49615503", 
+        "length": "264.29198154818687", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618399", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039802"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.454459, 
+            37.5575797
+          ], 
+          [
+            -77.4548315, 
+            37.5571699
+          ], 
+          [
+            -77.4551858, 
+            37.5567717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mozelle Street", 
+        "access": "", 
+        "to": "49623760", 
+        "length": "110.38094772320805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "571818029", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551562, 
+            37.5615701
+          ], 
+          [
+            -77.4546646, 
+            37.5612558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Botetourt Street", 
+        "access": "", 
+        "to": "49615506", 
+        "length": "55.68470684779357", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620145", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4549766, 
+            37.5622725
+          ], 
+          [
+            -77.4546774, 
+            37.562079
+          ], 
+          [
+            -77.4551562, 
+            37.5615701
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Bath Street', 'Dinneen Street']", 
+        "access": "", 
+        "to": "49615506", 
+        "length": "104.65745385443765", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623841", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037075, 6033935]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4602424, 
+            37.5608621
+          ], 
+          [
+            -77.4596543, 
+            37.5607288
+          ], 
+          [
+            -77.4594806, 
+            37.5606696
+          ], 
+          [
+            -77.4593456, 
+            37.5606141
+          ], 
+          [
+            -77.459114, 
+            37.5604803
+          ], 
+          [
+            -77.4589931, 
+            37.560413
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "3412061348", 
+        "length": "122.30311351069143", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412061461", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "334113923"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583712, 
+            37.5610448
+          ], 
+          [
+            -77.4584022, 
+            37.5610122
+          ], 
+          [
+            -77.4584454, 
+            37.5609667
+          ], 
+          [
+            -77.4585071, 
+            37.5609017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Middlesex Street", 
+        "access": "", 
+        "to": "49615511", 
+        "length": "19.922565655550564", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3412156058", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598255, 
+            37.5576695
+          ], 
+          [
+            -77.4590214, 
+            37.5585276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Meadow Street", 
+        "access": "", 
+        "to": "49617432", 
+        "length": "118.89580720830448", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617433", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "160964728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590214, 
+            37.5585276
+          ], 
+          [
+            -77.4586697, 
+            37.5588898
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Meadow Street", 
+        "access": "", 
+        "to": "49617433", 
+        "length": "50.83902160559036", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617434", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "160964728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590214, 
+            37.5585276
+          ], 
+          [
+            -77.4580028, 
+            37.5579044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "access": "", 
+        "to": "49617433", 
+        "length": "113.45083396480534", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623027", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540951, 
+            37.5586769
+          ], 
+          [
+            -77.454105, 
+            37.5586666
+          ], 
+          [
+            -77.4541308, 
+            37.5586399
+          ], 
+          [
+            -77.4543663, 
+            37.558396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elizabeth Street", 
+        "access": "", 
+        "to": "49618399", 
+        "length": "39.34406911735853", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "571818031", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035035"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548843, 
+            37.5578439
+          ], 
+          [
+            -77.4546178, 
+            37.5581279
+          ], 
+          [
+            -77.4543663, 
+            37.558396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elizabeth Street", 
+        "access": "", 
+        "to": "49618399", 
+        "length": "76.53118989122837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "571818030", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035035"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4595715, 
+            37.5562317
+          ], 
+          [
+            -77.4585788, 
+            37.5556326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "49623852", 
+        "length": "110.00974079869563", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "903602874", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "47968097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548843, 
+            37.5578439
+          ], 
+          [
+            -77.454573, 
+            37.5576493
+          ], 
+          [
+            -77.454459, 
+            37.5575797
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "571818029", 
+        "length": "47.64301874710317", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "571818030", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "47968089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548843, 
+            37.5578439
+          ], 
+          [
+            -77.4557285, 
+            37.5583398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "571818030", 
+        "length": "92.6443429640826", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "903602872", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "47968089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4557285, 
+            37.5583398
+          ], 
+          [
+            -77.4562053, 
+            37.5586257
+          ], 
+          [
+            -77.4565381, 
+            37.5588341
+          ], 
+          [
+            -77.4568613, 
+            37.559054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "3412061238", 
+        "length": "127.66137361008695", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "903602872", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "47968089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4585788, 
+            37.5556326
+          ], 
+          [
+            -77.457969, 
+            37.5562299
+          ], 
+          [
+            -77.4572443, 
+            37.5569961
+          ], 
+          [
+            -77.4569326, 
+            37.5573256
+          ], 
+          [
+            -77.4568905, 
+            37.5573701
+          ], 
+          [
+            -77.4565526, 
+            37.5576057
+          ], 
+          [
+            -77.4563091, 
+            37.5577755
+          ], 
+          [
+            -77.4561237, 
+            37.5579048
+          ], 
+          [
+            -77.4557285, 
+            37.5583398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Allen Avenue", 
+        "access": "", 
+        "to": "903602872", 
+        "length": "393.65379844697054", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "903602874", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "76682766"
+      }
+    }
+  ]
+}

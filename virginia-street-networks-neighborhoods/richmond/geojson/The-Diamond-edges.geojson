@@ -1,0 +1,3559 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4672671, 
+            37.5782374
+          ], 
+          [
+            -77.4687211, 
+            37.5796082
+          ], 
+          [
+            -77.4698016, 
+            37.5810409
+          ], 
+          [
+            -77.4715126, 
+            37.581014
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Seddon Way", 
+        "access": "", 
+        "to": "49627521", 
+        "length": "535.6769177554354", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612632", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4715126, 
+            37.581014
+          ], 
+          [
+            -77.4716576, 
+            37.5810076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Saunders Avenue", 
+        "access": "", 
+        "to": "567597581", 
+        "length": "12.800962966765818", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627521", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "44745819"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4715126, 
+            37.581014
+          ], 
+          [
+            -77.471526, 
+            37.5818973
+          ], 
+          [
+            -77.4714753, 
+            37.5822584
+          ], 
+          [
+            -77.4713894, 
+            37.5825305
+          ], 
+          [
+            -77.4710204, 
+            37.5833467
+          ], 
+          [
+            -77.4709517, 
+            37.5835576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "E Saunders Avenue", 
+        "access": "", 
+        "to": "567597550", 
+        "length": "290.5223462175545", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627521", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "44745817"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4671372, 
+            37.5765492
+          ], 
+          [
+            -77.4672671, 
+            37.5782374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lanvale Avenue", 
+        "access": "", 
+        "to": "49612630", 
+        "length": "188.12098333845037", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612632", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4671372, 
+            37.5765492
+          ], 
+          [
+            -77.4670653, 
+            37.5754539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lanvale Avenue", 
+        "access": "", 
+        "to": "49612630", 
+        "length": "121.99087920347088", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609246", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4671372, 
+            37.5765492
+          ], 
+          [
+            -77.4645561, 
+            37.5765705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kelly Road", 
+        "access": "", 
+        "to": "49612630", 
+        "length": "227.53930978612374", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632135", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606883, 
+            37.5669279
+          ], 
+          [
+            -77.4607744, 
+            37.5691078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "49625737", 
+        "length": "242.58090446198855", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2589815402", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634776, 
+            37.5669077
+          ], 
+          [
+            -77.4625122, 
+            37.5668803
+          ], 
+          [
+            -77.4621917, 
+            37.5668919
+          ], 
+          [
+            -77.4618287, 
+            37.5669167
+          ], 
+          [
+            -77.4606883, 
+            37.5669279
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rhoadmiller Street", 
+        "access": "", 
+        "to": "49625737", 
+        "length": "246.1222833726937", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3712376334", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041051"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606883, 
+            37.5669279
+          ], 
+          [
+            -77.4605422, 
+            37.5669259
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rhoadmiller Street", 
+        "access": "", 
+        "to": "49625737", 
+        "length": "12.882472111623272", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755278053", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041051"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606883, 
+            37.5669279
+          ], 
+          [
+            -77.4605933, 
+            37.5653713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "49611790", 
+        "length": "173.3372570795577", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625737", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709263, 
+            37.5838342
+          ], 
+          [
+            -77.4716152, 
+            37.583811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Laburnum Avenue", 
+        "access": "", 
+        "to": "2741433354", 
+        "length": "60.776220425128045", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741433355", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "108533138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709263, 
+            37.5838342
+          ], 
+          [
+            -77.4707465, 
+            37.5838399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Laburnum Avenue", 
+        "access": "", 
+        "to": "2741433364", 
+        "length": "15.860706743756156", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741433354", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "108533138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709517, 
+            37.5835576
+          ], 
+          [
+            -77.470926, 
+            37.5837004
+          ], 
+          [
+            -77.4709263, 
+            37.5838342
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "E Saunders Avenue", 
+        "access": "", 
+        "to": "2741433354", 
+        "length": "30.925930387784213", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "567597550", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "44745817"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4716152, 
+            37.583811
+          ], 
+          [
+            -77.4736333, 
+            37.5837816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Laburnum Avenue", 
+        "access": "", 
+        "to": "2741433355", 
+        "length": "177.910634148014", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "619615459", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "108533138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4716152, 
+            37.583811
+          ], 
+          [
+            -77.471643, 
+            37.5818994
+          ], 
+          [
+            -77.4716576, 
+            37.5810076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Saunders Avenue", 
+        "access": "", 
+        "to": "567597581", 
+        "length": "311.83415174325745", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741433355", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "44745820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576149, 
+            37.5634867
+          ], 
+          [
+            -77.4572224, 
+            37.5637095
+          ], 
+          [
+            -77.4569757, 
+            37.5640667
+          ], 
+          [
+            -77.4569485, 
+            37.5644237
+          ], 
+          [
+            -77.4569381, 
+            37.56456
+          ], 
+          [
+            -77.456938, 
+            37.5647213
+          ], 
+          [
+            -77.4569376, 
+            37.5653469
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ownby Lane", 
+        "access": "", 
+        "to": "49611788", 
+        "length": "230.34944723542264", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622978", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569376, 
+            37.5653469
+          ], 
+          [
+            -77.4604431, 
+            37.5653748
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "access": "", 
+        "to": "49611788", 
+        "length": "309.075961982756", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755278051", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4716576, 
+            37.5810076
+          ], 
+          [
+            -77.471663, 
+            37.5805393
+          ], 
+          [
+            -77.4716657, 
+            37.580286
+          ], 
+          [
+            -77.4716956, 
+            37.5800427
+          ], 
+          [
+            -77.4717703, 
+            37.5797946
+          ], 
+          [
+            -77.4719138, 
+            37.5795069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Saunders Avenue", 
+        "access": "", 
+        "to": "1245015330", 
+        "length": "170.232511169228", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "567597581", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "44745820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605933, 
+            37.5653713
+          ], 
+          [
+            -77.4604431, 
+            37.5653748
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "access": "", 
+        "to": "49611790", 
+        "length": "13.248014979346115", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755278051", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605933, 
+            37.5653713
+          ], 
+          [
+            -77.4604828, 
+            37.5636588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "49622974", 
+        "length": "190.72394510009352", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611790", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4645741, 
+            37.5743226
+          ], 
+          [
+            -77.4639214, 
+            37.5741052
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ellen Road", 
+        "access": "", 
+        "to": "49625792", 
+        "length": "62.41258982271465", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624849", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "442655921"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4670246, 
+            37.574339
+          ], 
+          [
+            -77.4647399, 
+            37.5743294
+          ], 
+          [
+            -77.4645741, 
+            37.5743226
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ellen Road", 
+        "access": "", 
+        "to": "49624849", 
+        "length": "216.0432782697382", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612628", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "334128102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4638683, 
+            37.5742024
+          ], 
+          [
+            -77.4642358, 
+            37.5743105
+          ], 
+          [
+            -77.4643035, 
+            37.5743205
+          ], 
+          [
+            -77.4645741, 
+            37.5743226
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ellen Road", 
+        "access": "", 
+        "to": "49624849", 
+        "length": "64.48213410755822", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076327", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "6037582"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4656028, 
+            37.5710407
+          ], 
+          [
+            -77.4656968, 
+            37.5711139
+          ], 
+          [
+            -77.4667589, 
+            37.5725765
+          ], 
+          [
+            -77.4669091, 
+            37.5726955
+          ], 
+          [
+            -77.467054, 
+            37.5727423
+          ], 
+          [
+            -77.4675743, 
+            37.5727976
+          ], 
+          [
+            -77.4677191, 
+            37.5728613
+          ], 
+          [
+            -77.4678264, 
+            37.5729506
+          ], 
+          [
+            -77.4687706, 
+            37.5743027
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Boulevard West", 
+        "access": "", 
+        "to": "49624851", 
+        "length": "478.31332071151337", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755205152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "270509661"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4687706, 
+            37.5743027
+          ], 
+          [
+            -77.4670246, 
+            37.574339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ellen Road", 
+        "access": "", 
+        "to": "49624851", 
+        "length": "153.96951112537926", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612628", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "334128102"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4698461, 
+            37.578329
+          ], 
+          [
+            -77.4695613, 
+            37.5749188
+          ], 
+          [
+            -77.4694465, 
+            37.5747788
+          ], 
+          [
+            -77.4687706, 
+            37.5743027
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Rosedale Avenue', 'Ellen Road']", 
+        "access": "", 
+        "to": "49624851", 
+        "length": "478.41910530722504", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1245015341", 
+        "ref": "", 
+        "highway": "['unclassified', 'residential']", 
+        "osmid": "[334128102, 6034279]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709517, 
+            37.5835576
+          ], 
+          [
+            -77.470878, 
+            37.5837197
+          ], 
+          [
+            -77.4708227, 
+            37.5837894
+          ], 
+          [
+            -77.4707465, 
+            37.5838399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2741433364", 
+        "length": "37.07744802396275", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "567597550", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "268825557"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611708, 
+            37.5742893
+          ], 
+          [
+            -77.4610837, 
+            37.573373
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2708076328", 
+        "length": "102.20544243044007", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278062", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.46096, 
+            37.573338
+          ], 
+          [
+            -77.4610383, 
+            37.5739637
+          ], 
+          [
+            -77.4611708, 
+            37.5742893
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278062", 
+        "length": "107.98803488748254", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278065", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609405, 
+            37.5732208
+          ], 
+          [
+            -77.4606747, 
+            37.5701794
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278058", 
+        "length": "339.0941054618353", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278056", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609405, 
+            37.5732208
+          ], 
+          [
+            -77.4600023, 
+            37.5729331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "49610824", 
+        "length": "88.68192062253573", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278058", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609405, 
+            37.5732208
+          ], 
+          [
+            -77.4610705, 
+            37.5732574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2755278058", 
+        "length": "12.161718645175633", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625741", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609405, 
+            37.5732208
+          ], 
+          [
+            -77.46096, 
+            37.573338
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278065", 
+        "length": "13.148572644205007", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278058", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633529, 
+            37.5748257
+          ], 
+          [
+            -77.4633089, 
+            37.5750483
+          ], 
+          [
+            -77.463136, 
+            37.5753815
+          ], 
+          [
+            -77.4631395, 
+            37.57542
+          ], 
+          [
+            -77.4631502, 
+            37.5754528
+          ], 
+          [
+            -77.4631706, 
+            37.5754797
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "49609244", 
+        "length": "76.685628267749", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412193342", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "334128114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4631706, 
+            37.5754797
+          ], 
+          [
+            -77.4670653, 
+            37.5754539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Arlington Road", 
+        "access": "", 
+        "to": "49609244", 
+        "length": "343.33938030652644", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609246", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031874"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4631706, 
+            37.5754797
+          ], 
+          [
+            -77.4638683, 
+            37.5742024
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "N Boulevard", 
+        "access": "", 
+        "to": "2708076327", 
+        "length": "154.81113314078837", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609244", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "38173752"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610837, 
+            37.573373
+          ], 
+          [
+            -77.4618466, 
+            37.5736006
+          ], 
+          [
+            -77.4624474, 
+            37.5737798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "3412193309", 
+        "length": "128.44959477905496", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076328", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.462932, 
+            37.5738059
+          ], 
+          [
+            -77.4628047, 
+            37.5738039
+          ], 
+          [
+            -77.4625102, 
+            37.5737166
+          ], 
+          [
+            -77.4624818, 
+            37.5737241
+          ], 
+          [
+            -77.4624474, 
+            37.5737798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "3412193309", 
+        "length": "48.478788914061155", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412193313", 
+        "ref": "", 
+        "highway": "tertiary_link", 
+        "osmid": "334128113"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4624474, 
+            37.5737798
+          ], 
+          [
+            -77.4637211, 
+            37.5741596
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2708089086", 
+        "length": "119.96579002229434", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412193309", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4670653, 
+            37.5754539
+          ], 
+          [
+            -77.4670246, 
+            37.574339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lanvale Avenue", 
+        "access": "", 
+        "to": "49609246", 
+        "length": "124.0580440214208", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612628", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4672671, 
+            37.5782374
+          ], 
+          [
+            -77.4674497, 
+            37.5782577
+          ], 
+          [
+            -77.4687888, 
+            37.5782588
+          ], 
+          [
+            -77.4694926, 
+            37.5783404
+          ], 
+          [
+            -77.4698436, 
+            37.5784097
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westwood Avenue", 
+        "access": "", 
+        "to": "1245015327", 
+        "length": "228.87992396969054", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612632", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6032172"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4698436, 
+            37.5784097
+          ], 
+          [
+            -77.4704342, 
+            37.5785163
+          ], 
+          [
+            -77.4711749, 
+            37.5786397
+          ], 
+          [
+            -77.471696, 
+            37.5787816
+          ], 
+          [
+            -77.4722048, 
+            37.5789186
+          ], 
+          [
+            -77.472445, 
+            37.579066
+          ], 
+          [
+            -77.4728032, 
+            37.5795298
+          ], 
+          [
+            -77.4729834, 
+            37.5798972
+          ], 
+          [
+            -77.4729773, 
+            37.5801226
+          ], 
+          [
+            -77.4728718, 
+            37.5803053
+          ], 
+          [
+            -77.4726855, 
+            37.5804219
+          ], 
+          [
+            -77.4724598, 
+            37.5804685
+          ], 
+          [
+            -77.472222, 
+            37.5804355
+          ], 
+          [
+            -77.472016, 
+            37.5803607
+          ], 
+          [
+            -77.4718247, 
+            37.5801828
+          ], 
+          [
+            -77.4717843, 
+            37.5799662
+          ], 
+          [
+            -77.4719138, 
+            37.5795069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1245015330", 
+        "length": "580.0136231434036", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1245015327", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "108533112"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4698436, 
+            37.5784097
+          ], 
+          [
+            -77.4698461, 
+            37.578329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rosedale Avenue", 
+        "access": "", 
+        "to": "1245015327", 
+        "length": "8.978663625672068", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1245015341", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034279"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4639214, 
+            37.5741052
+          ], 
+          [
+            -77.4644653, 
+            37.5731404
+          ], 
+          [
+            -77.4647078, 
+            37.5726972
+          ], 
+          [
+            -77.4652528, 
+            37.5716958
+          ], 
+          [
+            -77.4656028, 
+            37.5710407
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "N Boulevard", 
+        "access": "", 
+        "to": "2755205152", 
+        "length": "371.697341399263", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625792", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "38173752"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4656028, 
+            37.5710407
+          ], 
+          [
+            -77.4654773, 
+            37.5710047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Avenue of Champions", 
+        "access": "", 
+        "to": "2755205152", 
+        "length": "11.766083308139486", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076305", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "252983225"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.462932, 
+            37.5738059
+          ], 
+          [
+            -77.4637791, 
+            37.5740622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "3412193313", 
+        "length": "79.93180713219802", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708089087", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.462932, 
+            37.5738059
+          ], 
+          [
+            -77.4618879, 
+            37.5734899
+          ], 
+          [
+            -77.4610705, 
+            37.5732574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "49625741", 
+        "length": "175.08239193402054", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412193313", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598852, 
+            37.5730454
+          ], 
+          [
+            -77.4600023, 
+            37.5729331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2708076326", 
+        "length": "16.204383852134207", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610824", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598852, 
+            37.5730454
+          ], 
+          [
+            -77.46096, 
+            37.573338
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2755278065", 
+        "length": "100.18266975678524", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076326", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598852, 
+            37.5730454
+          ], 
+          [
+            -77.4597054, 
+            37.5731492
+          ], 
+          [
+            -77.4594904, 
+            37.5731843
+          ], 
+          [
+            -77.4593363, 
+            37.5731696
+          ], 
+          [
+            -77.4592193, 
+            37.5731493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2741412837", 
+        "length": "63.201763677175435", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076326", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598852, 
+            37.5730454
+          ], 
+          [
+            -77.4593314, 
+            37.5728746
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2708076326", 
+        "length": "52.3864655265877", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741412831", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4638683, 
+            37.5742024
+          ], 
+          [
+            -77.4639214, 
+            37.5741052
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "N Boulevard", 
+        "access": "", 
+        "to": "49625792", 
+        "length": "11.781062327948765", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076327", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "38173752"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4638683, 
+            37.5742024
+          ], 
+          [
+            -77.4637211, 
+            37.5741596
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2708076327", 
+        "length": "13.821927895911154", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708089086", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610837, 
+            37.573373
+          ], 
+          [
+            -77.46096, 
+            37.573338
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2708076328", 
+        "length": "11.578807988330903", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278065", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610837, 
+            37.573373
+          ], 
+          [
+            -77.4610705, 
+            37.5732574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "49625741", 
+        "length": "12.91030358888852", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076328", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569096, 
+            37.5691011
+          ], 
+          [
+            -77.4569072, 
+            37.5701607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hardy Street", 
+        "access": "", 
+        "to": "49623898", 
+        "length": "117.85553004516268", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617138", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037106"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569096, 
+            37.5691011
+          ], 
+          [
+            -77.4556835, 
+            37.5691089
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cummings Drive", 
+        "access": "", 
+        "to": "49623898", 
+        "length": "108.09644650248241", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626348", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569096, 
+            37.5691011
+          ], 
+          [
+            -77.4569288, 
+            37.5669178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hardy Street", 
+        "access": "", 
+        "to": "49623894", 
+        "length": "242.84618253165053", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623898", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037106"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569096, 
+            37.5691011
+          ], 
+          [
+            -77.4606416, 
+            37.5691058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cummings Drive", 
+        "access": "", 
+        "to": "49623898", 
+        "length": "329.013508584693", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755278055", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4698461, 
+            37.578329
+          ], 
+          [
+            -77.4694685, 
+            37.5782595
+          ], 
+          [
+            -77.4691699, 
+            37.5782266
+          ], 
+          [
+            -77.4688196, 
+            37.5782063
+          ], 
+          [
+            -77.4674579, 
+            37.5781997
+          ], 
+          [
+            -77.4672671, 
+            37.5782374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westwood Avenue", 
+        "access": "", 
+        "to": "49612632", 
+        "length": "229.07531469905896", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1245015341", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "108533140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4748407, 
+            37.583764
+          ], 
+          [
+            -77.473888, 
+            37.5837779
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Laburnum Avenue", 
+        "access": "", 
+        "to": "2782568415", 
+        "length": "83.9877137949699", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782567855", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "108533138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460226, 
+            37.5609741
+          ], 
+          [
+            -77.4602234, 
+            37.5609917
+          ], 
+          [
+            -77.4602061, 
+            37.5611807
+          ], 
+          [
+            -77.46019, 
+            37.5613381
+          ], 
+          [
+            -77.4601887, 
+            37.5615316
+          ], 
+          [
+            -77.4602474, 
+            37.5624013
+          ], 
+          [
+            -77.4602643, 
+            37.5626512
+          ], 
+          [
+            -77.4602853, 
+            37.5629627
+          ], 
+          [
+            -77.4602885, 
+            37.5630108
+          ], 
+          [
+            -77.4603326, 
+            37.563664
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278048", 
+        "length": "299.6530068884831", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412061488", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4589037, 
+            37.5605029
+          ], 
+          [
+            -77.4592242, 
+            37.5606903
+          ], 
+          [
+            -77.4594606, 
+            37.5607859
+          ], 
+          [
+            -77.4596583, 
+            37.5608529
+          ], 
+          [
+            -77.4598055, 
+            37.5608911
+          ], 
+          [
+            -77.4599622, 
+            37.5609236
+          ], 
+          [
+            -77.460226, 
+            37.5609741
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "West Leigh Street", 
+        "access": "yes", 
+        "to": "3412061488", 
+        "length": "129.3358795384674", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3412061360", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "334113924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4637211, 
+            37.5741596
+          ], 
+          [
+            -77.4633529, 
+            37.5748257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Boulevard", 
+        "access": "", 
+        "to": "3412193342", 
+        "length": "80.88594178305658", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708089086", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "273391277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4637211, 
+            37.5741596
+          ], 
+          [
+            -77.4637791, 
+            37.5740622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Boulevard", 
+        "access": "", 
+        "to": "2708089086", 
+        "length": "11.979377093014701", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708089087", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "273391277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551909, 
+            37.5690958
+          ], 
+          [
+            -77.4543108, 
+            37.5690924
+          ], 
+          [
+            -77.4539083, 
+            37.5690908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cummings Drive", 
+        "access": "", 
+        "to": "49627574", 
+        "length": "113.07539005427873", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626343", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593314, 
+            37.5728746
+          ], 
+          [
+            -77.4594001, 
+            37.5729527
+          ], 
+          [
+            -77.4594212, 
+            37.5730182
+          ], 
+          [
+            -77.4594097, 
+            37.5730731
+          ], 
+          [
+            -77.4593462, 
+            37.5731249
+          ], 
+          [
+            -77.4592193, 
+            37.5731493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2741412837", 
+        "length": "43.842995674054876", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741412831", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "268825301"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4639214, 
+            37.5741052
+          ], 
+          [
+            -77.4637791, 
+            37.5740622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "access": "", 
+        "to": "2708089087", 
+        "length": "13.425150438548181", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625792", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4603326, 
+            37.563664
+          ], 
+          [
+            -77.4599958, 
+            37.563667
+          ], 
+          [
+            -77.4598665, 
+            37.5636395
+          ], 
+          [
+            -77.4595828, 
+            37.5635394
+          ], 
+          [
+            -77.4591053, 
+            37.5634289
+          ], 
+          [
+            -77.458526, 
+            37.5634246
+          ], 
+          [
+            -77.45807, 
+            37.5634246
+          ], 
+          [
+            -77.4576149, 
+            37.5634867
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ownby Lane", 
+        "access": "", 
+        "to": "49622978", 
+        "length": "244.7313225379819", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755278048", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736507, 
+            37.5817664
+          ], 
+          [
+            -77.4736366, 
+            37.5820174
+          ], 
+          [
+            -77.4736539, 
+            37.5822945
+          ], 
+          [
+            -77.4736915, 
+            37.5828216
+          ], 
+          [
+            -77.4736333, 
+            37.5837816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "1", 
+        "name": "", 
+        "access": "", 
+        "to": "619615459", 
+        "length": "224.42526109012334", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451148627", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "48841500"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736333, 
+            37.5837816
+          ], 
+          [
+            -77.473888, 
+            37.5837779
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Laburnum Avenue", 
+        "access": "", 
+        "to": "619615459", 
+        "length": "22.45369668915125", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782568415", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "108533138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551909, 
+            37.5690958
+          ], 
+          [
+            -77.4551909, 
+            37.5701472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Durham Street", 
+        "access": "", 
+        "to": "49617137", 
+        "length": "116.9432848267356", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626343", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551909, 
+            37.5690958
+          ], 
+          [
+            -77.4556835, 
+            37.5691089
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cummings Drive", 
+        "access": "", 
+        "to": "49626348", 
+        "length": "43.452049622501306", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626343", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610705, 
+            37.5732574
+          ], 
+          [
+            -77.460812, 
+            37.5701864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "49617139", 
+        "length": "342.3351661705905", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625741", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736507, 
+            37.5817664
+          ], 
+          [
+            -77.474097, 
+            37.5832755
+          ], 
+          [
+            -77.4741378, 
+            37.583569
+          ], 
+          [
+            -77.4741715, 
+            37.5837644
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "", 
+        "access": "", 
+        "to": "33127790", 
+        "length": "227.17780531978684", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451148627", 
+        "ref": "I 195", 
+        "highway": "motorway", 
+        "osmid": "[38259297, 280023317, 280023318]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4556946, 
+            37.5669113
+          ], 
+          [
+            -77.4562036, 
+            37.5669139
+          ], 
+          [
+            -77.4569288, 
+            37.5669178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rhoadmiller Street", 
+        "access": "", 
+        "to": "49623894", 
+        "length": "108.81266408320538", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626346", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041051"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569288, 
+            37.5669178
+          ], 
+          [
+            -77.4605422, 
+            37.5669259
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rhoadmiller Street", 
+        "access": "", 
+        "to": "49623894", 
+        "length": "318.56792234949137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755278053", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041051"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660539, 
+            37.5779257
+          ], 
+          [
+            -77.4645545, 
+            37.5769875
+          ], 
+          [
+            -77.4641838, 
+            37.5767576
+          ], 
+          [
+            -77.4634499, 
+            37.5763025
+          ], 
+          [
+            -77.4630157, 
+            37.5759764
+          ], 
+          [
+            -77.4627334, 
+            37.5757643
+          ], 
+          [
+            -77.4615915, 
+            37.5749067
+          ], 
+          [
+            -77.461326, 
+            37.5747063
+          ], 
+          [
+            -77.4608766, 
+            37.5743888
+          ], 
+          [
+            -77.460724, 
+            37.5742813
+          ], 
+          [
+            -77.4596609, 
+            37.5736466
+          ], 
+          [
+            -77.4566762, 
+            37.5722889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "Richmond-Petersburg Turnpike", 
+        "access": "", 
+        "to": "356509274", 
+        "length": "1041.8314692348747", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "29933537", 
+        "ref": "I 64;I 95", 
+        "highway": "motorway", 
+        "osmid": "[280023328, 102209762, 102209667, 102209640, 102209769, 102209653, 102209753]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4592193, 
+            37.5731493
+          ], 
+          [
+            -77.4589415, 
+            37.5730811
+          ], 
+          [
+            -77.458046, 
+            37.5727772
+          ], 
+          [
+            -77.4566762, 
+            37.5722889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "356509274", 
+        "length": "243.9204747713083", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741412837", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4694362, 
+            37.581187
+          ], 
+          [
+            -77.4691572, 
+            37.5806811
+          ], 
+          [
+            -77.4689373, 
+            37.580358
+          ], 
+          [
+            -77.4684573, 
+            37.5797452
+          ], 
+          [
+            -77.4677343, 
+            37.5790612
+          ], 
+          [
+            -77.4669434, 
+            37.578455
+          ], 
+          [
+            -77.4664515, 
+            37.5781534
+          ], 
+          [
+            -77.4660539, 
+            37.5779257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Richmond-Petersburg Turnpike", 
+        "access": "", 
+        "to": "29933537", 
+        "length": "476.76016061331984", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "632342239", 
+        "ref": "I 64;I 95", 
+        "highway": "motorway", 
+        "osmid": "[31839577, 49755010, 102209647]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4603326, 
+            37.563664
+          ], 
+          [
+            -77.4603853, 
+            37.5646706
+          ], 
+          [
+            -77.4604431, 
+            37.5653748
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278051", 
+        "length": "190.54784498297983", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278048", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4603326, 
+            37.563664
+          ], 
+          [
+            -77.4604828, 
+            37.5636588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ownby Lane", 
+        "access": "", 
+        "to": "2755278048", 
+        "length": "13.255222765843246", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622974", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4604431, 
+            37.5653748
+          ], 
+          [
+            -77.4605422, 
+            37.5669259
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278053", 
+        "length": "172.74413482789265", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278051", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605422, 
+            37.5669259
+          ], 
+          [
+            -77.4606416, 
+            37.5691058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278055", 
+        "length": "242.6204255986754", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278053", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607744, 
+            37.5691078
+          ], 
+          [
+            -77.4610735, 
+            37.5690918
+          ], 
+          [
+            -77.4620042, 
+            37.5689623
+          ], 
+          [
+            -77.4621364, 
+            37.5689439
+          ], 
+          [
+            -77.4622455, 
+            37.5689439
+          ], 
+          [
+            -77.4625147, 
+            37.5689744
+          ], 
+          [
+            -77.4630309, 
+            37.5690709
+          ], 
+          [
+            -77.4632767, 
+            37.5691169
+          ], 
+          [
+            -77.4633964, 
+            37.569142
+          ], 
+          [
+            -77.4634387, 
+            37.5691727
+          ], 
+          [
+            -77.4634422, 
+            37.569209
+          ], 
+          [
+            -77.4632592, 
+            37.5698673
+          ], 
+          [
+            -77.463231, 
+            37.5700152
+          ], 
+          [
+            -77.4632556, 
+            37.5700905
+          ], 
+          [
+            -77.4633119, 
+            37.5701602
+          ], 
+          [
+            -77.4634422, 
+            37.5702105
+          ], 
+          [
+            -77.4636076, 
+            37.5702467
+          ], 
+          [
+            -77.4638469, 
+            37.5702886
+          ], 
+          [
+            -77.4643643, 
+            37.570375
+          ], 
+          [
+            -77.4645614, 
+            37.5704364
+          ], 
+          [
+            -77.4646916, 
+            37.5704978
+          ], 
+          [
+            -77.4648289, 
+            37.5705815
+          ], 
+          [
+            -77.4649732, 
+            37.5707349
+          ], 
+          [
+            -77.4650753, 
+            37.5708409
+          ], 
+          [
+            -77.4651925, 
+            37.5708954
+          ], 
+          [
+            -77.4652794, 
+            37.5709358
+          ], 
+          [
+            -77.4654773, 
+            37.5710047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Avenue of Champions", 
+        "access": "", 
+        "to": "2708076305", 
+        "length": "573.1251918235845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2589815402", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "252983225"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4654773, 
+            37.5710047
+          ], 
+          [
+            -77.4651013, 
+            37.571647
+          ], 
+          [
+            -77.4643232, 
+            37.5730904
+          ], 
+          [
+            -77.4637791, 
+            37.5740622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Boulevard", 
+        "access": "", 
+        "to": "2708089087", 
+        "length": "371.5938864701471", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076305", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "273391277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606747, 
+            37.5701794
+          ], 
+          [
+            -77.4569072, 
+            37.5701607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "access": "", 
+        "to": "2755278056", 
+        "length": "332.1445291346786", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617138", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45103250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606747, 
+            37.5701794
+          ], 
+          [
+            -77.460812, 
+            37.5701864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "access": "", 
+        "to": "2755278056", 
+        "length": "12.129206357014311", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617139", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45103250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606747, 
+            37.5701794
+          ], 
+          [
+            -77.4606416, 
+            37.5691058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2755278056", 
+        "length": "119.44815676104713", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755278055", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "270512029"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540178, 
+            37.5676482
+          ], 
+          [
+            -77.4540594, 
+            37.5674038
+          ], 
+          [
+            -77.4541175, 
+            37.5671097
+          ], 
+          [
+            -77.4541416, 
+            37.5670423
+          ], 
+          [
+            -77.4541713, 
+            37.5669974
+          ], 
+          [
+            -77.4542095, 
+            37.5669626
+          ], 
+          [
+            -77.4542803, 
+            37.5669346
+          ], 
+          [
+            -77.4543469, 
+            37.5669323
+          ], 
+          [
+            -77.45513, 
+            37.5669391
+          ], 
+          [
+            -77.455299, 
+            37.5669244
+          ], 
+          [
+            -77.455433, 
+            37.5669168
+          ], 
+          [
+            -77.4555518, 
+            37.5669146
+          ], 
+          [
+            -77.4556946, 
+            37.5669113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "49626346", 
+        "length": "210.903337061396", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3758345064", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "372285550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4556835, 
+            37.5691089
+          ], 
+          [
+            -77.4556905, 
+            37.5677291
+          ], 
+          [
+            -77.4556946, 
+            37.5669113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Durham Street", 
+        "access": "", 
+        "to": "49626346", 
+        "length": "244.43277762986264", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626348", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038264"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606416, 
+            37.5691058
+          ], 
+          [
+            -77.4607744, 
+            37.5691078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cummings Drive", 
+        "access": "", 
+        "to": "2755278055", 
+        "length": "11.709759699811805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2589815402", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569072, 
+            37.5701607
+          ], 
+          [
+            -77.4551909, 
+            37.5701472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "access": "", 
+        "to": "49617137", 
+        "length": "151.31431210869178", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617138", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45103250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460812, 
+            37.5701864
+          ], 
+          [
+            -77.4607744, 
+            37.5691078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "access": "", 
+        "to": "2589815402", 
+        "length": "120.01442488101361", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617139", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54173302"
+      }
+    }
+  ]
+}

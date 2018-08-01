@@ -1,0 +1,121 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852972, 
+            37.487424
+          ], 
+          [
+            -77.4851637, 
+            37.4873571
+          ], 
+          [
+            -77.4841513, 
+            37.4869339
+          ], 
+          [
+            -77.4839735, 
+            37.4867772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627817", 
+        "name": "", 
+        "to": "2145766049", 
+        "length": "138.37943186591482", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204580132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848895, 
+            37.4880369
+          ], 
+          [
+            -77.4852972, 
+            37.487424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627817", 
+        "name": "Fernbrook Drive", 
+        "to": "49612918", 
+        "length": "77.08395127249226", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038910"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848895, 
+            37.4880369
+          ], 
+          [
+            -77.4835698, 
+            37.4874495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612919", 
+        "name": "Fernbrook Terrace", 
+        "to": "49612918", 
+        "length": "133.54486440131072", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852972, 
+            37.487424
+          ], 
+          [
+            -77.4859143, 
+            37.4864911
+          ], 
+          [
+            -77.4859884, 
+            37.486354
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627817", 
+        "name": "Fernbrook Drive", 
+        "to": "2145766046", 
+        "length": "133.78033563394726", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038910"
+      }
+    }
+  ]
+}

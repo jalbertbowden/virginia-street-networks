@@ -1,0 +1,2063 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453667, 
+            37.5749257
+          ], 
+          [
+            -77.4533133, 
+            37.5740894
+          ], 
+          [
+            -77.4530343, 
+            37.5738683
+          ], 
+          [
+            -77.4524481, 
+            37.5737553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Whitby Road", 
+        "to": "49627137", 
+        "length": "186.0683934260387", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616634", 
+        "highway": "residential", 
+        "osmid": "6040431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4524975, 
+            37.5726117
+          ], 
+          [
+            -77.452472, 
+            37.5732012
+          ], 
+          [
+            -77.4524481, 
+            37.5737553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lamont Street", 
+        "to": "49627137", 
+        "length": "127.2728722235377", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076394", 
+        "highway": "residential", 
+        "osmid": "6038573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4524481, 
+            37.5737553
+          ], 
+          [
+            -77.4494594, 
+            37.5736683
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Whitby Road", 
+        "to": "49627137", 
+        "length": "263.64511141661177", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178765", 
+        "highway": "residential", 
+        "osmid": "6040431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.459765, 
+            37.5754922
+          ], 
+          [
+            -77.4594172, 
+            37.5759438
+          ], 
+          [
+            -77.4590848, 
+            37.5763754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chatham Road", 
+        "to": "49616706", 
+        "length": "115.08880787478222", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076360", 
+        "highway": "residential", 
+        "osmid": "6034359"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612891, 
+            37.5779112
+          ], 
+          [
+            -77.4609427, 
+            37.5775869
+          ], 
+          [
+            -77.4601726, 
+            37.5769535
+          ], 
+          [
+            -77.4590848, 
+            37.5763754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "49616706", 
+        "length": "260.54786678887723", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "356506987", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590848, 
+            37.5763754
+          ], 
+          [
+            -77.4582107, 
+            37.575963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "49623766", 
+        "length": "89.67300105829658", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616706", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590848, 
+            37.5763754
+          ], 
+          [
+            -77.4590518, 
+            37.5765383
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chatham Road", 
+        "to": "49616706", 
+        "length": "18.35079268833731", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076415", 
+        "highway": "residential", 
+        "osmid": "6034359"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612891, 
+            37.5779112
+          ], 
+          [
+            -77.4615324, 
+            37.5781314
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "356506987", 
+        "length": "32.55491570376514", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708089082", 
+        "highway": "tertiary", 
+        "osmid": "6037034"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612891, 
+            37.5779112
+          ], 
+          [
+            -77.4613377, 
+            37.5778175
+          ], 
+          [
+            -77.4613654, 
+            37.5776546
+          ], 
+          [
+            -77.4613776, 
+            37.5772942
+          ], 
+          [
+            -77.4613701, 
+            37.5771677
+          ], 
+          [
+            -77.4613187, 
+            37.5763007
+          ], 
+          [
+            -77.4612887, 
+            37.5757948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "to": "49615927", 
+        "length": "236.60764346322202", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "356506987", 
+        "highway": "tertiary", 
+        "osmid": "270512030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461464, 
+            37.5782382
+          ], 
+          [
+            -77.460997, 
+            37.5782245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Westwood Avenue", 
+        "to": "2708076422", 
+        "length": "41.193863708645175", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766334569", 
+        "highway": "residential", 
+        "osmid": "268825303"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461464, 
+            37.5782382
+          ], 
+          [
+            -77.4615324, 
+            37.5781314
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Boulevard", 
+        "to": "2708076422", 
+        "length": "13.321544604967153", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708089082", 
+        "highway": "primary", 
+        "osmid": "273391277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461464, 
+            37.5782382
+          ], 
+          [
+            -77.4611267, 
+            37.5779935
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076422", 
+        "length": "40.308883033574574", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766334553", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4577901, 
+            37.5746498
+          ], 
+          [
+            -77.4583447, 
+            37.5748427
+          ], 
+          [
+            -77.4587976, 
+            37.575021
+          ], 
+          [
+            -77.459765, 
+            37.5754922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wentbridge Road", 
+        "to": "2708076360", 
+        "length": "198.06569417471064", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615923", 
+        "highway": "residential", 
+        "osmid": "6034071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4562157, 
+            37.5738928
+          ], 
+          [
+            -77.4571462, 
+            37.5732066
+          ], 
+          [
+            -77.4574296, 
+            37.5733995
+          ], 
+          [
+            -77.4578486, 
+            37.5735656
+          ], 
+          [
+            -77.4584679, 
+            37.5737902
+          ], 
+          [
+            -77.4593799, 
+            37.5740906
+          ], 
+          [
+            -77.459648, 
+            37.5741809
+          ], 
+          [
+            -77.4601902, 
+            37.5747377
+          ], 
+          [
+            -77.4601964, 
+            37.5748842
+          ], 
+          [
+            -77.459765, 
+            37.5754922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Little John Road', 'Loxley Road', 'Chatham Road']", 
+        "to": "2708076360", 
+        "length": "531.1754055000233", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615922", 
+        "highway": "residential", 
+        "osmid": "[6040737, 6037893, 6034359]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612887, 
+            37.5757948
+          ], 
+          [
+            -77.4607783, 
+            37.5758022
+          ], 
+          [
+            -77.4604398, 
+            37.5757584
+          ], 
+          [
+            -77.459765, 
+            37.5754922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wentbridge Road", 
+        "to": "2708076360", 
+        "length": "141.68143663323565", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615927", 
+        "highway": "residential", 
+        "osmid": "6034071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4564788, 
+            37.575354
+          ], 
+          [
+            -77.4564415, 
+            37.5754921
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Gloucester Road", 
+        "to": "49619763", 
+        "length": "15.708333846623468", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076409", 
+        "highway": "residential", 
+        "osmid": "6035570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4564788, 
+            37.575354
+          ], 
+          [
+            -77.4561202, 
+            37.5751992
+          ], 
+          [
+            -77.4557997, 
+            37.5750136
+          ], 
+          [
+            -77.4554731, 
+            37.5747597
+          ], 
+          [
+            -77.4552636, 
+            37.5745936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "49623763", 
+        "length": "137.43924348896837", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619763", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4564788, 
+            37.575354
+          ], 
+          [
+            -77.4572186, 
+            37.5756199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "49619763", 
+        "length": "71.60798133326745", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623765", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460997, 
+            37.5782245
+          ], 
+          [
+            -77.4591718, 
+            37.5782256
+          ], 
+          [
+            -77.459036, 
+            37.5781991
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Westwood Avenue", 
+        "to": "49614730", 
+        "length": "173.21815687427627", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766334569", 
+        "highway": "residential", 
+        "osmid": "268825303"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590518, 
+            37.5765383
+          ], 
+          [
+            -77.4590319, 
+            37.5766364
+          ], 
+          [
+            -77.4590346, 
+            37.5776792
+          ], 
+          [
+            -77.459036, 
+            37.5781991
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chatham Road", 
+        "to": "49614730", 
+        "length": "184.8650529580238", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076415", 
+        "highway": "residential", 
+        "osmid": "6034359"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453667, 
+            37.5749257
+          ], 
+          [
+            -77.4528796, 
+            37.5749182
+          ], 
+          [
+            -77.4495506, 
+            37.5748867
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rennie Avenue", 
+        "to": "1238178587", 
+        "length": "362.8994468468671", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616634", 
+        "highway": "residential", 
+        "osmid": "6034331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453667, 
+            37.5749257
+          ], 
+          [
+            -77.4543454, 
+            37.5749257
+          ], 
+          [
+            -77.4548472, 
+            37.5749257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rennie Avenue", 
+        "to": "2708076365", 
+        "length": "104.03828984645651", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616634", 
+        "highway": "residential", 
+        "osmid": "6034331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548472, 
+            37.5749257
+          ], 
+          [
+            -77.4551403, 
+            37.574692
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rennie Avenue", 
+        "to": "2708076365", 
+        "length": "36.650422570824084", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076403", 
+        "highway": "residential", 
+        "osmid": "6034331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548472, 
+            37.5749257
+          ], 
+          [
+            -77.4550674, 
+            37.5749506
+          ], 
+          [
+            -77.4554355, 
+            37.5750236
+          ], 
+          [
+            -77.4555931, 
+            37.5750766
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2708076405", 
+        "length": "68.14928405543532", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076365", 
+        "highway": "tertiary", 
+        "osmid": "265147385"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4533676, 
+            37.5725431
+          ], 
+          [
+            -77.4533287, 
+            37.5725277
+          ], 
+          [
+            -77.4532465, 
+            37.5725061
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "2708076371", 
+        "length": "11.46755399125776", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076366", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4533676, 
+            37.5725431
+          ], 
+          [
+            -77.4534146, 
+            37.572425
+          ], 
+          [
+            -77.453489, 
+            37.5723324
+          ], 
+          [
+            -77.4535875, 
+            37.5722494
+          ], 
+          [
+            -77.4538402, 
+            37.5721175
+          ], 
+          [
+            -77.4540805, 
+            37.5720247
+          ], 
+          [
+            -77.4545119, 
+            37.5718269
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "to": "2708076340", 
+        "length": "132.8329621808899", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076366", 
+        "highway": "tertiary", 
+        "osmid": "[265147379, 265147380]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4552636, 
+            37.5745936
+          ], 
+          [
+            -77.4548508, 
+            37.5741736
+          ], 
+          [
+            -77.4544811, 
+            37.5736266
+          ], 
+          [
+            -77.4542777, 
+            37.5732506
+          ], 
+          [
+            -77.4539573, 
+            37.5728403
+          ], 
+          [
+            -77.4535136, 
+            37.572601
+          ], 
+          [
+            -77.4533676, 
+            37.5725431
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "2708076366", 
+        "length": "289.11200116638923", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623763", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4533676, 
+            37.5725431
+          ], 
+          [
+            -77.453329, 
+            37.5726979
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2708076366", 
+        "length": "17.55085822702686", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076367", 
+        "highway": "tertiary", 
+        "osmid": "265147380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495506, 
+            37.5748867
+          ], 
+          [
+            -77.4495057, 
+            37.5742868
+          ], 
+          [
+            -77.4494594, 
+            37.5736683
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178765", 
+        "length": "135.75633630486792", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178587", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4494594, 
+            37.5736683
+          ], 
+          [
+            -77.4494053, 
+            37.5730523
+          ], 
+          [
+            -77.4493536, 
+            37.5724632
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "2708076393", 
+        "length": "134.36286332963454", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178765", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607091, 
+            37.5749126
+          ], 
+          [
+            -77.4612661, 
+            37.5755013
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609648", 
+        "length": "81.84377255221209", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "356506704", 
+        "highway": "motorway_link", 
+        "osmid": "6032022"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607091, 
+            37.5749126
+          ], 
+          [
+            -77.4608837, 
+            37.5750072
+          ], 
+          [
+            -77.461025, 
+            37.5750264
+          ], 
+          [
+            -77.4611289, 
+            37.5750019
+          ], 
+          [
+            -77.4612239, 
+            37.5749651
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609658", 
+        "length": "50.159282695558296", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "356506704", 
+        "highway": "motorway_link", 
+        "osmid": "6032027"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4588213, 
+            37.5734485
+          ], 
+          [
+            -77.4596472, 
+            37.5739315
+          ], 
+          [
+            -77.4600573, 
+            37.5742308
+          ], 
+          [
+            -77.4607091, 
+            37.5749126
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "356506704", 
+        "length": "234.76968380401001", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609644", 
+        "highway": "motorway_link", 
+        "osmid": "6032022"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4534611, 
+            37.5721416
+          ], 
+          [
+            -77.4533666, 
+            37.5722727
+          ], 
+          [
+            -77.4532968, 
+            37.5723917
+          ], 
+          [
+            -77.4532465, 
+            37.5725061
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2708076371", 
+        "length": "44.86485340621247", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076368", 
+        "highway": "tertiary", 
+        "osmid": "265147381"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532465, 
+            37.5725061
+          ], 
+          [
+            -77.453202, 
+            37.5726669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2708076372", 
+        "length": "18.31035659138343", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076371", 
+        "highway": "tertiary", 
+        "osmid": "265147381"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532465, 
+            37.5725061
+          ], 
+          [
+            -77.4530021, 
+            37.5724789
+          ], 
+          [
+            -77.4525048, 
+            37.5724425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "49617877", 
+        "length": "65.7832299955173", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076371", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453202, 
+            37.5726669
+          ], 
+          [
+            -77.4524975, 
+            37.5726117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076372", 
+        "length": "62.40850910107865", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076394", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453202, 
+            37.5726669
+          ], 
+          [
+            -77.453329, 
+            37.5726979
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076367", 
+        "length": "11.71470503049782", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076372", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4577901, 
+            37.5746498
+          ], 
+          [
+            -77.4575175, 
+            37.5751125
+          ], 
+          [
+            -77.4572186, 
+            37.5756199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Endicott Road", 
+        "to": "49623765", 
+        "length": "119.08239532055751", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615923", 
+        "highway": "residential", 
+        "osmid": "6038122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572186, 
+            37.5756199
+          ], 
+          [
+            -77.4582107, 
+            37.575963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookland Parkway", 
+        "to": "49623765", 
+        "length": "95.41914141259909", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623766", 
+        "highway": "tertiary", 
+        "osmid": "294874902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4582107, 
+            37.575963
+          ], 
+          [
+            -77.4581181, 
+            37.5760904
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Suffolk Road", 
+        "to": "49623766", 
+        "length": "16.35321069792086", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076413", 
+        "highway": "residential", 
+        "osmid": "6038583"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4500811, 
+            37.5781526
+          ], 
+          [
+            -77.44959, 
+            37.5754694
+          ], 
+          [
+            -77.4495506, 
+            37.5748867
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178587", 
+        "length": "366.4702849759275", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076439", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611267, 
+            37.5779935
+          ], 
+          [
+            -77.4611493, 
+            37.5780496
+          ], 
+          [
+            -77.4611463, 
+            37.5781022
+          ], 
+          [
+            -77.4611288, 
+            37.5781559
+          ], 
+          [
+            -77.4611048, 
+            37.5781831
+          ], 
+          [
+            -77.4610523, 
+            37.5782119
+          ], 
+          [
+            -77.460997, 
+            37.5782245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2766334569", 
+        "length": "32.96752451742399", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766334553", 
+        "highway": "tertiary_link", 
+        "osmid": "271683716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590518, 
+            37.5765383
+          ], 
+          [
+            -77.459374, 
+            37.5766941
+          ], 
+          [
+            -77.4596748, 
+            37.5768488
+          ], 
+          [
+            -77.4599919, 
+            37.5770292
+          ], 
+          [
+            -77.4602196, 
+            37.5772032
+          ], 
+          [
+            -77.460435, 
+            37.577374
+          ], 
+          [
+            -77.4606871, 
+            37.5776156
+          ], 
+          [
+            -77.4611267, 
+            37.5779935
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2766334553", 
+        "length": "246.07153178080046", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076415", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4534611, 
+            37.5721416
+          ], 
+          [
+            -77.4530823, 
+            37.5722884
+          ], 
+          [
+            -77.4525048, 
+            37.5724425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "to": "49617877", 
+        "length": "90.88972571572259", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076368", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4525048, 
+            37.5724425
+          ], 
+          [
+            -77.4524975, 
+            37.5726117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lamont Street", 
+        "to": "2708076394", 
+        "length": "18.830482185895367", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617877", 
+        "highway": "residential", 
+        "osmid": "6038573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453329, 
+            37.5726979
+          ], 
+          [
+            -77.4535075, 
+            37.5727663
+          ], 
+          [
+            -77.4537026, 
+            37.5728791
+          ], 
+          [
+            -77.4538978, 
+            37.5730338
+          ], 
+          [
+            -77.454036, 
+            37.5732207
+          ], 
+          [
+            -77.4541945, 
+            37.5734623
+          ], 
+          [
+            -77.4546052, 
+            37.574139
+          ], 
+          [
+            -77.4547962, 
+            37.5743742
+          ], 
+          [
+            -77.4549995, 
+            37.5745772
+          ], 
+          [
+            -77.4551403, 
+            37.574692
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076403", 
+        "length": "278.7517671659326", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076367", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612239, 
+            37.5749651
+          ], 
+          [
+            -77.4612661, 
+            37.5755013
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "to": "49609658", 
+        "length": "59.755425335162336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609648", 
+        "highway": "tertiary", 
+        "osmid": "270512030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4543948, 
+            37.5717268
+          ], 
+          [
+            -77.4536368, 
+            37.5720735
+          ], 
+          [
+            -77.4534611, 
+            37.5721416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Robin Hood Road", 
+        "to": "2708076368", 
+        "length": "94.39323862689093", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615921", 
+        "highway": "tertiary", 
+        "osmid": "6040988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4493536, 
+            37.5724632
+          ], 
+          [
+            -77.4524975, 
+            37.5726117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076394", 
+        "length": "277.64515863831815", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076393", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4562157, 
+            37.5738928
+          ], 
+          [
+            -77.4565115, 
+            37.5741101
+          ], 
+          [
+            -77.4568997, 
+            37.5743397
+          ], 
+          [
+            -77.4577901, 
+            37.5746498
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wentbridge Road", 
+        "to": "49615923", 
+        "length": "163.9900801873904", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615922", 
+        "highway": "residential", 
+        "osmid": "6034071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4624224, 
+            37.5765236
+          ], 
+          [
+            -77.4623935, 
+            37.5765752
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Boulevard", 
+        "to": "2766338612", 
+        "length": "6.279282052136826", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766338610", 
+        "highway": "primary", 
+        "osmid": "273391277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4555931, 
+            37.5750766
+          ], 
+          [
+            -77.4558248, 
+            37.5752216
+          ], 
+          [
+            -77.4560362, 
+            37.5753183
+          ], 
+          [
+            -77.4562679, 
+            37.5754117
+          ], 
+          [
+            -77.4564415, 
+            37.5754921
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076409", 
+        "length": "88.18095876676811", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076405", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4564415, 
+            37.5754921
+          ], 
+          [
+            -77.456833, 
+            37.5756212
+          ], 
+          [
+            -77.4574632, 
+            37.5758306
+          ], 
+          [
+            -77.4579185, 
+            37.5759981
+          ], 
+          [
+            -77.4581181, 
+            37.5760904
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076413", 
+        "length": "162.23790085196194", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076409", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612661, 
+            37.5755013
+          ], 
+          [
+            -77.4612887, 
+            37.5757948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hermitage Road", 
+        "to": "49615927", 
+        "length": "32.70564028662915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609648", 
+        "highway": "tertiary", 
+        "osmid": "270512030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4543948, 
+            37.5717268
+          ], 
+          [
+            -77.4545119, 
+            37.5718269
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wentbridge Road", 
+        "to": "49615921", 
+        "length": "15.183151042434279", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076340", 
+        "highway": "residential", 
+        "osmid": "6034071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4562157, 
+            37.5738928
+          ], 
+          [
+            -77.4557605, 
+            37.5742278
+          ], 
+          [
+            -77.4552636, 
+            37.5745936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Loxley Road", 
+        "to": "49623763", 
+        "length": "114.54370455733033", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615922", 
+        "highway": "residential", 
+        "osmid": "6037893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4545119, 
+            37.5718269
+          ], 
+          [
+            -77.4546721, 
+            37.5719661
+          ], 
+          [
+            -77.4550295, 
+            37.5722591
+          ], 
+          [
+            -77.455202, 
+            37.5724349
+          ], 
+          [
+            -77.4553653, 
+            37.5726547
+          ], 
+          [
+            -77.4557967, 
+            37.5733775
+          ], 
+          [
+            -77.4560154, 
+            37.5736706
+          ], 
+          [
+            -77.4562157, 
+            37.5738928
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wentbridge Road", 
+        "to": "49615922", 
+        "length": "276.61201805035984", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076340", 
+        "highway": "residential", 
+        "osmid": "6034071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4552636, 
+            37.5745936
+          ], 
+          [
+            -77.4551403, 
+            37.574692
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rennie Avenue", 
+        "to": "49623763", 
+        "length": "15.42490672617584", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076403", 
+        "highway": "residential", 
+        "osmid": "6034331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4623935, 
+            37.5765752
+          ], 
+          [
+            -77.4623054, 
+            37.5767326
+          ], 
+          [
+            -77.4621751, 
+            37.5769685
+          ], 
+          [
+            -77.4615324, 
+            37.5781314
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Boulevard", 
+        "to": "2708089082", 
+        "length": "189.0028290783058", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766338612", 
+        "highway": "primary", 
+        "osmid": "273391277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551403, 
+            37.574692
+          ], 
+          [
+            -77.4553695, 
+            37.5748994
+          ], 
+          [
+            -77.4555931, 
+            37.5750766
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076405", 
+        "length": "58.539960987604914", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076403", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4581181, 
+            37.5760904
+          ], 
+          [
+            -77.4584633, 
+            37.576243
+          ], 
+          [
+            -77.4590518, 
+            37.5765383
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brookland Parkway", 
+        "to": "2708076415", 
+        "length": "96.24407847731314", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076413", 
+        "highway": "tertiary", 
+        "osmid": "265147383"
+      }
+    }
+  ]
+}

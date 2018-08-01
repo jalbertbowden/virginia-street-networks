@@ -1,0 +1,1345 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.585616, 
+            38.409539
+          ], 
+          [
+            -79.585404, 
+            38.409707
+          ], 
+          [
+            -79.584907, 
+            38.410154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spruce Street", 
+        "to": "215512128", 
+        "length": "92.21940817801655", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215315005", 
+        "ref": "SR 636", 
+        "highway": "residential", 
+        "osmid": "20310918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.58619, 
+            38.41088
+          ], 
+          [
+            -79.585839, 
+            38.410704
+          ], 
+          [
+            -79.585007, 
+            38.410217
+          ], 
+          [
+            -79.584907, 
+            38.410154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pig Pen Alley", 
+        "to": "215512128", 
+        "length": "138.01219175586044", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215504766", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20312280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.583202, 
+            38.411926
+          ], 
+          [
+            -79.583428, 
+            38.41153
+          ], 
+          [
+            -79.583519, 
+            38.411415
+          ], 
+          [
+            -79.58374, 
+            38.411204
+          ], 
+          [
+            -79.584907, 
+            38.410154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spruce Street", 
+        "to": "215512128", 
+        "length": "248.52791486077103", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215512143", 
+        "ref": "SR 636", 
+        "highway": "residential", 
+        "osmid": "20310918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.578608, 
+            38.413145
+          ], 
+          [
+            -79.578489, 
+            38.413062
+          ], 
+          [
+            -79.578349, 
+            38.413012
+          ], 
+          [
+            -79.577106, 
+            38.41257
+          ], 
+          [
+            -79.576025, 
+            38.412159
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fleisher Avenue", 
+        "to": "215506137", 
+        "length": "250.97357523863124", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215514656", 
+        "ref": "SR 1004", 
+        "highway": "residential", 
+        "osmid": "20311180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.5794983, 
+            38.4120181
+          ], 
+          [
+            -79.579422, 
+            38.412066
+          ], 
+          [
+            -79.579262, 
+            38.412336
+          ], 
+          [
+            -79.579115, 
+            38.412574
+          ], 
+          [
+            -79.579087, 
+            38.412612
+          ], 
+          [
+            -79.579006, 
+            38.412724
+          ], 
+          [
+            -79.578829, 
+            38.412925
+          ], 
+          [
+            -79.578716, 
+            38.413053
+          ], 
+          [
+            -79.578608, 
+            38.413145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Potomac River Road", 
+        "to": "215514656", 
+        "length": "148.61583486141512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509537", 
+        "ref": "US 220", 
+        "highway": "primary", 
+        "osmid": "[373163136, 372068461]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.575054, 
+            38.411486
+          ], 
+          [
+            -79.575021, 
+            38.411546
+          ], 
+          [
+            -79.575015, 
+            38.411583
+          ], 
+          [
+            -79.575016, 
+            38.411615
+          ], 
+          [
+            -79.575025, 
+            38.411647
+          ], 
+          [
+            -79.575051, 
+            38.411679
+          ], 
+          [
+            -79.575115, 
+            38.411713
+          ], 
+          [
+            -79.575482, 
+            38.411846
+          ], 
+          [
+            -79.575804, 
+            38.411957
+          ], 
+          [
+            -79.576136, 
+            38.412046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "215305120", 
+        "length": "126.05923975115033", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215305154", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20302289"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.580947, 
+            38.414123
+          ], 
+          [
+            -79.579732, 
+            38.413675
+          ], 
+          [
+            -79.579669, 
+            38.413665
+          ], 
+          [
+            -79.579616, 
+            38.413669
+          ], 
+          [
+            -79.579573, 
+            38.41369
+          ], 
+          [
+            -79.579534, 
+            38.413748
+          ], 
+          [
+            -79.579204, 
+            38.414339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Goldenrod Lane", 
+        "to": "215490243", 
+        "length": "210.7272169729162", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215327699", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20310237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.576025, 
+            38.412159
+          ], 
+          [
+            -79.57515, 
+            38.413075
+          ], 
+          [
+            -79.57473, 
+            38.413514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wilson Avenue", 
+        "to": "215275270", 
+        "length": "188.2862768957497", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215506137", 
+        "ref": "SR 1005", 
+        "highway": "residential", 
+        "osmid": "[20301500, 20310805]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.5794983, 
+            38.4120181
+          ], 
+          [
+            -79.580982, 
+            38.412541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Main Street", 
+        "to": "215509537", 
+        "length": "141.78576608342632", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509539", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "372912423"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.5794983, 
+            38.4120181
+          ], 
+          [
+            -79.57699, 
+            38.411114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Main Street", 
+        "to": "215506134", 
+        "length": "240.62656597074294", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509537", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "20310858"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.579898, 
+            38.411401
+          ], 
+          [
+            -79.5795918, 
+            38.4118947
+          ], 
+          [
+            -79.5794983, 
+            38.4120181
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Jackson River Road", 
+        "to": "215509537", 
+        "length": "77.01557154249554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266531", 
+        "ref": "US 220", 
+        "highway": "primary", 
+        "osmid": "20310983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.583605, 
+            38.412981
+          ], 
+          [
+            -79.583422, 
+            38.413313
+          ], 
+          [
+            -79.583384, 
+            38.413406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "State Route T-1001", 
+        "to": "215277963", 
+        "length": "51.085294449199594", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215305040", 
+        "ref": "SR 1001", 
+        "highway": "residential", 
+        "osmid": "20312273"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.582536, 
+            38.413096
+          ], 
+          [
+            -79.583191, 
+            38.41333
+          ], 
+          [
+            -79.583384, 
+            38.413406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Main Street", 
+        "to": "215277963", 
+        "length": "81.56239778558968", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509541", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "372912423"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.583384, 
+            38.413406
+          ], 
+          [
+            -79.58325, 
+            38.413677
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "215277963", 
+        "length": "32.32553451314931", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215277967", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20301089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.580671, 
+            38.413152
+          ], 
+          [
+            -79.580982, 
+            38.412541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "215505229", 
+        "length": "73.1648596792966", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509539", 
+        "ref": "SR 1003", 
+        "highway": "residential", 
+        "osmid": "20311392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.583708, 
+            38.412796
+          ], 
+          [
+            -79.584017, 
+            38.412237
+          ], 
+          [
+            -79.584018, 
+            38.412219
+          ], 
+          [
+            -79.584003, 
+            38.412205
+          ], 
+          [
+            -79.583202, 
+            38.411926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Route 1002", 
+        "to": "215512143", 
+        "length": "148.19009968027882", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266544", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20312001"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.581723, 
+            38.411399
+          ], 
+          [
+            -79.581865, 
+            38.41142
+          ], 
+          [
+            -79.582249, 
+            38.411559
+          ], 
+          [
+            -79.583202, 
+            38.411926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "215512143", 
+        "length": "142.00554548729215", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215305508", 
+        "ref": "SR 1003", 
+        "highway": "residential", 
+        "osmid": "20311392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.583202, 
+            38.411926
+          ], 
+          [
+            -79.582869, 
+            38.412511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spruce Street", 
+        "to": "215512143", 
+        "length": "71.24623600003171", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266540", 
+        "ref": "SR 636", 
+        "highway": "residential", 
+        "osmid": "20310918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.581364, 
+            38.413396
+          ], 
+          [
+            -79.580947, 
+            38.414123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clover Lane", 
+        "to": "215327696", 
+        "length": "88.65274665392863", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215327699", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20303597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.581723, 
+            38.411399
+          ], 
+          [
+            -79.581767, 
+            38.411341
+          ], 
+          [
+            -79.581866, 
+            38.411245
+          ], 
+          [
+            -79.581998, 
+            38.411137
+          ], 
+          [
+            -79.582215, 
+            38.411022
+          ], 
+          [
+            -79.582479, 
+            38.410852
+          ], 
+          [
+            -79.582583, 
+            38.410772
+          ], 
+          [
+            -79.582623, 
+            38.410728
+          ], 
+          [
+            -79.58264, 
+            38.41069
+          ], 
+          [
+            -79.582646, 
+            38.410637
+          ], 
+          [
+            -79.582625, 
+            38.41053
+          ], 
+          [
+            -79.582591, 
+            38.410469
+          ], 
+          [
+            -79.582532, 
+            38.410412
+          ], 
+          [
+            -79.582464, 
+            38.410367
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "215305554", 
+        "length": "154.95116503608253", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215305508", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20302317"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.583605, 
+            38.412981
+          ], 
+          [
+            -79.583708, 
+            38.412796
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "State Route T-1001", 
+        "to": "215305040", 
+        "length": "22.449653346608084", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266544", 
+        "ref": "SR 1001", 
+        "highway": "residential", 
+        "osmid": "20312273"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.584468, 
+            38.413703
+          ], 
+          [
+            -79.584349, 
+            38.413657
+          ], 
+          [
+            -79.584135, 
+            38.413491
+          ], 
+          [
+            -79.584024, 
+            38.413379
+          ], 
+          [
+            -79.583906, 
+            38.413248
+          ], 
+          [
+            -79.583831, 
+            38.413125
+          ], 
+          [
+            -79.583791, 
+            38.413084
+          ], 
+          [
+            -79.583676, 
+            38.413029
+          ], 
+          [
+            -79.583605, 
+            38.412981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "215305040", 
+        "length": "112.23147321222827", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215305070", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20302280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.57699, 
+            38.411114
+          ], 
+          [
+            -79.576492, 
+            38.41168
+          ], 
+          [
+            -79.576136, 
+            38.412046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wilson Avenue", 
+        "to": "215305120", 
+        "length": "127.65005369898404", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215506134", 
+        "ref": "SR 1005", 
+        "highway": "residential", 
+        "osmid": "20310805"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.585616, 
+            38.409539
+          ], 
+          [
+            -79.586109, 
+            38.40915
+          ], 
+          [
+            -79.586165, 
+            38.409105
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "State Route 636", 
+        "to": "215314967", 
+        "length": "67.96863539906984", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215315005", 
+        "ref": "SR 636", 
+        "highway": "residential", 
+        "osmid": "20310860"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.585616, 
+            38.409539
+          ], 
+          [
+            -79.58566, 
+            38.409567
+          ], 
+          [
+            -79.585752, 
+            38.409627
+          ], 
+          [
+            -79.586318, 
+            38.409949
+          ], 
+          [
+            -79.586402, 
+            38.409955
+          ], 
+          [
+            -79.586456, 
+            38.409951
+          ], 
+          [
+            -79.586489, 
+            38.409928
+          ], 
+          [
+            -79.58666, 
+            38.409704
+          ], 
+          [
+            -79.586729, 
+            38.409598
+          ], 
+          [
+            -79.586746, 
+            38.409562
+          ], 
+          [
+            -79.586711, 
+            38.40951
+          ], 
+          [
+            -79.586657, 
+            38.409474
+          ], 
+          [
+            -79.586319, 
+            38.40922
+          ], 
+          [
+            -79.586165, 
+            38.409105
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "215314967", 
+        "length": "210.8724088186533", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "215315005", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20302952"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.580462, 
+            38.41497
+          ], 
+          [
+            -79.580947, 
+            38.414123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clover Lane", 
+        "to": "215327704", 
+        "length": "103.25608830252267", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215327699", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20303597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.576025, 
+            38.412159
+          ], 
+          [
+            -79.576136, 
+            38.412046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wilson Avenue", 
+        "to": "215305120", 
+        "length": "15.860459043049827", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215506137", 
+        "ref": "SR 1005", 
+        "highway": "residential", 
+        "osmid": "20310805"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.582536, 
+            38.413096
+          ], 
+          [
+            -79.582366, 
+            38.413377
+          ], 
+          [
+            -79.582275, 
+            38.413527
+          ], 
+          [
+            -79.582175, 
+            38.413692
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spruce Street", 
+        "to": "215277857", 
+        "length": "73.37784016587852", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509541", 
+        "ref": "SR 636", 
+        "highway": "residential", 
+        "osmid": "20310918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.579898, 
+            38.411401
+          ], 
+          [
+            -79.581337, 
+            38.411926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Walnut Street", 
+        "to": "215266531", 
+        "length": "138.34152260550442", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266535", 
+        "ref": "SR 1002", 
+        "highway": "residential", 
+        "osmid": "20300618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.581337, 
+            38.411926
+          ], 
+          [
+            -79.581582, 
+            38.411503
+          ], 
+          [
+            -79.581646, 
+            38.41144
+          ], 
+          [
+            -79.581723, 
+            38.411399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "215305508", 
+        "length": "68.73716627275854", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266535", 
+        "ref": "SR 1003", 
+        "highway": "residential", 
+        "osmid": "20311392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.582536, 
+            38.413096
+          ], 
+          [
+            -79.580982, 
+            38.412541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Main Street", 
+        "to": "215509541", 
+        "length": "148.8388943982885", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509539", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "372912423"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.582536, 
+            38.413096
+          ], 
+          [
+            -79.582869, 
+            38.412511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Spruce Street", 
+        "to": "215509541", 
+        "length": "71.2461402906914", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266540", 
+        "ref": "SR 636", 
+        "highway": "residential", 
+        "osmid": "20310918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.584413, 
+            38.415961
+          ], 
+          [
+            -79.584118, 
+            38.415993
+          ], 
+          [
+            -79.58379, 
+            38.416043
+          ], 
+          [
+            -79.583549, 
+            38.41608
+          ], 
+          [
+            -79.583355, 
+            38.416096
+          ], 
+          [
+            -79.583245, 
+            38.416095
+          ], 
+          [
+            -79.583156, 
+            38.416073
+          ], 
+          [
+            -79.582897, 
+            38.415962
+          ], 
+          [
+            -79.582615, 
+            38.415778
+          ], 
+          [
+            -79.582374, 
+            38.415605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Academy Hill Road", 
+        "to": "215277799", 
+        "length": "197.38975655441965", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215303912", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20312352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.581337, 
+            38.411926
+          ], 
+          [
+            -79.580982, 
+            38.412541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "215266535", 
+        "length": "75.07568403029067", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215509539", 
+        "ref": "SR 1003", 
+        "highway": "residential", 
+        "osmid": "20311392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.581337, 
+            38.411926
+          ], 
+          [
+            -79.582869, 
+            38.412511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Walnut Street", 
+        "to": "215266535", 
+        "length": "148.52858514850362", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266540", 
+        "ref": "SR 1002", 
+        "highway": "residential", 
+        "osmid": "20300618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.582869, 
+            38.412511
+          ], 
+          [
+            -79.583708, 
+            38.412796
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Walnut Street", 
+        "to": "215266540", 
+        "length": "79.69612502016142", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215266544", 
+        "ref": "SR 1002", 
+        "highway": "residential", 
+        "osmid": "20300618"
+      }
+    }
+  ]
+}

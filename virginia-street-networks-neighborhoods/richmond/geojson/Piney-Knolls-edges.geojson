@@ -1,0 +1,2329 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4912061, 
+            37.4777516
+          ], 
+          [
+            -77.4936473, 
+            37.4781618
+          ], 
+          [
+            -77.4938121, 
+            37.4782069
+          ], 
+          [
+            -77.4939064, 
+            37.4783316
+          ], 
+          [
+            -77.4938873, 
+            37.4786803
+          ], 
+          [
+            -77.4937632, 
+            37.4789717
+          ], 
+          [
+            -77.4935013, 
+            37.4791103
+          ], 
+          [
+            -77.493095, 
+            37.4792479
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Brinkwood Drive', 'White Oak Drive']", 
+        "to": "49627648", 
+        "length": "391.63058712170107", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619308", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035385, 6038834]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.493095, 
+            37.4792479
+          ], 
+          [
+            -77.4933575, 
+            37.4795976
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brinkwood Court", 
+        "to": "49627648", 
+        "length": "45.27390109721948", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630588", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040173"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4923513, 
+            37.4803008
+          ], 
+          [
+            -77.4926912, 
+            37.479537
+          ], 
+          [
+            -77.4928693, 
+            37.4793348
+          ], 
+          [
+            -77.493095, 
+            37.4792479
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brinkwood Drive", 
+        "to": "49627648", 
+        "length": "139.6785160761922", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624831", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038834"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4951352, 
+            37.4808182
+          ], 
+          [
+            -77.4941087, 
+            37.4806181
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Burtwood Lane", 
+        "to": "49624833", 
+        "length": "93.29706632205847", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624832", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037574"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4960045, 
+            37.4735717
+          ], 
+          [
+            -77.4950819, 
+            37.4735207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hansdale Road", 
+        "to": "49609090", 
+        "length": "81.63795984673226", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031838"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4960045, 
+            37.4735717
+          ], 
+          [
+            -77.4970539, 
+            37.4731665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hansdale Road", 
+        "to": "49609090", 
+        "length": "103.01572331763482", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609092", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031838"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4960045, 
+            37.4735717
+          ], 
+          [
+            -77.4953823, 
+            37.4724989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bertram Road", 
+        "to": "49609090", 
+        "length": "131.35726096734817", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615934", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034076"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964337, 
+            37.4754024
+          ], 
+          [
+            -77.4963447, 
+            37.4742872
+          ], 
+          [
+            -77.4960045, 
+            37.4735717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bertram Road", 
+        "to": "49609090", 
+        "length": "209.3478956473287", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615932", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034076"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4944728, 
+            37.4794151
+          ], 
+          [
+            -77.4947396, 
+            37.479686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Crumpton Court North", 
+        "to": "49627267", 
+        "length": "38.24212407586543", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625841", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979401, 
+            37.472812
+          ], 
+          [
+            -77.4978391, 
+            37.472847
+          ], 
+          [
+            -77.4970539, 
+            37.4731665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hansdale Road", 
+        "to": "49609092", 
+        "length": "87.61994885148818", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145765977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031838"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4970539, 
+            37.4731665
+          ], 
+          [
+            -77.4975356, 
+            37.4740438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stacie Road", 
+        "to": "49609092", 
+        "length": "106.44088205062383", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628691", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041117"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4949987, 
+            37.4799542
+          ], 
+          [
+            -77.4947396, 
+            37.479686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Crumpton Court North", 
+        "to": "49627265", 
+        "length": "37.58856808052896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625841", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4893297, 
+            37.4713539
+          ], 
+          [
+            -77.4891592, 
+            37.4712997
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Walmsley Boulevard", 
+        "to": "622040588", 
+        "length": "16.2134091327388", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628652", 
+        "ref": "SR 647", 
+        "highway": "secondary", 
+        "osmid": "6039338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4953823, 
+            37.4724989
+          ], 
+          [
+            -77.4947278, 
+            37.4725159
+          ], 
+          [
+            -77.4939768, 
+            37.4724308
+          ], 
+          [
+            -77.490307, 
+            37.471547
+          ], 
+          [
+            -77.4893297, 
+            37.4713539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Walmsley Boulevard", 
+        "to": "49628652", 
+        "length": "552.2147721120785", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615934", 
+        "ref": "SR 647", 
+        "highway": "secondary", 
+        "osmid": "6039338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5018434, 
+            37.4824094
+          ], 
+          [
+            -77.5020115, 
+            37.4824966
+          ], 
+          [
+            -77.5020337, 
+            37.4825095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145766029", 
+        "length": "20.15437341260227", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610513", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032343"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5022445, 
+            37.4822598
+          ], 
+          [
+            -77.502114, 
+            37.4824622
+          ], 
+          [
+            -77.5020337, 
+            37.4825095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145766029", 
+        "length": "34.11441687968982", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609450", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032337"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5019851, 
+            37.4830766
+          ], 
+          [
+            -77.5023456, 
+            37.4826906
+          ], 
+          [
+            -77.5020337, 
+            37.4825095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145766029", 
+        "length": "87.55002709546405", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145766036", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032343"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.501376, 
+            37.4831184
+          ], 
+          [
+            -77.501763, 
+            37.4826978
+          ], 
+          [
+            -77.501907, 
+            37.4826058
+          ], 
+          [
+            -77.5020337, 
+            37.4825095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145766029", 
+        "length": "89.72665435078758", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609460", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911044, 
+            37.478049
+          ], 
+          [
+            -77.4912061, 
+            37.4777516
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pauls Lane", 
+        "to": "49619308", 
+        "length": "34.27511123159444", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623438", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4942276, 
+            37.4767124
+          ], 
+          [
+            -77.4923305, 
+            37.4760293
+          ], 
+          [
+            -77.4917159, 
+            37.4759886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Snead Road", 
+        "to": "49623439", 
+        "length": "238.3261895647888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623448", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833599, 
+            37.4754564
+          ], 
+          [
+            -77.4858908, 
+            37.4759866
+          ], 
+          [
+            -77.4888524, 
+            37.4760091
+          ], 
+          [
+            -77.4917159, 
+            37.4759886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Snead Road", 
+        "to": "49623439", 
+        "length": "745.2602809970301", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623442", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4917159, 
+            37.4759886
+          ], 
+          [
+            -77.4912061, 
+            37.4777516
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pauls Lane", 
+        "to": "49619308", 
+        "length": "201.1889386755446", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5018434, 
+            37.4824094
+          ], 
+          [
+            -77.5016759, 
+            37.4825582
+          ], 
+          [
+            -77.501421, 
+            37.4823965
+          ], 
+          [
+            -77.5015499, 
+            37.4822483
+          ], 
+          [
+            -77.5018434, 
+            37.4824094
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49610513", 
+        "length": "102.52245776235338", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610513", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5018434, 
+            37.4824094
+          ], 
+          [
+            -77.5015499, 
+            37.4822483
+          ], 
+          [
+            -77.501421, 
+            37.4823965
+          ], 
+          [
+            -77.5016759, 
+            37.4825582
+          ], 
+          [
+            -77.5018434, 
+            37.4824094
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49610513", 
+        "length": "102.52245776253025", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49610513", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833599, 
+            37.4754564
+          ], 
+          [
+            -77.4817774, 
+            37.4751611
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Snead Road", 
+        "to": "49623442", 
+        "length": "143.49819073847104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2394591063", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833599, 
+            37.4754564
+          ], 
+          [
+            -77.4837609, 
+            37.4742484
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Snead Court", 
+        "to": "49623442", 
+        "length": "138.9456725039624", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039687"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4977022, 
+            37.4753509
+          ], 
+          [
+            -77.4976052, 
+            37.4741992
+          ], 
+          [
+            -77.4975356, 
+            37.4740438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stacie Road", 
+        "to": "49628691", 
+        "length": "146.72910144481745", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628232", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041117"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4975356, 
+            37.4740438
+          ], 
+          [
+            -77.4980613, 
+            37.4738415
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Laporte Road", 
+        "to": "49628691", 
+        "length": "51.57236568575501", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628693", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039348"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5023007, 
+            37.4820453
+          ], 
+          [
+            -77.5023988, 
+            37.4816454
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609448", 
+        "length": "45.31431176367636", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609449", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031939"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5023007, 
+            37.4820453
+          ], 
+          [
+            -77.5022445, 
+            37.4822598
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609450", 
+        "length": "24.368236466039654", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609449", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031939"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5023007, 
+            37.4820453
+          ], 
+          [
+            -77.5027472, 
+            37.4821343
+          ], 
+          [
+            -77.5026985, 
+            37.4823337
+          ], 
+          [
+            -77.5022445, 
+            37.4822598
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609450", 
+        "length": "104.13041666248503", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49609449", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032337"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4953102, 
+            37.4755564
+          ], 
+          [
+            -77.4945748, 
+            37.4757428
+          ], 
+          [
+            -77.4944412, 
+            37.4758458
+          ], 
+          [
+            -77.4943328, 
+            37.4764013
+          ], 
+          [
+            -77.4942276, 
+            37.4767124
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kendall Road", 
+        "to": "49623448", 
+        "length": "182.93549158702464", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623482", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4981503, 
+            37.4779567
+          ], 
+          [
+            -77.496407, 
+            37.477547
+          ], 
+          [
+            -77.4942276, 
+            37.4767124
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Snead Road", 
+        "to": "49623448", 
+        "length": "374.0825410667491", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623451", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4981503, 
+            37.4779567
+          ], 
+          [
+            -77.4988599, 
+            37.4755301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49623451", 
+        "length": "277.07424415122927", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4981503, 
+            37.4779567
+          ], 
+          [
+            -77.5005147, 
+            37.4782926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Snead Road", 
+        "to": "49623451", 
+        "length": "212.01758747773894", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618091", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032572, 
+            37.4775991
+          ], 
+          [
+            -77.5006501, 
+            37.47725
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Adler Road", 
+        "to": "49618721", 
+        "length": "233.37736885178344", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618093", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040460"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852389, 
+            37.4782917
+          ], 
+          [
+            -77.4831934, 
+            37.4775723
+          ], 
+          [
+            -77.4823179, 
+            37.4773321
+          ], 
+          [
+            -77.4818378, 
+            37.477244
+          ], 
+          [
+            -77.4811195, 
+            37.4771482
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Burtwood Lane", 
+        "to": "49617826", 
+        "length": "387.0432690358493", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624823", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4811195, 
+            37.4771482
+          ], 
+          [
+            -77.4815339, 
+            37.4758409
+          ], 
+          [
+            -77.4817774, 
+            37.4751611
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "2394591063", 
+        "length": "228.543737478514", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617826", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5022273, 
+            37.4717666
+          ], 
+          [
+            -77.5032251, 
+            37.4739634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hey Road", 
+        "to": "49618726", 
+        "length": "259.7324495898998", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615613", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4996913, 
+            37.4826627
+          ], 
+          [
+            -77.4998218, 
+            37.4823474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Access Road", 
+        "to": "49614961", 
+        "length": "36.912727246200866", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620720", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038982"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4996913, 
+            37.4826627
+          ], 
+          [
+            -77.4997029, 
+            37.4826657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49614961", 
+        "length": "1.0768440336536256", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612285", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4819849, 
+            37.4745214
+          ], 
+          [
+            -77.4823395, 
+            37.4733439
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49611597", 
+        "length": "134.65747909093892", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617832", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4819849, 
+            37.4745214
+          ], 
+          [
+            -77.4817774, 
+            37.4751611
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617832", 
+        "length": "73.47118161234287", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394591063", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5002922, 
+            37.4796135
+          ], 
+          [
+            -77.5005147, 
+            37.4782926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Huth Road", 
+        "to": "49618089", 
+        "length": "148.2255880403682", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618091", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826045, 
+            37.4724533
+          ], 
+          [
+            -77.4823395, 
+            37.4733439
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617834", 
+        "length": "101.78270348977156", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611597", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826045, 
+            37.4724533
+          ], 
+          [
+            -77.4852801, 
+            37.4729401
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clayton Drive", 
+        "to": "49617834", 
+        "length": "242.31267424051973", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630462", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040110"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5005147, 
+            37.4782926
+          ], 
+          [
+            -77.5006501, 
+            37.47725
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Huth Road", 
+        "to": "49618091", 
+        "length": "116.57873653138151", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618093", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5006501, 
+            37.47725
+          ], 
+          [
+            -77.500773, 
+            37.4764443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Huth Road", 
+        "to": "49618093", 
+        "length": "90.2692199997159", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618095", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.500773, 
+            37.4764443
+          ], 
+          [
+            -77.5008862, 
+            37.4756408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Huth Road", 
+        "to": "49618095", 
+        "length": "89.92715513606237", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618097", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5008862, 
+            37.4756408
+          ], 
+          [
+            -77.4988599, 
+            37.4755301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kendall Road", 
+        "to": "49618097", 
+        "length": "179.2859452037672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5008862, 
+            37.4756408
+          ], 
+          [
+            -77.5020483, 
+            37.4756644
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49618097", 
+        "length": "102.6127117959383", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145765983", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204580129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940734, 
+            37.4733844
+          ], 
+          [
+            -77.4950819, 
+            37.4735207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hansdale Road", 
+        "to": "49609089", 
+        "length": "90.30501971407422", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031838"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964337, 
+            37.4754024
+          ], 
+          [
+            -77.4964873, 
+            37.4759473
+          ], 
+          [
+            -77.4968199, 
+            37.4763135
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bertram Road", 
+        "to": "49615930", 
+        "length": "111.0005913708505", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615932", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034076"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964337, 
+            37.4754024
+          ], 
+          [
+            -77.4977022, 
+            37.4753509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kendall Road", 
+        "to": "49615932", 
+        "length": "112.11794756599252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628232", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964337, 
+            37.4754024
+          ], 
+          [
+            -77.4953102, 
+            37.4755564
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kendall Road", 
+        "to": "49615932", 
+        "length": "100.64048322023295", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623482", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4941087, 
+            37.4806181
+          ], 
+          [
+            -77.494257, 
+            37.4801193
+          ], 
+          [
+            -77.4944076, 
+            37.4799419
+          ], 
+          [
+            -77.4947396, 
+            37.479686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Crumpton Drive", 
+        "to": "49625841", 
+        "length": "121.6460659465341", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624832", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037982"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4941087, 
+            37.4806181
+          ], 
+          [
+            -77.4923513, 
+            37.4803008
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Burtwood Lane", 
+        "to": "49624831", 
+        "length": "159.08074458848577", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624832", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037574"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4988599, 
+            37.4755301
+          ], 
+          [
+            -77.4986668, 
+            37.4754684
+          ], 
+          [
+            -77.4977022, 
+            37.4753509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kendall Road", 
+        "to": "49628232", 
+        "length": "104.51785891053427", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5000539, 
+            37.4708958
+          ], 
+          [
+            -77.4997502, 
+            37.472145
+          ], 
+          [
+            -77.4988599, 
+            37.4755301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49626193", 
+        "length": "526.1331111746051", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626196", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979401, 
+            37.472812
+          ], 
+          [
+            -77.4980161, 
+            37.4729324
+          ], 
+          [
+            -77.4983076, 
+            37.4733949
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Matisse Lane", 
+        "to": "49629953", 
+        "length": "72.49694197018408", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145765977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4997029, 
+            37.4826657
+          ], 
+          [
+            -77.501376, 
+            37.4831184
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49609460", 
+        "length": "156.01946534853744", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612285", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4950819, 
+            37.4735207
+          ], 
+          [
+            -77.4951348, 
+            37.474589
+          ], 
+          [
+            -77.4953102, 
+            37.4755564
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "McLeod Road", 
+        "to": "49623482", 
+        "length": "227.62321960762924", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4860699, 
+            37.4796176
+          ], 
+          [
+            -77.4865687, 
+            37.4787903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Richdale Road", 
+        "to": "49614951", 
+        "length": "102.00790879283511", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624825", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4860699, 
+            37.4796176
+          ], 
+          [
+            -77.4874729, 
+            37.4802012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49614951", 
+        "length": "139.81768367530933", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614953", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4912061, 
+            37.4777516
+          ], 
+          [
+            -77.4905552, 
+            37.4776308
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "White Oak Drive", 
+        "to": "49619308", 
+        "length": "59.003867464249815", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619306", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035385"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4956348, 
+            37.4794785
+          ], 
+          [
+            -77.4954817, 
+            37.4794589
+          ], 
+          [
+            -77.4952104, 
+            37.4794741
+          ], 
+          [
+            -77.4949078, 
+            37.479586
+          ], 
+          [
+            -77.4947396, 
+            37.479686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Crumpton Drive", 
+        "to": "49625841", 
+        "length": "85.71183733299074", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145766008", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037982"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4998218, 
+            37.4823474
+          ], 
+          [
+            -77.4998816, 
+            37.4822969
+          ], 
+          [
+            -77.4998992, 
+            37.4822826
+          ], 
+          [
+            -77.500198, 
+            37.4815439
+          ], 
+          [
+            -77.5002597, 
+            37.4815106
+          ], 
+          [
+            -77.5004622, 
+            37.481536
+          ], 
+          [
+            -77.5006079, 
+            37.481587
+          ], 
+          [
+            -77.5007215, 
+            37.4815929
+          ], 
+          [
+            -77.5007807, 
+            37.4815282
+          ], 
+          [
+            -77.5010277, 
+            37.4809796
+          ], 
+          [
+            -77.5010153, 
+            37.4809051
+          ], 
+          [
+            -77.5009832, 
+            37.4808757
+          ], 
+          [
+            -77.5006795, 
+            37.4807954
+          ], 
+          [
+            -77.5005313, 
+            37.4807836
+          ], 
+          [
+            -77.4997807, 
+            37.4808287
+          ], 
+          [
+            -77.4997016, 
+            37.4808538
+          ], 
+          [
+            -77.4991701, 
+            37.4820673
+          ], 
+          [
+            -77.4991701, 
+            37.4821047
+          ], 
+          [
+            -77.4992228, 
+            37.4821479
+          ], 
+          [
+            -77.4998218, 
+            37.4823474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chateau Drive", 
+        "to": "49620720", 
+        "length": "557.8214812911503", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620720", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204580128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4998218, 
+            37.4823474
+          ], 
+          [
+            -77.4992228, 
+            37.4821479
+          ], 
+          [
+            -77.4991701, 
+            37.4821047
+          ], 
+          [
+            -77.4991701, 
+            37.4820673
+          ], 
+          [
+            -77.4997016, 
+            37.4808538
+          ], 
+          [
+            -77.4997807, 
+            37.4808287
+          ], 
+          [
+            -77.5005313, 
+            37.4807836
+          ], 
+          [
+            -77.5006795, 
+            37.4807954
+          ], 
+          [
+            -77.5009832, 
+            37.4808757
+          ], 
+          [
+            -77.5010153, 
+            37.4809051
+          ], 
+          [
+            -77.5010277, 
+            37.4809796
+          ], 
+          [
+            -77.5007807, 
+            37.4815282
+          ], 
+          [
+            -77.5007215, 
+            37.4815929
+          ], 
+          [
+            -77.5006079, 
+            37.481587
+          ], 
+          [
+            -77.5004622, 
+            37.481536
+          ], 
+          [
+            -77.5002597, 
+            37.4815106
+          ], 
+          [
+            -77.500198, 
+            37.4815439
+          ], 
+          [
+            -77.4998992, 
+            37.4822826
+          ], 
+          [
+            -77.4998816, 
+            37.4822969
+          ], 
+          [
+            -77.4998218, 
+            37.4823474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chateau Drive", 
+        "to": "49620720", 
+        "length": "557.8214812913525", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49620720", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204580128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852389, 
+            37.4782917
+          ], 
+          [
+            -77.4865687, 
+            37.4787903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Burtwood Lane", 
+        "to": "49624823", 
+        "length": "129.81916270012195", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624825", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865687, 
+            37.4787903
+          ], 
+          [
+            -77.4878664, 
+            37.4792816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Burtwood Lane", 
+        "to": "49624827", 
+        "length": "126.91068583358611", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624825", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4919383, 
+            37.4802241
+          ], 
+          [
+            -77.4923513, 
+            37.4803008
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Burtwood Lane", 
+        "to": "49624831", 
+        "length": "37.438399659900426", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624830", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037574"
+      }
+    }
+  ]
+}

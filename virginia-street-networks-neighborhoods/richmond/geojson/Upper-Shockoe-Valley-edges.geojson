@@ -1,0 +1,1697 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230971, 
+            37.5436726
+          ], 
+          [
+            -77.4228682, 
+            37.5383208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "North 18th Street", 
+        "to": "49624512", 
+        "length": "595.6028891097009", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620888", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "207693042"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230971, 
+            37.5436726
+          ], 
+          [
+            -77.4243313, 
+            37.5436578
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Coalter Street", 
+        "to": "49624512", 
+        "length": "108.85666073456356", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628185", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039075"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230971, 
+            37.5436726
+          ], 
+          [
+            -77.4231776, 
+            37.5452846
+          ], 
+          [
+            -77.4232741, 
+            37.5453995
+          ], 
+          [
+            -77.4233761, 
+            37.5454548
+          ], 
+          [
+            -77.4238621, 
+            37.5455037
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "North 18th Street", 
+        "to": "49624514", 
+        "length": "248.8914405833008", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624512", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "207693042"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4244201, 
+            37.5378177
+          ], 
+          [
+            -77.4245524, 
+            37.5375925
+          ], 
+          [
+            -77.4252215, 
+            37.5368981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49614977", 
+        "length": "124.83279034496546", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624168", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "[45087737, 207703647]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252215, 
+            37.5368981
+          ], 
+          [
+            -77.4264146, 
+            37.5376208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "to": "49614977", 
+        "length": "132.41800494290393", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614969", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033796"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243324, 
+            37.5363595
+          ], 
+          [
+            -77.4247814, 
+            37.5366315
+          ], 
+          [
+            -77.4252215, 
+            37.5368981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "to": "49614977", 
+        "length": "98.68152425598836", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614981", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033796"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252215, 
+            37.5368981
+          ], 
+          [
+            -77.4260332, 
+            37.5360554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49629481", 
+        "length": "117.94330891570071", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614977", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "207703647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4238621, 
+            37.5455037
+          ], 
+          [
+            -77.4239608, 
+            37.5455781
+          ], 
+          [
+            -77.4240949, 
+            37.5457142
+          ], 
+          [
+            -77.4241485, 
+            37.5458673
+          ], 
+          [
+            -77.4241539, 
+            37.5460077
+          ], 
+          [
+            -77.423937, 
+            37.5481973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Oliver Hill Way", 
+        "to": "2145865244", 
+        "length": "308.806705116518", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624514", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "275869783"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4238621, 
+            37.5455037
+          ], 
+          [
+            -77.4243685, 
+            37.5455058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Balding Street", 
+        "to": "49629501", 
+        "length": "44.65897216938455", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624514", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "6040639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.427927, 
+            37.537803
+          ], 
+          [
+            -77.4272381, 
+            37.5384639
+          ], 
+          [
+            -77.4267043, 
+            37.5390007
+          ], 
+          [
+            -77.4266636, 
+            37.539034
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2592314898", 
+        "length": "176.56151947577092", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571666691", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "45087731"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.427927, 
+            37.537803
+          ], 
+          [
+            -77.4275814, 
+            37.5381895
+          ], 
+          [
+            -77.4273994, 
+            37.538423
+          ], 
+          [
+            -77.4272386, 
+            37.5386733
+          ], 
+          [
+            -77.4270872, 
+            37.538964
+          ], 
+          [
+            -77.426959, 
+            37.5392539
+          ], 
+          [
+            -77.4268513, 
+            37.5395834
+          ], 
+          [
+            -77.4267924, 
+            37.539806
+          ], 
+          [
+            -77.426775, 
+            37.5399022
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "", 
+        "to": "2592310469", 
+        "length": "257.59296267825977", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571666691", 
+        "ref": "I 95", 
+        "highway": "motorway", 
+        "osmid": "38232904"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4251442, 
+            37.5355169
+          ], 
+          [
+            -77.4248162, 
+            37.5358574
+          ], 
+          [
+            -77.4247658, 
+            37.5359097
+          ], 
+          [
+            -77.4243324, 
+            37.5363595
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "North 18th Street", 
+        "to": "49614981", 
+        "length": "117.94013824419393", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624498", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243324, 
+            37.5363595
+          ], 
+          [
+            -77.4241928, 
+            37.5365045
+          ], 
+          [
+            -77.4240666, 
+            37.5366355
+          ], 
+          [
+            -77.4239048, 
+            37.5368035
+          ], 
+          [
+            -77.4235082, 
+            37.5372152
+          ], 
+          [
+            -77.4234777, 
+            37.5372468
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "North 18th Street", 
+        "to": "49624172", 
+        "length": "124.18745317507287", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614981", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286685, 
+            37.5474557
+          ], 
+          [
+            -77.4285537, 
+            37.5478318
+          ], 
+          [
+            -77.4283536, 
+            37.5485934
+          ], 
+          [
+            -77.4281649, 
+            37.549228
+          ], 
+          [
+            -77.428102, 
+            37.5495544
+          ], 
+          [
+            -77.4279762, 
+            37.5498263
+          ], 
+          [
+            -77.4279019, 
+            37.549985
+          ], 
+          [
+            -77.4278093, 
+            37.5501956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "49610209", 
+        "length": "314.6606788734441", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1791847792", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "167834373"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301562, 
+            37.5476913
+          ], 
+          [
+            -77.4296254, 
+            37.5482454
+          ], 
+          [
+            -77.4296016, 
+            37.5482702
+          ], 
+          [
+            -77.4295549, 
+            37.5483189
+          ], 
+          [
+            -77.4295386, 
+            37.5483359
+          ], 
+          [
+            -77.4293743, 
+            37.5485074
+          ], 
+          [
+            -77.4288652, 
+            37.5490388
+          ], 
+          [
+            -77.4285132, 
+            37.5494062
+          ], 
+          [
+            -77.4278093, 
+            37.5501956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "to": "49610209", 
+        "length": "347.0573660280884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610034", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44888566"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4268705, 
+            37.5511478
+          ], 
+          [
+            -77.4269523, 
+            37.5510442
+          ], 
+          [
+            -77.4269883, 
+            37.5510058
+          ], 
+          [
+            -77.4278093, 
+            37.5501956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "to": "49610209", 
+        "length": "134.51105634058516", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616171", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "300877985"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243087, 
+            37.5379901
+          ], 
+          [
+            -77.4244201, 
+            37.5378177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49624168", 
+        "length": "21.545985715121628", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571662786", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4266636, 
+            37.539034
+          ], 
+          [
+            -77.4265461, 
+            37.53913
+          ], 
+          [
+            -77.4264136, 
+            37.5392133
+          ], 
+          [
+            -77.426184, 
+            37.5393305
+          ], 
+          [
+            -77.4260519, 
+            37.5393831
+          ], 
+          [
+            -77.4258868, 
+            37.5394301
+          ], 
+          [
+            -77.4257467, 
+            37.5394553
+          ], 
+          [
+            -77.4255809, 
+            37.5394679
+          ], 
+          [
+            -77.4254067, 
+            37.5394596
+          ], 
+          [
+            -77.425237, 
+            37.5394324
+          ], 
+          [
+            -77.4250679, 
+            37.5393857
+          ], 
+          [
+            -77.4246465, 
+            37.5392345
+          ], 
+          [
+            -77.424545, 
+            37.5391857
+          ], 
+          [
+            -77.4244613, 
+            37.5391303
+          ], 
+          [
+            -77.4243846, 
+            37.5390513
+          ], 
+          [
+            -77.4243168, 
+            37.5389489
+          ], 
+          [
+            -77.4242732, 
+            37.5388092
+          ], 
+          [
+            -77.4242571, 
+            37.5386603
+          ], 
+          [
+            -77.4242625, 
+            37.5384136
+          ], 
+          [
+            -77.4243087, 
+            37.5379901
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "571662786", 
+        "length": "348.3807984441412", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2592314898", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "[297230683, 45087732, 45087733]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4241617, 
+            37.5383065
+          ], 
+          [
+            -77.4242067, 
+            37.5381983
+          ], 
+          [
+            -77.4243087, 
+            37.5379901
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "571662786", 
+        "length": "37.51553186078012", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620886", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4278351, 
+            37.5440097
+          ], 
+          [
+            -77.4282127, 
+            37.5448128
+          ], 
+          [
+            -77.4285046, 
+            37.5454457
+          ], 
+          [
+            -77.4286848, 
+            37.5457451
+          ], 
+          [
+            -77.4289337, 
+            37.5460717
+          ], 
+          [
+            -77.4293114, 
+            37.5464801
+          ], 
+          [
+            -77.4296204, 
+            37.5467455
+          ], 
+          [
+            -77.4300839, 
+            37.5470449
+          ], 
+          [
+            -77.4314673, 
+            37.547872
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "Richmond-Petersburg Turnpike", 
+        "to": "451093584", 
+        "length": "551.6458473688117", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610025", 
+        "ref": "I 95", 
+        "highway": "motorway", 
+        "osmid": "45088166"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4296217, 
+            37.5479108
+          ], 
+          [
+            -77.4294389, 
+            37.547929
+          ], 
+          [
+            -77.4293479, 
+            37.5479209
+          ], 
+          [
+            -77.429269, 
+            37.5478996
+          ], 
+          [
+            -77.4292021, 
+            37.5478729
+          ], 
+          [
+            -77.4291305, 
+            37.5478285
+          ], 
+          [
+            -77.4290831, 
+            37.5477841
+          ], 
+          [
+            -77.4290506, 
+            37.5477417
+          ], 
+          [
+            -77.4290278, 
+            37.5476977
+          ], 
+          [
+            -77.4290086, 
+            37.5476342
+          ], 
+          [
+            -77.4290016, 
+            37.5475701
+          ], 
+          [
+            -77.4290093, 
+            37.5475141
+          ], 
+          [
+            -77.4290245, 
+            37.547454
+          ], 
+          [
+            -77.4290708, 
+            37.5473795
+          ], 
+          [
+            -77.4291047, 
+            37.5473415
+          ], 
+          [
+            -77.4291372, 
+            37.5473137
+          ], 
+          [
+            -77.4291913, 
+            37.5472809
+          ], 
+          [
+            -77.4292834, 
+            37.547237
+          ], 
+          [
+            -77.4294023, 
+            37.547202
+          ], 
+          [
+            -77.4295306, 
+            37.5471796
+          ], 
+          [
+            -77.4296659, 
+            37.5471737
+          ], 
+          [
+            -77.4297843, 
+            37.5471788
+          ], 
+          [
+            -77.4298988, 
+            37.5471979
+          ], 
+          [
+            -77.4300349, 
+            37.5472413
+          ], 
+          [
+            -77.4314673, 
+            37.547872
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "to": "451093584", 
+        "length": "338.10819775464324", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610225", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38256027"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4242519, 
+            37.54231
+          ], 
+          [
+            -77.4241989, 
+            37.5412957
+          ], 
+          [
+            -77.4241058, 
+            37.5395137
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49609489", 
+        "length": "311.28876480296884", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629496", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4241058, 
+            37.5395137
+          ], 
+          [
+            -77.4240908, 
+            37.5386475
+          ], 
+          [
+            -77.4241617, 
+            37.5383065
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49620886", 
+        "length": "134.79342878827492", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609489", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4241058, 
+            37.5395137
+          ], 
+          [
+            -77.4255971, 
+            37.539535
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brown Street", 
+        "to": "49609489", 
+        "length": "131.5465263388861", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614183", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040458"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286703, 
+            37.5488619
+          ], 
+          [
+            -77.4286591, 
+            37.5495355
+          ], 
+          [
+            -77.4286419, 
+            37.549869
+          ], 
+          [
+            -77.428599, 
+            37.5502092
+          ], 
+          [
+            -77.428546, 
+            37.5504137
+          ], 
+          [
+            -77.4284706, 
+            37.5506812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "33127571", 
+        "length": "203.78913032004442", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "451093609", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "[38256033, 38256029]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4241617, 
+            37.5383065
+          ], 
+          [
+            -77.4228682, 
+            37.5383208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49620886", 
+        "length": "114.09316109241796", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620888", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4234777, 
+            37.5372468
+          ], 
+          [
+            -77.4229411, 
+            37.5378038
+          ], 
+          [
+            -77.4228791, 
+            37.5380797
+          ], 
+          [
+            -77.4228682, 
+            37.5383208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "North 18th Street", 
+        "to": "49620888", 
+        "length": "135.96607494550295", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624172", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "[51323169, 207693042]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243313, 
+            37.5436578
+          ], 
+          [
+            -77.4242519, 
+            37.54231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49629496", 
+        "length": "150.07419846633957", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628185", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243313, 
+            37.5436578
+          ], 
+          [
+            -77.4243685, 
+            37.5455058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49628185", 
+        "length": "205.57229849161504", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629501", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.423937, 
+            37.5481973
+          ], 
+          [
+            -77.4241214, 
+            37.5482066
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Fairfield Way", 
+        "to": "2145865244", 
+        "length": "16.294130376113756", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2805330017", 
+        "ref": "US 360", 
+        "highway": "secondary", 
+        "osmid": "204591183"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4286685, 
+            37.5474557
+          ], 
+          [
+            -77.4286762, 
+            37.548508
+          ], 
+          [
+            -77.4286703, 
+            37.5488619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "451093609", 
+        "length": "156.41176819984588", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1791847792", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38256023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4296217, 
+            37.5479108
+          ], 
+          [
+            -77.4294623, 
+            37.5479696
+          ], 
+          [
+            -77.4292983, 
+            37.5480355
+          ], 
+          [
+            -77.4291464, 
+            37.5481093
+          ], 
+          [
+            -77.4289823, 
+            37.5482491
+          ], 
+          [
+            -77.4288136, 
+            37.5484603
+          ], 
+          [
+            -77.4287332, 
+            37.54862
+          ], 
+          [
+            -77.4286703, 
+            37.5488619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "to": "451093609", 
+        "length": "143.07155111840532", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610225", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "364961824"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.426775, 
+            37.5399022
+          ], 
+          [
+            -77.4267635, 
+            37.539966
+          ], 
+          [
+            -77.426742, 
+            37.5402019
+          ], 
+          [
+            -77.4267316, 
+            37.5405126
+          ], 
+          [
+            -77.4267474, 
+            37.5408528
+          ], 
+          [
+            -77.4267844, 
+            37.5411274
+          ], 
+          [
+            -77.4268519, 
+            37.5414248
+          ], 
+          [
+            -77.4269559, 
+            37.5417435
+          ], 
+          [
+            -77.4272056, 
+            37.5423419
+          ], 
+          [
+            -77.4278351, 
+            37.5440097
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "Richmond-Petersburg Turnpike", 
+        "to": "49610025", 
+        "length": "470.59039206600005", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2592310469", 
+        "ref": "I 95", 
+        "highway": "motorway", 
+        "osmid": "[38232904, 45088147, 45088166]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4241056, 
+            37.5483679
+          ], 
+          [
+            -77.4241214, 
+            37.5482066
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "2805330017", 
+        "length": "17.994817505309932", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2805330016", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4241214, 
+            37.5482066
+          ], 
+          [
+            -77.4243631, 
+            37.5457482
+          ], 
+          [
+            -77.4243685, 
+            37.5455058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "Oliver Hill Way", 
+        "to": "49629501", 
+        "length": "301.2335562633658", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2805330017", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "45087737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249171, 
+            37.5423015
+          ], 
+          [
+            -77.4242519, 
+            37.54231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Washington Street", 
+        "to": "49632099", 
+        "length": "58.67273743076713", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629496", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041069"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4234777, 
+            37.5372468
+          ], 
+          [
+            -77.4238193, 
+            37.5374538
+          ], 
+          [
+            -77.4242076, 
+            37.537689
+          ], 
+          [
+            -77.4244201, 
+            37.5378177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Clay Street", 
+        "to": "49624168", 
+        "length": "104.59731173483253", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624172", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037239"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4278351, 
+            37.5440097
+          ], 
+          [
+            -77.428084, 
+            37.5446971
+          ], 
+          [
+            -77.4282471, 
+            37.545153
+          ], 
+          [
+            -77.4284016, 
+            37.5456498
+          ], 
+          [
+            -77.4285046, 
+            37.5461262
+          ], 
+          [
+            -77.4285732, 
+            37.5465617
+          ], 
+          [
+            -77.4286419, 
+            37.5470517
+          ], 
+          [
+            -77.4286677, 
+            37.5473511
+          ], 
+          [
+            -77.4286685, 
+            37.5474557
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1791847792", 
+        "length": "391.59248171920945", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610025", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38256023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301562, 
+            37.5476913
+          ], 
+          [
+            -77.4298561, 
+            37.5478323
+          ], 
+          [
+            -77.4296217, 
+            37.5479108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "", 
+        "to": "49610225", 
+        "length": "53.20126390995876", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610034", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032230"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4251442, 
+            37.5355169
+          ], 
+          [
+            -77.4252996, 
+            37.535611
+          ], 
+          [
+            -77.4260332, 
+            37.5360554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "East Broad Street", 
+        "to": "49629481", 
+        "length": "98.66846781514752", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624498", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "44703334"
+      }
+    }
+  ]
+}

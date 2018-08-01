@@ -1,0 +1,705 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532828, 
+            37.4783972
+          ], 
+          [
+            -77.4532333, 
+            37.4786677
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785679", 
+        "name": "", 
+        "to": "2145785665", 
+        "length": "30.402298108334307", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204582265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.451538, 
+            37.4809477
+          ], 
+          [
+            -77.4522186, 
+            37.4813058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626642", 
+        "name": "Springview Drive", 
+        "to": "49629668", 
+        "length": "72.07733992393071", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039916"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.451538, 
+            37.4809477
+          ], 
+          [
+            -77.4514462, 
+            37.4793221
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617515", 
+        "name": "Scottsdale Road", 
+        "to": "49629668", 
+        "length": "180.9908666876909", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039810"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488703, 
+            37.4808893
+          ], 
+          [
+            -77.4505598, 
+            37.4806295
+          ], 
+          [
+            -77.4510592, 
+            37.4806873
+          ], 
+          [
+            -77.451538, 
+            37.4809477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785718", 
+        "name": "Springview Drive", 
+        "to": "49629668", 
+        "length": "247.6758573827953", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039916"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4522676, 
+            37.482178
+          ], 
+          [
+            -77.4522186, 
+            37.4813058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626642", 
+        "name": "Lanewood Drive", 
+        "to": "49626661", 
+        "length": "97.10789690458469", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041007"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.451405, 
+            37.478847
+          ], 
+          [
+            -77.4514462, 
+            37.4793221
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617515", 
+        "name": "Scottsdale Road", 
+        "to": "49629670", 
+        "length": "52.96857660992088", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039810"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4510164, 
+            37.4785898
+          ], 
+          [
+            -77.4511002, 
+            37.4786503
+          ], 
+          [
+            -77.4513201, 
+            37.4786634
+          ], 
+          [
+            -77.4521801, 
+            37.4786342
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785668", 
+        "name": "", 
+        "to": "2145785674", 
+        "length": "105.44324551999509", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204582273"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532333, 
+            37.4786677
+          ], 
+          [
+            -77.4531233, 
+            37.4786328
+          ], 
+          [
+            -77.4528649, 
+            37.478611
+          ], 
+          [
+            -77.4521801, 
+            37.4786342
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785679", 
+        "name": "", 
+        "to": "2145785674", 
+        "length": "93.89357499151205", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204582273"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521328, 
+            37.4793221
+          ], 
+          [
+            -77.4521757, 
+            37.4787261
+          ], 
+          [
+            -77.4521801, 
+            37.4786342
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617516", 
+        "name": "Lanewood Drive", 
+        "to": "2145785674", 
+        "length": "76.62797754052923", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041007"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521801, 
+            37.4786342
+          ], 
+          [
+            -77.4521942, 
+            37.478358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785663", 
+        "name": "Lanewood Drive", 
+        "to": "2145785674", 
+        "length": "30.7458915187454", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041007"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4514462, 
+            37.4793221
+          ], 
+          [
+            -77.4521328, 
+            37.4793221
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617516", 
+        "name": "Ilex Avenue", 
+        "to": "49617515", 
+        "length": "60.60353988368754", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521328, 
+            37.4793221
+          ], 
+          [
+            -77.4522186, 
+            37.4813058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626642", 
+        "name": "Lanewood Drive", 
+        "to": "49617516", 
+        "length": "220.76945289732512", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041007"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521328, 
+            37.4793221
+          ], 
+          [
+            -77.4532379, 
+            37.4792625
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617518", 
+        "name": "Ilex Avenue", 
+        "to": "49617516", 
+        "length": "97.76796235935043", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532379, 
+            37.4792625
+          ], 
+          [
+            -77.453239, 
+            37.4804546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615957", 
+        "name": "Bashford Lane", 
+        "to": "49617518", 
+        "length": "132.59285449713607", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532333, 
+            37.4786677
+          ], 
+          [
+            -77.4532553, 
+            37.4787332
+          ], 
+          [
+            -77.4532272, 
+            37.4788708
+          ], 
+          [
+            -77.4532379, 
+            37.4792625
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785679", 
+        "name": "Bashford Lane", 
+        "to": "49617518", 
+        "length": "66.62164762059835", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6037176, 204582273]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4542893, 
+            37.4804374
+          ], 
+          [
+            -77.454311, 
+            37.480683
+          ], 
+          [
+            -77.4544398, 
+            37.4808192
+          ], 
+          [
+            -77.4553196, 
+            37.4807
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609204", 
+        "name": "Cullenwood Drive", 
+        "to": "49609200", 
+        "length": "125.10325520544889", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6031854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4553196, 
+            37.4807
+          ], 
+          [
+            -77.4560813, 
+            37.4805979
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609198", 
+        "name": "Cullenwood Drive", 
+        "to": "49609200", 
+        "length": "68.18349273534557", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6031854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4553196, 
+            37.4807
+          ], 
+          [
+            -77.45533, 
+            37.4779002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609207", 
+        "name": "Zion Street", 
+        "to": "49609200", 
+        "length": "311.4126225764901", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037349"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4563171, 
+            37.4780875
+          ], 
+          [
+            -77.4560381, 
+            37.4779087
+          ], 
+          [
+            -77.4557592, 
+            37.4778576
+          ], 
+          [
+            -77.45533, 
+            37.4779002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609208", 
+        "name": "Cullenwood Drive", 
+        "to": "49609207", 
+        "length": "95.09923364786341", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6031854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453239, 
+            37.4804546
+          ], 
+          [
+            -77.4532227, 
+            37.4808999
+          ], 
+          [
+            -77.4531199, 
+            37.48111
+          ], 
+          [
+            -77.4529482, 
+            37.4811951
+          ], 
+          [
+            -77.4522186, 
+            37.4813058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615957", 
+        "name": "['Montecrest Avenue', 'Bashford Lane']", 
+        "to": "49626642", 
+        "length": "158.05013536444483", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6037176, 6038371]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4542893, 
+            37.4804374
+          ], 
+          [
+            -77.453239, 
+            37.4804546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615957", 
+        "name": "Vale Street", 
+        "to": "49609204", 
+        "length": "92.72428256274783", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034088"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.45533, 
+            37.4779002
+          ], 
+          [
+            -77.4545468, 
+            37.4779853
+          ], 
+          [
+            -77.4543537, 
+            37.478062
+          ], 
+          [
+            -77.4542786, 
+            37.4781982
+          ], 
+          [
+            -77.4542893, 
+            37.4804374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609207", 
+        "name": "Cullenwood Drive", 
+        "to": "49609204", 
+        "length": "354.43205770808066", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6031854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4510232, 
+            37.4787288
+          ], 
+          [
+            -77.4510164, 
+            37.4785898
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785668", 
+        "name": "", 
+        "to": "2145785688", 
+        "length": "15.472096062193904", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204582268"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4510164, 
+            37.4785898
+          ], 
+          [
+            -77.4509957, 
+            37.478166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145785658", 
+        "name": "", 
+        "to": "2145785668", 
+        "length": "47.173085001046765", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204582268"
+      }
+    }
+  ]
+}

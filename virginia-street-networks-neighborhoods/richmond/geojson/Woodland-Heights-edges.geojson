@@ -1,0 +1,5579 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4675648, 
+            37.5149889
+          ], 
+          [
+            -77.4679429, 
+            37.5150579
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Forest Hill Avenue", 
+        "to": "49620395", 
+        "length": "34.228952475519186", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620397", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304334588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673954, 
+            37.515575
+          ], 
+          [
+            -77.4674153, 
+            37.5155063
+          ], 
+          [
+            -77.4675648, 
+            37.5149889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 33rd Street", 
+        "to": "49620395", 
+        "length": "66.88089295301093", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039748"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.451807, 
+            37.5232451
+          ], 
+          [
+            -77.452698, 
+            37.5227789
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762885", 
+        "length": "94.16277626126485", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762884", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4522418, 
+            37.5239534
+          ], 
+          [
+            -77.4518841, 
+            37.5233707
+          ], 
+          [
+            -77.451807, 
+            37.5232451
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "3088762884", 
+        "length": "87.6223039779106", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613759", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6035964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452698, 
+            37.5227789
+          ], 
+          [
+            -77.4531933, 
+            37.5235652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 19th Street", 
+        "to": "3088762885", 
+        "length": "97.76401291254479", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613761", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452698, 
+            37.5227789
+          ], 
+          [
+            -77.4536013, 
+            37.5223082
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762886", 
+        "length": "95.34468839428772", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762885", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4536013, 
+            37.5223082
+          ], 
+          [
+            -77.4538979, 
+            37.5221524
+          ], 
+          [
+            -77.4541001, 
+            37.5220543
+          ], 
+          [
+            -77.4543367, 
+            37.521943
+          ], 
+          [
+            -77.4545247, 
+            37.5218602
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762891", 
+        "length": "95.52979930157917", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762886", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4536013, 
+            37.5223082
+          ], 
+          [
+            -77.4541374, 
+            37.5231695
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 20th Street", 
+        "to": "3088762886", 
+        "length": "106.83638312874083", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613763", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4545247, 
+            37.5218602
+          ], 
+          [
+            -77.4550402, 
+            37.5227695
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 21st Street", 
+        "to": "3088762891", 
+        "length": "110.89129094963805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612064", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032914"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4545247, 
+            37.5218602
+          ], 
+          [
+            -77.4547147, 
+            37.5217802
+          ], 
+          [
+            -77.4554691, 
+            37.5214787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762892", 
+        "length": "93.49842751555823", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762891", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4554691, 
+            37.5214787
+          ], 
+          [
+            -77.4563175, 
+            37.5211436
+          ], 
+          [
+            -77.4576961, 
+            37.5205991
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762893", 
+        "length": "219.47146240065914", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762892", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4560492, 
+            37.5223615
+          ], 
+          [
+            -77.4558412, 
+            37.522034
+          ], 
+          [
+            -77.4554691, 
+            37.5214787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 22nd Street", 
+        "to": "3088762892", 
+        "length": "110.73177156783726", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613767", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4582789, 
+            37.5214938
+          ], 
+          [
+            -77.4579875, 
+            37.5210465
+          ], 
+          [
+            -77.4576961, 
+            37.5205991
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "3088762893", 
+        "length": "112.01042708487492", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613728", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576961, 
+            37.5205991
+          ], 
+          [
+            -77.4588351, 
+            37.5201517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762894", 
+        "length": "112.1272800127702", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762893", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593725, 
+            37.5210648
+          ], 
+          [
+            -77.4591124, 
+            37.5206228
+          ], 
+          [
+            -77.4588351, 
+            37.5201517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "3088762894", 
+        "length": "112.08074748084672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613730", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4588351, 
+            37.5201517
+          ], 
+          [
+            -77.4598784, 
+            37.5197436
+          ], 
+          [
+            -77.4599881, 
+            37.5197007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762895", 
+        "length": "113.41244767016852", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762894", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599881, 
+            37.5197007
+          ], 
+          [
+            -77.4611328, 
+            37.5192463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762896", 
+        "length": "112.92551508268215", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762895", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605331, 
+            37.5206096
+          ], 
+          [
+            -77.4602604, 
+            37.5201548
+          ], 
+          [
+            -77.4600377, 
+            37.5197834
+          ], 
+          [
+            -77.4599881, 
+            37.5197007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 26th Street", 
+        "to": "3088762895", 
+        "length": "111.9440534915934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599881, 
+            37.5197007
+          ], 
+          [
+            -77.4599443, 
+            37.5196276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 26th Street", 
+        "to": "3088762895", 
+        "length": "9.002086075204895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626550", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611328, 
+            37.5192463
+          ], 
+          [
+            -77.4622801, 
+            37.5187937
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762897", 
+        "length": "113.04192512846022", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762896", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611328, 
+            37.5192463
+          ], 
+          [
+            -77.461092, 
+            37.5191794
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "3088762896", 
+        "length": "8.265847872603114", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619164", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611328, 
+            37.5192463
+          ], 
+          [
+            -77.4616883, 
+            37.5201564
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "3088762896", 
+        "length": "112.46524747201983", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613734", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622801, 
+            37.5187937
+          ], 
+          [
+            -77.4628444, 
+            37.5197028
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "3088762897", 
+        "length": "112.70601890805803", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613736", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622801, 
+            37.5187937
+          ], 
+          [
+            -77.4634275, 
+            37.5183464
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762898", 
+        "length": "112.78910336364402", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762897", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622801, 
+            37.5187937
+          ], 
+          [
+            -77.4622373, 
+            37.5187248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "3088762897", 
+        "length": "8.543167075774997", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622633", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634275, 
+            37.5183464
+          ], 
+          [
+            -77.4640054, 
+            37.5192697
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "3088762898", 
+        "length": "114.6537096371844", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613426", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634275, 
+            37.5183464
+          ], 
+          [
+            -77.4645673, 
+            37.5178955
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762899", 
+        "length": "112.36646004224215", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762898", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634275, 
+            37.5183464
+          ], 
+          [
+            -77.463385, 
+            37.5182784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "3088762898", 
+        "length": "8.441708810534896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613425", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4645673, 
+            37.5178955
+          ], 
+          [
+            -77.4645233, 
+            37.5178284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "3088762899", 
+        "length": "8.412385012039541", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629985", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4645673, 
+            37.5178955
+          ], 
+          [
+            -77.4651668, 
+            37.5188096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "3088762899", 
+        "length": "114.60501738018922", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613739", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4645673, 
+            37.5178955
+          ], 
+          [
+            -77.465711, 
+            37.5174462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762900", 
+        "length": "112.59589974118487", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762899", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.465711, 
+            37.5174462
+          ], 
+          [
+            -77.4656651, 
+            37.5173774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "3088762900", 
+        "length": "8.657710390638087", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615580", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4663171, 
+            37.5183532
+          ], 
+          [
+            -77.4660088, 
+            37.5178919
+          ], 
+          [
+            -77.465711, 
+            37.5174462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "3088762900", 
+        "length": "114.1766773876897", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613741", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.465711, 
+            37.5174462
+          ], 
+          [
+            -77.4668434, 
+            37.5169994
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762901", 
+        "length": "111.57986235754288", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762900", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4674519, 
+            37.5179036
+          ], 
+          [
+            -77.4671483, 
+            37.5174525
+          ], 
+          [
+            -77.4668434, 
+            37.5169994
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "3088762901", 
+        "length": "114.00130005577046", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613744", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668434, 
+            37.5169994
+          ], 
+          [
+            -77.4679997, 
+            37.5165483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49629570", 
+        "length": "113.68239127000837", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762901", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668434, 
+            37.5169994
+          ], 
+          [
+            -77.4667987, 
+            37.5169329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "3088762901", 
+        "length": "8.382132897482967", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630550", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599783, 
+            37.5173758
+          ], 
+          [
+            -77.460526, 
+            37.5182792
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "49619161", 
+        "length": "111.4955806030311", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619162", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611322, 
+            37.5169256
+          ], 
+          [
+            -77.4605318, 
+            37.5171598
+          ], 
+          [
+            -77.4599783, 
+            37.5173758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49619161", 
+        "length": "113.44775473609738", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622629", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4616147, 
+            37.5230159
+          ], 
+          [
+            -77.4615518, 
+            37.5230226
+          ], 
+          [
+            -77.4607879, 
+            37.5232881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49630744", 
+        "length": "79.1719755952109", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145384937", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599366, 
+            37.5219713
+          ], 
+          [
+            -77.4604286, 
+            37.5227323
+          ], 
+          [
+            -77.4605151, 
+            37.5228662
+          ], 
+          [
+            -77.4607879, 
+            37.5232881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49630744", 
+        "length": "164.59329481134847", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620954", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4595777, 
+            37.523608
+          ], 
+          [
+            -77.4602815, 
+            37.5234991
+          ], 
+          [
+            -77.4607879, 
+            37.5232881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49630744", 
+        "length": "113.71666190390937", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617660", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599366, 
+            37.5219713
+          ], 
+          [
+            -77.4593725, 
+            37.5210648
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49613730", 
+        "length": "112.43816206263803", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620954", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599366, 
+            37.5219713
+          ], 
+          [
+            -77.4593899, 
+            37.5221868
+          ], 
+          [
+            -77.4588297, 
+            37.5224076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49617659", 
+        "length": "109.03970117843454", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620954", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4599366, 
+            37.5219713
+          ], 
+          [
+            -77.4605131, 
+            37.5217267
+          ], 
+          [
+            -77.4610941, 
+            37.5214801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49620956", 
+        "length": "115.80749748926078", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620954", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4595777, 
+            37.523608
+          ], 
+          [
+            -77.4588481, 
+            37.5237033
+          ], 
+          [
+            -77.4586593, 
+            37.5236965
+          ], 
+          [
+            -77.4578489, 
+            37.5235963
+          ], 
+          [
+            -77.4577238, 
+            37.5235808
+          ], 
+          [
+            -77.4574405, 
+            37.5235808
+          ], 
+          [
+            -77.4571487, 
+            37.5236148
+          ], 
+          [
+            -77.456874, 
+            37.5237374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49630325", 
+        "length": "244.2348028793527", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617660", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.456874, 
+            37.5237374
+          ], 
+          [
+            -77.4565898, 
+            37.5241691
+          ], 
+          [
+            -77.4565569, 
+            37.5242139
+          ], 
+          [
+            -77.4560578, 
+            37.5244528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49612068", 
+        "length": "111.35798021474204", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630325", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4560492, 
+            37.5223615
+          ], 
+          [
+            -77.456506, 
+            37.523146
+          ], 
+          [
+            -77.456874, 
+            37.5237374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 22nd Street", 
+        "to": "49630325", 
+        "length": "169.465894353154", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613767", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4550402, 
+            37.5227695
+          ], 
+          [
+            -77.4556448, 
+            37.5237013
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 21st Street", 
+        "to": "49612064", 
+        "length": "116.5587009332775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612065", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032914"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4550402, 
+            37.5227695
+          ], 
+          [
+            -77.4541374, 
+            37.5231695
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49612064", 
+        "length": "91.22473585104149", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613763", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4550402, 
+            37.5227695
+          ], 
+          [
+            -77.4560492, 
+            37.5223615
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49612064", 
+        "length": "99.90981790899616", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613767", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4556448, 
+            37.5237013
+          ], 
+          [
+            -77.4560996, 
+            37.5234864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49612065", 
+        "length": "46.7002882587", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036013"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4556448, 
+            37.5237013
+          ], 
+          [
+            -77.4560578, 
+            37.5244528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 21st Street", 
+        "to": "49612065", 
+        "length": "91.18116213557869", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612068", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032914"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4556448, 
+            37.5237013
+          ], 
+          [
+            -77.45469, 
+            37.5240672
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49612065", 
+        "length": "93.54336384846314", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620975", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036013"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551761, 
+            37.5248413
+          ], 
+          [
+            -77.4553269, 
+            37.5247793
+          ], 
+          [
+            -77.4560578, 
+            37.5244528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49612068", 
+        "length": "88.9821722563436", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2761304595", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461092, 
+            37.5191794
+          ], 
+          [
+            -77.4622373, 
+            37.5187248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49619164", 
+        "length": "112.98343653748708", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622633", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461092, 
+            37.5191794
+          ], 
+          [
+            -77.4607977, 
+            37.5187114
+          ], 
+          [
+            -77.460526, 
+            37.5182792
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "49619162", 
+        "length": "111.88576257954504", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619164", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461092, 
+            37.5191794
+          ], 
+          [
+            -77.4600506, 
+            37.5195861
+          ], 
+          [
+            -77.4599443, 
+            37.5196276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49626550", 
+        "length": "112.85602385762294", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619164", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679454, 
+            37.5210155
+          ], 
+          [
+            -77.467354, 
+            37.5212485
+          ], 
+          [
+            -77.466774, 
+            37.521477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Chesterfield Street", 
+        "to": "49619193", 
+        "length": "115.38364196457233", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615585", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035350"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679454, 
+            37.5210155
+          ], 
+          [
+            -77.4683067, 
+            37.5216543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "49615586", 
+        "length": "77.87268976576168", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615585", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679454, 
+            37.5210155
+          ], 
+          [
+            -77.469059, 
+            37.5205685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Chesterfield Street", 
+        "to": "49619194", 
+        "length": "110.10321464186597", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615585", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035350"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679454, 
+            37.5210155
+          ], 
+          [
+            -77.4674005, 
+            37.5201247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "49615583", 
+        "length": "110.1254197475371", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615585", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668605, 
+            37.5192417
+          ], 
+          [
+            -77.4657181, 
+            37.5196925
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49615582", 
+        "length": "112.56518305233872", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620961", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679762, 
+            37.5188025
+          ], 
+          [
+            -77.4673917, 
+            37.5190326
+          ], 
+          [
+            -77.4668605, 
+            37.5192417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49615582", 
+        "length": "109.88218973325526", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620963", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668605, 
+            37.5192417
+          ], 
+          [
+            -77.4663171, 
+            37.5183532
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "49613741", 
+        "length": "109.8379940089114", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615582", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668605, 
+            37.5192417
+          ], 
+          [
+            -77.4671289, 
+            37.5196807
+          ], 
+          [
+            -77.4674005, 
+            37.5201247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "49615583", 
+        "length": "109.15643236945368", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615582", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4520815, 
+            37.526652
+          ], 
+          [
+            -77.4522041, 
+            37.526482
+          ], 
+          [
+            -77.4523952, 
+            37.5261886
+          ], 
+          [
+            -77.4525538, 
+            37.5260209
+          ], 
+          [
+            -77.4526347, 
+            37.5259502
+          ], 
+          [
+            -77.452753, 
+            37.5258565
+          ], 
+          [
+            -77.4529308, 
+            37.5257408
+          ], 
+          [
+            -77.4531061, 
+            37.5256601
+          ], 
+          [
+            -77.4548541, 
+            37.5249811
+          ], 
+          [
+            -77.4551761, 
+            37.5248413
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2761304595", 
+        "length": "349.44226903258095", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2707989215", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "[273394787, 265141470]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4520815, 
+            37.526652
+          ], 
+          [
+            -77.4524359, 
+            37.5257372
+          ], 
+          [
+            -77.4525017, 
+            37.5254271
+          ], 
+          [
+            -77.4525473, 
+            37.5251016
+          ], 
+          [
+            -77.4525496, 
+            37.5248713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Robert E. Lee Memorial Bridge", 
+        "to": "49620972", 
+        "length": "203.46335764771268", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2707989215", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "[38176283, 6039879]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679545, 
+            37.5164782
+          ], 
+          [
+            -77.4679997, 
+            37.5165483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 33rd Street", 
+        "to": "2147141447", 
+        "length": "8.75750501788172", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629570", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039748"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679545, 
+            37.5164782
+          ], 
+          [
+            -77.4690894, 
+            37.5160272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "2147141447", 
+        "length": "111.98701482017952", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762878", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679545, 
+            37.5164782
+          ], 
+          [
+            -77.4667987, 
+            37.5169329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49630550", 
+        "length": "113.82024741110753", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2147141447", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673954, 
+            37.515575
+          ], 
+          [
+            -77.467675, 
+            37.5160266
+          ], 
+          [
+            -77.4679545, 
+            37.5164782
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 33rd Street", 
+        "to": "2147141447", 
+        "length": "111.91564984405755", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039748"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634011, 
+            37.5206059
+          ], 
+          [
+            -77.4628444, 
+            37.5197028
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "49613736", 
+        "length": "111.81130620698896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620959", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634011, 
+            37.5206059
+          ], 
+          [
+            -77.4639662, 
+            37.5203832
+          ], 
+          [
+            -77.4645545, 
+            37.5201513
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49613428", 
+        "length": "113.6211682750598", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620959", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634011, 
+            37.5206059
+          ], 
+          [
+            -77.4636674, 
+            37.5210379
+          ], 
+          [
+            -77.4639386, 
+            37.5214777
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "49618805", 
+        "length": "107.93951321520149", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620959", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634011, 
+            37.5206059
+          ], 
+          [
+            -77.4622421, 
+            37.521063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49619166", 
+        "length": "114.18676124071743", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620959", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4662421, 
+            37.5160322
+          ], 
+          [
+            -77.4665026, 
+            37.5164537
+          ], 
+          [
+            -77.4667987, 
+            37.5169329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "49630550", 
+        "length": "111.56873368898455", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623788", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4667987, 
+            37.5169329
+          ], 
+          [
+            -77.4656651, 
+            37.5173774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49615580", 
+        "length": "111.56113290834641", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630550", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634344, 
+            37.5160276
+          ], 
+          [
+            -77.4639579, 
+            37.5169301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49624420", 
+        "length": "110.49650873052842", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623787", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634344, 
+            37.5160276
+          ], 
+          [
+            -77.4628393, 
+            37.5151529
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49624420", 
+        "length": "110.55177055477532", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627555", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.462269, 
+            37.5164822
+          ], 
+          [
+            -77.4628263, 
+            37.5162648
+          ], 
+          [
+            -77.4634344, 
+            37.5160276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49624420", 
+        "length": "114.57524478220834", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613421", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4656651, 
+            37.5173774
+          ], 
+          [
+            -77.4645233, 
+            37.5178284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49629985", 
+        "length": "112.52996295826892", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615580", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4656651, 
+            37.5173774
+          ], 
+          [
+            -77.4654044, 
+            37.5169272
+          ], 
+          [
+            -77.4651376, 
+            37.5164664
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "49615578", 
+        "length": "111.50279522054386", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615580", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.462269, 
+            37.5164822
+          ], 
+          [
+            -77.4616776, 
+            37.5167129
+          ], 
+          [
+            -77.4611322, 
+            37.5169256
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49622629", 
+        "length": "111.76077570356072", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613421", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4611322, 
+            37.5169256
+          ], 
+          [
+            -77.4616857, 
+            37.5178234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "49622629", 
+        "length": "111.15852090377979", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622630", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622373, 
+            37.5187248
+          ], 
+          [
+            -77.4619592, 
+            37.5182703
+          ], 
+          [
+            -77.4616857, 
+            37.5178234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "49622630", 
+        "length": "111.44482094941918", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622633", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4616857, 
+            37.5178234
+          ], 
+          [
+            -77.4610919, 
+            37.5180568
+          ], 
+          [
+            -77.460526, 
+            37.5182792
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49619162", 
+        "length": "114.18120114264474", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622630", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4628254, 
+            37.5173753
+          ], 
+          [
+            -77.4622742, 
+            37.517592
+          ], 
+          [
+            -77.4616857, 
+            37.5178234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49622630", 
+        "length": "112.22053111921005", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613423", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622373, 
+            37.5187248
+          ], 
+          [
+            -77.463385, 
+            37.5182784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49622633", 
+        "length": "112.76882856427089", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613425", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.46112, 
+            37.5145951
+          ], 
+          [
+            -77.4617181, 
+            37.5155977
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613418", 
+        "length": "123.36944076389712", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613420", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4628393, 
+            37.5151529
+          ], 
+          [
+            -77.4622783, 
+            37.5153755
+          ], 
+          [
+            -77.4617181, 
+            37.5155977
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49613420", 
+        "length": "110.59857184341956", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627555", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038770"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4617181, 
+            37.5155977
+          ], 
+          [
+            -77.462269, 
+            37.5164822
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613420", 
+        "length": "109.73010883760045", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613421", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.462269, 
+            37.5164822
+          ], 
+          [
+            -77.4628254, 
+            37.5173753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613421", 
+        "length": "110.80236817680274", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613423", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4665128, 
+            37.5232949
+          ], 
+          [
+            -77.4662468, 
+            37.5233834
+          ], 
+          [
+            -77.4662266, 
+            37.5233851
+          ], 
+          [
+            -77.4660837, 
+            37.523397
+          ], 
+          [
+            -77.4651052, 
+            37.5233698
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49622638", 
+        "length": "126.28350258021888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613433", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651052, 
+            37.5233698
+          ], 
+          [
+            -77.4647696, 
+            37.5228254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "49622638", 
+        "length": "67.40129655117902", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "567792780", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4616147, 
+            37.5230159
+          ], 
+          [
+            -77.4619245, 
+            37.5229826
+          ], 
+          [
+            -77.4622814, 
+            37.5229886
+          ], 
+          [
+            -77.4637834, 
+            37.5234787
+          ], 
+          [
+            -77.4640323, 
+            37.5235059
+          ], 
+          [
+            -77.4651052, 
+            37.5233698
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49622638", 
+        "length": "320.354499350894", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145384937", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874988"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.463385, 
+            37.5182784
+          ], 
+          [
+            -77.4630997, 
+            37.517818
+          ], 
+          [
+            -77.4628254, 
+            37.5173753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613423", 
+        "length": "111.92459051969689", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613425", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4639579, 
+            37.5169301
+          ], 
+          [
+            -77.4633752, 
+            37.5171592
+          ], 
+          [
+            -77.4628254, 
+            37.5173753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49613423", 
+        "length": "111.508703515696", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623787", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.463385, 
+            37.5182784
+          ], 
+          [
+            -77.4645233, 
+            37.5178284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49613425", 
+        "length": "112.20344813487198", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629985", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4640054, 
+            37.5192697
+          ], 
+          [
+            -77.4651668, 
+            37.5188096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613426", 
+        "length": "114.52729514211508", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613739", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033386"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4640054, 
+            37.5192697
+          ], 
+          [
+            -77.4645545, 
+            37.5201513
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613426", 
+        "length": "109.3695260207246", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613428", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551761, 
+            37.5248413
+          ], 
+          [
+            -77.45469, 
+            37.5240672
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 20th Street", 
+        "to": "2761304595", 
+        "length": "96.18714985682725", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620975", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4645545, 
+            37.5201513
+          ], 
+          [
+            -77.4657181, 
+            37.5196925
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49613428", 
+        "length": "114.63543058276862", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620961", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650989, 
+            37.5210252
+          ], 
+          [
+            -77.464821, 
+            37.5205791
+          ], 
+          [
+            -77.4645545, 
+            37.5201513
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613428", 
+        "length": "108.41777676015528", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613431", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4639386, 
+            37.5214777
+          ], 
+          [
+            -77.4647696, 
+            37.5228254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 28th Street", 
+        "to": "567792780", 
+        "length": "166.86470528176136", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618805", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4639386, 
+            37.5214777
+          ], 
+          [
+            -77.4650989, 
+            37.5210252
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49613431", 
+        "length": "114.06226421740566", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618805", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4662915, 
+            37.5205591
+          ], 
+          [
+            -77.466774, 
+            37.521477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49618806", 
+        "length": "110.61216954550035", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4662915, 
+            37.5205591
+          ], 
+          [
+            -77.4650989, 
+            37.5210252
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49618806", 
+        "length": "117.28735977567892", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613431", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4674005, 
+            37.5201247
+          ], 
+          [
+            -77.4667497, 
+            37.5203796
+          ], 
+          [
+            -77.4662915, 
+            37.5205591
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49618806", 
+        "length": "109.11405423212909", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615583", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4657181, 
+            37.5196925
+          ], 
+          [
+            -77.4660001, 
+            37.5201186
+          ], 
+          [
+            -77.4662915, 
+            37.5205591
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49618806", 
+        "length": "108.85556398062421", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620961", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650989, 
+            37.5210252
+          ], 
+          [
+            -77.4665128, 
+            37.5232949
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613431", 
+        "length": "281.5815632000766", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613433", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.469059, 
+            37.5205685
+          ], 
+          [
+            -77.4687966, 
+            37.5201488
+          ], 
+          [
+            -77.4685096, 
+            37.5196899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "49618808", 
+        "length": "109.08209683583647", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619194", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4685096, 
+            37.5196899
+          ], 
+          [
+            -77.4679762, 
+            37.5188025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "49618808", 
+        "length": "109.34526610323041", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620963", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4674005, 
+            37.5201247
+          ], 
+          [
+            -77.4679455, 
+            37.519911
+          ], 
+          [
+            -77.4685096, 
+            37.5196899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49618808", 
+        "length": "109.14218186866752", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615583", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4677684, 
+            37.5226897
+          ], 
+          [
+            -77.4672749, 
+            37.5230003
+          ], 
+          [
+            -77.4665128, 
+            37.5232949
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49613433", 
+        "length": "130.3645005550133", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628557", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "294874987"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4685931, 
+            37.5174514
+          ], 
+          [
+            -77.4682914, 
+            37.5169923
+          ], 
+          [
+            -77.4679997, 
+            37.5165483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 33rd Street", 
+        "to": "49629570", 
+        "length": "113.27172897203826", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613746", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039748"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679997, 
+            37.5165483
+          ], 
+          [
+            -77.4691331, 
+            37.5161006
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762879", 
+        "length": "111.70452384054411", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629570", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4525496, 
+            37.5248713
+          ], 
+          [
+            -77.4537351, 
+            37.5244501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "2707989223", 
+        "length": "114.59023485240088", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620972", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036013"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4525496, 
+            37.5248713
+          ], 
+          [
+            -77.4523315, 
+            37.5240981
+          ], 
+          [
+            -77.4522418, 
+            37.5239534
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "49613759", 
+        "length": "106.0602730421811", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620972", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "[6035964, 6039879]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4647696, 
+            37.5228254
+          ], 
+          [
+            -77.4645731, 
+            37.5229069
+          ], 
+          [
+            -77.4643156, 
+            37.5229545
+          ], 
+          [
+            -77.4638864, 
+            37.5229205
+          ], 
+          [
+            -77.4632083, 
+            37.5227095
+          ], 
+          [
+            -77.4629766, 
+            37.5225053
+          ], 
+          [
+            -77.4628686, 
+            37.522307
+          ], 
+          [
+            -77.4628696, 
+            37.5221394
+          ], 
+          [
+            -77.4628258, 
+            37.5219635
+          ], 
+          [
+            -77.4622421, 
+            37.521063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['West 27th Street', 'Hillcrest Road']", 
+        "to": "49619166", 
+        "length": "350.9785891012113", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "567792780", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035426, 6035341]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4677684, 
+            37.5226897
+          ], 
+          [
+            -77.4683067, 
+            37.5216543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ferncliff Road", 
+        "to": "49628557", 
+        "length": "124.56977500101517", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615586", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039292"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.466774, 
+            37.521477
+          ], 
+          [
+            -77.467306, 
+            37.522246
+          ], 
+          [
+            -77.4673416, 
+            37.5222802
+          ], 
+          [
+            -77.4677684, 
+            37.5226897
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49628557", 
+        "length": "161.5889120299572", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4541374, 
+            37.5231695
+          ], 
+          [
+            -77.4531933, 
+            37.5235652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613763", 
+        "length": "94.19725530253045", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613761", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4541374, 
+            37.5231695
+          ], 
+          [
+            -77.45469, 
+            37.5240672
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 20th Street", 
+        "to": "49613763", 
+        "length": "111.11188008246246", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620975", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038897"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.45469, 
+            37.5240672
+          ], 
+          [
+            -77.4537351, 
+            37.5244501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "2707989223", 
+        "length": "94.38886164684287", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620975", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036013"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691311, 
+            37.5183494
+          ], 
+          [
+            -77.4693687, 
+            37.5187881
+          ], 
+          [
+            -77.4700564, 
+            37.5194576
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 33rd Street", 
+        "to": "2145384924", 
+        "length": "149.1577592979226", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620965", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039748"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4541193, 
+            37.5250626
+          ], 
+          [
+            -77.4537351, 
+            37.5244501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 19th Street", 
+        "to": "3705170590", 
+        "length": "76.09059175672887", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2707989223", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4577573, 
+            37.5216983
+          ], 
+          [
+            -77.4582789, 
+            37.5214938
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613727", 
+        "length": "51.32853316967897", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613728", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593725, 
+            37.5210648
+          ], 
+          [
+            -77.4588109, 
+            37.5212851
+          ], 
+          [
+            -77.4582789, 
+            37.5214938
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613728", 
+        "length": "107.62892585050314", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613730", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4582789, 
+            37.5214938
+          ], 
+          [
+            -77.4588297, 
+            37.5224076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49613728", 
+        "length": "112.65571592000599", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617659", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605331, 
+            37.5206096
+          ], 
+          [
+            -77.4599554, 
+            37.5208362
+          ], 
+          [
+            -77.4593725, 
+            37.5210648
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613730", 
+        "length": "114.219325988243", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470256, 
+            37.5155535
+          ], 
+          [
+            -77.4703777, 
+            37.5156065
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Forest Hill Avenue", 
+        "to": "3088570531", 
+        "length": "12.248644466218252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145384904", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304334587"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4689984, 
+            37.5152657
+          ], 
+          [
+            -77.4700049, 
+            37.515458
+          ], 
+          [
+            -77.47005, 
+            37.5154666
+          ], 
+          [
+            -77.470256, 
+            37.5155535
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Forest Hill Avenue", 
+        "to": "3088570531", 
+        "length": "116.01334637538308", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620401", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304334588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470256, 
+            37.5155535
+          ], 
+          [
+            -77.4700658, 
+            37.515634
+          ], 
+          [
+            -77.4690894, 
+            37.5160272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "3088762878", 
+        "length": "115.62659786856256", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088570531", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605331, 
+            37.5206096
+          ], 
+          [
+            -77.4610941, 
+            37.5214801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 26th Street", 
+        "to": "49620956", 
+        "length": "108.73735929702512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605331, 
+            37.5206096
+          ], 
+          [
+            -77.4616883, 
+            37.5201564
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613732", 
+        "length": "113.69426161591781", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613734", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4616883, 
+            37.5201564
+          ], 
+          [
+            -77.4628444, 
+            37.5197028
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613734", 
+        "length": "113.78570849605721", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613736", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4616883, 
+            37.5201564
+          ], 
+          [
+            -77.4622421, 
+            37.521063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "49619166", 
+        "length": "112.0492539450397", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613734", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4674519, 
+            37.5179036
+          ], 
+          [
+            -77.4668385, 
+            37.5181466
+          ], 
+          [
+            -77.4663171, 
+            37.5183532
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613741", 
+        "length": "111.90720664945562", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613744", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033386"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4663171, 
+            37.5183532
+          ], 
+          [
+            -77.4651668, 
+            37.5188096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613741", 
+        "length": "113.46794663205895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613739", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033386"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651668, 
+            37.5188096
+          ], 
+          [
+            -77.4657181, 
+            37.5196925
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49613739", 
+        "length": "109.58531236569654", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620961", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679429, 
+            37.5150579
+          ], 
+          [
+            -77.4683446, 
+            37.5151368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Forest Hill Avenue", 
+        "to": "49620397", 
+        "length": "36.5099190340325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620399", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304334588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4683446, 
+            37.5151368
+          ], 
+          [
+            -77.4686528, 
+            37.5151995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Forest Hill Avenue", 
+        "to": "49620399", 
+        "length": "28.070667017332667", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145384899", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304334588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4683446, 
+            37.5151368
+          ], 
+          [
+            -77.4681587, 
+            37.5152718
+          ], 
+          [
+            -77.4673954, 
+            37.515575
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49623791", 
+        "length": "97.54966186800137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620399", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4674519, 
+            37.5179036
+          ], 
+          [
+            -77.4685931, 
+            37.5174514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613744", 
+        "length": "112.54207981038891", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613746", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033386"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4674519, 
+            37.5179036
+          ], 
+          [
+            -77.4679762, 
+            37.5188025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "49613744", 
+        "length": "110.16200292156009", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620963", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4689984, 
+            37.5152657
+          ], 
+          [
+            -77.4686528, 
+            37.5151995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Forest Hill Avenue", 
+        "to": "49620401", 
+        "length": "31.366599989129877", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145384899", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304334588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4685931, 
+            37.5174514
+          ], 
+          [
+            -77.4691311, 
+            37.5183494
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 33rd Street", 
+        "to": "49613746", 
+        "length": "110.58460077401259", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620965", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039748"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691311, 
+            37.5183494
+          ], 
+          [
+            -77.4702603, 
+            37.5179021
+          ], 
+          [
+            -77.4698054, 
+            37.5169709
+          ], 
+          [
+            -77.4685931, 
+            37.5174514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['West 34th Street', 'Stonewall Avenue', 'Springhill Avenue']", 
+        "to": "49613746", 
+        "length": "341.9886426145805", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49620965", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035865, 6036010, 6033386]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4522418, 
+            37.5239534
+          ], 
+          [
+            -77.4531933, 
+            37.5235652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Springhill Avenue", 
+        "to": "49613759", 
+        "length": "94.39000342723035", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613761", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4531933, 
+            37.5235652
+          ], 
+          [
+            -77.4537351, 
+            37.5244501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 19th Street", 
+        "to": "49613761", 
+        "length": "109.41467651653542", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2707989223", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4690894, 
+            37.5160272
+          ], 
+          [
+            -77.4688232, 
+            37.5155908
+          ], 
+          [
+            -77.4687146, 
+            37.5154128
+          ], 
+          [
+            -77.4686496, 
+            37.5152851
+          ], 
+          [
+            -77.4686528, 
+            37.5151995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 34th Street", 
+        "to": "2145384899", 
+        "length": "100.75951334321496", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3088762878", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4639579, 
+            37.5169301
+          ], 
+          [
+            -77.4642344, 
+            37.5173694
+          ], 
+          [
+            -77.4645233, 
+            37.5178284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 30th Street", 
+        "to": "49629985", 
+        "length": "111.67343517554417", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623787", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691331, 
+            37.5161006
+          ], 
+          [
+            -77.4697926, 
+            37.5158381
+          ], 
+          [
+            -77.4700401, 
+            37.51574
+          ], 
+          [
+            -77.4700735, 
+            37.5157268
+          ], 
+          [
+            -77.4701202, 
+            37.5157083
+          ], 
+          [
+            -77.4703777, 
+            37.5156065
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "2145384904", 
+        "length": "122.78774736160258", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088762879", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "304334586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.469386, 
+            37.5165416
+          ], 
+          [
+            -77.4691331, 
+            37.5161006
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 34th Street", 
+        "to": "2145384909", 
+        "length": "53.88673114436168", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3088762879", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4628393, 
+            37.5151529
+          ], 
+          [
+            -77.4645349, 
+            37.5155223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49627555", 
+        "length": "155.13182588095142", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615576", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44770528"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4582763, 
+            37.5226257
+          ], 
+          [
+            -77.4588297, 
+            37.5224076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49620952", 
+        "length": "54.51323400550247", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617659", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4661398, 
+            37.5158226
+          ], 
+          [
+            -77.4645349, 
+            37.5155223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49615576", 
+        "length": "145.4757838724972", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627556", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44770528"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4661398, 
+            37.5158226
+          ], 
+          [
+            -77.4662421, 
+            37.5160322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 32nd Street", 
+        "to": "49623788", 
+        "length": "24.999026404850174", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627556", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041003"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4661398, 
+            37.5158226
+          ], 
+          [
+            -77.4665941, 
+            37.5158939
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49627556", 
+        "length": "40.85674951715423", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623790", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44770528"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651376, 
+            37.5164664
+          ], 
+          [
+            -77.4645349, 
+            37.5155223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 31st Street", 
+        "to": "49615578", 
+        "length": "117.70335042722711", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615576", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651376, 
+            37.5164664
+          ], 
+          [
+            -77.4639579, 
+            37.5169301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49615578", 
+        "length": "116.15398578823083", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623787", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651376, 
+            37.5164664
+          ], 
+          [
+            -77.4662421, 
+            37.5160322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49615578", 
+        "length": "108.75316546810743", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623788", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4616147, 
+            37.5230159
+          ], 
+          [
+            -77.4616611, 
+            37.5228254
+          ], 
+          [
+            -77.4617077, 
+            37.5225953
+          ], 
+          [
+            -77.4616136, 
+            37.5223662
+          ], 
+          [
+            -77.4610941, 
+            37.5214801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 26th Street", 
+        "to": "49620956", 
+        "length": "182.99283458621284", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145384937", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610941, 
+            37.5214801
+          ], 
+          [
+            -77.4616803, 
+            37.5212671
+          ], 
+          [
+            -77.4622421, 
+            37.521063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49619166", 
+        "length": "111.3930297397873", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620956", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.469059, 
+            37.5205685
+          ], 
+          [
+            -77.4699864, 
+            37.5221947
+          ], 
+          [
+            -77.4688732, 
+            37.5224916
+          ], 
+          [
+            -77.4683067, 
+            37.5216543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Ferncliff Road', 'West 32nd Street']", 
+        "to": "49615586", 
+        "length": "407.8139200976632", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619194", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039289, 6041003]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679762, 
+            37.5188025
+          ], 
+          [
+            -77.4691311, 
+            37.5183494
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stonewall Avenue", 
+        "to": "49620963", 
+        "length": "113.66781993394947", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620965", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4662421, 
+            37.5160322
+          ], 
+          [
+            -77.4665941, 
+            37.5158939
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49623788", 
+        "length": "34.65548470884062", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623790", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4665941, 
+            37.5158939
+          ], 
+          [
+            -77.4673954, 
+            37.515575
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49623791", 
+        "length": "79.09267719746751", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623790", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4595777, 
+            37.523608
+          ], 
+          [
+            -77.4593031, 
+            37.5231674
+          ], 
+          [
+            -77.4588297, 
+            37.5224076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49617659", 
+        "length": "148.93109475074453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617660", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4690894, 
+            37.5160272
+          ], 
+          [
+            -77.4691331, 
+            37.5161006
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 34th Street", 
+        "to": "3088762878", 
+        "length": "9.0285441091206", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3088762879", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035863"
+      }
+    }
+  ]
+}

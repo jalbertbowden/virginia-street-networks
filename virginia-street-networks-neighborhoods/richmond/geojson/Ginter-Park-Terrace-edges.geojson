@@ -1,0 +1,281 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4384861, 
+            37.5732976
+          ], 
+          [
+            -77.4385994, 
+            37.5717707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Edgewood Avenue", 
+        "to": "49620161", 
+        "length": "170.12482316552624", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1791855827", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4397581, 
+            37.5718287
+          ], 
+          [
+            -77.4391683, 
+            37.5717992
+          ], 
+          [
+            -77.4385994, 
+            37.5717707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "1791855827", 
+        "length": "102.35079385207874", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617867", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6034814"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4453704, 
+            37.5737145
+          ], 
+          [
+            -77.4451368, 
+            37.5722433
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327828", 
+        "length": "164.92676629259262", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076375", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682851"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4394899, 
+            37.5751288
+          ], 
+          [
+            -77.4397581, 
+            37.5718287
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Montrose Avenue", 
+        "to": "49615594", 
+        "length": "367.81843362958375", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617867", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038940"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408042, 
+            37.5746323
+          ], 
+          [
+            -77.4401251, 
+            37.5748888
+          ], 
+          [
+            -77.4394899, 
+            37.5751288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Ladies Mile Road", 
+        "to": "49615594", 
+        "length": "128.34773118798162", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614844", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408042, 
+            37.5746323
+          ], 
+          [
+            -77.441445, 
+            37.5744179
+          ], 
+          [
+            -77.4420226, 
+            37.5742246
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Ladies Mile Road", 
+        "to": "49615595", 
+        "length": "116.58684341625587", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614844", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4434414, 
+            37.5737523
+          ], 
+          [
+            -77.4426224, 
+            37.5740249
+          ], 
+          [
+            -77.4420226, 
+            37.5742246
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Ladies Mile Road", 
+        "to": "49615595", 
+        "length": "135.6574058572074", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615597", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408042, 
+            37.5746323
+          ], 
+          [
+            -77.4409736, 
+            37.5718867
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Moss Side Avenue", 
+        "to": "49614844", 
+        "length": "305.74771798643934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614843", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033758"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4409736, 
+            37.5718867
+          ], 
+          [
+            -77.4403603, 
+            37.5718574
+          ], 
+          [
+            -77.4402902, 
+            37.5718541
+          ], 
+          [
+            -77.4397581, 
+            37.5718287
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "49617867", 
+        "length": "107.34852666974454", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614843", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6034814"
+      }
+    }
+  ]
+}

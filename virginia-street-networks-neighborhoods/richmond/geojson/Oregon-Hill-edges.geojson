@@ -1,0 +1,1143 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4504997, 
+            37.5364996
+          ], 
+          [
+            -77.4511185, 
+            37.536495
+          ], 
+          [
+            -77.4517307, 
+            37.5364906
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Holly Street", 
+        "to": "49616800", 
+        "length": "108.57706134240102", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034394"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4517307, 
+            37.5364906
+          ], 
+          [
+            -77.4517407, 
+            37.5358394
+          ], 
+          [
+            -77.4517416, 
+            37.5357881
+          ], 
+          [
+            -77.4517499, 
+            37.5353199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "to": "571670149", 
+        "length": "130.22364420182106", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616800", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4517053, 
+            37.5378291
+          ], 
+          [
+            -77.4517178, 
+            37.5371677
+          ], 
+          [
+            -77.4517307, 
+            37.5364906
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "to": "49616800", 
+        "length": "148.89319698212938", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622662", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4529929, 
+            37.5355706
+          ], 
+          [
+            -77.4526721, 
+            37.5355713
+          ], 
+          [
+            -77.4524539, 
+            37.535564
+          ], 
+          [
+            -77.4523709, 
+            37.5355737
+          ], 
+          [
+            -77.4523673, 
+            37.5358396
+          ], 
+          [
+            -77.4523648, 
+            37.5360269
+          ], 
+          [
+            -77.452343, 
+            37.5364962
+          ], 
+          [
+            -77.4517307, 
+            37.5364906
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Holly Street', 'Riverside Park']", 
+        "to": "49616800", 
+        "length": "211.60856985317602", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612151", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039056, 6034394, 6039058]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4529994, 
+            37.5352091
+          ], 
+          [
+            -77.4529137, 
+            37.5351335
+          ], 
+          [
+            -77.4524106, 
+            37.5352015
+          ], 
+          [
+            -77.4517499, 
+            37.5353199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Oregon Hill Parkway", 
+        "to": "571670149", 
+        "length": "116.06341804476753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612154", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374729211"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4517499, 
+            37.5353199
+          ], 
+          [
+            -77.4505202, 
+            37.5354369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Oregon Hill Parkway", 
+        "to": "571670149", 
+        "length": "109.23733037593736", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618287", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374729211"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4504742, 
+            37.5378217
+          ], 
+          [
+            -77.4511044, 
+            37.5378255
+          ], 
+          [
+            -77.4517053, 
+            37.5378291
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "China Street", 
+        "to": "49622662", 
+        "length": "108.58244770005678", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036574"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516817, 
+            37.5391543
+          ], 
+          [
+            -77.4516936, 
+            37.5384887
+          ], 
+          [
+            -77.4516976, 
+            37.5382657
+          ], 
+          [
+            -77.4517053, 
+            37.5378291
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "to": "49622662", 
+        "length": "147.41172969503515", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612510", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540839, 
+            37.5425333
+          ], 
+          [
+            -77.4540907, 
+            37.5418424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Linden Street", 
+        "to": "49624714", 
+        "length": "76.84855978807079", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623870", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037510"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503877, 
+            37.5422941
+          ], 
+          [
+            -77.450397, 
+            37.5418238
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "to": "49618295", 
+        "length": "52.31613748848347", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618297", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4505202, 
+            37.5354369
+          ], 
+          [
+            -77.4505168, 
+            37.5356144
+          ], 
+          [
+            -77.4505144, 
+            37.5357376
+          ], 
+          [
+            -77.4505135, 
+            37.5357855
+          ], 
+          [
+            -77.4505103, 
+            37.5359495
+          ], 
+          [
+            -77.4504997, 
+            37.5364996
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "to": "49616798", 
+        "length": "118.2139706279074", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618287", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.449544, 
+            37.5354779
+          ], 
+          [
+            -77.4500151, 
+            37.5354535
+          ], 
+          [
+            -77.4500242, 
+            37.535453
+          ], 
+          [
+            -77.4505202, 
+            37.5354369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Oregon Hill Parkway", 
+        "to": "49618287", 
+        "length": "86.2277457574279", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2701574703", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034998"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4504997, 
+            37.5364996
+          ], 
+          [
+            -77.4504742, 
+            37.5378217
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "to": "49618300", 
+        "length": "147.06942977325147", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4504997, 
+            37.5364996
+          ], 
+          [
+            -77.4501095, 
+            37.536499
+          ], 
+          [
+            -77.4494453, 
+            37.5364981
+          ], 
+          [
+            -77.4493406, 
+            37.5364979
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Holly Street", 
+        "to": "445852077", 
+        "length": "102.23113980931822", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034394"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.450423, 
+            37.5404783
+          ], 
+          [
+            -77.4498044, 
+            37.540476
+          ], 
+          [
+            -77.4497725, 
+            37.5404759
+          ], 
+          [
+            -77.4492771, 
+            37.5404741
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Albemarle Street", 
+        "to": "445852000", 
+        "length": "101.06243122046035", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611962", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152636412"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492771, 
+            37.5404741
+          ], 
+          [
+            -77.4492228, 
+            37.5418015
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "to": "445852000", 
+        "length": "147.71937663272462", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445852071", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "37961358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492771, 
+            37.5404741
+          ], 
+          [
+            -77.4493285, 
+            37.5391438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "to": "445852007", 
+        "length": "148.03371340742214", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445852000", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "37961358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452856, 
+            37.5418421
+          ], 
+          [
+            -77.4522474, 
+            37.5418269
+          ], 
+          [
+            -77.4516342, 
+            37.5418218
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49623650", 
+        "length": "107.78290401224342", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612144", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "265141473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516342, 
+            37.5418218
+          ], 
+          [
+            -77.4510124, 
+            37.5418228
+          ], 
+          [
+            -77.450397, 
+            37.5418238
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49618297", 
+        "length": "109.11170676882278", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623650", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "265141473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516342, 
+            37.5418218
+          ], 
+          [
+            -77.4516581, 
+            37.5404826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "to": "49611964", 
+        "length": "148.96911393824178", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623650", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4493285, 
+            37.5391438
+          ], 
+          [
+            -77.4493315, 
+            37.5384831
+          ], 
+          [
+            -77.4493325, 
+            37.5382509
+          ], 
+          [
+            -77.4493366, 
+            37.5373418
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "to": "445852074", 
+        "length": "200.43098555065308", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445852007", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "265141471"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4493285, 
+            37.5391438
+          ], 
+          [
+            -77.450021, 
+            37.5391469
+          ], 
+          [
+            -77.4504486, 
+            37.539149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Spring Street", 
+        "to": "49612509", 
+        "length": "98.78940753323572", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "445852007", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033052"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516581, 
+            37.5404826
+          ], 
+          [
+            -77.4510548, 
+            37.5404804
+          ], 
+          [
+            -77.450423, 
+            37.5404783
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Albemarle Street", 
+        "to": "49611962", 
+        "length": "108.92928965337464", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611964", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152636412"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516581, 
+            37.5404826
+          ], 
+          [
+            -77.4516817, 
+            37.5391543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "to": "49612510", 
+        "length": "147.75649557671773", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611964", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495905, 
+            37.5378228
+          ], 
+          [
+            -77.4497427, 
+            37.5378226
+          ], 
+          [
+            -77.4504742, 
+            37.5378217
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "China Street", 
+        "to": "49618300", 
+        "length": "77.93978930119039", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1659282282", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036574"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.450397, 
+            37.5418238
+          ], 
+          [
+            -77.4497727, 
+            37.5418119
+          ], 
+          [
+            -77.4492228, 
+            37.5418015
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "445852071", 
+        "length": "103.58508158855412", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618297", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "265141473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4504486, 
+            37.539149
+          ], 
+          [
+            -77.4504405, 
+            37.5396003
+          ], 
+          [
+            -77.450423, 
+            37.5404783
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "to": "49611962", 
+        "length": "147.87033983407824", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612509", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4504742, 
+            37.5378217
+          ], 
+          [
+            -77.4504658, 
+            37.5382569
+          ], 
+          [
+            -77.4504614, 
+            37.538483
+          ], 
+          [
+            -77.4504486, 
+            37.539149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "to": "49612509", 
+        "length": "147.64787327949864", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516817, 
+            37.5391543
+          ], 
+          [
+            -77.451076, 
+            37.5391516
+          ], 
+          [
+            -77.4504486, 
+            37.539149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Spring Street", 
+        "to": "49612509", 
+        "length": "108.75538762861372", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612510", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033052"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4493406, 
+            37.5364979
+          ], 
+          [
+            -77.4493366, 
+            37.5373418
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "to": "445852077", 
+        "length": "93.86449984355465", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445852074", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "265141471"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453672, 
+            37.5418389
+          ], 
+          [
+            -77.4536585, 
+            37.5418388
+          ], 
+          [
+            -77.452856, 
+            37.5418421
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49612144", 
+        "length": "71.96588137831392", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3703121403", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "265141473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4529929, 
+            37.5355706
+          ], 
+          [
+            -77.4529994, 
+            37.5352091
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Cherry Street", 
+        "to": "49612151", 
+        "length": "40.21237820196219", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612154", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152636415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.450397, 
+            37.5418238
+          ], 
+          [
+            -77.450423, 
+            37.5404783
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "to": "49618297", 
+        "length": "149.67249235938343", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611962", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.453672, 
+            37.5418389
+          ], 
+          [
+            -77.4540907, 
+            37.5418424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "3703121403", 
+        "length": "36.92814779992866", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623870", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "265141473"
+      }
+    }
+  ]
+}

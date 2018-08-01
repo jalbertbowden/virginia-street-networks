@@ -1,0 +1,591 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4320083, 
+            37.4797294
+          ], 
+          [
+            -77.4320169, 
+            37.4772684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619643", 
+        "name": "Mike Road", 
+        "to": "49622944", 
+        "length": "273.7288668602079", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037980"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4367589, 
+            37.4755659
+          ], 
+          [
+            -77.4366902, 
+            37.4755666
+          ], 
+          [
+            -77.4362512, 
+            37.4755746
+          ], 
+          [
+            -77.4355856, 
+            37.475608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2146741952", 
+        "name": "['Keighly Road', 'Dawson Road']", 
+        "to": "49624065", 
+        "length": "103.69590523251269", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6037189, 6035071]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4344435, 
+            37.477253
+          ], 
+          [
+            -77.4345085, 
+            37.4758635
+          ], 
+          [
+            -77.4348961, 
+            37.4756579
+          ], 
+          [
+            -77.4355856, 
+            37.475608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619644", 
+        "name": "['Dawson Road', 'Danbury Road']", 
+        "to": "49624065", 
+        "length": "256.92281228700466", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6037189, 6039517]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4355856, 
+            37.475608
+          ], 
+          [
+            -77.4355856, 
+            37.4787474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615997", 
+        "name": "Deerwood Road", 
+        "to": "49624065", 
+        "length": "349.18370590319995", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037381"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362692, 
+            37.4787409
+          ], 
+          [
+            -77.4366786, 
+            37.4787307
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616001", 
+        "name": "Bradford Road", 
+        "to": "49614626", 
+        "length": "36.154250721519126", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362692, 
+            37.4787409
+          ], 
+          [
+            -77.4361049, 
+            37.4787425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2146741965", 
+        "name": "Bradford Road", 
+        "to": "49614626", 
+        "length": "14.503333268662992", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362692, 
+            37.4787409
+          ], 
+          [
+            -77.4363095, 
+            37.4796203
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614625", 
+        "name": "Davee Road", 
+        "to": "49614626", 
+        "length": "97.8770284870528", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033659"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4344435, 
+            37.477253
+          ], 
+          [
+            -77.4344155, 
+            37.4782751
+          ], 
+          [
+            -77.434526, 
+            37.4785971
+          ], 
+          [
+            -77.4349151, 
+            37.478756
+          ], 
+          [
+            -77.4355856, 
+            37.4787474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619644", 
+        "name": "['Bradford Road', 'Danbury Road']", 
+        "to": "49615997", 
+        "length": "248.6464405938185", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6034105, 6039517]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4344435, 
+            37.477253
+          ], 
+          [
+            -77.4332414, 
+            37.4772606
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619644", 
+        "name": "Clemson Avenue", 
+        "to": "49612489", 
+        "length": "106.11104081619692", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4367589, 
+            37.4755659
+          ], 
+          [
+            -77.4367423, 
+            37.4764289
+          ], 
+          [
+            -77.4366786, 
+            37.4787307
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2146741952", 
+        "name": "Ryburn Road", 
+        "to": "49616001", 
+        "length": "352.08177091197643", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035715"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4367589, 
+            37.4755659
+          ], 
+          [
+            -77.4370623, 
+            37.4755627
+          ], 
+          [
+            -77.4372955, 
+            37.4755351
+          ], 
+          [
+            -77.4374691, 
+            37.4755627
+          ], 
+          [
+            -77.4376229, 
+            37.4756178
+          ], 
+          [
+            -77.4377965, 
+            37.4757359
+          ], 
+          [
+            -77.4378561, 
+            37.475854
+          ], 
+          [
+            -77.4378858, 
+            37.4760548
+          ], 
+          [
+            -77.437861, 
+            37.4762635
+          ], 
+          [
+            -77.4378015, 
+            37.4780155
+          ], 
+          [
+            -77.4377717, 
+            37.4782005
+          ], 
+          [
+            -77.4376923, 
+            37.4783343
+          ], 
+          [
+            -77.4374542, 
+            37.4785312
+          ], 
+          [
+            -77.4372508, 
+            37.4786414
+          ], 
+          [
+            -77.4370228, 
+            37.4787156
+          ], 
+          [
+            -77.4366786, 
+            37.4787307
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2146741952", 
+        "name": "Keighly Road", 
+        "to": "49616001", 
+        "length": "494.6606929188901", 
+        "key": "1", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035071"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4366786, 
+            37.4787307
+          ], 
+          [
+            -77.4367423, 
+            37.4764289
+          ], 
+          [
+            -77.4367589, 
+            37.4755659
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616001", 
+        "name": "Ryburn Road", 
+        "to": "2146741952", 
+        "length": "352.0817709119097", 
+        "key": "2", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035715"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332414, 
+            37.4772606
+          ], 
+          [
+            -77.4320169, 
+            37.4772684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619643", 
+        "name": "Clemson Avenue", 
+        "to": "49612489", 
+        "length": "108.08836079477638", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332414, 
+            37.4772606
+          ], 
+          [
+            -77.4332446, 
+            37.4758832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612491", 
+        "name": "Frank Road", 
+        "to": "49612489", 
+        "length": "153.2033044460105", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4332446, 
+            37.4758832
+          ], 
+          [
+            -77.4320051, 
+            37.4758833
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625837", 
+        "name": "Gavan Avenue", 
+        "to": "49612491", 
+        "length": "109.41093048507479", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4320051, 
+            37.4758833
+          ], 
+          [
+            -77.4320169, 
+            37.4772684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619643", 
+        "name": "Mike Road", 
+        "to": "49625837", 
+        "length": "154.06300718103776", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037980"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4361049, 
+            37.4787425
+          ], 
+          [
+            -77.4355856, 
+            37.4787474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615997", 
+        "name": "Bradford Road", 
+        "to": "2146741965", 
+        "length": "45.84020670047272", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4361049, 
+            37.4787425
+          ], 
+          [
+            -77.4361353, 
+            37.4796257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2146741967", 
+        "name": "", 
+        "to": "2146741965", 
+        "length": "98.27166905003436", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204689585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363095, 
+            37.4796203
+          ], 
+          [
+            -77.4361353, 
+            37.4796257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2146741967", 
+        "name": "Ruffin Road", 
+        "to": "49614625", 
+        "length": "15.387628175876767", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6036695"
+      }
+    }
+  ]
+}

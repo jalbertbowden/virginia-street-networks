@@ -1,0 +1,2271 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4357323, 
+            37.5432615
+          ], 
+          [
+            -77.4364867, 
+            37.5424592
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "973647288", 
+        "length": "111.30870605840688", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2780114882", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4357323, 
+            37.5432615
+          ], 
+          [
+            -77.4348338, 
+            37.5427277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49615019", 
+        "length": "99.01516495814582", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "973647288", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "370505912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4366282, 
+            37.5437974
+          ], 
+          [
+            -77.4365745, 
+            37.5437655
+          ], 
+          [
+            -77.4364431, 
+            37.5436826
+          ], 
+          [
+            -77.4357323, 
+            37.5432615
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "tunnel": "yes", 
+        "access": "yes", 
+        "to": "973647288", 
+        "length": "98.97759962253238", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615015", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[370505912, 370505914, 370505911]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4373979, 
+            37.5430028
+          ], 
+          [
+            -77.4374847, 
+            37.5429128
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2780114896", 
+        "length": "12.601824260393856", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629456", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "346922693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4373979, 
+            37.5430028
+          ], 
+          [
+            -77.4364867, 
+            37.5424592
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "4;6", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49629456", 
+        "length": "100.56552972066534", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114882", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374944"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4373979, 
+            37.5430028
+          ], 
+          [
+            -77.4383172, 
+            37.5435538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "4;6", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49614109", 
+        "length": "101.63098585851859", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629456", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374944"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4373979, 
+            37.5430028
+          ], 
+          [
+            -77.4366282, 
+            37.5437974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49629456", 
+        "length": "111.43970399420355", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615015", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "346922693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362849, 
+            37.5441794
+          ], 
+          [
+            -77.4363603, 
+            37.5440966
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "yes", 
+        "access": "yes", 
+        "to": "49629457", 
+        "length": "11.359192060863677", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3741994702", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "370505917"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4407805, 
+            37.5409029
+          ], 
+          [
+            -77.4403659, 
+            37.5413491
+          ], 
+          [
+            -77.4403281, 
+            37.5413897
+          ], 
+          [
+            -77.4399761, 
+            37.5417686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 4th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49614105", 
+        "length": "119.60059819611793", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614104", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033495"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4416137, 
+            37.5400329
+          ], 
+          [
+            -77.4412047, 
+            37.5404685
+          ], 
+          [
+            -77.4407805, 
+            37.5409029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 4th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49614104", 
+        "length": "121.51094957432619", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611332", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040511"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398927, 
+            37.540372
+          ], 
+          [
+            -77.4403451, 
+            37.5406426
+          ], 
+          [
+            -77.4407805, 
+            37.5409029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49614104", 
+        "length": "98.06903510843922", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615913", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "432532503"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4399761, 
+            37.5417686
+          ], 
+          [
+            -77.4391777, 
+            37.5426278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 4th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49614107", 
+        "length": "118.70418493908576", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614105", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033495"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4399761, 
+            37.5417686
+          ], 
+          [
+            -77.440866, 
+            37.5422995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Franklin Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49614105", 
+        "length": "98.21579208463132", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619612", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "374649610"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4399761, 
+            37.5417686
+          ], 
+          [
+            -77.4394929, 
+            37.5414807
+          ], 
+          [
+            -77.4390767, 
+            37.5412325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Franklin Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49619614", 
+        "length": "99.23347934235211", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614105", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "374649610"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4391777, 
+            37.5426278
+          ], 
+          [
+            -77.4382573, 
+            37.5420965
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Grace Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49614107", 
+        "length": "100.40411627918562", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624360", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "354871291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4391777, 
+            37.5426278
+          ], 
+          [
+            -77.4400491, 
+            37.5431627
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Grace Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49624359", 
+        "length": "97.18803072700726", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614107", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424965466"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4391777, 
+            37.5426278
+          ], 
+          [
+            -77.4388433, 
+            37.5429876
+          ], 
+          [
+            -77.4384025, 
+            37.543462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 4th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2780114889", 
+        "length": "115.25142575663057", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614107", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424965462"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.440866, 
+            37.5422995
+          ], 
+          [
+            -77.4400491, 
+            37.5431627
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49619612", 
+        "length": "120.03444022808996", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624359", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "83607259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4383172, 
+            37.5435538
+          ], 
+          [
+            -77.4384025, 
+            37.543462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 4th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49614109", 
+        "length": "12.682496575733152", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114889", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424965462"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4383172, 
+            37.5435538
+          ], 
+          [
+            -77.4391907, 
+            37.5440696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "4;6", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49631228", 
+        "length": "96.04996395152554", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614109", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374944"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4390767, 
+            37.5412325
+          ], 
+          [
+            -77.4381812, 
+            37.5406985
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Franklin Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49619616", 
+        "length": "98.81864795999346", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619614", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "374649610"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4382573, 
+            37.5420965
+          ], 
+          [
+            -77.4386797, 
+            37.5416511
+          ], 
+          [
+            -77.4390767, 
+            37.5412325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49619614", 
+        "length": "120.23862513768452", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624360", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "346922693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4390767, 
+            37.5412325
+          ], 
+          [
+            -77.4394719, 
+            37.5408158
+          ], 
+          [
+            -77.4398927, 
+            37.540372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49615913", 
+        "length": "119.747771886044", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619614", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "346922693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4381812, 
+            37.5406985
+          ], 
+          [
+            -77.4389983, 
+            37.5398371
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49619616", 
+        "length": "119.88639544333643", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612513", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.437361, 
+            37.5415631
+          ], 
+          [
+            -77.4376419, 
+            37.541267
+          ], 
+          [
+            -77.4377865, 
+            37.5411146
+          ], 
+          [
+            -77.4381812, 
+            37.5406985
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49619616", 
+        "length": "120.33467927303624", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624361", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4338737, 
+            37.5437556
+          ], 
+          [
+            -77.4348338, 
+            37.5427277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49616161", 
+        "length": "142.26924895183038", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615019", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6034176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4384393, 
+            37.5448681
+          ], 
+          [
+            -77.4376118, 
+            37.5457378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49615012", 
+        "length": "121.17267721667096", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624176", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298372"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4391907, 
+            37.5440696
+          ], 
+          [
+            -77.4388133, 
+            37.5444684
+          ], 
+          [
+            -77.438711, 
+            37.5445764
+          ], 
+          [
+            -77.4385624, 
+            37.5447334
+          ], 
+          [
+            -77.4384393, 
+            37.5448681
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49615012", 
+        "length": "110.81303704882507", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631228", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298372"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4384393, 
+            37.5448681
+          ], 
+          [
+            -77.4393382, 
+            37.5454054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49615012", 
+        "length": "99.27543312226912", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613390", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "374649612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4384393, 
+            37.5448681
+          ], 
+          [
+            -77.4375536, 
+            37.5443504
+          ], 
+          [
+            -77.4373819, 
+            37.544244
+          ], 
+          [
+            -77.4369098, 
+            37.5439676
+          ], 
+          [
+            -77.4367543, 
+            37.5438761
+          ], 
+          [
+            -77.4366282, 
+            37.5437974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "tunnel": "yes", 
+        "access": "yes", 
+        "to": "49615015", 
+        "length": "199.24230029345213", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615012", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[354923832, 370505913, 370505914, 370505915, 370505916]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400491, 
+            37.5431627
+          ], 
+          [
+            -77.4409515, 
+            37.5436995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Grace Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49613388", 
+        "length": "99.49014566415246", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624359", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424965466"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400491, 
+            37.5431627
+          ], 
+          [
+            -77.4392722, 
+            37.5439835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49624359", 
+        "length": "114.14459468379349", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114893", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "83607259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4374847, 
+            37.5429128
+          ], 
+          [
+            -77.4377629, 
+            37.5426177
+          ], 
+          [
+            -77.4377719, 
+            37.5426083
+          ], 
+          [
+            -77.4378835, 
+            37.5424906
+          ], 
+          [
+            -77.4381982, 
+            37.5421589
+          ], 
+          [
+            -77.4382573, 
+            37.5420965
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49624360", 
+        "length": "113.51736660140119", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114896", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "346922693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4382573, 
+            37.5420965
+          ], 
+          [
+            -77.437361, 
+            37.5415631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Grace Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49624360", 
+        "length": "98.83423814645508", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624361", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037329"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398927, 
+            37.540372
+          ], 
+          [
+            -77.4389983, 
+            37.5398371
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49615913", 
+        "length": "98.8021054353256", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612513", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "432532503"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398927, 
+            37.540372
+          ], 
+          [
+            -77.4402373, 
+            37.5400086
+          ], 
+          [
+            -77.4404216, 
+            37.5398144
+          ], 
+          [
+            -77.4407191, 
+            37.5395006
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49611334", 
+        "length": "121.26850950130886", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615913", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4356029, 
+            37.5419293
+          ], 
+          [
+            -77.4354824, 
+            37.5420574
+          ], 
+          [
+            -77.4348338, 
+            37.5427277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49615019", 
+        "length": "111.74504750235079", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114894", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6034176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4385186, 
+            37.5462807
+          ], 
+          [
+            -77.4376118, 
+            37.5457378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Clay Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49613392", 
+        "length": "100.20598319348815", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624176", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4385186, 
+            37.5462807
+          ], 
+          [
+            -77.4381238, 
+            37.5466996
+          ], 
+          [
+            -77.4380123, 
+            37.5468178
+          ], 
+          [
+            -77.4374348, 
+            37.5474306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 2nd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49613393", 
+        "length": "159.6653006771333", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613392", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649613"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4385186, 
+            37.5462807
+          ], 
+          [
+            -77.4393382, 
+            37.5454054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 2nd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49613392", 
+        "length": "121.25360680516742", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613390", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649613"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4356944, 
+            37.5418404
+          ], 
+          [
+            -77.4365774, 
+            37.5423694
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2780114881", 
+        "length": "97.60261561074104", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114890", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "270511646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4356944, 
+            37.5418404
+          ], 
+          [
+            -77.4356029, 
+            37.5419293
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 7th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2780114894", 
+        "length": "12.7628776160486", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114881", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6034176"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4364867, 
+            37.5424592
+          ], 
+          [
+            -77.4365774, 
+            37.5423694
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2780114882", 
+        "length": "12.796331810555605", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2780114890", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4364867, 
+            37.5424592
+          ], 
+          [
+            -77.4356029, 
+            37.5419293
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "4;6", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2780114882", 
+        "length": "97.71918667799535", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114894", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374944"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424401, 
+            37.5391758
+          ], 
+          [
+            -77.4423059, 
+            37.5393149
+          ], 
+          [
+            -77.4420851, 
+            37.5395434
+          ], 
+          [
+            -77.4416137, 
+            37.5400329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 4th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49611332", 
+        "length": "120.00132421218635", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631190", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040511"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4416137, 
+            37.5400329
+          ], 
+          [
+            -77.4414586, 
+            37.5399407
+          ], 
+          [
+            -77.441446, 
+            37.5399332
+          ], 
+          [
+            -77.4412678, 
+            37.5398271
+          ], 
+          [
+            -77.4412272, 
+            37.539803
+          ], 
+          [
+            -77.4411668, 
+            37.539767
+          ], 
+          [
+            -77.4407191, 
+            37.5395006
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Cary Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49611334", 
+        "length": "98.64263887940504", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611332", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229539"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4406667, 
+            37.5381206
+          ], 
+          [
+            -77.4410717, 
+            37.5383615
+          ], 
+          [
+            -77.4415368, 
+            37.5386383
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49626053", 
+        "length": "95.9408151349961", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612515", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4415368, 
+            37.5386383
+          ], 
+          [
+            -77.4424401, 
+            37.5391758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49631190", 
+        "length": "99.60422736706091", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626053", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4415368, 
+            37.5386383
+          ], 
+          [
+            -77.4407191, 
+            37.5395006
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49626053", 
+        "length": "119.9989016860503", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611334", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "83606797"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4407191, 
+            37.5395006
+          ], 
+          [
+            -77.4402309, 
+            37.5392102
+          ], 
+          [
+            -77.4398362, 
+            37.5389753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Cary Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49611336", 
+        "length": "97.35041984509235", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611334", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "38229539"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4389983, 
+            37.5398371
+          ], 
+          [
+            -77.4394306, 
+            37.5393904
+          ], 
+          [
+            -77.4398362, 
+            37.5389753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49611336", 
+        "length": "121.03403418193463", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612513", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4406667, 
+            37.5381206
+          ], 
+          [
+            -77.4403083, 
+            37.538488
+          ], 
+          [
+            -77.4400871, 
+            37.5387148
+          ], 
+          [
+            -77.4399593, 
+            37.5388458
+          ], 
+          [
+            -77.4398362, 
+            37.5389753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49611336", 
+        "length": "120.01151501580071", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612515", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "432532501"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4384025, 
+            37.543462
+          ], 
+          [
+            -77.4374847, 
+            37.5429128
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2780114896", 
+        "length": "101.40483915852026", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114889", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "270511646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4384025, 
+            37.543462
+          ], 
+          [
+            -77.4392722, 
+            37.5439835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2780114889", 
+        "length": "96.16255515197912", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114893", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "270511646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4374847, 
+            37.5429128
+          ], 
+          [
+            -77.4371662, 
+            37.542722
+          ], 
+          [
+            -77.4365774, 
+            37.5423694
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2780114890", 
+        "length": "100.27757096502503", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2780114896", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "270511646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4365774, 
+            37.5423694
+          ], 
+          [
+            -77.437361, 
+            37.5415631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 6th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2780114890", 
+        "length": "113.21941519415687", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624361", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037379"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4409515, 
+            37.5436995
+          ], 
+          [
+            -77.440558, 
+            37.5441169
+          ], 
+          [
+            -77.4404745, 
+            37.5442055
+          ], 
+          [
+            -77.4401744, 
+            37.5445239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 2nd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "1991596254", 
+        "length": "114.47536662527631", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400953, 
+            37.5446078
+          ], 
+          [
+            -77.4391907, 
+            37.5440696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "4;6", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49613389", 
+        "length": "99.73801551050902", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631228", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "120374944"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400953, 
+            37.5446078
+          ], 
+          [
+            -77.4401744, 
+            37.5445239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 2nd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49613389", 
+        "length": "11.650972259509889", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596254", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400953, 
+            37.5446078
+          ], 
+          [
+            -77.4397185, 
+            37.5450076
+          ], 
+          [
+            -77.4393382, 
+            37.5454054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "North 2nd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49613390", 
+        "length": "111.0325654317356", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613389", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "374649611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363603, 
+            37.5440966
+          ], 
+          [
+            -77.4366282, 
+            37.5437974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 5th Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "49615015", 
+        "length": "40.81267576683042", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3741994702", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "370505918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4392722, 
+            37.5439835
+          ], 
+          [
+            -77.4391907, 
+            37.5440696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "yes", 
+        "to": "2780114893", 
+        "length": "11.973739808182541", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631228", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "83607259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4392722, 
+            37.5439835
+          ], 
+          [
+            -77.4401744, 
+            37.5445239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Broad Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "2780114893", 
+        "length": "99.7161829591405", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596254", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "270511646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4365262, 
+            37.5468848
+          ], 
+          [
+            -77.4370321, 
+            37.5471885
+          ], 
+          [
+            -77.4374348, 
+            37.5474306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49613393", 
+        "length": "100.52618832564046", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620315", 
+        "ref": "VA 33", 
+        "highway": "secondary", 
+        "osmid": "45089000"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4376118, 
+            37.5457378
+          ], 
+          [
+            -77.4375054, 
+            37.5458502
+          ], 
+          [
+            -77.4372144, 
+            37.5461576
+          ], 
+          [
+            -77.4368026, 
+            37.5465927
+          ], 
+          [
+            -77.4365262, 
+            37.5468848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 3rd Street", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "49620315", 
+        "length": "159.502678468227", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624176", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "175298372"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4403319, 
+            37.5376318
+          ], 
+          [
+            -77.4405707, 
+            37.5376788
+          ], 
+          [
+            -77.440726, 
+            37.537714
+          ], 
+          [
+            -77.4407355, 
+            37.5377161
+          ], 
+          [
+            -77.4408926, 
+            37.5377564
+          ], 
+          [
+            -77.441049, 
+            37.5378016
+          ], 
+          [
+            -77.4413878, 
+            37.5379183
+          ], 
+          [
+            -77.4423877, 
+            37.5383521
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "['2', '1']", 
+        "name": "", 
+        "tunnel": "", 
+        "access": "", 
+        "to": "452657662", 
+        "length": "199.16333385803816", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966233971", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "[304316225, 6032074]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2569 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4178702, 
+            37.5383143
+          ], 
+          [
+            -77.4191211, 
+            37.5383094
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49612672", 
+        "length": "110.32625517325853", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617960", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4178702, 
+            37.5383143
+          ], 
+          [
+            -77.4178608, 
+            37.5378273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 22nd Street", 
+        "to": "49612672", 
+        "length": "54.173530416376856", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2840016382", 
+        "highway": "residential", 
+        "osmid": "279810447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4178702, 
+            37.5383143
+          ], 
+          [
+            -77.416749, 
+            37.5383362
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49612672", 
+        "length": "98.91581147518686", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620894", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4184712, 
+            37.5395375
+          ], 
+          [
+            -77.4182873, 
+            37.5393787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "O Street", 
+        "to": "49626503", 
+        "length": "23.979790423151496", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626504", 
+        "highway": "residential", 
+        "osmid": "6039793"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4184712, 
+            37.5395375
+          ], 
+          [
+            -77.4185676, 
+            37.539368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 20th Street", 
+        "to": "49626503", 
+        "length": "20.681248959977783", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617961", 
+        "highway": "residential", 
+        "osmid": "6040770"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4182873, 
+            37.5393787
+          ], 
+          [
+            -77.4185676, 
+            37.539368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Carrington Street", 
+        "to": "49626504", 
+        "length": "24.749736972433695", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617961", 
+        "highway": "residential", 
+        "osmid": "6039795"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4167793, 
+            37.5372842
+          ], 
+          [
+            -77.4168417, 
+            37.537253
+          ], 
+          [
+            -77.4168949, 
+            37.5372168
+          ], 
+          [
+            -77.4171085, 
+            37.5366618
+          ], 
+          [
+            -77.4171085, 
+            37.5365388
+          ], 
+          [
+            -77.4170448, 
+            37.5364509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jessamine Street", 
+        "to": "3696238369", 
+        "length": "102.18732710023147", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145854219", 
+        "highway": "residential", 
+        "osmid": "6037137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4167793, 
+            37.5372842
+          ], 
+          [
+            -77.4167554, 
+            37.5374004
+          ], 
+          [
+            -77.4167497, 
+            37.5375538
+          ], 
+          [
+            -77.4167486, 
+            37.5378591
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jessamine Street", 
+        "to": "49623973", 
+        "length": "64.1222852027935", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145854219", 
+        "highway": "residential", 
+        "osmid": "6037136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4164499, 
+            37.5370684
+          ], 
+          [
+            -77.4167498, 
+            37.53725
+          ], 
+          [
+            -77.4167793, 
+            37.5372842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "2145854219", 
+        "length": "37.8895078068182", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627638", 
+        "highway": "residential", 
+        "osmid": "[6038827, 332228558]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4182038, 
+            37.537303
+          ], 
+          [
+            -77.4175344, 
+            37.5373151
+          ], 
+          [
+            -77.4168833, 
+            37.5372974
+          ], 
+          [
+            -77.4167793, 
+            37.5372842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "2145854219", 
+        "length": "125.80333457177795", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612669", 
+        "highway": "residential", 
+        "osmid": "6038827"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156214, 
+            37.5351879
+          ], 
+          [
+            -77.4159217, 
+            37.5353764
+          ], 
+          [
+            -77.4159725, 
+            37.5354083
+          ], 
+          [
+            -77.4163751, 
+            37.535661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "M Street", 
+        "to": "49613069", 
+        "length": "84.78250040144044", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1659101512", 
+        "highway": "residential", 
+        "osmid": "6033930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4163751, 
+            37.535661
+          ], 
+          [
+            -77.4169954, 
+            37.5350427
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 24th Street", 
+        "to": "49613067", 
+        "length": "87.87893113472927", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613069", 
+        "highway": "residential", 
+        "osmid": "266890334"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4172684, 
+            37.5362199
+          ], 
+          [
+            -77.416831, 
+            37.5359487
+          ], 
+          [
+            -77.4163751, 
+            37.535661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "M Street", 
+        "to": "49613069", 
+        "length": "100.36034764479602", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3696238366", 
+        "highway": "residential", 
+        "osmid": "6033930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155621, 
+            37.5365306
+          ], 
+          [
+            -77.4162835, 
+            37.5357591
+          ], 
+          [
+            -77.4163751, 
+            37.535661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 24th Street", 
+        "to": "49613069", 
+        "length": "120.40323625718462", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613071", 
+        "highway": "residential", 
+        "osmid": "266890334"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155621, 
+            37.5365306
+          ], 
+          [
+            -77.4147333, 
+            37.537391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 24th Street", 
+        "to": "49613071", 
+        "length": "120.42302912592977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613073", 
+        "highway": "residential", 
+        "osmid": "266890334"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155621, 
+            37.5365306
+          ], 
+          [
+            -77.4164499, 
+            37.5370684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "49613071", 
+        "length": "98.53625138364288", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627638", 
+        "highway": "residential", 
+        "osmid": "332228558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4146725, 
+            37.5359917
+          ], 
+          [
+            -77.4151059, 
+            37.5362542
+          ], 
+          [
+            -77.4155621, 
+            37.5365306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "49613071", 
+        "length": "98.73713198632595", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627639", 
+        "highway": "residential", 
+        "osmid": "332228558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156211, 
+            37.5379288
+          ], 
+          [
+            -77.4152481, 
+            37.5377029
+          ], 
+          [
+            -77.4147333, 
+            37.537391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "O Street", 
+        "to": "49613073", 
+        "length": "98.5355338309041", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612703", 
+        "highway": "residential", 
+        "osmid": "6038326"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4144874, 
+            37.5378964
+          ], 
+          [
+            -77.4144564, 
+            37.5377096
+          ], 
+          [
+            -77.414554, 
+            37.537577
+          ], 
+          [
+            -77.4147333, 
+            37.537391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['North 24th Street', 'Burton Street']", 
+        "to": "49613073", 
+        "length": "64.07289689936513", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618172", 
+        "highway": "residential", 
+        "osmid": "[298032419, 266890334]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4138437, 
+            37.5368521
+          ], 
+          [
+            -77.4142846, 
+            37.5371192
+          ], 
+          [
+            -77.4147333, 
+            37.537391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "O Street", 
+        "to": "49613073", 
+        "length": "98.73641227924152", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626509", 
+        "highway": "residential", 
+        "osmid": "6038326"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4223554, 
+            37.5361619
+          ], 
+          [
+            -77.4214256, 
+            37.5361544
+          ], 
+          [
+            -77.4212923, 
+            37.5361541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Princess Anne Avenue", 
+        "to": "49624730", 
+        "length": "93.76861897438683", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3696205969", 
+        "highway": "residential", 
+        "osmid": "6039441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4201209, 
+            37.535897
+          ], 
+          [
+            -77.4211127, 
+            37.5358932
+          ], 
+          [
+            -77.4211531, 
+            37.5359187
+          ], 
+          [
+            -77.4211886, 
+            37.5359411
+          ], 
+          [
+            -77.4212211, 
+            37.5359617
+          ], 
+          [
+            -77.4212923, 
+            37.5361541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Mosby Street', 'Princess Anne Avenue']", 
+        "to": "49624730", 
+        "length": "122.0046800568599", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617955", 
+        "highway": "residential", 
+        "osmid": "[6037523, 6039437]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4208866, 
+            37.5372369
+          ], 
+          [
+            -77.4212579, 
+            37.5362459
+          ], 
+          [
+            -77.4212923, 
+            37.5361541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mosby Street", 
+        "to": "49624730", 
+        "length": "125.63890937075963", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624732", 
+        "highway": "residential", 
+        "osmid": "6037523"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4123108, 
+            37.5384433
+          ], 
+          [
+            -77.4127918, 
+            37.5379439
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 25th Street", 
+        "to": "3696238363", 
+        "length": "69.8933061022332", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628903", 
+        "highway": "tertiary", 
+        "osmid": "153196146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4123108, 
+            37.5384433
+          ], 
+          [
+            -77.4134437, 
+            37.538391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "3696238363", 
+        "length": "100.08678115225584", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613687", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.423415, 
+            37.5358038
+          ], 
+          [
+            -77.4233045, 
+            37.5359283
+          ], 
+          [
+            -77.4230616, 
+            37.5362079
+          ], 
+          [
+            -77.4228352, 
+            37.5365856
+          ], 
+          [
+            -77.422625, 
+            37.5370326
+          ], 
+          [
+            -77.4224449, 
+            37.5371953
+          ], 
+          [
+            -77.4223081, 
+            37.5372272
+          ], 
+          [
+            -77.4208866, 
+            37.5372369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "49624732", 
+        "length": "316.30687353809026", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2723892529", 
+        "highway": "residential", 
+        "osmid": "6038821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4208866, 
+            37.5372369
+          ], 
+          [
+            -77.4208413, 
+            37.5373698
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mosby Street", 
+        "to": "49624732", 
+        "length": "15.31239549667777", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624733", 
+        "highway": "residential", 
+        "osmid": "6037523"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4195337, 
+            37.5373437
+          ], 
+          [
+            -77.4201373, 
+            37.5373557
+          ], 
+          [
+            -77.4208413, 
+            37.5373698
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "49624733", 
+        "length": "115.3636553663903", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617956", 
+        "highway": "residential", 
+        "osmid": "6038827"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4204275, 
+            37.5383167
+          ], 
+          [
+            -77.4206384, 
+            37.5378613
+          ], 
+          [
+            -77.4208413, 
+            37.5373698
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mosby Street", 
+        "to": "49624733", 
+        "length": "111.48189328907279", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620891", 
+        "highway": "residential", 
+        "osmid": "6037523"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4170448, 
+            37.5364509
+          ], 
+          [
+            -77.4171331, 
+            37.5363596
+          ], 
+          [
+            -77.4172684, 
+            37.5362199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 23rd Street", 
+        "to": "3696238366", 
+        "length": "32.38937213371453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3696238369", 
+        "highway": "residential", 
+        "osmid": "374649621"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4185393, 
+            37.5364359
+          ], 
+          [
+            -77.4179185, 
+            37.5363475
+          ], 
+          [
+            -77.4173653, 
+            37.5362622
+          ], 
+          [
+            -77.4172684, 
+            37.5362199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "M Street", 
+        "to": "3696238366", 
+        "length": "115.09094936436296", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612668", 
+        "highway": "residential", 
+        "osmid": "6033930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4172684, 
+            37.5362199
+          ], 
+          [
+            -77.4181337, 
+            37.5353206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 23rd Street", 
+        "to": "3696238366", 
+        "length": "125.81629418312637", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620297", 
+        "highway": "residential", 
+        "osmid": "374649621"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155984, 
+            37.5383555
+          ], 
+          [
+            -77.4156084, 
+            37.5382333
+          ], 
+          [
+            -77.4156204, 
+            37.5380861
+          ], 
+          [
+            -77.4156211, 
+            37.5379288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tulip Street", 
+        "to": "49612703", 
+        "length": "47.523108822658855", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612704", 
+        "highway": "residential", 
+        "osmid": "6033111"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4144874, 
+            37.5378964
+          ], 
+          [
+            -77.4153597, 
+            37.5378839
+          ], 
+          [
+            -77.4156211, 
+            37.5379288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burton Street", 
+        "to": "49612703", 
+        "length": "100.53611126123492", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618172", 
+        "highway": "residential", 
+        "osmid": "298032419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4167486, 
+            37.5378591
+          ], 
+          [
+            -77.4158697, 
+            37.5378793
+          ], 
+          [
+            -77.4157661, 
+            37.5378854
+          ], 
+          [
+            -77.4156211, 
+            37.5379288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burton Street", 
+        "to": "49612703", 
+        "length": "100.38048591198901", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623973", 
+        "highway": "residential", 
+        "osmid": "298032419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156211, 
+            37.5379288
+          ], 
+          [
+            -77.4164499, 
+            37.5370684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 23rd Street", 
+        "to": "49612703", 
+        "length": "120.4227091130553", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627638", 
+        "highway": "residential", 
+        "osmid": "374649621"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156238, 
+            37.5393853
+          ], 
+          [
+            -77.4156244, 
+            37.5393418
+          ], 
+          [
+            -77.4155984, 
+            37.5383555
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tulip Street", 
+        "to": "49612704", 
+        "length": "114.56505049313024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612640", 
+        "highway": "residential", 
+        "osmid": "6033111"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155984, 
+            37.5383555
+          ], 
+          [
+            -77.4145089, 
+            37.5383748
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49612704", 
+        "length": "96.11391266761535", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618174", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155984, 
+            37.5383555
+          ], 
+          [
+            -77.416749, 
+            37.5383362
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49612704", 
+        "length": "101.50146382111366", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620894", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4170448, 
+            37.5364509
+          ], 
+          [
+            -77.4164499, 
+            37.5370684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 23rd Street", 
+        "to": "3696238369", 
+        "length": "86.43065198871776", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627638", 
+        "highway": "residential", 
+        "osmid": "374649621"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4189478, 
+            37.5358137
+          ], 
+          [
+            -77.41892, 
+            37.5358347
+          ], 
+          [
+            -77.419437, 
+            37.5358615
+          ], 
+          [
+            -77.4201209, 
+            37.535897
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "to": "49617955", 
+        "length": "109.5313948033242", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612667", 
+        "highway": "residential", 
+        "osmid": "6035796"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4197691, 
+            37.5349612
+          ], 
+          [
+            -77.4200608, 
+            37.5351379
+          ], 
+          [
+            -77.4202577, 
+            37.5352819
+          ], 
+          [
+            -77.4203008, 
+            37.5353398
+          ], 
+          [
+            -77.4203011, 
+            37.5354034
+          ], 
+          [
+            -77.4202263, 
+            37.5355831
+          ], 
+          [
+            -77.4201209, 
+            37.535897
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['North 21st Street', 'East Clay Street']", 
+        "to": "49617955", 
+        "length": "127.73132679786399", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612666", 
+        "highway": "residential", 
+        "osmid": "[6037257, 374649619]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4198513, 
+            37.5364674
+          ], 
+          [
+            -77.4199614, 
+            37.5362344
+          ], 
+          [
+            -77.4201209, 
+            37.535897
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 21st Street", 
+        "to": "49617955", 
+        "length": "67.75312633945754", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615478", 
+        "highway": "residential", 
+        "osmid": "374649618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4202128, 
+            37.5393358
+          ], 
+          [
+            -77.4195891, 
+            37.539348
+          ], 
+          [
+            -77.4185676, 
+            37.539368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Carrington Street", 
+        "to": "49617961", 
+        "length": "145.14293014163962", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624740", 
+        "highway": "residential", 
+        "osmid": "6039795"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4204275, 
+            37.5383167
+          ], 
+          [
+            -77.4203507, 
+            37.5385693
+          ], 
+          [
+            -77.4203129, 
+            37.5386902
+          ], 
+          [
+            -77.420261, 
+            37.5388952
+          ], 
+          [
+            -77.4202128, 
+            37.5393358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mosby Street", 
+        "to": "49624740", 
+        "length": "115.20167549942934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620891", 
+        "highway": "residential", 
+        "osmid": "6037523"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4167486, 
+            37.5378591
+          ], 
+          [
+            -77.416749, 
+            37.5383362
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jessamine Street", 
+        "to": "49623973", 
+        "length": "53.06605813339157", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620894", 
+        "highway": "residential", 
+        "osmid": "6037136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4178608, 
+            37.5378273
+          ], 
+          [
+            -77.4175516, 
+            37.5378361
+          ], 
+          [
+            -77.4167486, 
+            37.5378591
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burton Street", 
+        "to": "49623973", 
+        "length": "98.15642900854024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2840016382", 
+        "highway": "residential", 
+        "osmid": "298032419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4193124, 
+            37.5378414
+          ], 
+          [
+            -77.4191211, 
+            37.5383094
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 21st Street", 
+        "to": "49617958", 
+        "length": "54.71994691279347", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617960", 
+        "highway": "residential", 
+        "osmid": "298032420"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4193124, 
+            37.5378414
+          ], 
+          [
+            -77.4195337, 
+            37.5373437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 21st Street", 
+        "to": "49617956", 
+        "length": "58.697410746823664", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617958", 
+        "highway": "residential", 
+        "osmid": "374649618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4193124, 
+            37.5378414
+          ], 
+          [
+            -77.4179889, 
+            37.5378236
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burton Street", 
+        "to": "49612670", 
+        "length": "116.74550854463435", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617958", 
+        "highway": "residential", 
+        "osmid": "298032419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4191211, 
+            37.5383094
+          ], 
+          [
+            -77.4185676, 
+            37.539368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 21st Street", 
+        "to": "49617960", 
+        "length": "127.46260231303744", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617961", 
+        "highway": "residential", 
+        "osmid": "298032420"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4191211, 
+            37.5383094
+          ], 
+          [
+            -77.4204275, 
+            37.5383167
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49617960", 
+        "length": "115.22266964561138", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620891", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4178608, 
+            37.5378273
+          ], 
+          [
+            -77.4179889, 
+            37.5378236
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burton Street", 
+        "to": "49612670", 
+        "length": "11.305528586801977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2840016382", 
+        "highway": "residential", 
+        "osmid": "298032419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156214, 
+            37.5351879
+          ], 
+          [
+            -77.4156446, 
+            37.5351736
+          ], 
+          [
+            -77.415663, 
+            37.5351555
+          ], 
+          [
+            -77.4156757, 
+            37.5351345
+          ], 
+          [
+            -77.415682, 
+            37.5351117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "Jefferson Avenue", 
+        "to": "1659101491", 
+        "length": "10.364142386362271", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1659101512", 
+        "highway": "tertiary", 
+        "osmid": "153196141"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.415682, 
+            37.5351117
+          ], 
+          [
+            -77.4159172, 
+            37.5350993
+          ], 
+          [
+            -77.4169954, 
+            37.5350427
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jefferson Avenue", 
+        "to": "49613067", 
+        "length": "116.09615645393143", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1659101491", 
+        "highway": "tertiary", 
+        "osmid": "266890333"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4144874, 
+            37.5378964
+          ], 
+          [
+            -77.4145089, 
+            37.5383748
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Pink Street", 
+        "to": "49618174", 
+        "length": "53.24441703752091", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618172", 
+        "highway": "residential", 
+        "osmid": "6034947"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156214, 
+            37.5351879
+          ], 
+          [
+            -77.4155853, 
+            37.5351998
+          ], 
+          [
+            -77.4155464, 
+            37.5352025
+          ], 
+          [
+            -77.4155083, 
+            37.5351957
+          ], 
+          [
+            -77.4154745, 
+            37.5351801
+          ], 
+          [
+            -77.4154661, 
+            37.5351679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "Jefferson Avenue", 
+        "to": "1659101506", 
+        "length": "15.332156287818316", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1659101512", 
+        "highway": "tertiary", 
+        "osmid": "153196141"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4146725, 
+            37.5359917
+          ], 
+          [
+            -77.4153005, 
+            37.5353398
+          ], 
+          [
+            -77.4154661, 
+            37.5351679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 25th Street", 
+        "to": "1659101506", 
+        "length": "115.3042053455006", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627639", 
+        "highway": "tertiary", 
+        "osmid": "153196146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4169954, 
+            37.5350427
+          ], 
+          [
+            -77.4175654, 
+            37.5349763
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jefferson Avenue", 
+        "to": "49613067", 
+        "length": "50.81376349848186", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620298", 
+        "highway": "tertiary", 
+        "osmid": "6038738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4185393, 
+            37.5364359
+          ], 
+          [
+            -77.419247, 
+            37.5364529
+          ], 
+          [
+            -77.419306, 
+            37.5364543
+          ], 
+          [
+            -77.4198513, 
+            37.5364674
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "M Street", 
+        "to": "49615478", 
+        "length": "115.76962625887838", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612668", 
+        "highway": "residential", 
+        "osmid": "6033930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4198513, 
+            37.5364674
+          ], 
+          [
+            -77.4195337, 
+            37.5373437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 21st Street", 
+        "to": "49617956", 
+        "length": "101.41293206447413", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615478", 
+        "highway": "residential", 
+        "osmid": "374649618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.418525, 
+            37.5349143
+          ], 
+          [
+            -77.4183481, 
+            37.5350981
+          ], 
+          [
+            -77.4181337, 
+            37.5353206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 23rd Street", 
+        "to": "49620297", 
+        "length": "56.86278670008145", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627489", 
+        "highway": "residential", 
+        "osmid": "374649621"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4175654, 
+            37.5349763
+          ], 
+          [
+            -77.4176931, 
+            37.5350537
+          ], 
+          [
+            -77.4181337, 
+            37.5353206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "to": "49620297", 
+        "length": "63.078944921703744", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620298", 
+        "highway": "residential", 
+        "osmid": "266890331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4181337, 
+            37.5353206
+          ], 
+          [
+            -77.4189478, 
+            37.5358137
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Leigh Street", 
+        "to": "49620297", 
+        "length": "90.35357570333788", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612667", 
+        "highway": "residential", 
+        "osmid": "266890331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.418525, 
+            37.5349143
+          ], 
+          [
+            -77.4181722, 
+            37.5349371
+          ], 
+          [
+            -77.4175654, 
+            37.5349763
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jefferson Avenue", 
+        "to": "49620298", 
+        "length": "84.9175822566567", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627489", 
+        "highway": "tertiary", 
+        "osmid": "6038738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4146725, 
+            37.5359917
+          ], 
+          [
+            -77.4139462, 
+            37.5367457
+          ], 
+          [
+            -77.4138437, 
+            37.5368521
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 25th Street", 
+        "to": "49626509", 
+        "length": "120.42334979898601", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627639", 
+        "highway": "tertiary", 
+        "osmid": "153196146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4138437, 
+            37.5368521
+          ], 
+          [
+            -77.4130146, 
+            37.5377127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 25th Street", 
+        "to": "49626509", 
+        "length": "120.4565772500637", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617775", 
+        "highway": "tertiary", 
+        "osmid": "153196146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4134681, 
+            37.5394096
+          ], 
+          [
+            -77.4134562, 
+            37.5389117
+          ], 
+          [
+            -77.4134437, 
+            37.538391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Russell Street", 
+        "to": "49613687", 
+        "length": "113.31549969359439", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613689", 
+        "highway": "residential", 
+        "osmid": "6033374"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4182038, 
+            37.537303
+          ], 
+          [
+            -77.4183406, 
+            37.5372602
+          ], 
+          [
+            -77.4194007, 
+            37.5372782
+          ], 
+          [
+            -77.4195337, 
+            37.5373437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cedar Street", 
+        "to": "49617956", 
+        "length": "120.29891774570798", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612669", 
+        "highway": "residential", 
+        "osmid": "6038827"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4156238, 
+            37.5393853
+          ], 
+          [
+            -77.4145206, 
+            37.5394014
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Carrington Street", 
+        "to": "49612640", 
+        "length": "97.31336354544145", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618175", 
+        "highway": "residential", 
+        "osmid": "47968090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4127918, 
+            37.5379439
+          ], 
+          [
+            -77.4134042, 
+            37.5379487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burton Street", 
+        "to": "49613686", 
+        "length": "54.01439449569484", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628903", 
+        "highway": "residential", 
+        "osmid": "6040198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4127918, 
+            37.5379439
+          ], 
+          [
+            -77.4130146, 
+            37.5377127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 25th Street", 
+        "to": "49628903", 
+        "length": "32.36389046661025", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617775", 
+        "highway": "tertiary", 
+        "osmid": "153196146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4130146, 
+            37.5377127
+          ], 
+          [
+            -77.4134042, 
+            37.5379487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "P Street", 
+        "to": "49613686", 
+        "length": "43.24056969077669", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617775", 
+        "highway": "residential", 
+        "osmid": "6034781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4145089, 
+            37.5383748
+          ], 
+          [
+            -77.4145206, 
+            37.5394014
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Pink Street", 
+        "to": "49618174", 
+        "length": "114.18953620330406", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618175", 
+        "highway": "residential", 
+        "osmid": "6034947"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4145089, 
+            37.5383748
+          ], 
+          [
+            -77.4134437, 
+            37.538391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Venable Street", 
+        "to": "49613687", 
+        "length": "93.96402119908709", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618174", 
+        "highway": "residential", 
+        "osmid": "6035983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4134042, 
+            37.5379487
+          ], 
+          [
+            -77.4134437, 
+            37.538391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Russell Street", 
+        "to": "49613687", 
+        "length": "49.31856971630281", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613686", 
+        "highway": "residential", 
+        "osmid": "6033374"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4198936, 
+            37.534832
+          ], 
+          [
+            -77.4197691, 
+            37.5349612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 22nd Street", 
+        "to": "49612665", 
+        "length": "18.08565060641553", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612666", 
+        "highway": "residential", 
+        "osmid": "6033099"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4189478, 
+            37.5358137
+          ], 
+          [
+            -77.4194188, 
+            37.5353249
+          ], 
+          [
+            -77.4197691, 
+            37.5349612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 22nd Street", 
+        "to": "49612666", 
+        "length": "119.32414193919016", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612667", 
+        "highway": "residential", 
+        "osmid": "6033099"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4189478, 
+            37.5358137
+          ], 
+          [
+            -77.4185393, 
+            37.5364359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 22nd Street", 
+        "to": "49612668", 
+        "length": "78.02204127836696", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612667", 
+        "highway": "residential", 
+        "osmid": "266890332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4182038, 
+            37.537303
+          ], 
+          [
+            -77.4183842, 
+            37.5368386
+          ], 
+          [
+            -77.4185393, 
+            37.5364359
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 22nd Street", 
+        "to": "49612668", 
+        "length": "100.88166786693276", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612669", 
+        "highway": "residential", 
+        "osmid": "266890332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4182038, 
+            37.537303
+          ], 
+          [
+            -77.4179889, 
+            37.5378236
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 22nd Street", 
+        "to": "49612670", 
+        "length": "60.92747528031463", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612669", 
+        "highway": "residential", 
+        "osmid": "266890332"
+      }
+    }
+  ]
+}

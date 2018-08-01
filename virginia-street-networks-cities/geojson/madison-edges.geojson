@@ -1,0 +1,521 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2611615, 
+            38.376542
+          ], 
+          [
+            -78.2607393, 
+            38.3769939
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "South Main Street", 
+        "to": "215940256", 
+        "length": "62.3028372712767", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215932025", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2628545, 
+            38.3773333
+          ], 
+          [
+            -78.2625296, 
+            38.3772921
+          ], 
+          [
+            -78.2611615, 
+            38.376542
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Thrift Road", 
+        "to": "215940256", 
+        "length": "174.26973352930284", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215932052", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20332056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2606379, 
+            38.3770933
+          ], 
+          [
+            -78.2607393, 
+            38.3769939
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "South Main Street", 
+        "to": "215940261", 
+        "length": "14.15648419988021", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215932025", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2606379, 
+            38.3770933
+          ], 
+          [
+            -78.2587306, 
+            38.3791538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "South Main Street", 
+        "to": "215940261", 
+        "length": "283.1632530039", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215938983", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2587306, 
+            38.3791538
+          ], 
+          [
+            -78.2578905, 
+            38.3786601
+          ], 
+          [
+            -78.2577545, 
+            38.3785816
+          ], 
+          [
+            -78.2577666, 
+            38.378458
+          ], 
+          [
+            -78.2594298, 
+            38.3766667
+          ], 
+          [
+            -78.2595948, 
+            38.3765223
+          ], 
+          [
+            -78.2599907, 
+            38.3767096
+          ], 
+          [
+            -78.2606379, 
+            38.3770933
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Catherine Street East', 'Smith Road']", 
+        "to": "215940261", 
+        "length": "499.12738411897755", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "215938983", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20332805, 20331885]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2587306, 
+            38.3791538
+          ], 
+          [
+            -78.2582462, 
+            38.3796512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "South Main Street", 
+        "to": "215938983", 
+        "length": "69.6032066239002", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215940266", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2587306, 
+            38.3791538
+          ], 
+          [
+            -78.259721, 
+            38.379713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Catherine Street West", 
+        "to": "215938983", 
+        "length": "106.42250361929652", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215948071", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20332227"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.255951, 
+            38.3791807
+          ], 
+          [
+            -78.2562777, 
+            38.3793956
+          ], 
+          [
+            -78.2576451, 
+            38.3802572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Church Street", 
+        "to": "215945753", 
+        "length": "190.1517995398026", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215900890", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20332366"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.255951, 
+            38.3791807
+          ], 
+          [
+            -78.2567717, 
+            38.3785312
+          ], 
+          [
+            -78.2574211, 
+            38.3779296
+          ], 
+          [
+            -78.2578157, 
+            38.3775141
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Autumn Court", 
+        "to": "215961196", 
+        "length": "246.9560617580333", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215900890", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20332837"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2576451, 
+            38.3802572
+          ], 
+          [
+            -78.2579302, 
+            38.3799864
+          ], 
+          [
+            -78.2582462, 
+            38.3796512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "South Main Street", 
+        "to": "215940266", 
+        "length": "85.412291330794", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215945753", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332138"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2582462, 
+            38.3796512
+          ], 
+          [
+            -78.259055, 
+            38.380038
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Court Square", 
+        "to": "215940266", 
+        "length": "82.60791953201071", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215945103", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20332115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2559467, 
+            38.3820726
+          ], 
+          [
+            -78.256017, 
+            38.3820021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "North Main Street", 
+        "to": "215938414", 
+        "length": "9.952772815138825", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215896698", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2559467, 
+            38.3820726
+          ], 
+          [
+            -78.2548296, 
+            38.3832618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "North Main Street", 
+        "to": "215949085", 
+        "length": "164.26130846100259", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215938414", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "20332285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.2607393, 
+            38.3769939
+          ], 
+          [
+            -78.2616504, 
+            38.3774901
+          ], 
+          [
+            -78.2624843, 
+            38.3779187
+          ], 
+          [
+            -78.2626023, 
+            38.377814
+          ], 
+          [
+            -78.2628038, 
+            38.3775751
+          ], 
+          [
+            -78.2628545, 
+            38.3773333
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "215932052", 
+        "length": "258.3282122803337", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215932025", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20331495"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.256017, 
+            38.3820021
+          ], 
+          [
+            -78.257309, 
+            38.3806422
+          ], 
+          [
+            -78.2576451, 
+            38.3802572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "['South Main Street', 'North Main Street']", 
+        "to": "215945753", 
+        "length": "240.48524574912722", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215896698", 
+        "ref": "US 29 Business;VA 231", 
+        "highway": "primary", 
+        "osmid": "[20332138, 20332285]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.255657, 
+            38.3837937
+          ], 
+          [
+            -78.2555328, 
+            38.3836859
+          ], 
+          [
+            -78.2548296, 
+            38.3832618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ruth Road", 
+        "to": "215949085", 
+        "length": "93.5127364750543", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "215958143", 
+        "ref": "SR 652", 
+        "highway": "tertiary", 
+        "osmid": "20332801"
+      }
+    }
+  ]
+}

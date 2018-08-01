@@ -1,0 +1,1873 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4708489, 
+            37.5351683
+          ], 
+          [
+            -77.4714027, 
+            37.535179
+          ], 
+          [
+            -77.4718826, 
+            37.5351882
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616936", 
+        "name": "Nevada Avenue", 
+        "to": "49623980", 
+        "length": "91.1993404177488", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718826, 
+            37.5351882
+          ], 
+          [
+            -77.4721762, 
+            37.5340831
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623980", 
+        "name": "Georgia Avenue", 
+        "to": "49620635", 
+        "length": "125.61435388167439", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718826, 
+            37.5351882
+          ], 
+          [
+            -77.4715853, 
+            37.5363058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614262", 
+        "name": "Georgia Avenue", 
+        "to": "49623980", 
+        "length": "127.0420176111417", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729333, 
+            37.5352085
+          ], 
+          [
+            -77.472415, 
+            37.5351985
+          ], 
+          [
+            -77.4718826, 
+            37.5351882
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49622591", 
+        "name": "Nevada Avenue", 
+        "to": "49623980", 
+        "length": "92.69935582178381", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4681475, 
+            37.53687
+          ], 
+          [
+            -77.4683728, 
+            37.5367403
+          ], 
+          [
+            -77.4684076, 
+            37.5366829
+          ], 
+          [
+            -77.4684291, 
+            37.5366105
+          ], 
+          [
+            -77.4684345, 
+            37.5365404
+          ], 
+          [
+            -77.468421, 
+            37.5364659
+          ], 
+          [
+            -77.4683781, 
+            37.5364255
+          ], 
+          [
+            -77.4682574, 
+            37.5364149
+          ], 
+          [
+            -77.4678578, 
+            37.5364
+          ], 
+          [
+            -77.4677183, 
+            37.5364064
+          ], 
+          [
+            -77.4676727, 
+            37.5364361
+          ], 
+          [
+            -77.4676512, 
+            37.5365063
+          ], 
+          [
+            -77.4676512, 
+            37.5366552
+          ], 
+          [
+            -77.4676566, 
+            37.5368147
+          ], 
+          [
+            -77.4677049, 
+            37.536853
+          ], 
+          [
+            -77.46778, 
+            37.5368615
+          ], 
+          [
+            -77.4681475, 
+            37.53687
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2442123032", 
+        "name": "Sumpter Street", 
+        "to": "2442123032", 
+        "length": "212.97791391104673", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "236149866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4681475, 
+            37.53687
+          ], 
+          [
+            -77.46778, 
+            37.5368615
+          ], 
+          [
+            -77.4677049, 
+            37.536853
+          ], 
+          [
+            -77.4676566, 
+            37.5368147
+          ], 
+          [
+            -77.4676512, 
+            37.5366552
+          ], 
+          [
+            -77.4676512, 
+            37.5365063
+          ], 
+          [
+            -77.4676727, 
+            37.5364361
+          ], 
+          [
+            -77.4677183, 
+            37.5364064
+          ], 
+          [
+            -77.4678578, 
+            37.5364
+          ], 
+          [
+            -77.4682574, 
+            37.5364149
+          ], 
+          [
+            -77.4683781, 
+            37.5364255
+          ], 
+          [
+            -77.468421, 
+            37.5364659
+          ], 
+          [
+            -77.4684345, 
+            37.5365404
+          ], 
+          [
+            -77.4684291, 
+            37.5366105
+          ], 
+          [
+            -77.4684076, 
+            37.5366829
+          ], 
+          [
+            -77.4683728, 
+            37.5367403
+          ], 
+          [
+            -77.4681475, 
+            37.53687
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2442123032", 
+        "name": "Sumpter Street", 
+        "to": "2442123032", 
+        "length": "212.97791391101816", 
+        "key": "1", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "236149866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4696213, 
+            37.5318111
+          ], 
+          [
+            -77.4695107, 
+            37.5317989
+          ], 
+          [
+            -77.4694658, 
+            37.531794
+          ], 
+          [
+            -77.4692995, 
+            37.531726
+          ], 
+          [
+            -77.46926, 
+            37.5316849
+          ], 
+          [
+            -77.4692136, 
+            37.5316366
+          ], 
+          [
+            -77.4690849, 
+            37.531241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612369", 
+        "name": "Kansas Avenue", 
+        "to": "49612367", 
+        "length": "88.29367008576801", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033016"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4693326, 
+            37.5329337
+          ], 
+          [
+            -77.4696043, 
+            37.5318773
+          ], 
+          [
+            -77.4696213, 
+            37.5318111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620769", 
+        "name": "Texas Avenue", 
+        "to": "49612369", 
+        "length": "127.43272706565602", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038990"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4696793, 
+            37.5309598
+          ], 
+          [
+            -77.469831, 
+            37.5310597
+          ], 
+          [
+            -77.4696213, 
+            37.5318111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "900589823", 
+        "name": "Texas Avenue", 
+        "to": "49612369", 
+        "length": "102.99049867806391", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "264670692"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4706507, 
+            37.5318278
+          ], 
+          [
+            -77.4701375, 
+            37.5318196
+          ], 
+          [
+            -77.4696213, 
+            37.5318111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612372", 
+        "name": "Kansas Avenue", 
+        "to": "49612369", 
+        "length": "90.81630690833245", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "264670691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4706507, 
+            37.5318278
+          ], 
+          [
+            -77.4706366, 
+            37.5318853
+          ], 
+          [
+            -77.4703749, 
+            37.5329491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612372", 
+        "name": "Carter Street", 
+        "to": "49620771", 
+        "length": "127.06832310857669", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037281"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4716725, 
+            37.5318444
+          ], 
+          [
+            -77.4711676, 
+            37.5318362
+          ], 
+          [
+            -77.4706507, 
+            37.5318278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612374", 
+        "name": "Kansas Avenue", 
+        "to": "49612372", 
+        "length": "90.14584415095139", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "264670691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4707961, 
+            37.5307305
+          ], 
+          [
+            -77.4706888, 
+            37.5314707
+          ], 
+          [
+            -77.4706507, 
+            37.5318278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624249", 
+        "name": "Carter Street", 
+        "to": "49612372", 
+        "length": "122.73269923954032", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44740530"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4693326, 
+            37.5329337
+          ], 
+          [
+            -77.4687856, 
+            37.5329256
+          ], 
+          [
+            -77.4682553, 
+            37.5329178
+          ], 
+          [
+            -77.4679851, 
+            37.5339803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620769", 
+        "name": "['Southampton Avenue', 'New York Avenue']", 
+        "to": "49620629", 
+        "length": "215.59432839123448", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6039496, 6035941]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679851, 
+            37.5339803
+          ], 
+          [
+            -77.4675466, 
+            37.5357045
+          ], 
+          [
+            -77.4680921, 
+            37.5357139
+          ], 
+          [
+            -77.4686158, 
+            37.5357229
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620629", 
+        "name": "['Dakota Avenue', 'Southampton Avenue']", 
+        "to": "49614252", 
+        "length": "289.9624788393829", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6039496, 6033532]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4690571, 
+            37.5340066
+          ], 
+          [
+            -77.4685204, 
+            37.5339934
+          ], 
+          [
+            -77.4679851, 
+            37.5339803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620631", 
+        "name": "Pennsylvania Avenue", 
+        "to": "49620629", 
+        "length": "94.59728388038545", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4716725, 
+            37.5318444
+          ], 
+          [
+            -77.4727663, 
+            37.5318642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612376", 
+        "name": "Kansas Avenue", 
+        "to": "49612374", 
+        "length": "96.50273659140127", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "264670691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4713951, 
+            37.5329642
+          ], 
+          [
+            -77.4716577, 
+            37.5319041
+          ], 
+          [
+            -77.4716725, 
+            37.5318444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616938", 
+        "name": "Greenville Avenue", 
+        "to": "49612374", 
+        "length": "126.93169975991721", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4716725, 
+            37.5318444
+          ], 
+          [
+            -77.471756, 
+            37.531553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616939", 
+        "name": "Greenville Avenue", 
+        "to": "49612374", 
+        "length": "33.23760511541947", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44740529"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4690571, 
+            37.5340066
+          ], 
+          [
+            -77.4693326, 
+            37.5329337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620769", 
+        "name": "Texas Avenue", 
+        "to": "49620631", 
+        "length": "121.78355227306733", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038990"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4690571, 
+            37.5340066
+          ], 
+          [
+            -77.4686158, 
+            37.5357229
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620631", 
+        "name": "Texas Avenue", 
+        "to": "49614252", 
+        "length": "194.8252879187441", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038990"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701084, 
+            37.5340324
+          ], 
+          [
+            -77.4695904, 
+            37.5340197
+          ], 
+          [
+            -77.4690571, 
+            37.5340066
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620633", 
+        "name": "Pennsylvania Avenue", 
+        "to": "49620631", 
+        "length": "92.77063291702834", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4738117, 
+            37.5318798
+          ], 
+          [
+            -77.4732803, 
+            37.5318705
+          ], 
+          [
+            -77.4727663, 
+            37.5318642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612379", 
+        "name": "Kansas Avenue", 
+        "to": "49612376", 
+        "length": "92.22533416640441", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "264670691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4724695, 
+            37.5329801
+          ], 
+          [
+            -77.4727505, 
+            37.5319236
+          ], 
+          [
+            -77.4727663, 
+            37.5318642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620773", 
+        "name": "Georgia Avenue", 
+        "to": "49612376", 
+        "length": "126.84814313802619", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727663, 
+            37.5318642
+          ], 
+          [
+            -77.4729365, 
+            37.531224
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623983", 
+        "name": "Georgia Avenue", 
+        "to": "49612376", 
+        "length": "72.77235567239657", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711242, 
+            37.5340573
+          ], 
+          [
+            -77.4706113, 
+            37.5340447
+          ], 
+          [
+            -77.4701084, 
+            37.5340324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616937", 
+        "name": "Pennsylvania Avenue", 
+        "to": "49620633", 
+        "length": "89.63785126380043", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701084, 
+            37.5340324
+          ], 
+          [
+            -77.4703749, 
+            37.5329491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620633", 
+        "name": "Carter Street", 
+        "to": "49620771", 
+        "length": "122.76279498315624", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037281"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701084, 
+            37.5340324
+          ], 
+          [
+            -77.4696881, 
+            37.5357413
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614254", 
+        "name": "Carter Street", 
+        "to": "49620633", 
+        "length": "193.65579655245205", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037281"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736336, 
+            37.5363471
+          ], 
+          [
+            -77.4736608, 
+            37.5362461
+          ], 
+          [
+            -77.4736986, 
+            37.536106
+          ], 
+          [
+            -77.4738381, 
+            37.5355881
+          ], 
+          [
+            -77.4739352, 
+            37.5352278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614266", 
+        "name": "Hampton Street", 
+        "to": "49620762", 
+        "length": "127.30574109393945", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44740533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729333, 
+            37.5352085
+          ], 
+          [
+            -77.4734314, 
+            37.5352181
+          ], 
+          [
+            -77.4739352, 
+            37.5352278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49622591", 
+        "name": "Nevada Avenue", 
+        "to": "49620762", 
+        "length": "88.39373507659441", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038419"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4739352, 
+            37.5352278
+          ], 
+          [
+            -77.4742301, 
+            37.5341335
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620639", 
+        "name": "Hampton Street", 
+        "to": "49620762", 
+        "length": "124.46306782579347", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44740533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711242, 
+            37.5340573
+          ], 
+          [
+            -77.4716851, 
+            37.5340711
+          ], 
+          [
+            -77.4721762, 
+            37.5340831
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616937", 
+        "name": "Pennsylvania Avenue", 
+        "to": "49620635", 
+        "length": "92.83228185356025", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4721762, 
+            37.5340831
+          ], 
+          [
+            -77.4727014, 
+            37.534096
+          ], 
+          [
+            -77.4732223, 
+            37.5341088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620635", 
+        "name": "Pennsylvania Avenue", 
+        "to": "49620637", 
+        "length": "92.31176601123465", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4721762, 
+            37.5340831
+          ], 
+          [
+            -77.4724695, 
+            37.5329801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620773", 
+        "name": "Georgia Avenue", 
+        "to": "49620635", 
+        "length": "125.38042212365835", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4732223, 
+            37.5341088
+          ], 
+          [
+            -77.4729333, 
+            37.5352085
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49622591", 
+        "name": "South Meadow Street", 
+        "to": "49620637", 
+        "length": "124.94328959210776", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "264670695"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4742301, 
+            37.5341335
+          ], 
+          [
+            -77.4737222, 
+            37.534121
+          ], 
+          [
+            -77.4732223, 
+            37.5341088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620639", 
+        "name": "Pennsylvania Avenue", 
+        "to": "49620637", 
+        "length": "88.93179870859694", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4732223, 
+            37.5341088
+          ], 
+          [
+            -77.4735161, 
+            37.5329956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620637", 
+        "name": "South Meadow Street", 
+        "to": "49620775", 
+        "length": "126.49976021909073", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "264670695"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4742301, 
+            37.5341335
+          ], 
+          [
+            -77.4745327, 
+            37.5330106
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620763", 
+        "name": "Hampton Street", 
+        "to": "49620639", 
+        "length": "127.71591115915004", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44740533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4693326, 
+            37.5329337
+          ], 
+          [
+            -77.4698584, 
+            37.5329415
+          ], 
+          [
+            -77.4703749, 
+            37.5329491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620769", 
+        "name": "New York Avenue", 
+        "to": "49620771", 
+        "length": "91.94971087917418", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035941"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4745327, 
+            37.5330106
+          ], 
+          [
+            -77.4748219, 
+            37.5319376
+          ], 
+          [
+            -77.4747693, 
+            37.5318947
+          ], 
+          [
+            -77.4743153, 
+            37.5318873
+          ], 
+          [
+            -77.4738117, 
+            37.5318798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620763", 
+        "name": "['Kansas Avenue', 'Hampton Street']", 
+        "to": "49612379", 
+        "length": "213.1771508083114", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[264670690, 264670691, 44740533]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4735161, 
+            37.5329956
+          ], 
+          [
+            -77.4737944, 
+            37.531945
+          ], 
+          [
+            -77.4738117, 
+            37.5318798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620775", 
+        "name": "South Meadow Street", 
+        "to": "49612379", 
+        "length": "126.81545570103236", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "264670695"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4713951, 
+            37.5329642
+          ], 
+          [
+            -77.4708855, 
+            37.5329567
+          ], 
+          [
+            -77.4703749, 
+            37.5329491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616938", 
+        "name": "New York Avenue", 
+        "to": "49620771", 
+        "length": "90.00012803322457", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035941"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4713951, 
+            37.5329642
+          ], 
+          [
+            -77.4719651, 
+            37.5329726
+          ], 
+          [
+            -77.4724695, 
+            37.5329801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616938", 
+        "name": "New York Avenue", 
+        "to": "49620773", 
+        "length": "94.78152580906985", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035941"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4735161, 
+            37.5329956
+          ], 
+          [
+            -77.4729896, 
+            37.5329878
+          ], 
+          [
+            -77.4724695, 
+            37.5329801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620775", 
+        "name": "New York Avenue", 
+        "to": "49620773", 
+        "length": "92.32906657083683", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035941"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471285, 
+            37.5374318
+          ], 
+          [
+            -77.4708284, 
+            37.5374282
+          ], 
+          [
+            -77.4702895, 
+            37.5374238
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623978", 
+        "name": "Colorado Avenue", 
+        "to": "49616934", 
+        "length": "87.80509286475791", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4702895, 
+            37.5374238
+          ], 
+          [
+            -77.4705721, 
+            37.5362854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614260", 
+        "name": "Greenville Avenue", 
+        "to": "49616934", 
+        "length": "129.04984333801906", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4745327, 
+            37.5330106
+          ], 
+          [
+            -77.4740188, 
+            37.533003
+          ], 
+          [
+            -77.4735161, 
+            37.5329956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620763", 
+        "name": "New York Avenue", 
+        "to": "49620775", 
+        "length": "89.68238976506805", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035941"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711242, 
+            37.5340573
+          ], 
+          [
+            -77.4708489, 
+            37.5351683
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616936", 
+        "name": "Greenville Avenue", 
+        "to": "49616937", 
+        "length": "125.93542212372286", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711242, 
+            37.5340573
+          ], 
+          [
+            -77.4713951, 
+            37.5329642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616938", 
+        "name": "Greenville Avenue", 
+        "to": "49616937", 
+        "length": "123.90707186159702", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4696881, 
+            37.5357413
+          ], 
+          [
+            -77.4691655, 
+            37.5357324
+          ], 
+          [
+            -77.4690342, 
+            37.5357301
+          ], 
+          [
+            -77.4686158, 
+            37.5357229
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614254", 
+        "name": "Dakota Avenue", 
+        "to": "49614252", 
+        "length": "94.59844150442188", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033532"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4707026, 
+            37.5357588
+          ], 
+          [
+            -77.4701817, 
+            37.5357498
+          ], 
+          [
+            -77.4696881, 
+            37.5357413
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614256", 
+        "name": "Dakota Avenue", 
+        "to": "49614254", 
+        "length": "89.499516514313", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033532"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4707026, 
+            37.5357588
+          ], 
+          [
+            -77.4708489, 
+            37.5351683
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616936", 
+        "name": "Greenville Avenue", 
+        "to": "49614256", 
+        "length": "66.93465721380754", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4707026, 
+            37.5357588
+          ], 
+          [
+            -77.4705721, 
+            37.5362854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614260", 
+        "name": "Greenville Avenue", 
+        "to": "49614256", 
+        "length": "59.6919528496936", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4715853, 
+            37.5363058
+          ], 
+          [
+            -77.4711178, 
+            37.5362964
+          ], 
+          [
+            -77.4705721, 
+            37.5362854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614262", 
+        "name": "Dakota Avenue", 
+        "to": "49614260", 
+        "length": "89.39183650181917", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033534"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4715853, 
+            37.5363058
+          ], 
+          [
+            -77.471285, 
+            37.5374318
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623978", 
+        "name": "Georgia Avenue", 
+        "to": "49614262", 
+        "length": "128.0107483468942", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4726379, 
+            37.536327
+          ], 
+          [
+            -77.4721238, 
+            37.5363167
+          ], 
+          [
+            -77.4715853, 
+            37.5363058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614263", 
+        "name": "Dakota Avenue", 
+        "to": "49614262", 
+        "length": "92.86798341309948", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033534"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4736336, 
+            37.5363471
+          ], 
+          [
+            -77.4731341, 
+            37.536337
+          ], 
+          [
+            -77.4726379, 
+            37.536327
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614266", 
+        "name": "Dakota Avenue", 
+        "to": "49614263", 
+        "length": "87.8479590949695", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033534"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4726379, 
+            37.536327
+          ], 
+          [
+            -77.4723446, 
+            37.5374403
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49622588", 
+        "name": "South Meadow Street", 
+        "to": "49614263", 
+        "length": "126.50138460806465", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "264670695"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4726379, 
+            37.536327
+          ], 
+          [
+            -77.4729333, 
+            37.5352085
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614263", 
+        "name": "South Meadow Street", 
+        "to": "49622591", 
+        "length": "127.10550975238125", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "264670695"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471285, 
+            37.5374318
+          ], 
+          [
+            -77.4718314, 
+            37.5374362
+          ], 
+          [
+            -77.4723446, 
+            37.5374403
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623978", 
+        "name": "Colorado Avenue", 
+        "to": "49622588", 
+        "length": "93.45881247877288", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }
+  ]
+}

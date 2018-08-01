@@ -1,0 +1,5522 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4592636, 
+            37.5129016
+          ], 
+          [
+            -77.4590525, 
+            37.5120865
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 28th Street", 
+        "to": "49623810", 
+        "length": "92.55382129197594", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623811", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4592636, 
+            37.5129016
+          ], 
+          [
+            -77.4614302, 
+            37.5125367
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49623810", 
+        "length": "195.413217913062", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613436", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4592636, 
+            37.5129016
+          ], 
+          [
+            -77.4583005, 
+            37.5130745
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49623810", 
+        "length": "87.1198706082933", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627734", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590525, 
+            37.5120865
+          ], 
+          [
+            -77.4588808, 
+            37.5115316
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 28th Street", 
+        "to": "49623811", 
+        "length": "63.551347099671254", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615308", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4590525, 
+            37.5120865
+          ], 
+          [
+            -77.4603941, 
+            37.5118799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burfoot Street", 
+        "to": "49623811", 
+        "length": "120.57604208274967", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631767", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040951"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503157, 
+            37.5155936
+          ], 
+          [
+            -77.4510657, 
+            37.5151177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49626889", 
+        "length": "84.734993662626", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626890", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503157, 
+            37.5155936
+          ], 
+          [
+            -77.4495126, 
+            37.5161031
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49626889", 
+        "length": "90.72735449443836", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625149", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503157, 
+            37.5155936
+          ], 
+          [
+            -77.449453, 
+            37.5147326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 21st Street", 
+        "to": "49626889", 
+        "length": "122.32711818031177", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630918", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503157, 
+            37.5155936
+          ], 
+          [
+            -77.4511638, 
+            37.5164401
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 21st Street", 
+        "to": "49626889", 
+        "length": "120.26257141666954", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615285", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4524017, 
+            37.5139628
+          ], 
+          [
+            -77.4521831, 
+            37.5133539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49623562", 
+        "length": "70.41817974930012", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609153", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4524017, 
+            37.5139628
+          ], 
+          [
+            -77.4525164, 
+            37.5142707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49623562", 
+        "length": "35.710357567971336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559611", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4524017, 
+            37.5139628
+          ], 
+          [
+            -77.4521824, 
+            37.5141026
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Dominion Street", 
+        "to": "49623562", 
+        "length": "24.821786303791477", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559619", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4542714, 
+            37.513075
+          ], 
+          [
+            -77.4535446, 
+            37.5135478
+          ], 
+          [
+            -77.4534689, 
+            37.513556
+          ], 
+          [
+            -77.4534207, 
+            37.5135519
+          ], 
+          [
+            -77.4533312, 
+            37.5135095
+          ], 
+          [
+            -77.453252, 
+            37.5134904
+          ], 
+          [
+            -77.4531694, 
+            37.5134973
+          ], 
+          [
+            -77.4531074, 
+            37.5135177
+          ], 
+          [
+            -77.4530506, 
+            37.5135491
+          ], 
+          [
+            -77.4524017, 
+            37.5139628
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Decatur Street', 'Old Dominion Street']", 
+        "to": "49623562", 
+        "length": "203.25426928117608", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626897", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6038476, 6038878]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4514832, 
+            37.5134179
+          ], 
+          [
+            -77.4514169, 
+            37.5130735
+          ], 
+          [
+            -77.4519555, 
+            37.5127316
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fluvanna Street", 
+        "to": "49623563", 
+        "length": "99.61234619755928", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559630", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[267610160, 6040839]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519555, 
+            37.5127316
+          ], 
+          [
+            -77.4527862, 
+            37.5122054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fluvanna Street", 
+        "to": "49623563", 
+        "length": "93.79171913168096", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631705", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040839"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519555, 
+            37.5127316
+          ], 
+          [
+            -77.4520717, 
+            37.5130493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49623563", 
+        "length": "36.79369230294651", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559629", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519555, 
+            37.5127316
+          ], 
+          [
+            -77.4517287, 
+            37.5121154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49623563", 
+        "length": "71.39888608164205", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623566", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4547436, 
+            37.5170874
+          ], 
+          [
+            -77.4561743, 
+            37.5165266
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49617676", 
+        "length": "140.79049708841598", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627609", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551769, 
+            37.5177919
+          ], 
+          [
+            -77.455004, 
+            37.5175108
+          ], 
+          [
+            -77.4547436, 
+            37.5170874
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49617676", 
+        "length": "87.18577599124183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617677", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540605"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4547436, 
+            37.5170874
+          ], 
+          [
+            -77.4535657, 
+            37.5175219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49617676", 
+        "length": "114.60400014007362", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617239", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551769, 
+            37.5177919
+          ], 
+          [
+            -77.4551061, 
+            37.5178761
+          ], 
+          [
+            -77.4549769, 
+            37.5179575
+          ], 
+          [
+            -77.4548973, 
+            37.5180165
+          ], 
+          [
+            -77.4548614, 
+            37.5180915
+          ], 
+          [
+            -77.4548761, 
+            37.5181467
+          ], 
+          [
+            -77.45492, 
+            37.5181816
+          ], 
+          [
+            -77.4550409, 
+            37.5182048
+          ], 
+          [
+            -77.4552058, 
+            37.51817
+          ], 
+          [
+            -77.4552534, 
+            37.5181235
+          ], 
+          [
+            -77.4553194, 
+            37.5179985
+          ], 
+          [
+            -77.4552707, 
+            37.5178747
+          ], 
+          [
+            -77.4551769, 
+            37.5177919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49617677", 
+        "length": "130.67444029475638", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617677", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540605"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551769, 
+            37.5177919
+          ], 
+          [
+            -77.4552707, 
+            37.5178747
+          ], 
+          [
+            -77.4553194, 
+            37.5179985
+          ], 
+          [
+            -77.4552534, 
+            37.5181235
+          ], 
+          [
+            -77.4552058, 
+            37.51817
+          ], 
+          [
+            -77.4550409, 
+            37.5182048
+          ], 
+          [
+            -77.45492, 
+            37.5181816
+          ], 
+          [
+            -77.4548761, 
+            37.5181467
+          ], 
+          [
+            -77.4548614, 
+            37.5180915
+          ], 
+          [
+            -77.4548973, 
+            37.5180165
+          ], 
+          [
+            -77.4549769, 
+            37.5179575
+          ], 
+          [
+            -77.4551061, 
+            37.5178761
+          ], 
+          [
+            -77.4551769, 
+            37.5177919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49617677", 
+        "length": "130.6744402959173", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49617677", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540605"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4517287, 
+            37.5121154
+          ], 
+          [
+            -77.4525651, 
+            37.5116094
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everett Street", 
+        "to": "49623566", 
+        "length": "92.80622621506082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626776", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038421"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4517287, 
+            37.5121154
+          ], 
+          [
+            -77.4514169, 
+            37.5123066
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everett Street", 
+        "to": "49623566", 
+        "length": "34.7709962464112", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626774", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038421"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551261, 
+            37.5139232
+          ], 
+          [
+            -77.4547057, 
+            37.5135061
+          ], 
+          [
+            -77.4542714, 
+            37.513075
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 25th Street", 
+        "to": "49626897", 
+        "length": "120.77492901210735", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615296", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041173"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4542714, 
+            37.513075
+          ], 
+          [
+            -77.455087, 
+            37.5125272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49626897", 
+        "length": "94.2885509534822", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620643", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038476"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4530915, 
+            37.5162446
+          ], 
+          [
+            -77.4527951, 
+            37.5154043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Pilkington Street", 
+        "to": "49611282", 
+        "length": "97.05254927899483", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615290", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034545"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4530915, 
+            37.5162446
+          ], 
+          [
+            -77.4548794, 
+            37.5155108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wise Street", 
+        "to": "49611282", 
+        "length": "177.59906353614554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611283", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4530915, 
+            37.5162446
+          ], 
+          [
+            -77.4535657, 
+            37.5175219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Pilkington Street", 
+        "to": "49611282", 
+        "length": "148.10074973919896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617239", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034545"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548794, 
+            37.5155108
+          ], 
+          [
+            -77.4566561, 
+            37.5147814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wise Street", 
+        "to": "49611283", 
+        "length": "176.4979475449668", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611285", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4548794, 
+            37.5155108
+          ], 
+          [
+            -77.4544406, 
+            37.5143567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49611283", 
+        "length": "134.07670041381908", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615294", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4595965, 
+            37.5110936
+          ], 
+          [
+            -77.4591553, 
+            37.510665
+          ], 
+          [
+            -77.4587233, 
+            37.5102458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tynick Street", 
+        "to": "49626900", 
+        "length": "121.76805566583657", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615310", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4587233, 
+            37.5102458
+          ], 
+          [
+            -77.4576034, 
+            37.5109655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49626900", 
+        "length": "127.16494220528385", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623807", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038476"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569217, 
+            37.5153541
+          ], 
+          [
+            -77.4568639, 
+            37.5152295
+          ], 
+          [
+            -77.4566561, 
+            37.5147814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Clopton Street", 
+        "to": "49611285", 
+        "length": "67.87244760230803", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631073", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4566561, 
+            37.5147814
+          ], 
+          [
+            -77.455962, 
+            37.5133972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Clopton Street", 
+        "to": "49611285", 
+        "length": "165.6908690590625", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615298", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4566561, 
+            37.5147814
+          ], 
+          [
+            -77.4581365, 
+            37.5142204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wise Street", 
+        "to": "49611285", 
+        "length": "144.7475913980411", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611287", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572469, 
+            37.5180244
+          ], 
+          [
+            -77.4576413, 
+            37.5178718
+          ], 
+          [
+            -77.4583445, 
+            37.5175638
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hargrove Street", 
+        "to": "49629974", 
+        "length": "109.58051987869536", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629972", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583445, 
+            37.5175638
+          ], 
+          [
+            -77.4588086, 
+            37.517832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "49629974", 
+        "length": "50.6580024360678", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624419", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583445, 
+            37.5175638
+          ], 
+          [
+            -77.4578183, 
+            37.5168192
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Clopton Street", 
+        "to": "49629974", 
+        "length": "94.94213911266324", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583445, 
+            37.5175638
+          ], 
+          [
+            -77.4586082, 
+            37.5174739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hargrove Street", 
+        "to": "49629974", 
+        "length": "25.321788705193335", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4603941, 
+            37.5118799
+          ], 
+          [
+            -77.4602556, 
+            37.5117456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tynick Street", 
+        "to": "49631767", 
+        "length": "19.299008723307058", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631768", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4603941, 
+            37.5118799
+          ], 
+          [
+            -77.4612252, 
+            37.5117621
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Burfoot Street", 
+        "to": "49631767", 
+        "length": "74.48750685835512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614943", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040951"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4602556, 
+            37.5117456
+          ], 
+          [
+            -77.4610731, 
+            37.511233
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49631768", 
+        "length": "91.93962696061944", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614930", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4602556, 
+            37.5117456
+          ], 
+          [
+            -77.4595965, 
+            37.5110936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tynick Street", 
+        "to": "49631768", 
+        "length": "92.95507106738151", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615310", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4501375, 
+            37.5205493
+          ], 
+          [
+            -77.4498432, 
+            37.5200842
+          ], 
+          [
+            -77.4496858, 
+            37.5198303
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "49620824", 
+        "length": "89.35017693910551", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620826", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6035964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4506008, 
+            37.5213064
+          ], 
+          [
+            -77.4504741, 
+            37.5211019
+          ], 
+          [
+            -77.4501375, 
+            37.5205493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "49620826", 
+        "length": "93.6041282992773", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620828", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6035964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4501375, 
+            37.5205493
+          ], 
+          [
+            -77.4514983, 
+            37.5200093
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wall Street", 
+        "to": "49620826", 
+        "length": "134.23367267018145", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624438", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037366"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4544775, 
+            37.5217769
+          ], 
+          [
+            -77.4554176, 
+            37.5214019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49612062", 
+        "length": "92.83014749682891", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630321", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4544775, 
+            37.5217769
+          ], 
+          [
+            -77.45394, 
+            37.5219865
+          ], 
+          [
+            -77.4537045, 
+            37.5220871
+          ], 
+          [
+            -77.4535255, 
+            37.5221736
+          ], 
+          [
+            -77.4533314, 
+            37.5222713
+          ], 
+          [
+            -77.4518436, 
+            37.5230444
+          ], 
+          [
+            -77.4517213, 
+            37.5231079
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49620831", 
+        "length": "285.005789524695", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612062", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521008, 
+            37.5158398
+          ], 
+          [
+            -77.4528439, 
+            37.5177971
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 21st Street", 
+        "to": "49612070", 
+        "length": "227.35977408302747", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612072", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032916"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521008, 
+            37.5158398
+          ], 
+          [
+            -77.4527951, 
+            37.5154043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49612070", 
+        "length": "78.09174015947633", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615290", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4511638, 
+            37.5164401
+          ], 
+          [
+            -77.4517849, 
+            37.5160429
+          ], 
+          [
+            -77.4521008, 
+            37.5158398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49612070", 
+        "length": "106.2618065268694", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615285", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528439, 
+            37.5177971
+          ], 
+          [
+            -77.4526107, 
+            37.5178688
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49612072", 
+        "length": "22.064676137237477", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612075", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528439, 
+            37.5177971
+          ], 
+          [
+            -77.4535657, 
+            37.5175219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49612072", 
+        "length": "70.65268982074983", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617239", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576502, 
+            37.5205286
+          ], 
+          [
+            -77.4573728, 
+            37.5200766
+          ], 
+          [
+            -77.4570969, 
+            37.5196271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49617657", 
+        "length": "111.51987259443229", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617658", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576502, 
+            37.5205286
+          ], 
+          [
+            -77.4587932, 
+            37.5200804
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49617658", 
+        "length": "112.48309794684728", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630546", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576502, 
+            37.5205286
+          ], 
+          [
+            -77.4562669, 
+            37.5210697
+          ], 
+          [
+            -77.4554176, 
+            37.5214019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Semmes Avenue", 
+        "to": "49630321", 
+        "length": "219.60312182567117", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617658", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "51463424"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4526107, 
+            37.5178688
+          ], 
+          [
+            -77.4531826, 
+            37.5187447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 21st Street", 
+        "to": "49612075", 
+        "length": "109.71220403577168", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612076", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516603, 
+            37.5182258
+          ], 
+          [
+            -77.452103, 
+            37.5180552
+          ], 
+          [
+            -77.4526107, 
+            37.5178688
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49612075", 
+        "length": "92.77600767221412", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627604", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4531826, 
+            37.5187447
+          ], 
+          [
+            -77.452405, 
+            37.519046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49612076", 
+        "length": "76.34764356542202", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627558", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038772"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4531826, 
+            37.5187447
+          ], 
+          [
+            -77.4534123, 
+            37.5190973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 21st Street", 
+        "to": "49612076", 
+        "length": "44.14419866895435", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612078", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032918"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4531826, 
+            37.5187447
+          ], 
+          [
+            -77.4540558, 
+            37.5184064
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49612076", 
+        "length": "85.73222489283805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627559", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038772"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576261, 
+            37.5123395
+          ], 
+          [
+            -77.4572043, 
+            37.5119146
+          ], 
+          [
+            -77.4567841, 
+            37.5114917
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 27th Street", 
+        "to": "49626899", 
+        "length": "120.04457423359166", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615302", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039308"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567841, 
+            37.5114917
+          ], 
+          [
+            -77.4559386, 
+            37.5120155
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49626899", 
+        "length": "94.65157777096738", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622982", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038476"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567841, 
+            37.5114917
+          ], 
+          [
+            -77.4576034, 
+            37.5109655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49626899", 
+        "length": "93.00883359323633", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623807", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038476"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4517213, 
+            37.5231079
+          ], 
+          [
+            -77.45106, 
+            37.522047
+          ], 
+          [
+            -77.4506008, 
+            37.5213064
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "49620828", 
+        "length": "223.4284060016375", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620831", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6035964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.448668, 
+            37.5152735
+          ], 
+          [
+            -77.4483786, 
+            37.5154662
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49625151", 
+        "length": "33.33562763128538", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238435210", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.448668, 
+            37.5152735
+          ], 
+          [
+            -77.4495126, 
+            37.5161031
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 20th Street", 
+        "to": "49625151", 
+        "length": "118.60267048732668", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625149", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.448668, 
+            37.5152735
+          ], 
+          [
+            -77.449453, 
+            37.5147326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49625151", 
+        "length": "91.73805201899067", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630918", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540558, 
+            37.5184064
+          ], 
+          [
+            -77.4545053, 
+            37.5182344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49627560", 
+        "length": "44.028452225154645", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627559", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038772"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540558, 
+            37.5184064
+          ], 
+          [
+            -77.4546592, 
+            37.5193642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 22nd Street", 
+        "to": "49624411", 
+        "length": "119.09146382569752", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627559", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540558, 
+            37.5184064
+          ], 
+          [
+            -77.4535657, 
+            37.5175219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 22nd Street", 
+        "to": "49617239", 
+        "length": "107.46151089535519", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627559", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569217, 
+            37.5153541
+          ], 
+          [
+            -77.4572662, 
+            37.5160577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Clopton Street", 
+        "to": "49631073", 
+        "length": "83.95335448464553", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627610", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4569217, 
+            37.5153541
+          ], 
+          [
+            -77.4583929, 
+            37.5147445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woolfolk Street", 
+        "to": "49631073", 
+        "length": "146.43795012736706", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619173", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040434"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521175, 
+            37.5148826
+          ], 
+          [
+            -77.452628, 
+            37.5145707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Short Decatur Street", 
+        "to": "49617487", 
+        "length": "56.850379503686156", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617488", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034640"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452628, 
+            37.5145707
+          ], 
+          [
+            -77.4531041, 
+            37.5142799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Short Decatur Street", 
+        "to": "49617488", 
+        "length": "53.01404697517465", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617489", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034640"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452628, 
+            37.5145707
+          ], 
+          [
+            -77.4525164, 
+            37.5142707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49617488", 
+        "length": "34.79017707604075", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559611", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452628, 
+            37.5145707
+          ], 
+          [
+            -77.4528858, 
+            37.5153301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49617488", 
+        "length": "87.4738242004052", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615291", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036948"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610731, 
+            37.511233
+          ], 
+          [
+            -77.4618944, 
+            37.5107057
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49614930", 
+        "length": "93.22316113259009", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631064", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4610731, 
+            37.511233
+          ], 
+          [
+            -77.4612252, 
+            37.5117621
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 29th Street", 
+        "to": "49614930", 
+        "length": "60.36044470482731", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614943", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612252, 
+            37.5117621
+          ], 
+          [
+            -77.4614889, 
+            37.5116744
+          ], 
+          [
+            -77.4610731, 
+            37.511233
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['East 29th Street', 'Burfoot Street']", 
+        "to": "49614930", 
+        "length": "86.515309536205", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49614943", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033779, 6040951]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583005, 
+            37.5130745
+          ], 
+          [
+            -77.458023, 
+            37.5120922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 27th Street", 
+        "to": "49627734", 
+        "length": "111.96708097741245", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615305", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039306"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583005, 
+            37.5130745
+          ], 
+          [
+            -77.4576424, 
+            37.5131826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627734", 
+        "length": "59.29353147868845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619171", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4496858, 
+            37.5198303
+          ], 
+          [
+            -77.4492356, 
+            37.5191043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "49620823", 
+        "length": "89.9887237239588", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620824", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6035964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4496858, 
+            37.5198303
+          ], 
+          [
+            -77.4510694, 
+            37.5193079
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49620824", 
+        "length": "135.1835876271746", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627551", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4618944, 
+            37.5107057
+          ], 
+          [
+            -77.4621012, 
+            37.5109355
+          ], 
+          [
+            -77.4623385, 
+            37.5111356
+          ], 
+          [
+            -77.4623896, 
+            37.5112149
+          ], 
+          [
+            -77.462396, 
+            37.5112982
+          ], 
+          [
+            -77.4623785, 
+            37.5113774
+          ], 
+          [
+            -77.4623685, 
+            37.5115578
+          ], 
+          [
+            -77.4624235, 
+            37.51175
+          ], 
+          [
+            -77.4624556, 
+            37.5118609
+          ], 
+          [
+            -77.4625159, 
+            37.5120691
+          ], 
+          [
+            -77.4625887, 
+            37.5123541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 30th Street", 
+        "to": "49627737", 
+        "length": "200.85804731256223", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631064", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4625887, 
+            37.5123541
+          ], 
+          [
+            -77.4614302, 
+            37.5125367
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627737", 
+        "length": "104.20930705339012", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613436", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4625887, 
+            37.5123541
+          ], 
+          [
+            -77.4635407, 
+            37.5121768
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627737", 
+        "length": "86.27632448665317", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617319", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4536614, 
+            37.519764
+          ], 
+          [
+            -77.4546592, 
+            37.5193642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49624410", 
+        "length": "98.6191720448197", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4565112, 
+            37.5186871
+          ], 
+          [
+            -77.4561845, 
+            37.5188065
+          ], 
+          [
+            -77.4546592, 
+            37.5193642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49624411", 
+        "length": "179.90407340390703", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617655", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4546592, 
+            37.5193642
+          ], 
+          [
+            -77.4552491, 
+            37.5203534
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 22nd Street", 
+        "to": "49624411", 
+        "length": "121.71137578795496", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623781", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4514983, 
+            37.5200093
+          ], 
+          [
+            -77.4519673, 
+            37.5207778
+          ], 
+          [
+            -77.4506008, 
+            37.5213064
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['West 19th Street', 'Perry Street']", 
+        "to": "49620828", 
+        "length": "229.08597286093664", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624438", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037360, 6041049]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4575374, 
+            37.5183209
+          ], 
+          [
+            -77.4576896, 
+            37.5182654
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49624413", 
+        "length": "14.778146766950169", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624416", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4575374, 
+            37.5183209
+          ], 
+          [
+            -77.4572469, 
+            37.5180244
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49624413", 
+        "length": "41.765780331080336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629972", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040808"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4575374, 
+            37.5183209
+          ], 
+          [
+            -77.4565112, 
+            37.5186871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49624413", 
+        "length": "99.27194294916139", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617655", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4614302, 
+            37.5125367
+          ], 
+          [
+            -77.4613026, 
+            37.5120547
+          ], 
+          [
+            -77.4612252, 
+            37.5117621
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 29th Street", 
+        "to": "49614943", 
+        "length": "88.03384138364622", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613436", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576896, 
+            37.5182654
+          ], 
+          [
+            -77.4588086, 
+            37.517832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perry Street", 
+        "to": "49624416", 
+        "length": "109.85959649609718", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624419", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576896, 
+            37.5182654
+          ], 
+          [
+            -77.4582318, 
+            37.519181
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49624416", 
+        "length": "112.51265010058619", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623783", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4617353, 
+            37.51344
+          ], 
+          [
+            -77.4611766, 
+            37.5135377
+          ], 
+          [
+            -77.4603793, 
+            37.5136772
+          ], 
+          [
+            -77.4607055, 
+            37.5147485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Barry Street', 'West 28th Street']", 
+        "to": "49622625", 
+        "length": "245.09142186102952", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613437", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035091, 6036557]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4587615, 
+            37.5154676
+          ], 
+          [
+            -77.4600238, 
+            37.5150006
+          ], 
+          [
+            -77.4607055, 
+            37.5147485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49622625", 
+        "length": "189.24049584666136", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619175", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "266863487"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4588086, 
+            37.517832
+          ], 
+          [
+            -77.4593655, 
+            37.5187206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 26th Street", 
+        "to": "49624419", 
+        "length": "110.37310120720576", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623785", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4588086, 
+            37.517832
+          ], 
+          [
+            -77.4586082, 
+            37.5174739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 26th Street", 
+        "to": "49624419", 
+        "length": "43.577538999443135", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495667, 
+            37.517455
+          ], 
+          [
+            -77.4503793, 
+            37.5169402
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49611620", 
+        "length": "91.74908753633095", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615281", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "432532599"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4506658, 
+            37.5186138
+          ], 
+          [
+            -77.4506442, 
+            37.5185218
+          ], 
+          [
+            -77.4495667, 
+            37.517455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 19th Street", 
+        "to": "49611620", 
+        "length": "162.44564214342287", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627603", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495667, 
+            37.517455
+          ], 
+          [
+            -77.4487175, 
+            37.5166075
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 19th Street", 
+        "to": "49611620", 
+        "length": "120.40939340778007", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032766"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495667, 
+            37.517455
+          ], 
+          [
+            -77.4486833, 
+            37.5180219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49611620", 
+        "length": "100.24754047407194", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612182", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "432532599"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4487175, 
+            37.5166075
+          ], 
+          [
+            -77.4495126, 
+            37.5161031
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49611621", 
+        "length": "89.82149725483792", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625149", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4582318, 
+            37.519181
+          ], 
+          [
+            -77.4593655, 
+            37.5187206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49623783", 
+        "length": "112.36176600149534", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623785", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4587932, 
+            37.5200804
+          ], 
+          [
+            -77.4585123, 
+            37.5196303
+          ], 
+          [
+            -77.4582318, 
+            37.519181
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49623783", 
+        "length": "111.62523269785702", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630546", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4582318, 
+            37.519181
+          ], 
+          [
+            -77.4570969, 
+            37.5196271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "49623783", 
+        "length": "111.74015956042106", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617657", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4502492, 
+            37.5142266
+          ], 
+          [
+            -77.4509008, 
+            37.5138126
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49631163", 
+        "length": "73.65596702136935", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631681", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4502492, 
+            37.5142266
+          ], 
+          [
+            -77.4494219, 
+            37.5134026
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 22nd Street", 
+        "to": "49626786", 
+        "length": "117.1630356144986", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631163", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040497"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4502492, 
+            37.5142266
+          ], 
+          [
+            -77.449453, 
+            37.5147326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stockton Street", 
+        "to": "49631163", 
+        "length": "90.00985076801577", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630918", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495126, 
+            37.5161031
+          ], 
+          [
+            -77.4503793, 
+            37.5169402
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 20th Street", 
+        "to": "49625149", 
+        "length": "120.48016586497815", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492356, 
+            37.5191043
+          ], 
+          [
+            -77.4506658, 
+            37.5186138
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49620823", 
+        "length": "137.46140745376744", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627603", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492356, 
+            37.5191043
+          ], 
+          [
+            -77.4488895, 
+            37.5185151
+          ], 
+          [
+            -77.4487527, 
+            37.518262
+          ], 
+          [
+            -77.4486833, 
+            37.5180219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "40 mph", 
+        "lanes": "3", 
+        "name": "Cowardin Avenue", 
+        "to": "49612182", 
+        "length": "130.32560216507753", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620823", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6035964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634643, 
+            37.50966
+          ], 
+          [
+            -77.4634726, 
+            37.5100053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49623667", 
+        "length": "38.41340693658715", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623520", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6036994"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634643, 
+            37.50966
+          ], 
+          [
+            -77.4627295, 
+            37.5101679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49623667", 
+        "length": "85.9909093085075", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609211", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634643, 
+            37.50966
+          ], 
+          [
+            -77.4634622, 
+            37.5095711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49623667", 
+        "length": "9.889749887200384", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623668", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6036994"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4514983, 
+            37.5200093
+          ], 
+          [
+            -77.4510694, 
+            37.5193079
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 19th Street", 
+        "to": "49624438", 
+        "length": "86.70542477916516", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627551", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4514983, 
+            37.5200093
+          ], 
+          [
+            -77.4522304, 
+            37.519749
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wall Street", 
+        "to": "49624438", 
+        "length": "70.77708041323194", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037366"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567057, 
+            37.5172846
+          ], 
+          [
+            -77.4571406, 
+            37.5178791
+          ], 
+          [
+            -77.4572469, 
+            37.5180244
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49629972", 
+        "length": "95.13384519084389", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627546", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040808"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4525164, 
+            37.5142707
+          ], 
+          [
+            -77.4521022, 
+            37.5145553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Short Decatur Street", 
+        "to": "2730559611", 
+        "length": "48.34671532838048", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559612", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610159"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4617353, 
+            37.51344
+          ], 
+          [
+            -77.4615889, 
+            37.5130066
+          ], 
+          [
+            -77.4614302, 
+            37.5125367
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613436", 
+        "length": "104.01407742337445", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613437", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033318"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4617353, 
+            37.51344
+          ], 
+          [
+            -77.4619827, 
+            37.514276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 29th Street", 
+        "to": "49613437", 
+        "length": "95.51258420260602", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613439", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033318"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4619827, 
+            37.514276
+          ], 
+          [
+            -77.4622525, 
+            37.514174
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49613439", 
+        "length": "26.3684929324557", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627611", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "266863489"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4515463, 
+            37.5137457
+          ], 
+          [
+            -77.4521831, 
+            37.5133539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cersley Street", 
+        "to": "49609153", 
+        "length": "71.10212874580805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4515463, 
+            37.5137457
+          ], 
+          [
+            -77.451562, 
+            37.5139294
+          ], 
+          [
+            -77.4515903, 
+            37.5139743
+          ], 
+          [
+            -77.4516329, 
+            37.5140036
+          ], 
+          [
+            -77.4516839, 
+            37.5140081
+          ], 
+          [
+            -77.4517349, 
+            37.5139923
+          ], 
+          [
+            -77.4519532, 
+            37.5138754
+          ], 
+          [
+            -77.4520043, 
+            37.5138754
+          ], 
+          [
+            -77.4520638, 
+            37.5138956
+          ], 
+          [
+            -77.4520978, 
+            37.5139249
+          ], 
+          [
+            -77.4521824, 
+            37.5141026
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2730559619", 
+        "length": "99.40744871797426", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610160"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4515463, 
+            37.5137457
+          ], 
+          [
+            -77.4514832, 
+            37.5134179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2730559630", 
+        "length": "36.88253091888808", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610160"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4561743, 
+            37.5165266
+          ], 
+          [
+            -77.4567057, 
+            37.5172846
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 25th Street", 
+        "to": "49627546", 
+        "length": "96.46721313816549", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627609", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040808"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572662, 
+            37.5160577
+          ], 
+          [
+            -77.4562827, 
+            37.51648
+          ], 
+          [
+            -77.4561743, 
+            37.5165266
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49627609", 
+        "length": "109.54236105653283", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627610", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521824, 
+            37.5141026
+          ], 
+          [
+            -77.4516496, 
+            37.514442
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Dominion Street", 
+        "to": "2730559619", 
+        "length": "60.28814034065694", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627730", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4526075, 
+            37.5100654
+          ], 
+          [
+            -77.455087, 
+            37.5125272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Clopton Street", 
+        "to": "49619848", 
+        "length": "350.4747585334461", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620643", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035899"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4483786, 
+            37.5154662
+          ], 
+          [
+            -77.4482157, 
+            37.5141833
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "to": "1238435245", 
+        "length": "143.4140849241433", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238435210", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4581365, 
+            37.5142204
+          ], 
+          [
+            -77.4576424, 
+            37.5131826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "49611287", 
+        "length": "123.38763293301086", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619171", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583929, 
+            37.5147445
+          ], 
+          [
+            -77.4583082, 
+            37.5145584
+          ], 
+          [
+            -77.4581365, 
+            37.5142204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "49611287", 
+        "length": "62.53836544470977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619173", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4552491, 
+            37.5203534
+          ], 
+          [
+            -77.4558019, 
+            37.5201361
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "2145384925", 
+        "length": "54.42759720955622", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623781", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4552491, 
+            37.5203534
+          ], 
+          [
+            -77.4556561, 
+            37.5208429
+          ], 
+          [
+            -77.4558168, 
+            37.5209982
+          ], 
+          [
+            -77.4558972, 
+            37.5209903
+          ], 
+          [
+            -77.4562738, 
+            37.5208489
+          ], 
+          [
+            -77.4562989, 
+            37.5207991
+          ], 
+          [
+            -77.4563014, 
+            37.5207692
+          ], 
+          [
+            -77.4558019, 
+            37.5201361
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2145384925", 
+        "length": "223.83446060477385", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49623781", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204540606"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4520717, 
+            37.5130493
+          ], 
+          [
+            -77.4521831, 
+            37.5133539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Pilkington Street", 
+        "to": "49609153", 
+        "length": "35.27632261399342", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559629", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610157"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4520717, 
+            37.5130493
+          ], 
+          [
+            -77.4514832, 
+            37.5134179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2730559629", 
+        "length": "66.15611110765626", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730559630", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267610161"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593283, 
+            37.5171838
+          ], 
+          [
+            -77.4586082, 
+            37.5174739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hargrove Street", 
+        "to": "49629976", 
+        "length": "71.25281426995119", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567057, 
+            37.5172846
+          ], 
+          [
+            -77.4578183, 
+            37.5168192
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49627546", 
+        "length": "110.96868834806341", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038765"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4578183, 
+            37.5168192
+          ], 
+          [
+            -77.4572662, 
+            37.5160577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Clopton Street", 
+        "to": "49627548", 
+        "length": "97.70521370617301", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627610", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4578183, 
+            37.5168192
+          ], 
+          [
+            -77.4585064, 
+            37.5165466
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49627548", 
+        "length": "67.85634962208007", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627549", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038765"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4510694, 
+            37.5193079
+          ], 
+          [
+            -77.4521078, 
+            37.5189157
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "49627551", 
+        "length": "101.46307912210496", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627553", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4510694, 
+            37.5193079
+          ], 
+          [
+            -77.4506658, 
+            37.5186138
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 19th Street", 
+        "to": "49627551", 
+        "length": "85.01711199153857", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627603", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486327, 
+            37.5139138
+          ], 
+          [
+            -77.4494219, 
+            37.5134026
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everett Street", 
+        "to": "49626784", 
+        "length": "89.89402907888127", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626786", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424981718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486327, 
+            37.5139138
+          ], 
+          [
+            -77.4482157, 
+            37.5141833
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everett Street", 
+        "to": "49626784", 
+        "length": "47.45549436051648", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238435245", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424981718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486327, 
+            37.5139138
+          ], 
+          [
+            -77.449453, 
+            37.5147326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 21st Street", 
+        "to": "49626784", 
+        "length": "116.325628856297", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630918", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4494219, 
+            37.5134026
+          ], 
+          [
+            -77.4508976, 
+            37.512458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everett Street", 
+        "to": "49626786", 
+        "length": "167.3004666023837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626788", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424981718"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.455962, 
+            37.5133972
+          ], 
+          [
+            -77.4555424, 
+            37.5129801
+          ], 
+          [
+            -77.455087, 
+            37.5125272
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Clopton Street", 
+        "to": "49620643", 
+        "length": "123.7875948886641", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615298", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035899"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.455087, 
+            37.5125272
+          ], 
+          [
+            -77.4559386, 
+            37.5120155
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Decatur Street", 
+        "to": "49620643", 
+        "length": "94.25720246625164", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622982", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038476"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4635407, 
+            37.5121768
+          ], 
+          [
+            -77.463519, 
+            37.5116927
+          ], 
+          [
+            -77.4635053, 
+            37.5113854
+          ], 
+          [
+            -77.4634885, 
+            37.5110106
+          ], 
+          [
+            -77.4634853, 
+            37.5109387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49609210", 
+        "length": "137.7959441115732", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617319", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6036994"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503793, 
+            37.5169402
+          ], 
+          [
+            -77.4516603, 
+            37.5182258
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 20th Street", 
+        "to": "49627604", 
+        "length": "182.2589876227765", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038899"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503793, 
+            37.5169402
+          ], 
+          [
+            -77.4511638, 
+            37.5164401
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615281", 
+        "length": "88.79246943810973", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615285", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4527951, 
+            37.5154043
+          ], 
+          [
+            -77.4528858, 
+            37.5153301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615291", 
+        "length": "11.495296583597186", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615290", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528858, 
+            37.5153301
+          ], 
+          [
+            -77.4544406, 
+            37.5143567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615291", 
+        "length": "174.75053859225105", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615294", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4544406, 
+            37.5143567
+          ], 
+          [
+            -77.4551261, 
+            37.5139232
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615296", 
+        "length": "77.34634220757138", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615294", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4551261, 
+            37.5139232
+          ], 
+          [
+            -77.455962, 
+            37.5133972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615296", 
+        "length": "94.13590240132548", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615298", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521831, 
+            37.5133539
+          ], 
+          [
+            -77.4530386, 
+            37.5128146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cersley Street", 
+        "to": "49609153", 
+        "length": "96.41048176817603", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609154", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567699, 
+            37.5128786
+          ], 
+          [
+            -77.455962, 
+            37.5133972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615300", 
+        "length": "91.69378741662581", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615298", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567699, 
+            37.5128786
+          ], 
+          [
+            -77.4576261, 
+            37.5123395
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615300", 
+        "length": "96.44538339543752", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615302", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4567699, 
+            37.5128786
+          ], 
+          [
+            -77.4563636, 
+            37.5124637
+          ], 
+          [
+            -77.4559386, 
+            37.5120155
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Evans Street", 
+        "to": "49622982", 
+        "length": "120.81379273728672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576261, 
+            37.5123395
+          ], 
+          [
+            -77.458023, 
+            37.5120922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615302", 
+        "length": "44.52878680076878", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615305", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.458023, 
+            37.5120922
+          ], 
+          [
+            -77.4584455, 
+            37.511811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615305", 
+        "length": "48.659548762363855", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615306", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4584455, 
+            37.511811
+          ], 
+          [
+            -77.4588808, 
+            37.5115316
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615306", 
+        "length": "49.40392109650773", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615308", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576034, 
+            37.5109655
+          ], 
+          [
+            -77.4580248, 
+            37.511389
+          ], 
+          [
+            -77.4584455, 
+            37.511811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East 28th Street", 
+        "to": "49615306", 
+        "length": "119.84953024276152", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623807", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037056"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4588808, 
+            37.5115316
+          ], 
+          [
+            -77.4595965, 
+            37.5110936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Hull Street", 
+        "to": "49615308", 
+        "length": "79.75368765778853", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615310", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51323167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4618944, 
+            37.5107057
+          ], 
+          [
+            -77.4627295, 
+            37.5101679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lawson Street", 
+        "to": "49631064", 
+        "length": "94.90482808033128", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609211", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041145"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4506658, 
+            37.5186138
+          ], 
+          [
+            -77.4516603, 
+            37.5182258
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49627603", 
+        "length": "97.77426236749183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627604", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576424, 
+            37.5131826
+          ], 
+          [
+            -77.4561074, 
+            37.5134443
+          ], 
+          [
+            -77.455962, 
+            37.5133972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49615298", 
+        "length": "152.37623942095234", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619171", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572662, 
+            37.5160577
+          ], 
+          [
+            -77.4587615, 
+            37.5154676
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bainbridge Street", 
+        "to": "49619175", 
+        "length": "147.34580180936453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627610", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "44660437"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4558019, 
+            37.5201361
+          ], 
+          [
+            -77.4570969, 
+            37.5196271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "McDonough Street", 
+        "to": "2145384925", 
+        "length": "127.50111442991945", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617657", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634726, 
+            37.5100053
+          ], 
+          [
+            -77.4634853, 
+            37.5109387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Broad Rock Road", 
+        "to": "49609210", 
+        "length": "103.8246333641235", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623520", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6036994"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4583929, 
+            37.5147445
+          ], 
+          [
+            -77.4584993, 
+            37.5149395
+          ], 
+          [
+            -77.4587615, 
+            37.5154676
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 27th Street", 
+        "to": "49619175", 
+        "length": "86.76275460000879", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619173", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4565112, 
+            37.5186871
+          ], 
+          [
+            -77.4570969, 
+            37.5196271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West 24th Street", 
+        "to": "49617655", 
+        "length": "116.62350896703872", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617657", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034723"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634853, 
+            37.5109387
+          ], 
+          [
+            -77.4627295, 
+            37.5101679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Playn Street", 
+        "to": "49609210", 
+        "length": "108.61350029091831", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609211", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031860"
+      }
+    }
+  ]
+}

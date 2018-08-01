@@ -1,0 +1,3244 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4129416, 
+            37.556946
+          ], 
+          [
+            -77.4127866, 
+            37.5567035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Magnolia Street", 
+        "to": "49614576", 
+        "length": "30.23734225494058", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614577", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033633"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.415886, 
+            37.5514819
+          ], 
+          [
+            -77.4159935, 
+            37.5510804
+          ], 
+          [
+            -77.4161896, 
+            37.5503486
+          ], 
+          [
+            -77.4163099, 
+            37.5498994
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bryan Street", 
+        "to": "3696368643", 
+        "length": "179.94098288566568", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609251", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031875"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417628, 
+            37.549973
+          ], 
+          [
+            -77.417115, 
+            37.5500202
+          ], 
+          [
+            -77.4163099, 
+            37.5498994
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ford Avenue", 
+        "to": "3696368643", 
+        "length": "117.79735741731054", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618390", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4163099, 
+            37.5498994
+          ], 
+          [
+            -77.4151675, 
+            37.5496897
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ford Avenue", 
+        "to": "3696368643", 
+        "length": "103.40492880759525", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618391", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.411053, 
+            37.5545522
+          ], 
+          [
+            -77.410506, 
+            37.5554151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "450656534", 
+        "length": "107.41508142864201", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450656504", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51334746"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4122043, 
+            37.5568423
+          ], 
+          [
+            -77.4121024, 
+            37.5566935
+          ], 
+          [
+            -77.4120058, 
+            37.5565744
+          ], 
+          [
+            -77.4119307, 
+            37.5564298
+          ], 
+          [
+            -77.4119025, 
+            37.5562354
+          ], 
+          [
+            -77.4119283, 
+            37.5559428
+          ], 
+          [
+            -77.4119455, 
+            37.555623
+          ], 
+          [
+            -77.4119455, 
+            37.5554256
+          ], 
+          [
+            -77.4119128, 
+            37.5553034
+          ], 
+          [
+            -77.4118661, 
+            37.5552019
+          ], 
+          [
+            -77.4118173, 
+            37.5551197
+          ], 
+          [
+            -77.4117522, 
+            37.5550553
+          ], 
+          [
+            -77.4116669, 
+            37.5549699
+          ], 
+          [
+            -77.4115673, 
+            37.5549119
+          ], 
+          [
+            -77.4113983, 
+            37.5548364
+          ], 
+          [
+            -77.4111675, 
+            37.5547422
+          ], 
+          [
+            -77.411113, 
+            37.5547109
+          ], 
+          [
+            -77.4110786, 
+            37.5546747
+          ], 
+          [
+            -77.4110599, 
+            37.5546341
+          ], 
+          [
+            -77.411053, 
+            37.5545522
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "to": "450656534", 
+        "length": "297.0381393597354", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1105731609", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38236293"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.411053, 
+            37.5545522
+          ], 
+          [
+            -77.411282, 
+            37.5541619
+          ], 
+          [
+            -77.4113433, 
+            37.5539729
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49612950", 
+        "length": "69.58364524720211", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450656534", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "51334746"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.410506, 
+            37.5554151
+          ], 
+          [
+            -77.4106912, 
+            37.5552279
+          ], 
+          [
+            -77.4107467, 
+            37.555151
+          ], 
+          [
+            -77.4108106, 
+            37.5550911
+          ], 
+          [
+            -77.4108726, 
+            37.5550514
+          ], 
+          [
+            -77.41107, 
+            37.5549902
+          ], 
+          [
+            -77.411276, 
+            37.5549902
+          ], 
+          [
+            -77.411482, 
+            37.5550378
+          ], 
+          [
+            -77.4116107, 
+            37.5551331
+          ], 
+          [
+            -77.4117395, 
+            37.5552896
+          ], 
+          [
+            -77.411791, 
+            37.5554461
+          ], 
+          [
+            -77.4117824, 
+            37.5556094
+          ], 
+          [
+            -77.4117309, 
+            37.5557727
+          ], 
+          [
+            -77.4116107, 
+            37.5559224
+          ], 
+          [
+            -77.4114476, 
+            37.556038
+          ], 
+          [
+            -77.4112674, 
+            37.5560789
+          ], 
+          [
+            -77.41107, 
+            37.5561129
+          ], 
+          [
+            -77.4109069, 
+            37.5561061
+          ], 
+          [
+            -77.4107438, 
+            37.5560584
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "450656519", 
+        "length": "302.1456145343385", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450656504", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "20272992"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4107438, 
+            37.5560584
+          ], 
+          [
+            -77.4122043, 
+            37.5568423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "to": "450656519", 
+        "length": "155.5194892117757", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1105731609", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "95342952"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4238834, 
+            37.5506277
+          ], 
+          [
+            -77.4248825, 
+            37.5508088
+          ], 
+          [
+            -77.4250782, 
+            37.5508445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Hospital Street", 
+        "to": "49619372", 
+        "length": "108.08381626296168", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2805330011", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035416"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4126047, 
+            37.5542891
+          ], 
+          [
+            -77.4120165, 
+            37.5538833
+          ], 
+          [
+            -77.4115812, 
+            37.5535829
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "450656497", 
+        "length": "119.64476725955137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618352", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4115812, 
+            37.5535829
+          ], 
+          [
+            -77.4113433, 
+            37.5539729
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49612950", 
+        "length": "48.18433774473914", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "450656497", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4115812, 
+            37.5535829
+          ], 
+          [
+            -77.41211, 
+            37.5527306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "450656497", 
+        "length": "105.64539247716462", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3103220743", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4219846, 
+            37.5523444
+          ], 
+          [
+            -77.4221127, 
+            37.552214
+          ], 
+          [
+            -77.4222182, 
+            37.5519311
+          ], 
+          [
+            -77.4224122, 
+            37.5514996
+          ], 
+          [
+            -77.4225224, 
+            37.5512397
+          ], 
+          [
+            -77.4226817, 
+            37.5510058
+          ], 
+          [
+            -77.4229873, 
+            37.5507882
+          ], 
+          [
+            -77.423386, 
+            37.5506552
+          ], 
+          [
+            -77.4236979, 
+            37.5506096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Bowling Green Road", 
+        "to": "49619373", 
+        "length": "264.54363008123477", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615850", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236979, 
+            37.5506096
+          ], 
+          [
+            -77.4238834, 
+            37.5506277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Hospital Street", 
+        "to": "49619373", 
+        "length": "16.48115574249308", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2805330011", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6035416"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236979, 
+            37.5506096
+          ], 
+          [
+            -77.4239221, 
+            37.5483469
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Oliver Hill Way", 
+        "to": "49619373", 
+        "length": "252.4470202245944", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145865258", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "275869783"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.422331, 
+            37.5537969
+          ], 
+          [
+            -77.4222587, 
+            37.5533737
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mecklenburg Street", 
+        "to": "49615852", 
+        "length": "47.50072463064363", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615854", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034052"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.41508, 
+            37.5584496
+          ], 
+          [
+            -77.4139588, 
+            37.5577436
+          ], 
+          [
+            -77.4122043, 
+            37.5568423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "1", 
+        "name": "", 
+        "to": "1105731609", 
+        "length": "310.5943245684919", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1105731607", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "95342952"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.415886, 
+            37.5514819
+          ], 
+          [
+            -77.4152722, 
+            37.5513829
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Redwood Avenue", 
+        "to": "49609251", 
+        "length": "55.23417494691399", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627177", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038594"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417119, 
+            37.5520868
+          ], 
+          [
+            -77.4169935, 
+            37.5518836
+          ], 
+          [
+            -77.4168343, 
+            37.5517213
+          ], 
+          [
+            -77.4165469, 
+            37.5515861
+          ], 
+          [
+            -77.415886, 
+            37.5514819
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Redwood Avenue", 
+        "to": "49609251", 
+        "length": "136.92192310973437", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619369", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038594"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4200548, 
+            37.5525998
+          ], 
+          [
+            -77.4201509, 
+            37.5531275
+          ], 
+          [
+            -77.4202416, 
+            37.5536254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lebanon Street", 
+        "to": "49618340", 
+        "length": "115.25674797141579", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625056", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039293"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222587, 
+            37.5533737
+          ], 
+          [
+            -77.4209915, 
+            37.5535318
+          ], 
+          [
+            -77.4202416, 
+            37.5536254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618340", 
+        "length": "180.05452634342015", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615852", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4202416, 
+            37.5536254
+          ], 
+          [
+            -77.4183404, 
+            37.553886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618340", 
+        "length": "170.13164702650727", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618342", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4184558, 
+            37.5545198
+          ], 
+          [
+            -77.4185711, 
+            37.5551531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sussex Street", 
+        "to": "49618085", 
+        "length": "71.16951020697321", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631419", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4184558, 
+            37.5545198
+          ], 
+          [
+            -77.4183404, 
+            37.553886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sussex Street", 
+        "to": "49618085", 
+        "length": "71.22582495876229", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618342", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4184558, 
+            37.5545198
+          ], 
+          [
+            -77.4178443, 
+            37.5545849
+          ], 
+          [
+            -77.4171772, 
+            37.5546684
+          ], 
+          [
+            -77.4165583, 
+            37.5547554
+          ], 
+          [
+            -77.4158944, 
+            37.5548565
+          ], 
+          [
+            -77.4155006, 
+            37.5549607
+          ], 
+          [
+            -77.4151459, 
+            37.5551025
+          ], 
+          [
+            -77.4147603, 
+            37.5553517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ambrose Street", 
+        "to": "49618087", 
+        "length": "344.4930490257053", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618085", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034909"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4173477, 
+            37.5540158
+          ], 
+          [
+            -77.4177904, 
+            37.5539579
+          ], 
+          [
+            -77.4183404, 
+            37.553886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618342", 
+        "length": "88.71681081942674", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618344", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4181473, 
+            37.5528254
+          ], 
+          [
+            -77.4182474, 
+            37.553375
+          ], 
+          [
+            -77.4183404, 
+            37.553886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sussex Street", 
+        "to": "49618342", 
+        "length": "119.18909152770641", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625058", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4147603, 
+            37.5553517
+          ], 
+          [
+            -77.415283, 
+            37.5558148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Deforrest Street", 
+        "to": "49618087", 
+        "length": "69.11884733828911", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631188", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040509"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4138497, 
+            37.554467
+          ], 
+          [
+            -77.4139425, 
+            37.5547226
+          ], 
+          [
+            -77.4140911, 
+            37.5549258
+          ], 
+          [
+            -77.4144517, 
+            37.555159
+          ], 
+          [
+            -77.4147603, 
+            37.5553517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Deforrest Street", 
+        "to": "49618087", 
+        "length": "131.38115144919226", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618349", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040509"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417119, 
+            37.5520868
+          ], 
+          [
+            -77.417517, 
+            37.5519767
+          ], 
+          [
+            -77.4179809, 
+            37.5519111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hospital Street", 
+        "to": "49619368", 
+        "length": "78.72334741535437", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619369", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035412"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4179809, 
+            37.5519111
+          ], 
+          [
+            -77.4181473, 
+            37.5528254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sussex Street", 
+        "to": "49619368", 
+        "length": "102.7472804530552", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625058", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4177681, 
+            37.5507312
+          ], 
+          [
+            -77.4179134, 
+            37.5515368
+          ], 
+          [
+            -77.4179809, 
+            37.5519111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sussex Street", 
+        "to": "49619368", 
+        "length": "132.57063394413757", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631053", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4152722, 
+            37.5513829
+          ], 
+          [
+            -77.414716, 
+            37.5512826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Redwood Avenue", 
+        "to": "49627177", 
+        "length": "50.29904799370529", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626701", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038594"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.415053, 
+            37.5522185
+          ], 
+          [
+            -77.4151643, 
+            37.5517943
+          ], 
+          [
+            -77.4152722, 
+            37.5513829
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brame Street", 
+        "to": "49627177", 
+        "length": "94.9293551728537", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627335", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4163563, 
+            37.5541292
+          ], 
+          [
+            -77.4173477, 
+            37.5540158
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618346", 
+        "length": "88.32468388331117", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618344", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4138497, 
+            37.554467
+          ], 
+          [
+            -77.414213, 
+            37.554418
+          ], 
+          [
+            -77.4160802, 
+            37.5541664
+          ], 
+          [
+            -77.4163563, 
+            37.5541292
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618346", 
+        "length": "224.19647077001704", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618349", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4161852, 
+            37.5530998
+          ], 
+          [
+            -77.4162906, 
+            37.5537337
+          ], 
+          [
+            -77.4163563, 
+            37.5541292
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Conrad Street", 
+        "to": "49618346", 
+        "length": "115.48606567488306", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625053", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.41211, 
+            37.5527306
+          ], 
+          [
+            -77.4121854, 
+            37.5526093
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "3103220743", 
+        "length": "15.041036693500951", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623284", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222592, 
+            37.548366
+          ], 
+          [
+            -77.4225876, 
+            37.5482962
+          ], 
+          [
+            -77.4228938, 
+            37.5482669
+          ], 
+          [
+            -77.4235772, 
+            37.548314
+          ], 
+          [
+            -77.4239221, 
+            37.5483469
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fairfield Way", 
+        "to": "2145865258", 
+        "length": "148.30732839446662", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145865260", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6034533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4204933, 
+            37.5494139
+          ], 
+          [
+            -77.4209463, 
+            37.5491614
+          ], 
+          [
+            -77.4216443, 
+            37.5488266
+          ], 
+          [
+            -77.4218634, 
+            37.5487618
+          ], 
+          [
+            -77.4220603, 
+            37.5487353
+          ], 
+          [
+            -77.4221383, 
+            37.548697
+          ], 
+          [
+            -77.4222088, 
+            37.5486204
+          ], 
+          [
+            -77.4222534, 
+            37.5485439
+          ], 
+          [
+            -77.422272, 
+            37.5484438
+          ], 
+          [
+            -77.4222592, 
+            37.548366
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ford Avenue", 
+        "to": "2145865260", 
+        "length": "206.99740958113964", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618387", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4155321, 
+            37.5492237
+          ], 
+          [
+            -77.4156524, 
+            37.5492421
+          ], 
+          [
+            -77.4162151, 
+            37.5493157
+          ], 
+          [
+            -77.4166831, 
+            37.5493393
+          ], 
+          [
+            -77.4171288, 
+            37.5493378
+          ], 
+          [
+            -77.4177026, 
+            37.5493157
+          ], 
+          [
+            -77.418074, 
+            37.5492848
+          ], 
+          [
+            -77.4208482, 
+            37.5486888
+          ], 
+          [
+            -77.4221259, 
+            37.5483943
+          ], 
+          [
+            -77.4222592, 
+            37.548366
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fairfield Way", 
+        "to": "2145865260", 
+        "length": "608.312056989936", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2671775658", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6034533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4130146, 
+            37.5545398
+          ], 
+          [
+            -77.4133893, 
+            37.5545495
+          ], 
+          [
+            -77.4138497, 
+            37.554467
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618349", 
+        "length": "74.67856280532709", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616363", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4143896, 
+            37.5490298
+          ], 
+          [
+            -77.4145389, 
+            37.5490518
+          ], 
+          [
+            -77.4150957, 
+            37.5491568
+          ], 
+          [
+            -77.4155321, 
+            37.5492237
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fairfield Way", 
+        "to": "2671775658", 
+        "length": "103.05785938670098", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145865279", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6034533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4126047, 
+            37.5542891
+          ], 
+          [
+            -77.4130146, 
+            37.5545398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Whitcomb Street", 
+        "to": "49618352", 
+        "length": "45.65000524565173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616363", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4126047, 
+            37.5542891
+          ], 
+          [
+            -77.4129538, 
+            37.5540212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Glenlea Avenue", 
+        "to": "49618352", 
+        "length": "42.84243688220999", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614325", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.413293, 
+            37.553026
+          ], 
+          [
+            -77.4136283, 
+            37.5524617
+          ], 
+          [
+            -77.4138799, 
+            37.5520382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Maddox Street", 
+        "to": "49614322", 
+        "length": "121.44790880979576", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614323", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.413293, 
+            37.553026
+          ], 
+          [
+            -77.4141785, 
+            37.5533643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wood Street", 
+        "to": "49614323", 
+        "length": "86.67587305570808", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037689"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4121854, 
+            37.5526093
+          ], 
+          [
+            -77.4127571, 
+            37.5528244
+          ], 
+          [
+            -77.413293, 
+            37.553026
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wood Street", 
+        "to": "49614323", 
+        "length": "108.10664849753492", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623284", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037689"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4129538, 
+            37.5540212
+          ], 
+          [
+            -77.4128162, 
+            37.5539364
+          ], 
+          [
+            -77.4127674, 
+            37.553865
+          ], 
+          [
+            -77.412805, 
+            37.5537341
+          ], 
+          [
+            -77.413293, 
+            37.553026
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Maddox Street", 
+        "to": "49614323", 
+        "length": "129.08082481181475", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614325", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4145492, 
+            37.5561111
+          ], 
+          [
+            -77.4127866, 
+            37.5567035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bethel Street", 
+        "to": "49631540", 
+        "length": "168.8078266433079", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614576", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4185711, 
+            37.5551531
+          ], 
+          [
+            -77.4186795, 
+            37.5557484
+          ], 
+          [
+            -77.4177872, 
+            37.5558444
+          ], 
+          [
+            -77.417322, 
+            37.5559175
+          ], 
+          [
+            -77.4168633, 
+            37.5560475
+          ], 
+          [
+            -77.4154362, 
+            37.5564971
+          ], 
+          [
+            -77.4150747, 
+            37.5565274
+          ], 
+          [
+            -77.414825, 
+            37.5564798
+          ], 
+          [
+            -77.4146904, 
+            37.5563263
+          ], 
+          [
+            -77.4145492, 
+            37.5561111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Carmine Street', 'Sussex Street']", 
+        "to": "49631540", 
+        "length": "468.9486397982955", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631419", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6040650, 6040743]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.415283, 
+            37.5558148
+          ], 
+          [
+            -77.4148112, 
+            37.5560348
+          ], 
+          [
+            -77.4145492, 
+            37.5561111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bethel Street", 
+        "to": "49631540", 
+        "length": "72.87562865868125", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631188", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4195253, 
+            37.552668
+          ], 
+          [
+            -77.4200548, 
+            37.5525998
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wood Street", 
+        "to": "49617465", 
+        "length": "47.303220347163965", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625056", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4195253, 
+            37.552668
+          ], 
+          [
+            -77.4181473, 
+            37.5528254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wood Street", 
+        "to": "49617465", 
+        "length": "122.76584829199895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625058", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4194398, 
+            37.5522926
+          ], 
+          [
+            -77.419466, 
+            37.5524106
+          ], 
+          [
+            -77.4195253, 
+            37.552668
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Eastview Lane", 
+        "to": "49617465", 
+        "length": "42.42973604627528", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617467", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4140959, 
+            37.5494978
+          ], 
+          [
+            -77.4141564, 
+            37.5493997
+          ], 
+          [
+            -77.414339, 
+            37.5491091
+          ], 
+          [
+            -77.4143896, 
+            37.5490298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "2145865279", 
+        "length": "58.141640853083004", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618393", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.415053, 
+            37.5522185
+          ], 
+          [
+            -77.4138799, 
+            37.5520382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Melbourne Street", 
+        "to": "49627335", 
+        "length": "105.37000906350492", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614322", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038665"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4141785, 
+            37.5533643
+          ], 
+          [
+            -77.4144967, 
+            37.5531442
+          ], 
+          [
+            -77.4147827, 
+            37.5526684
+          ], 
+          [
+            -77.415053, 
+            37.5522185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Glenlea Avenue', 'Brame Street']", 
+        "to": "49627335", 
+        "length": "151.28749100767993", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037369, 6040782]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4160997, 
+            37.5524922
+          ], 
+          [
+            -77.4160261, 
+            37.5524256
+          ], 
+          [
+            -77.41594, 
+            37.5524038
+          ], 
+          [
+            -77.415053, 
+            37.5522185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Melbourne Street", 
+        "to": "49627335", 
+        "length": "98.70404563006385", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610975", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038665"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.41977, 
+            37.5495985
+          ], 
+          [
+            -77.4197583, 
+            37.5500045
+          ], 
+          [
+            -77.4197501, 
+            37.5502871
+          ], 
+          [
+            -77.4197206, 
+            37.5503548
+          ], 
+          [
+            -77.4196469, 
+            37.550417
+          ], 
+          [
+            -77.4182335, 
+            37.5506534
+          ], 
+          [
+            -77.4177681, 
+            37.5507312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hildreth Street", 
+        "to": "49631053", 
+        "length": "263.39121562953", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417628, 
+            37.549973
+          ], 
+          [
+            -77.4176981, 
+            37.5503526
+          ], 
+          [
+            -77.4177681, 
+            37.5507312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sussex Street", 
+        "to": "49631053", 
+        "length": "85.23187715733049", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618390", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040650"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4177681, 
+            37.5507312
+          ], 
+          [
+            -77.4171751, 
+            37.5508298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hildreth Street", 
+        "to": "49631053", 
+        "length": "53.42937869243403", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631054", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4151675, 
+            37.5496897
+          ], 
+          [
+            -77.4150361, 
+            37.5501533
+          ], 
+          [
+            -77.4148313, 
+            37.550876
+          ], 
+          [
+            -77.414716, 
+            37.5512826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Spotsylvania Street", 
+        "to": "49626701", 
+        "length": "181.5907320438655", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618391", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4132888, 
+            37.550815
+          ], 
+          [
+            -77.4138243, 
+            37.5510194
+          ], 
+          [
+            -77.4138824, 
+            37.5510416
+          ], 
+          [
+            -77.4143065, 
+            37.5511993
+          ], 
+          [
+            -77.414716, 
+            37.5512826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Redwood Avenue", 
+        "to": "49626701", 
+        "length": "136.68299878873478", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623279", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038594"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4123313, 
+            37.5523717
+          ], 
+          [
+            -77.4126598, 
+            37.5518344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49623281", 
+        "length": "66.4121786878342", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609168", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4123313, 
+            37.5523717
+          ], 
+          [
+            -77.4121854, 
+            37.5526093
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49609168", 
+        "length": "29.392585339924118", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623284", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.41977, 
+            37.5495985
+          ], 
+          [
+            -77.4198968, 
+            37.5495738
+          ], 
+          [
+            -77.4202106, 
+            37.5495127
+          ], 
+          [
+            -77.4204933, 
+            37.5494139
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ford Avenue", 
+        "to": "49618387", 
+        "length": "67.25234443019342", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4218418, 
+            37.5498277
+          ], 
+          [
+            -77.4214004, 
+            37.5499448
+          ], 
+          [
+            -77.4211739, 
+            37.5500028
+          ], 
+          [
+            -77.4209619, 
+            37.5499756
+          ], 
+          [
+            -77.4208295, 
+            37.5498777
+          ], 
+          [
+            -77.4204933, 
+            37.5494139
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Raven Street", 
+        "to": "49618387", 
+        "length": "156.43670631425024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145865299", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "323693611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4185711, 
+            37.5551531
+          ], 
+          [
+            -77.4164222, 
+            37.5554286
+          ], 
+          [
+            -77.4157619, 
+            37.5555976
+          ], 
+          [
+            -77.415283, 
+            37.5558148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bethel Street", 
+        "to": "49631188", 
+        "length": "301.77528446518676", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631419", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040907"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417628, 
+            37.549973
+          ], 
+          [
+            -77.41977, 
+            37.5495985
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ford Avenue", 
+        "to": "49618390", 
+        "length": "193.42602505535777", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4151675, 
+            37.5496897
+          ], 
+          [
+            -77.4140959, 
+            37.5494978
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Ford Avenue", 
+        "to": "49618391", 
+        "length": "96.87755541262221", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618393", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4140959, 
+            37.5494978
+          ], 
+          [
+            -77.4139336, 
+            37.5497629
+          ], 
+          [
+            -77.4135215, 
+            37.5504336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49623278", 
+        "length": "115.75594583281767", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618393", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4161852, 
+            37.5530998
+          ], 
+          [
+            -77.4141785, 
+            37.5533643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wood Street", 
+        "to": "49625053", 
+        "length": "179.3773000632388", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037689"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4161852, 
+            37.5530998
+          ], 
+          [
+            -77.4160997, 
+            37.5524922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Conrad Street", 
+        "to": "49625053", 
+        "length": "68.00031527890451", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610975", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417119, 
+            37.5520868
+          ], 
+          [
+            -77.4166596, 
+            37.5522695
+          ], 
+          [
+            -77.4160997, 
+            37.5524922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hospital Street", 
+        "to": "49610975", 
+        "length": "100.55814567979189", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619369", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035412"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4200548, 
+            37.5525998
+          ], 
+          [
+            -77.4219846, 
+            37.5523444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wood Street", 
+        "to": "49625056", 
+        "length": "172.52391983647476", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615850", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037691"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4219846, 
+            37.5523444
+          ], 
+          [
+            -77.4219129, 
+            37.5520123
+          ], 
+          [
+            -77.4218413, 
+            37.5516806
+          ], 
+          [
+            -77.4199241, 
+            37.5519107
+          ], 
+          [
+            -77.4199898, 
+            37.5522571
+          ], 
+          [
+            -77.4200548, 
+            37.5525998
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Mecklenburg Street', 'Lebanon Street', 'Chelsea Street']", 
+        "to": "49625056", 
+        "length": "323.3990409411408", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49615850", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6038147, 6034052, 6039293]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417119, 
+            37.5520868
+          ], 
+          [
+            -77.4170772, 
+            37.5525493
+          ], 
+          [
+            -77.4172728, 
+            37.5536098
+          ], 
+          [
+            -77.4173477, 
+            37.5540158
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Redwood Avenue", 
+        "to": "49618344", 
+        "length": "216.42208857638468", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619369", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038594"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222587, 
+            37.5533737
+          ], 
+          [
+            -77.4221658, 
+            37.5529955
+          ], 
+          [
+            -77.4220724, 
+            37.5526151
+          ], 
+          [
+            -77.4219846, 
+            37.5523444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mecklenburg Street", 
+        "to": "49615850", 
+        "length": "117.04899813777244", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615852", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034052"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4127866, 
+            37.5567035
+          ], 
+          [
+            -77.4125996, 
+            37.5564707
+          ], 
+          [
+            -77.412424, 
+            37.5561645
+          ], 
+          [
+            -77.4121739, 
+            37.5556496
+          ], 
+          [
+            -77.4121519, 
+            37.5555755
+          ], 
+          [
+            -77.4121782, 
+            37.5554895
+          ], 
+          [
+            -77.4130146, 
+            37.5545398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Magnolia Street', 'Anniston Street']", 
+        "to": "49616363", 
+        "length": "276.619059878142", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614576", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6034232, 6033633]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4135215, 
+            37.5504336
+          ], 
+          [
+            -77.4132888, 
+            37.550815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49623278", 
+        "length": "47.12395544721445", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623279", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4132888, 
+            37.550815
+          ], 
+          [
+            -77.4126598, 
+            37.5518344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Mechanicsville Turnpike", 
+        "to": "49623281", 
+        "length": "126.22362780813309", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623279", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "37961296"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4138799, 
+            37.5520382
+          ], 
+          [
+            -77.4132873, 
+            37.5519392
+          ], 
+          [
+            -77.4126598, 
+            37.5518344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Melbourne Street", 
+        "to": "49623281", 
+        "length": "109.95082005202266", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614322", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038665"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4218418, 
+            37.5498277
+          ], 
+          [
+            -77.4218287, 
+            37.5497536
+          ], 
+          [
+            -77.4218523, 
+            37.5496813
+          ], 
+          [
+            -77.421909, 
+            37.5496216
+          ], 
+          [
+            -77.4219903, 
+            37.5495836
+          ], 
+          [
+            -77.4220836, 
+            37.5495732
+          ], 
+          [
+            -77.4221749, 
+            37.549592
+          ], 
+          [
+            -77.4222502, 
+            37.5496369
+          ], 
+          [
+            -77.422298, 
+            37.5497014
+          ], 
+          [
+            -77.4223112, 
+            37.5497754
+          ], 
+          [
+            -77.4222875, 
+            37.5498477
+          ], 
+          [
+            -77.4222308, 
+            37.5499074
+          ], 
+          [
+            -77.4221496, 
+            37.5499454
+          ], 
+          [
+            -77.4220562, 
+            37.5499558
+          ], 
+          [
+            -77.4219649, 
+            37.5499371
+          ], 
+          [
+            -77.4218896, 
+            37.5498921
+          ], 
+          [
+            -77.4218418, 
+            37.5498277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Raven Street", 
+        "to": "2145865299", 
+        "length": "133.0269178786293", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145865299", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037876"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4218418, 
+            37.5498277
+          ], 
+          [
+            -77.4218896, 
+            37.5498921
+          ], 
+          [
+            -77.4219649, 
+            37.5499371
+          ], 
+          [
+            -77.4220562, 
+            37.5499558
+          ], 
+          [
+            -77.4221496, 
+            37.5499454
+          ], 
+          [
+            -77.4222308, 
+            37.5499074
+          ], 
+          [
+            -77.4222875, 
+            37.5498477
+          ], 
+          [
+            -77.4223112, 
+            37.5497754
+          ], 
+          [
+            -77.422298, 
+            37.5497014
+          ], 
+          [
+            -77.4222502, 
+            37.5496369
+          ], 
+          [
+            -77.4221749, 
+            37.549592
+          ], 
+          [
+            -77.4220836, 
+            37.5495732
+          ], 
+          [
+            -77.4219903, 
+            37.5495836
+          ], 
+          [
+            -77.421909, 
+            37.5496216
+          ], 
+          [
+            -77.4218523, 
+            37.5496813
+          ], 
+          [
+            -77.4218287, 
+            37.5497536
+          ], 
+          [
+            -77.4218418, 
+            37.5498277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Raven Street", 
+        "to": "2145865299", 
+        "length": "133.02691787781117", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "2145865299", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037876"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4129538, 
+            37.5540212
+          ], 
+          [
+            -77.4141785, 
+            37.5533643
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Glenlea Avenue", 
+        "to": "49614325", 
+        "length": "130.38662097326537", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037369"
+      }
+    }
+  ]
+}

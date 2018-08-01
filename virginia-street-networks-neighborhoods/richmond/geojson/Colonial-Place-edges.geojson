@@ -1,0 +1,3779 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4952364, 
+            37.5634302
+          ], 
+          [
+            -77.4940169, 
+            37.5628456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49614083", 
+        "length": "125.65215474895983", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615433", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4952364, 
+            37.5634302
+          ], 
+          [
+            -77.4966951, 
+            37.5641257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615435", 
+        "length": "150.0809830135154", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614083", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945132, 
+            37.5643838
+          ], 
+          [
+            -77.4948752, 
+            37.5639066
+          ], 
+          [
+            -77.4952364, 
+            37.5634302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "access": "", 
+        "to": "49614083", 
+        "length": "123.75549091804734", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614085", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033493"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945132, 
+            37.5643838
+          ], 
+          [
+            -77.4932933, 
+            37.5638096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49614085", 
+        "length": "125.08660402227339", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615082", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937513, 
+            37.5653883
+          ], 
+          [
+            -77.4941227, 
+            37.5648987
+          ], 
+          [
+            -77.4945132, 
+            37.5643838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "access": "", 
+        "to": "49614085", 
+        "length": "130.3651435755724", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033493"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945132, 
+            37.5643838
+          ], 
+          [
+            -77.495996, 
+            37.5651165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49614085", 
+        "length": "154.05252254175366", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615083", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929919, 
+            37.5663896
+          ], 
+          [
+            -77.4933642, 
+            37.5658988
+          ], 
+          [
+            -77.4937513, 
+            37.5653883
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "access": "", 
+        "to": "49614086", 
+        "length": "129.94607079715502", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033493"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937513, 
+            37.5653883
+          ], 
+          [
+            -77.4952917, 
+            37.5661145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49614086", 
+        "length": "158.0124890267612", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617071", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034488"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937513, 
+            37.5653883
+          ], 
+          [
+            -77.4925394, 
+            37.564814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49614086", 
+        "length": "124.4851315351995", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617069", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034488"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929919, 
+            37.5663896
+          ], 
+          [
+            -77.4917873, 
+            37.565816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49614087", 
+        "length": "123.89182537128808", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618608", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492191, 
+            37.5674455
+          ], 
+          [
+            -77.4926085, 
+            37.5668951
+          ], 
+          [
+            -77.4929919, 
+            37.5663896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "access": "", 
+        "to": "49614087", 
+        "length": "137.03552713848944", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614088", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033493"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929919, 
+            37.5663896
+          ], 
+          [
+            -77.4945684, 
+            37.5671396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49614087", 
+        "length": "162.10081390941963", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620714", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4893696, 
+            37.5660096
+          ], 
+          [
+            -77.4910286, 
+            37.5668267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616520", 
+        "length": "172.1989909830398", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616522", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "130437738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4893696, 
+            37.5660096
+          ], 
+          [
+            -77.4881785, 
+            37.5653973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616520", 
+        "length": "125.1626397173505", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616518", 
+        "ref": "VA 6", 
+        "highway": "secondary", 
+        "osmid": "182532004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4901459, 
+            37.5650346
+          ], 
+          [
+            -77.4897754, 
+            37.5655001
+          ], 
+          [
+            -77.4897444, 
+            37.565539
+          ], 
+          [
+            -77.4893696, 
+            37.5660096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "access": "", 
+        "to": "49616520", 
+        "length": "128.2370503113098", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628255", 
+        "ref": "VA 197", 
+        "highway": "secondary", 
+        "osmid": "6039314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4917873, 
+            37.565816
+          ], 
+          [
+            -77.4914033, 
+            37.5663275
+          ], 
+          [
+            -77.4910286, 
+            37.5668267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "access": "", 
+        "to": "49616522", 
+        "length": "130.81148596789305", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618608", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4910286, 
+            37.5668267
+          ], 
+          [
+            -77.492191, 
+            37.5674455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616522", 
+        "length": "123.44737998869888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614088", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "130437738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933517, 
+            37.568056
+          ], 
+          [
+            -77.492191, 
+            37.5674455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616523", 
+        "length": "122.80944678022273", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614088", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "130437738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933517, 
+            37.568056
+          ], 
+          [
+            -77.4937694, 
+            37.5682718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616523", 
+        "length": "43.956783692615396", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616525", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "130437738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4943711, 
+            37.5674192
+          ], 
+          [
+            -77.4942009, 
+            37.5676604
+          ], 
+          [
+            -77.4940579, 
+            37.567863
+          ], 
+          [
+            -77.4937694, 
+            37.5682718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49616525", 
+        "length": "108.65989847297377", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614661", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937694, 
+            37.5682718
+          ], 
+          [
+            -77.494863, 
+            37.5688179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616525", 
+        "length": "113.95084906022562", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616527", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "130437738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4970281, 
+            37.5686699
+          ], 
+          [
+            -77.4966902, 
+            37.5691249
+          ], 
+          [
+            -77.4963718, 
+            37.5695536
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "access": "", 
+        "to": "49615630", 
+        "length": "114.05595151835175", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614663", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4963718, 
+            37.5695536
+          ], 
+          [
+            -77.4998766, 
+            37.5713416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49615630", 
+        "length": "367.4471740446861", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615140", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "270513353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4963718, 
+            37.5695536
+          ], 
+          [
+            -77.49515, 
+            37.5689124
+          ], 
+          [
+            -77.494863, 
+            37.5688179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49616527", 
+        "length": "156.58246916225858", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615630", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "270513353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4954917, 
+            37.5679518
+          ], 
+          [
+            -77.4951734, 
+            37.5683903
+          ], 
+          [
+            -77.494863, 
+            37.5688179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "access": "", 
+        "to": "49616527", 
+        "length": "111.14036140569834", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614662", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5037089, 
+            37.5685624
+          ], 
+          [
+            -77.5049193, 
+            37.5691195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49613713", 
+        "length": "123.39536280003756", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615088", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503113, 
+            37.5694005
+          ], 
+          [
+            -77.5034188, 
+            37.5689704
+          ], 
+          [
+            -77.5037089, 
+            37.5685624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wisteria Avenue", 
+        "access": "", 
+        "to": "49613713", 
+        "length": "107.00288556403672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613716", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5037089, 
+            37.5685624
+          ], 
+          [
+            -77.502609, 
+            37.5680154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49613713", 
+        "length": "114.47461368818462", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613245", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5042758, 
+            37.5677464
+          ], 
+          [
+            -77.504002, 
+            37.5681405
+          ], 
+          [
+            -77.5037089, 
+            37.5685624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wisteria Avenue", 
+        "access": "", 
+        "to": "49613713", 
+        "length": "103.61151029389308", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5007963, 
+            37.570537
+          ], 
+          [
+            -77.5019263, 
+            37.5710823
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Leonard Parkway", 
+        "access": "", 
+        "to": "49613720", 
+        "length": "116.62964214463373", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613251", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033674"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5007963, 
+            37.570537
+          ], 
+          [
+            -77.5011058, 
+            37.570116
+          ], 
+          [
+            -77.5014138, 
+            37.5696971
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bunting Avenue", 
+        "access": "", 
+        "to": "49613249", 
+        "length": "108.12307173782094", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613251", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5001448, 
+            37.5714892
+          ], 
+          [
+            -77.5004822, 
+            37.5709961
+          ], 
+          [
+            -77.5007963, 
+            37.570537
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bunting Avenue", 
+        "access": "", 
+        "to": "49613251", 
+        "length": "120.48071996536092", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763480", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5007963, 
+            37.570537
+          ], 
+          [
+            -77.4970281, 
+            37.5686699
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Leonard Parkway", 
+        "access": "", 
+        "to": "49613251", 
+        "length": "391.77211728033313", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614663", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033674"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503113, 
+            37.5694005
+          ], 
+          [
+            -77.5043244, 
+            37.5699705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49613716", 
+        "length": "124.19683190115875", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617079", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5025053, 
+            37.5702342
+          ], 
+          [
+            -77.5027995, 
+            37.5698306
+          ], 
+          [
+            -77.503113, 
+            37.5694005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wisteria Avenue", 
+        "access": "", 
+        "to": "49613716", 
+        "length": "107.09311650533965", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613718", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.503113, 
+            37.5694005
+          ], 
+          [
+            -77.5019966, 
+            37.5688881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49613716", 
+        "length": "113.73200643228898", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613247", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5025053, 
+            37.5702342
+          ], 
+          [
+            -77.5037298, 
+            37.5708121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49613718", 
+        "length": "125.6375244613146", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628256", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5025053, 
+            37.5702342
+          ], 
+          [
+            -77.5014138, 
+            37.5696971
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49613718", 
+        "length": "113.26152379526111", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613249", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5019263, 
+            37.5710823
+          ], 
+          [
+            -77.5022187, 
+            37.5706541
+          ], 
+          [
+            -77.5025053, 
+            37.5702342
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wisteria Avenue", 
+        "access": "", 
+        "to": "49613718", 
+        "length": "107.25568191284997", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613720", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5012431, 
+            37.5720543
+          ], 
+          [
+            -77.501603, 
+            37.5715422
+          ], 
+          [
+            -77.5019263, 
+            37.5710823
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wisteria Avenue", 
+        "access": "", 
+        "to": "49613720", 
+        "length": "123.75665395205772", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763479", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033380"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4943711, 
+            37.5674192
+          ], 
+          [
+            -77.4945684, 
+            37.5671396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49614661", 
+        "length": "35.63290679482605", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620714", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4943711, 
+            37.5674192
+          ], 
+          [
+            -77.4954917, 
+            37.5679518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Leonard Parkway", 
+        "access": "", 
+        "to": "49614661", 
+        "length": "115.19340102366024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614662", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033674"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866829, 
+            37.5633857
+          ], 
+          [
+            -77.4876718, 
+            37.5638563
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49626020", 
+        "length": "101.69324419803124", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628253", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866829, 
+            37.5633857
+          ], 
+          [
+            -77.4876253, 
+            37.5624883
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "access": "", 
+        "to": "49626020", 
+        "length": "129.87178515468423", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617062", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889924, 
+            37.5644853
+          ], 
+          [
+            -77.4885947, 
+            37.5649314
+          ], 
+          [
+            -77.4881785, 
+            37.5653973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "access": "", 
+        "to": "49616518", 
+        "length": "124.2532483868822", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628254", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040834"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876253, 
+            37.5624883
+          ], 
+          [
+            -77.4885931, 
+            37.5615785
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "access": "", 
+        "to": "49617062", 
+        "length": "132.36785993697669", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615076", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876253, 
+            37.5624883
+          ], 
+          [
+            -77.4883905, 
+            37.5628556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49617062", 
+        "length": "78.87104447783283", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617063", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034488"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883905, 
+            37.5628556
+          ], 
+          [
+            -77.4897152, 
+            37.5634702
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49617063", 
+        "length": "135.32952785405433", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617065", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034488"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883905, 
+            37.5628556
+          ], 
+          [
+            -77.4891326, 
+            37.5618224
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reveille Street", 
+        "access": "", 
+        "to": "49617063", 
+        "length": "132.23987585308683", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615077", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039731"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876718, 
+            37.5638563
+          ], 
+          [
+            -77.4880336, 
+            37.5633526
+          ], 
+          [
+            -77.4883905, 
+            37.5628556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reveille Street", 
+        "access": "", 
+        "to": "49617063", 
+        "length": "128.0772785528733", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628253", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039731"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904277, 
+            37.5624393
+          ], 
+          [
+            -77.4900671, 
+            37.562961
+          ], 
+          [
+            -77.4897152, 
+            37.5634702
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "access": "", 
+        "to": "49617065", 
+        "length": "130.74359097236518", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615079", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040834"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897152, 
+            37.5634702
+          ], 
+          [
+            -77.4909105, 
+            37.5640374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49617065", 
+        "length": "122.8253991419377", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617067", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034488"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889924, 
+            37.5644853
+          ], 
+          [
+            -77.4893507, 
+            37.563982
+          ], 
+          [
+            -77.4897152, 
+            37.5634702
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "access": "", 
+        "to": "49617065", 
+        "length": "129.64864452022962", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628254", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040834"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4901459, 
+            37.5650346
+          ], 
+          [
+            -77.4905268, 
+            37.5645379
+          ], 
+          [
+            -77.4909105, 
+            37.5640374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "access": "", 
+        "to": "49617067", 
+        "length": "129.79359095157565", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628255", 
+        "ref": "VA 197", 
+        "highway": "secondary", 
+        "osmid": "6039314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909105, 
+            37.5640374
+          ], 
+          [
+            -77.4925394, 
+            37.564814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49617067", 
+        "length": "167.58835736604078", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617069", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034488"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4916807, 
+            37.563039
+          ], 
+          [
+            -77.4912887, 
+            37.5635472
+          ], 
+          [
+            -77.4909105, 
+            37.5640374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "access": "", 
+        "to": "49617067", 
+        "length": "130.16502863685392", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615081", 
+        "ref": "VA 197", 
+        "highway": "secondary", 
+        "osmid": "6039314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4917873, 
+            37.565816
+          ], 
+          [
+            -77.4921593, 
+            37.5653203
+          ], 
+          [
+            -77.4925394, 
+            37.564814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "access": "", 
+        "to": "49617069", 
+        "length": "129.68281369277747", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618608", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4932933, 
+            37.5638096
+          ], 
+          [
+            -77.4929142, 
+            37.5643146
+          ], 
+          [
+            -77.4925394, 
+            37.564814
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "access": "", 
+        "to": "49617069", 
+        "length": "129.99382384043923", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615082", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4952917, 
+            37.5661145
+          ], 
+          [
+            -77.4949501, 
+            37.5665987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49617071", 
+        "length": "61.7045342546631", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620712", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4952917, 
+            37.5661145
+          ], 
+          [
+            -77.4955185, 
+            37.5657932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49617071", 
+        "length": "40.95063082142944", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617075", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4917873, 
+            37.565816
+          ], 
+          [
+            -77.4901459, 
+            37.5650346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49618608", 
+        "length": "168.80630903079336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628255", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5012431, 
+            37.5720543
+          ], 
+          [
+            -77.5001448, 
+            37.5714892
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "3140763480", 
+        "length": "115.4350280559261", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3140763479", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "270513353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.495996, 
+            37.5651165
+          ], 
+          [
+            -77.4958343, 
+            37.5653456
+          ], 
+          [
+            -77.4956454, 
+            37.5656134
+          ], 
+          [
+            -77.4955185, 
+            37.5657932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49617075", 
+        "length": "86.24020270752442", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615083", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4955185, 
+            37.5657932
+          ], 
+          [
+            -77.4967065, 
+            37.5663546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49617075", 
+        "length": "121.93922188163563", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617076", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4960901, 
+            37.5671541
+          ], 
+          [
+            -77.4963944, 
+            37.5667594
+          ], 
+          [
+            -77.4967065, 
+            37.5663546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "access": "", 
+        "to": "49617076", 
+        "length": "104.21585681049103", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623608", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4967065, 
+            37.5663546
+          ], 
+          [
+            -77.4982423, 
+            37.5670671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49617076", 
+        "length": "156.88736019249995", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615627", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.497351, 
+            37.5654995
+          ], 
+          [
+            -77.4970301, 
+            37.5659253
+          ], 
+          [
+            -77.4967065, 
+            37.5663546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "access": "", 
+        "to": "49617076", 
+        "length": "110.79042252868832", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5043244, 
+            37.5699705
+          ], 
+          [
+            -77.5037298, 
+            37.5708121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Shadwell Road", 
+        "access": "yes", 
+        "to": "49617079", 
+        "length": "107.28566990376117", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628256", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5043244, 
+            37.5699705
+          ], 
+          [
+            -77.5049193, 
+            37.5691195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Shadwell Road", 
+        "access": "yes", 
+        "to": "49617079", 
+        "length": "108.21221459734349", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615088", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4960901, 
+            37.5671541
+          ], 
+          [
+            -77.4949501, 
+            37.5665987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49623608", 
+        "length": "117.97242514419993", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620712", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4960901, 
+            37.5671541
+          ], 
+          [
+            -77.4976162, 
+            37.5678808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49623608", 
+        "length": "156.9561311097098", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615629", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4954917, 
+            37.5679518
+          ], 
+          [
+            -77.4957759, 
+            37.5675729
+          ], 
+          [
+            -77.4960901, 
+            37.5671541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "access": "", 
+        "to": "49623608", 
+        "length": "103.22479263328103", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614662", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5031635, 
+            37.567215
+          ], 
+          [
+            -77.502572, 
+            37.5669331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49613243", 
+        "length": "60.848466252445725", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615441", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5031635, 
+            37.567215
+          ], 
+          [
+            -77.5037706, 
+            37.5675034
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615443", 
+        "length": "62.399576067610475", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613243", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.502609, 
+            37.5680154
+          ], 
+          [
+            -77.5029087, 
+            37.5675828
+          ], 
+          [
+            -77.5031635, 
+            37.567215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bunting Avenue", 
+        "access": "", 
+        "to": "49613243", 
+        "length": "101.56450991250355", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613245", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.502609, 
+            37.5680154
+          ], 
+          [
+            -77.498855, 
+            37.5662501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49613245", 
+        "length": "384.8218427138861", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5019966, 
+            37.5688881
+          ], 
+          [
+            -77.5023067, 
+            37.5684462
+          ], 
+          [
+            -77.502609, 
+            37.5680154
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bunting Avenue", 
+        "access": "", 
+        "to": "49613245", 
+        "length": "111.0716647734962", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613247", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5014138, 
+            37.5696971
+          ], 
+          [
+            -77.5017029, 
+            37.5692958
+          ], 
+          [
+            -77.5019966, 
+            37.5688881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bunting Avenue", 
+        "access": "", 
+        "to": "49613247", 
+        "length": "103.61767229768515", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613249", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5019966, 
+            37.5688881
+          ], 
+          [
+            -77.4982423, 
+            37.5670671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stuart Avenue", 
+        "access": "", 
+        "to": "49613247", 
+        "length": "388.0388148696959", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615627", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5014138, 
+            37.5696971
+          ], 
+          [
+            -77.4976162, 
+            37.5678808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49613249", 
+        "length": "391.02653223208176", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615629", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4895537, 
+            37.5607091
+          ], 
+          [
+            -77.4896345, 
+            37.5607477
+          ], 
+          [
+            -77.4898355, 
+            37.5608437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615427", 
+        "length": "29.00808942323158", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615426", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885931, 
+            37.5615785
+          ], 
+          [
+            -77.4894742, 
+            37.5607801
+          ], 
+          [
+            -77.4894954, 
+            37.5607608
+          ], 
+          [
+            -77.4895537, 
+            37.5607091
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "access": "", 
+        "to": "49615426", 
+        "length": "128.54709190577256", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615076", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4898355, 
+            37.5608437
+          ], 
+          [
+            -77.4904693, 
+            37.5611516
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615428", 
+        "length": "65.54091908535396", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615427", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4898355, 
+            37.5608437
+          ], 
+          [
+            -77.4891326, 
+            37.5618224
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Reveille Street", 
+        "access": "", 
+        "to": "49615427", 
+        "length": "125.26239663329063", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615077", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039731"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904693, 
+            37.5611516
+          ], 
+          [
+            -77.4911451, 
+            37.5614728
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615429", 
+        "length": "69.4743191265121", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615428", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911451, 
+            37.5614728
+          ], 
+          [
+            -77.492297, 
+            37.5620262
+          ], 
+          [
+            -77.4923254, 
+            37.5620398
+          ], 
+          [
+            -77.4924313, 
+            37.5620907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615432", 
+        "length": "132.60276764732387", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615429", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904277, 
+            37.5624393
+          ], 
+          [
+            -77.4908033, 
+            37.5619333
+          ], 
+          [
+            -77.4911451, 
+            37.5614728
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "access": "", 
+        "to": "49615429", 
+        "length": "124.72814155950954", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615079", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040834"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4954917, 
+            37.5679518
+          ], 
+          [
+            -77.4970281, 
+            37.5686699
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Leonard Parkway", 
+        "access": "", 
+        "to": "49614662", 
+        "length": "157.24596626287942", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614663", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033674"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4976162, 
+            37.5678808
+          ], 
+          [
+            -77.4973037, 
+            37.5683001
+          ], 
+          [
+            -77.4970281, 
+            37.5686699
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "access": "", 
+        "to": "49614663", 
+        "length": "101.93867660750183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615629", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4924313, 
+            37.5620907
+          ], 
+          [
+            -77.4925296, 
+            37.5621375
+          ], 
+          [
+            -77.4940169, 
+            37.5628456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615433", 
+        "length": "163.07609734477845", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615432", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4932933, 
+            37.5638096
+          ], 
+          [
+            -77.4936705, 
+            37.5633072
+          ], 
+          [
+            -77.4940169, 
+            37.5628456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "access": "", 
+        "to": "49615433", 
+        "length": "124.76659921878343", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615082", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035114"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4961364, 
+            37.5649175
+          ], 
+          [
+            -77.4963618, 
+            37.5645981
+          ], 
+          [
+            -77.4964147, 
+            37.5645232
+          ], 
+          [
+            -77.4966951, 
+            37.5641257
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49615435", 
+        "length": "100.90833623749239", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615084", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4966951, 
+            37.5641257
+          ], 
+          [
+            -77.4978738, 
+            37.5646885
+          ], 
+          [
+            -77.4979438, 
+            37.5647219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615436", 
+        "length": "128.5213631054189", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615435", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4979438, 
+            37.5647219
+          ], 
+          [
+            -77.4980179, 
+            37.5647575
+          ], 
+          [
+            -77.4993306, 
+            37.5653883
+          ], 
+          [
+            -77.4993928, 
+            37.5654182
+          ], 
+          [
+            -77.4993945, 
+            37.5654191
+          ], 
+          [
+            -77.4994464, 
+            37.565444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615438", 
+        "length": "154.92183738131004", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615436", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.497351, 
+            37.5654995
+          ], 
+          [
+            -77.4976492, 
+            37.5651083
+          ], 
+          [
+            -77.4979, 
+            37.5647794
+          ], 
+          [
+            -77.4979438, 
+            37.5647219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "access": "", 
+        "to": "49615436", 
+        "length": "101.0542944916223", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "308797573"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498855, 
+            37.5662501
+          ], 
+          [
+            -77.4991595, 
+            37.565835
+          ], 
+          [
+            -77.4993915, 
+            37.5655188
+          ], 
+          [
+            -77.4994054, 
+            37.5654999
+          ], 
+          [
+            -77.4994464, 
+            37.565444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "access": "", 
+        "to": "49615438", 
+        "length": "103.71795121790899", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4994464, 
+            37.565444
+          ], 
+          [
+            -77.4995116, 
+            37.5654748
+          ], 
+          [
+            -77.4999705, 
+            37.5656915
+          ], 
+          [
+            -77.5005081, 
+            37.5659453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615439", 
+        "length": "108.9522153250636", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615438", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4982423, 
+            37.5670671
+          ], 
+          [
+            -77.4979128, 
+            37.5674953
+          ], 
+          [
+            -77.4976162, 
+            37.5678808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "access": "", 
+        "to": "49615629", 
+        "length": "106.00923790915726", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615627", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5016278, 
+            37.5664808
+          ], 
+          [
+            -77.502572, 
+            37.5669331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615441", 
+        "length": "97.2641372507292", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615440", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5005081, 
+            37.5659453
+          ], 
+          [
+            -77.5010564, 
+            37.5662075
+          ], 
+          [
+            -77.5016278, 
+            37.5664808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615440", 
+        "length": "115.29333641633295", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615439", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5037706, 
+            37.5675034
+          ], 
+          [
+            -77.5042758, 
+            37.5677464
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49613711", 
+        "length": "52.098580235203976", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615443", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049179, 
+            37.5680537
+          ], 
+          [
+            -77.5042758, 
+            37.5677464
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615445", 
+        "length": "66.12697495109775", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613711", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049179, 
+            37.5680537
+          ], 
+          [
+            -77.5054949, 
+            37.568328
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "49615447", 
+        "length": "59.316693494659496", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615445", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38154794"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049193, 
+            37.5691195
+          ], 
+          [
+            -77.5052032, 
+            37.5687291
+          ], 
+          [
+            -77.5054949, 
+            37.568328
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Shadwell Road", 
+        "access": "yes", 
+        "to": "49615447", 
+        "length": "101.61364988972812", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615088", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5001448, 
+            37.5714892
+          ], 
+          [
+            -77.4998766, 
+            37.5713416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Patterson Avenue", 
+        "access": "", 
+        "to": "49615140", 
+        "length": "28.784472972472187", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3140763480", 
+        "ref": "VA 6", 
+        "highway": "primary", 
+        "osmid": "270513353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876718, 
+            37.5638563
+          ], 
+          [
+            -77.4889924, 
+            37.5644853
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49628253", 
+        "length": "135.83426935368635", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628254", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889924, 
+            37.5644853
+          ], 
+          [
+            -77.4901459, 
+            37.5650346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kensington Avenue", 
+        "access": "", 
+        "to": "49628254", 
+        "length": "118.63967933318334", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628255", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885931, 
+            37.5615785
+          ], 
+          [
+            -77.4891326, 
+            37.5618224
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49615076", 
+        "length": "54.75907693649621", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615077", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4891326, 
+            37.5618224
+          ], 
+          [
+            -77.4904277, 
+            37.5624393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49615077", 
+        "length": "133.2166837000264", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615079", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904277, 
+            37.5624393
+          ], 
+          [
+            -77.4916807, 
+            37.563039
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49615079", 
+        "length": "129.049187529106", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615081", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498855, 
+            37.5662501
+          ], 
+          [
+            -77.4985534, 
+            37.5666522
+          ], 
+          [
+            -77.4982423, 
+            37.5670671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "access": "", 
+        "to": "49615627", 
+        "length": "105.71458204075896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4924313, 
+            37.5620907
+          ], 
+          [
+            -77.4923872, 
+            37.5621464
+          ], 
+          [
+            -77.4923693, 
+            37.5621691
+          ], 
+          [
+            -77.4920659, 
+            37.5625524
+          ], 
+          [
+            -77.4916807, 
+            37.563039
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "access": "", 
+        "to": "49615081", 
+        "length": "124.51818313922723", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615432", 
+        "ref": "VA 197", 
+        "highway": "secondary", 
+        "osmid": "6039314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4916807, 
+            37.563039
+          ], 
+          [
+            -77.4932933, 
+            37.5638096
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49615081", 
+        "length": "166.0146068737827", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615082", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4949501, 
+            37.5665987
+          ], 
+          [
+            -77.4949202, 
+            37.5666411
+          ], 
+          [
+            -77.4945684, 
+            37.5671396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49620714", 
+        "length": "68.93428483907347", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620712", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.495996, 
+            37.5651165
+          ], 
+          [
+            -77.4961364, 
+            37.5649175
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Woodlawn Avenue", 
+        "access": "", 
+        "to": "49615083", 
+        "length": "25.360173619923433", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615084", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035920"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4961364, 
+            37.5649175
+          ], 
+          [
+            -77.497351, 
+            37.5654995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49615084", 
+        "length": "125.13028435892414", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.497351, 
+            37.5654995
+          ], 
+          [
+            -77.498855, 
+            37.5662501
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hanover Avenue", 
+        "access": "", 
+        "to": "49615086", 
+        "length": "156.69177706924933", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033825"
+      }
+    }
+  ]
+}

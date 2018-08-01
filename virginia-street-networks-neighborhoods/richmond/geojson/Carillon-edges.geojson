@@ -1,0 +1,4327 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868565, 
+            37.5424256
+          ], 
+          [
+            -77.487069, 
+            37.5424606
+          ], 
+          [
+            -77.4873373, 
+            37.5425395
+          ], 
+          [
+            -77.4879935, 
+            37.5427983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49623814", 
+        "length": "109.01234374535856", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2066578199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887025, 
+            37.5419968
+          ], 
+          [
+            -77.488348, 
+            37.5423976
+          ], 
+          [
+            -77.4879935, 
+            37.5427983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Lane", 
+        "access": "", 
+        "to": "49623814", 
+        "length": "108.89016835404635", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872069, 
+            37.543624
+          ], 
+          [
+            -77.487591, 
+            37.5432108
+          ], 
+          [
+            -77.4876814, 
+            37.5431136
+          ], 
+          [
+            -77.4879935, 
+            37.5427983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Lane", 
+        "access": "", 
+        "to": "49623814", 
+        "length": "115.10721669572727", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620750", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879935, 
+            37.5427983
+          ], 
+          [
+            -77.4886279, 
+            37.5431199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49623814", 
+        "length": "66.4058281407568", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629887", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4894605, 
+            37.5411736
+          ], 
+          [
+            -77.4907908, 
+            37.5396831
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Lane", 
+        "access": "", 
+        "to": "49623816", 
+        "length": "203.09831036654845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623818", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887025, 
+            37.5419968
+          ], 
+          [
+            -77.4889127, 
+            37.5416963
+          ], 
+          [
+            -77.4894605, 
+            37.5411736
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Lane", 
+        "access": "", 
+        "to": "49623816", 
+        "length": "113.81171779293757", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887025, 
+            37.5419968
+          ], 
+          [
+            -77.489773, 
+            37.5423994
+          ], 
+          [
+            -77.4902827, 
+            37.5417552
+          ], 
+          [
+            -77.4894605, 
+            37.5411736
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Bute Lane', 'Blue Shingles Lane']", 
+        "access": "", 
+        "to": "49623816", 
+        "length": "286.2494557260898", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49616398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6040701, 6034253]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.485653, 
+            37.5425948
+          ], 
+          [
+            -77.4852458, 
+            37.5427018
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49620748", 
+        "length": "37.832186298594976", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629882", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4863605, 
+            37.5423974
+          ], 
+          [
+            -77.4863114, 
+            37.5423995
+          ], 
+          [
+            -77.4860015, 
+            37.5424614
+          ], 
+          [
+            -77.485653, 
+            37.5425948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49620748", 
+        "length": "66.64974715516797", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2066578195", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872069, 
+            37.543624
+          ], 
+          [
+            -77.4863616, 
+            37.5433067
+          ], 
+          [
+            -77.4860962, 
+            37.5431736
+          ], 
+          [
+            -77.4859668, 
+            37.543063
+          ], 
+          [
+            -77.4858964, 
+            37.5429592
+          ], 
+          [
+            -77.4858323, 
+            37.5428647
+          ], 
+          [
+            -77.485653, 
+            37.5425948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Rendale Avenue", 
+        "access": "yes", 
+        "to": "49620748", 
+        "length": "185.92708802400176", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620750", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035932"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4863465, 
+            37.5410053
+          ], 
+          [
+            -77.4859193, 
+            37.541258
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rugby Road", 
+        "access": "", 
+        "to": "49616397", 
+        "length": "47.00514897612232", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1630546571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035791"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869674, 
+            37.5402383
+          ], 
+          [
+            -77.4868578, 
+            37.5402745
+          ], 
+          [
+            -77.4866573, 
+            37.5403652
+          ], 
+          [
+            -77.4865419, 
+            37.540729
+          ], 
+          [
+            -77.4863465, 
+            37.5410053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['James Falls Drive', 'Rugby Road']", 
+        "access": "", 
+        "to": "49616397", 
+        "length": "107.7875856405719", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572172", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[267611778, 6035791]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4863465, 
+            37.5410053
+          ], 
+          [
+            -77.4887025, 
+            37.5419968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bute Lane", 
+        "access": "", 
+        "to": "49616397", 
+        "length": "235.234301053155", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034253"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836742, 
+            37.5491881
+          ], 
+          [
+            -77.4834798, 
+            37.5491604
+          ], 
+          [
+            -77.4834208, 
+            37.5491327
+          ], 
+          [
+            -77.4833699, 
+            37.5490902
+          ], 
+          [
+            -77.4833404, 
+            37.5490477
+          ], 
+          [
+            -77.483327, 
+            37.5489966
+          ], 
+          [
+            -77.4833296, 
+            37.5489562
+          ], 
+          [
+            -77.4833584, 
+            37.5488451
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "567542031", 
+        "length": "58.298579131710916", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1567440707", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "143241198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833584, 
+            37.5488451
+          ], 
+          [
+            -77.4835486, 
+            37.5484821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "567542031", 
+        "length": "43.72038804803878", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628453", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833584, 
+            37.5488451
+          ], 
+          [
+            -77.4832848, 
+            37.5489174
+          ], 
+          [
+            -77.4831969, 
+            37.5489747
+          ], 
+          [
+            -77.4831213, 
+            37.5490097
+          ], 
+          [
+            -77.4830369, 
+            37.5490326
+          ], 
+          [
+            -77.4829623, 
+            37.5490451
+          ], 
+          [
+            -77.4828823, 
+            37.5490517
+          ], 
+          [
+            -77.4827762, 
+            37.5490474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "2594623222", 
+        "length": "59.140781016375996", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "567542031", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877427, 
+            37.5438119
+          ], 
+          [
+            -77.4872069, 
+            37.543624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Rendale Avenue", 
+        "access": "yes", 
+        "to": "49620752", 
+        "length": "51.66776215587079", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620750", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035932"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4837861, 
+            37.5455265
+          ], 
+          [
+            -77.4848779, 
+            37.5459173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Condie Street", 
+        "access": "", 
+        "to": "49619218", 
+        "length": "105.64028943480292", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619220", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267612031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4837861, 
+            37.5455265
+          ], 
+          [
+            -77.4826833, 
+            37.5451297
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Condie Street", 
+        "access": "", 
+        "to": "49618994", 
+        "length": "106.79969746516457", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619218", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267612031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833016, 
+            37.5464067
+          ], 
+          [
+            -77.4835492, 
+            37.545957
+          ], 
+          [
+            -77.4837861, 
+            37.5455265
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Huxley Street", 
+        "access": "", 
+        "to": "49619218", 
+        "length": "106.81878233034601", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040670"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868565, 
+            37.5424256
+          ], 
+          [
+            -77.4866194, 
+            37.5423865
+          ], 
+          [
+            -77.4863605, 
+            37.5423974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "2066578195", 
+        "length": "44.22265687602635", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2066578199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4863605, 
+            37.5423974
+          ], 
+          [
+            -77.4863652, 
+            37.5423107
+          ], 
+          [
+            -77.4863912, 
+            37.5422284
+          ], 
+          [
+            -77.4864416, 
+            37.542186
+          ], 
+          [
+            -77.4865179, 
+            37.5421413
+          ], 
+          [
+            -77.4865896, 
+            37.5421243
+          ], 
+          [
+            -77.486698, 
+            37.5421316
+          ], 
+          [
+            -77.4867942, 
+            37.5421655
+          ], 
+          [
+            -77.48684, 
+            37.5422187
+          ], 
+          [
+            -77.4868674, 
+            37.5422841
+          ], 
+          [
+            -77.486869, 
+            37.5423373
+          ], 
+          [
+            -77.4868565, 
+            37.5424256
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "2066578199", 
+        "length": "90.04602076694128", 
+        "key": "1", 
+        "oneway": "True", 
+        "from": "2066578195", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "196314669"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836742, 
+            37.5491881
+          ], 
+          [
+            -77.4835466, 
+            37.5492006
+          ], 
+          [
+            -77.4834342, 
+            37.549205
+          ], 
+          [
+            -77.4833055, 
+            37.5491923
+          ], 
+          [
+            -77.4831773, 
+            37.5491622
+          ], 
+          [
+            -77.4830541, 
+            37.5491354
+          ], 
+          [
+            -77.4829014, 
+            37.5490969
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2594623252", 
+        "length": "69.88480822592112", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1567440707", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "143241197"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4832533, 
+            37.5493181
+          ], 
+          [
+            -77.4831371, 
+            37.5492327
+          ], 
+          [
+            -77.48306, 
+            37.5491848
+          ], 
+          [
+            -77.4829829, 
+            37.5491393
+          ], 
+          [
+            -77.4829014, 
+            37.5490969
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "access": "", 
+        "to": "2594623252", 
+        "length": "39.681838664354885", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628452", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829014, 
+            37.5490969
+          ], 
+          [
+            -77.4828754, 
+            37.549084
+          ], 
+          [
+            -77.4827762, 
+            37.5490474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "access": "", 
+        "to": "2594623222", 
+        "length": "12.353374731588342", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594623252", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4884693, 
+            37.5461477
+          ], 
+          [
+            -77.4879316, 
+            37.5467275
+          ], 
+          [
+            -77.4876829, 
+            37.5469247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "French Street", 
+        "access": "", 
+        "to": "49619222", 
+        "length": "111.06339327697775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624555", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037433"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876829, 
+            37.5469247
+          ], 
+          [
+            -77.4848779, 
+            37.5459173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Condie Street", 
+        "access": "", 
+        "to": "49619220", 
+        "length": "271.5585282425614", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619222", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267612031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843984, 
+            37.5468035
+          ], 
+          [
+            -77.4862631, 
+            37.5474695
+          ], 
+          [
+            -77.4863943, 
+            37.5475164
+          ], 
+          [
+            -77.4870933, 
+            37.547242
+          ], 
+          [
+            -77.4872963, 
+            37.5471623
+          ], 
+          [
+            -77.4876829, 
+            37.5469247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "French Street", 
+        "access": "", 
+        "to": "49619222", 
+        "length": "324.9430299994908", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624550", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037433, 6037430]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4834211, 
+            37.5357608
+          ], 
+          [
+            -77.4830376, 
+            37.5353944
+          ], 
+          [
+            -77.4829728, 
+            37.5353053
+          ], 
+          [
+            -77.4829916, 
+            37.5351424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546970", 
+        "length": "82.5963063387409", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1630546749", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "150135408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842257, 
+            37.5415156
+          ], 
+          [
+            -77.4841504, 
+            37.5414375
+          ], 
+          [
+            -77.4840661, 
+            37.5414006
+          ], 
+          [
+            -77.4839905, 
+            37.5413941
+          ], 
+          [
+            -77.4838864, 
+            37.5414215
+          ], 
+          [
+            -77.4838306, 
+            37.5414625
+          ], 
+          [
+            -77.4838082, 
+            37.5414914
+          ], 
+          [
+            -77.4838011, 
+            37.5415112
+          ], 
+          [
+            -77.4837873, 
+            37.5415494
+          ], 
+          [
+            -77.4837892, 
+            37.5415962
+          ], 
+          [
+            -77.4838312, 
+            37.5416727
+          ], 
+          [
+            -77.4838871, 
+            37.5417135
+          ], 
+          [
+            -77.4839482, 
+            37.5417349
+          ], 
+          [
+            -77.4840387, 
+            37.5417388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546467", 
+        "length": "88.07095536204599", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1630546488", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "150135332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4840387, 
+            37.5417388
+          ], 
+          [
+            -77.4842916, 
+            37.5421127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546542", 
+        "length": "47.190880124231754", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1630546467", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "150135341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4840387, 
+            37.5417388
+          ], 
+          [
+            -77.4841374, 
+            37.5417055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546471", 
+        "length": "9.459823445850525", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1630546467", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "150135332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4832533, 
+            37.5493181
+          ], 
+          [
+            -77.4831558, 
+            37.5493088
+          ], 
+          [
+            -77.4830539, 
+            37.5493197
+          ], 
+          [
+            -77.4821837, 
+            37.5495261
+          ], 
+          [
+            -77.4819085, 
+            37.5495709
+          ], 
+          [
+            -77.4816373, 
+            37.5495792
+          ], 
+          [
+            -77.481361, 
+            37.5495774
+          ], 
+          [
+            -77.4809446, 
+            37.5495537
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "443820615", 
+        "length": "207.71180831873022", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628452", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "143241200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835486, 
+            37.5484821
+          ], 
+          [
+            -77.4842785, 
+            37.5487424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rueger Street", 
+        "access": "", 
+        "to": "49628453", 
+        "length": "70.57740431449281", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629536", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4839508, 
+            37.5476961
+          ], 
+          [
+            -77.4837472, 
+            37.5480931
+          ], 
+          [
+            -77.4835486, 
+            37.5484821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "49628453", 
+        "length": "94.34462495460201", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617249", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4841374, 
+            37.5417055
+          ], 
+          [
+            -77.4842055, 
+            37.541637
+          ], 
+          [
+            -77.4842235, 
+            37.5415784
+          ], 
+          [
+            -77.4842216, 
+            37.541542
+          ], 
+          [
+            -77.4842257, 
+            37.5415156
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546488", 
+        "length": "23.420595435302914", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1630546471", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "150135332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4841374, 
+            37.5417055
+          ], 
+          [
+            -77.4843911, 
+            37.5420642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546471", 
+        "length": "45.74244517970701", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619009", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "150135344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4822227, 
+            37.5460099
+          ], 
+          [
+            -77.4833016, 
+            37.5464067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "French Street", 
+        "access": "", 
+        "to": "49618992", 
+        "length": "104.88298609931398", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037430"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826833, 
+            37.5451297
+          ], 
+          [
+            -77.4824495, 
+            37.5455766
+          ], 
+          [
+            -77.4822227, 
+            37.5460099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Walpole Street", 
+        "access": "", 
+        "to": "49618992", 
+        "length": "105.99341253570213", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618994", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4818039, 
+            37.5469245
+          ], 
+          [
+            -77.4820142, 
+            37.5464757
+          ], 
+          [
+            -77.4822227, 
+            37.5460099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Walpole Street", 
+        "access": "", 
+        "to": "49618992", 
+        "length": "108.22726376283643", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617244", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826833, 
+            37.5451297
+          ], 
+          [
+            -77.4815723, 
+            37.544729
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Condie Street", 
+        "access": "", 
+        "to": "49617121", 
+        "length": "107.63798407321272", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618994", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267612031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483148, 
+            37.5442336
+          ], 
+          [
+            -77.4829128, 
+            37.5446872
+          ], 
+          [
+            -77.4826833, 
+            37.5451297
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Walpole Street", 
+        "access": "", 
+        "to": "49618994", 
+        "length": "107.7661904832008", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618995", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4820203, 
+            37.5438581
+          ], 
+          [
+            -77.4825734, 
+            37.544033
+          ], 
+          [
+            -77.483148, 
+            37.5442336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Douglasdale Road", 
+        "access": "", 
+        "to": "49618995", 
+        "length": "107.882184622326", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617123", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836058, 
+            37.5433563
+          ], 
+          [
+            -77.4833892, 
+            37.5437713
+          ], 
+          [
+            -77.483148, 
+            37.5442336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Walpole Street", 
+        "access": "", 
+        "to": "49618995", 
+        "length": "105.60127271558633", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618997", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.483148, 
+            37.5442336
+          ], 
+          [
+            -77.4842508, 
+            37.5446162
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Douglasdale Road", 
+        "access": "", 
+        "to": "49618995", 
+        "length": "106.1578337928473", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627982", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836058, 
+            37.5433563
+          ], 
+          [
+            -77.4830644, 
+            37.5431608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49618997", 
+        "length": "52.46474940003461", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612016", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836058, 
+            37.5433563
+          ], 
+          [
+            -77.4841872, 
+            37.5435665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49618997", 
+        "length": "56.35265651028021", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4859193, 
+            37.541258
+          ], 
+          [
+            -77.4854865, 
+            37.5413975
+          ], 
+          [
+            -77.4846872, 
+            37.5414698
+          ], 
+          [
+            -77.4842257, 
+            37.5415156
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1630546488", 
+        "length": "153.1711273010217", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1630546571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "150135355"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866365, 
+            37.5478209
+          ], 
+          [
+            -77.4856705, 
+            37.5482484
+          ], 
+          [
+            -77.4841582, 
+            37.5490092
+          ], 
+          [
+            -77.483957, 
+            37.5491027
+          ], 
+          [
+            -77.4837883, 
+            37.5491604
+          ], 
+          [
+            -77.4836742, 
+            37.5491881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "1567440707", 
+        "length": "302.7917605813576", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "443820601", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "143241197"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4910481, 
+            37.5426877
+          ], 
+          [
+            -77.4907122, 
+            37.543143
+          ], 
+          [
+            -77.4904118, 
+            37.5438306
+          ], 
+          [
+            -77.4901621, 
+            37.5444328
+          ], 
+          [
+            -77.4898525, 
+            37.5452251
+          ], 
+          [
+            -77.4896661, 
+            37.5455862
+          ], 
+          [
+            -77.4894902, 
+            37.5458706
+          ], 
+          [
+            -77.4892734, 
+            37.5461126
+          ], 
+          [
+            -77.4890206, 
+            37.5463379
+          ], 
+          [
+            -77.488662, 
+            37.5466046
+          ], 
+          [
+            -77.488151, 
+            37.5469327
+          ], 
+          [
+            -77.4873034, 
+            37.5474409
+          ], 
+          [
+            -77.4866365, 
+            37.5478209
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "", 
+        "access": "", 
+        "to": "443820601", 
+        "length": "715.0394448514777", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49621117", 
+        "ref": "VA 146", 
+        "highway": "motorway", 
+        "osmid": "46420361"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4866365, 
+            37.5478209
+          ], 
+          [
+            -77.4845042, 
+            37.5490811
+          ], 
+          [
+            -77.4839571, 
+            37.5493649
+          ], 
+          [
+            -77.4836887, 
+            37.5494748
+          ], 
+          [
+            -77.4834257, 
+            37.5495641
+          ], 
+          [
+            -77.4831096, 
+            37.5496413
+          ], 
+          [
+            -77.4828447, 
+            37.5496873
+          ], 
+          [
+            -77.4825868, 
+            37.5497157
+          ], 
+          [
+            -77.4823323, 
+            37.5497257
+          ], 
+          [
+            -77.4820663, 
+            37.5497217
+          ], 
+          [
+            -77.4817711, 
+            37.5496957
+          ], 
+          [
+            -77.4815061, 
+            37.5496605
+          ], 
+          [
+            -77.4809446, 
+            37.5495537
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "", 
+        "access": "", 
+        "to": "443820615", 
+        "length": "566.830409400276", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "443820601", 
+        "ref": "VA 146", 
+        "highway": "motorway", 
+        "osmid": "335957893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869674, 
+            37.5402383
+          ], 
+          [
+            -77.4868152, 
+            37.5401811
+          ], 
+          [
+            -77.4866914, 
+            37.540153
+          ], 
+          [
+            -77.4867536, 
+            37.5399749
+          ], 
+          [
+            -77.4864996, 
+            37.5389936
+          ], 
+          [
+            -77.4864223, 
+            37.5383167
+          ], 
+          [
+            -77.4863758, 
+            37.5381389
+          ], 
+          [
+            -77.4858315, 
+            37.5372987
+          ], 
+          [
+            -77.4857762, 
+            37.5372034
+          ], 
+          [
+            -77.4857419, 
+            37.5371619
+          ], 
+          [
+            -77.4851778, 
+            37.5364961
+          ], 
+          [
+            -77.4848992, 
+            37.536215
+          ], 
+          [
+            -77.4848237, 
+            37.5361388
+          ], 
+          [
+            -77.4844642, 
+            37.5359853
+          ], 
+          [
+            -77.48406, 
+            37.5358717
+          ], 
+          [
+            -77.4835986, 
+            37.5357978
+          ], 
+          [
+            -77.4834211, 
+            37.5357608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Pump House Drive", 
+        "access": "", 
+        "to": "1630546749", 
+        "length": "647.5293589293112", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572172", 
+        "ref": "", 
+        "highway": "['unclassified', 'residential']", 
+        "osmid": "[267611776, 267611779]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815718, 
+            37.5369014
+          ], 
+          [
+            -77.4817016, 
+            37.536947
+          ], 
+          [
+            -77.4818411, 
+            37.5369215
+          ], 
+          [
+            -77.4819484, 
+            37.5368364
+          ], 
+          [
+            -77.4820128, 
+            37.5366578
+          ], 
+          [
+            -77.4822059, 
+            37.5361303
+          ], 
+          [
+            -77.4823132, 
+            37.5359261
+          ], 
+          [
+            -77.4824527, 
+            37.5357985
+          ], 
+          [
+            -77.4826887, 
+            37.5356964
+          ], 
+          [
+            -77.4829462, 
+            37.5356539
+          ], 
+          [
+            -77.4831715, 
+            37.5356709
+          ], 
+          [
+            -77.4834211, 
+            37.5357608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Pump House Drive", 
+        "access": "", 
+        "to": "1630546749", 
+        "length": "254.72544558704863", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630063", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "267611776"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848224, 
+            37.5426915
+          ], 
+          [
+            -77.4846257, 
+            37.5424054
+          ], 
+          [
+            -77.4843911, 
+            37.5420642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Wilbon Street", 
+        "access": "yes", 
+        "to": "49619009", 
+        "length": "79.46685346299148", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623969", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843911, 
+            37.5420642
+          ], 
+          [
+            -77.4857853, 
+            37.5414738
+          ], 
+          [
+            -77.4858788, 
+            37.5413726
+          ], 
+          [
+            -77.4859193, 
+            37.541258
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rugby Road", 
+        "access": "", 
+        "to": "1630546571", 
+        "length": "166.5856278192524", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619009", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611317"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843911, 
+            37.5420642
+          ], 
+          [
+            -77.4842916, 
+            37.5421127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rugby Road", 
+        "access": "", 
+        "to": "49619009", 
+        "length": "10.30061750682548", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1630546542", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611318"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877013, 
+            37.5384513
+          ], 
+          [
+            -77.487672, 
+            37.5385495
+          ], 
+          [
+            -77.4876818, 
+            37.5387483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "James Falls Drive", 
+        "access": "", 
+        "to": "2730572169", 
+        "length": "33.35261535143719", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572171", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611778"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4809446, 
+            37.5495537
+          ], 
+          [
+            -77.4788042, 
+            37.5490563
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "", 
+        "access": "", 
+        "to": "445851759", 
+        "length": "196.6887605386839", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "443820615", 
+        "ref": "VA 146", 
+        "highway": "motorway", 
+        "osmid": "335957893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4779944, 
+            37.5485043
+          ], 
+          [
+            -77.4782013, 
+            37.5482247
+          ], 
+          [
+            -77.4782656, 
+            37.548163
+          ], 
+          [
+            -77.4783407, 
+            37.548112
+          ], 
+          [
+            -77.4784239, 
+            37.5480694
+          ], 
+          [
+            -77.478507, 
+            37.548046
+          ], 
+          [
+            -77.478606, 
+            37.5480352
+          ], 
+          [
+            -77.4787002, 
+            37.5480333
+          ], 
+          [
+            -77.4788074, 
+            37.5480524
+          ], 
+          [
+            -77.4788986, 
+            37.5480779
+          ], 
+          [
+            -77.4789737, 
+            37.5481141
+          ], 
+          [
+            -77.4790408, 
+            37.5481609
+          ], 
+          [
+            -77.4791052, 
+            37.5482247
+          ], 
+          [
+            -77.4791505, 
+            37.5482946
+          ], 
+          [
+            -77.4791773, 
+            37.5483648
+          ], 
+          [
+            -77.4791883, 
+            37.548448
+          ], 
+          [
+            -77.4791854, 
+            37.5485115
+          ], 
+          [
+            -77.4791642, 
+            37.5485926
+          ], 
+          [
+            -77.4791317, 
+            37.5486604
+          ], 
+          [
+            -77.4790834, 
+            37.5487242
+          ], 
+          [
+            -77.4790191, 
+            37.5487774
+          ], 
+          [
+            -77.4789308, 
+            37.5488244
+          ], 
+          [
+            -77.4788423, 
+            37.5488584
+          ], 
+          [
+            -77.4787457, 
+            37.5488797
+          ], 
+          [
+            -77.4786167, 
+            37.5488879
+          ], 
+          [
+            -77.4781361, 
+            37.5488736
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "443820619", 
+        "length": "277.98704390368823", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594618275", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38335240"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4781361, 
+            37.5488736
+          ], 
+          [
+            -77.4788042, 
+            37.5490563
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "3", 
+        "name": "Downtown Expressway", 
+        "access": "", 
+        "to": "443820619", 
+        "length": "62.32169731435489", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445851759", 
+        "ref": "VA 195", 
+        "highway": "motorway", 
+        "osmid": "123061026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842508, 
+            37.5446162
+          ], 
+          [
+            -77.4840108, 
+            37.5450706
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Huxley Street", 
+        "access": "", 
+        "to": "49627982", 
+        "length": "54.79400845836932", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631458", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4847023, 
+            37.5437515
+          ], 
+          [
+            -77.4844784, 
+            37.5441803
+          ], 
+          [
+            -77.4842508, 
+            37.5446162
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Huxley Street", 
+        "access": "", 
+        "to": "49627982", 
+        "length": "104.09379713997163", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620130", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842508, 
+            37.5446162
+          ], 
+          [
+            -77.4853819, 
+            37.5450222
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Douglasdale Road", 
+        "access": "", 
+        "to": "49627982", 
+        "length": "109.49588475040333", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627983", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4853819, 
+            37.5450222
+          ], 
+          [
+            -77.4884693, 
+            37.5461477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Douglasdale Road", 
+        "access": "", 
+        "to": "49627983", 
+        "length": "299.6712607834541", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624555", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848779, 
+            37.5459173
+          ], 
+          [
+            -77.4851342, 
+            37.5454621
+          ], 
+          [
+            -77.4853819, 
+            37.5450222
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "49627983", 
+        "length": "109.02949581238678", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619220", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858224, 
+            37.5441538
+          ], 
+          [
+            -77.4856034, 
+            37.5445856
+          ], 
+          [
+            -77.4853819, 
+            37.5450222
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "49627983", 
+        "length": "104.10821788564861", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622734", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865138, 
+            37.5443432
+          ], 
+          [
+            -77.4868333, 
+            37.5440243
+          ], 
+          [
+            -77.4868916, 
+            37.5439661
+          ], 
+          [
+            -77.4869132, 
+            37.5439427
+          ], 
+          [
+            -77.4872069, 
+            37.543624
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Lane", 
+        "access": "", 
+        "to": "49620750", 
+        "length": "100.69402644458884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620133", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808834, 
+            37.5465898
+          ], 
+          [
+            -77.4808519, 
+            37.5466861
+          ], 
+          [
+            -77.4806413, 
+            37.5475762
+          ], 
+          [
+            -77.4804892, 
+            37.5482186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Sheppard Street", 
+        "access": "", 
+        "to": "49629526", 
+        "length": "184.49462681560772", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617115", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38173943"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4804892, 
+            37.5482186
+          ], 
+          [
+            -77.4827762, 
+            37.5490474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "access": "", 
+        "to": "49629526", 
+        "length": "221.74689072498012", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594623222", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4818039, 
+            37.5469245
+          ], 
+          [
+            -77.4808834, 
+            37.5465898
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Grant Street", 
+        "access": "", 
+        "to": "49617244", 
+        "length": "89.30488057553448", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617115", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4818039, 
+            37.5469245
+          ], 
+          [
+            -77.4828583, 
+            37.5473073
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Grant Street", 
+        "access": "", 
+        "to": "49617244", 
+        "length": "102.26795984328629", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617246", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4828583, 
+            37.5473073
+          ], 
+          [
+            -77.4839508, 
+            37.5476961
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Grant Street", 
+        "access": "", 
+        "to": "49617246", 
+        "length": "105.60316955792312", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617249", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833016, 
+            37.5464067
+          ], 
+          [
+            -77.48307, 
+            37.5468522
+          ], 
+          [
+            -77.4828583, 
+            37.5473073
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Huxley Street", 
+        "access": "", 
+        "to": "49617246", 
+        "length": "107.5474684462024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040670"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843984, 
+            37.5468035
+          ], 
+          [
+            -77.4841668, 
+            37.5472695
+          ], 
+          [
+            -77.4839508, 
+            37.5476961
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "49617249", 
+        "length": "106.83998611638371", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624550", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4823081, 
+            37.5428831
+          ], 
+          [
+            -77.482489, 
+            37.5429455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Park Drive;Blanton Avenue", 
+        "access": "", 
+        "to": "2730574700", 
+        "length": "17.398071413809785", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617125", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "306903182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842916, 
+            37.5421127
+          ], 
+          [
+            -77.4845167, 
+            37.5424501
+          ], 
+          [
+            -77.4847019, 
+            37.5427277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wilbon Street", 
+        "access": "", 
+        "to": "2730569813", 
+        "length": "77.38527977532142", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1630546542", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611471"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842916, 
+            37.5421127
+          ], 
+          [
+            -77.4830386, 
+            37.5426627
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rugby Road", 
+        "access": "", 
+        "to": "1630546542", 
+        "length": "126.30702274831104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612017", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611318"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.478542, 
+            37.5492772
+          ], 
+          [
+            -77.4794827, 
+            37.549515
+          ], 
+          [
+            -77.4806957, 
+            37.5498772
+          ], 
+          [
+            -77.4810281, 
+            37.5499581
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "", 
+        "access": "", 
+        "to": "443820657", 
+        "length": "232.03150336475463", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "445851313", 
+        "ref": "VA 146", 
+        "highway": "motorway", 
+        "osmid": "37844927"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4843984, 
+            37.5468035
+          ], 
+          [
+            -77.484642, 
+            37.5463534
+          ], 
+          [
+            -77.4848779, 
+            37.5459173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Belmont Avenue", 
+        "access": "", 
+        "to": "49619220", 
+        "length": "107.25606709903249", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624550", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039231"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889884, 
+            37.5452909
+          ], 
+          [
+            -77.4884545, 
+            37.5451003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49621121", 
+        "length": "51.636279931953986", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621189", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885857, 
+            37.5390465
+          ], 
+          [
+            -77.4884374, 
+            37.5387815
+          ], 
+          [
+            -77.4883465, 
+            37.5387172
+          ], 
+          [
+            -77.4882852, 
+            37.5387063
+          ], 
+          [
+            -77.4876818, 
+            37.5387483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brockenbrough Lane", 
+        "access": "", 
+        "to": "2730572169", 
+        "length": "101.95280019985276", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572194", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611784"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876818, 
+            37.5387483
+          ], 
+          [
+            -77.4875962, 
+            37.5390658
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "James Falls Drive", 
+        "access": "", 
+        "to": "2730572169", 
+        "length": "36.112298371227055", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611778"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4874375, 
+            37.5398279
+          ], 
+          [
+            -77.4874115, 
+            37.5398561
+          ], 
+          [
+            -77.4870109, 
+            37.5402125
+          ], 
+          [
+            -77.4869674, 
+            37.5402383
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "James Falls Drive", 
+        "access": "", 
+        "to": "2730572172", 
+        "length": "61.77688223023631", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572176", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611778"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4878244, 
+            37.5403887
+          ], 
+          [
+            -77.4876323, 
+            37.540404
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tow Path Court", 
+        "access": "", 
+        "to": "2730572173", 
+        "length": "17.027312806913617", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572174", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611780"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4878244, 
+            37.5403887
+          ], 
+          [
+            -77.4879402, 
+            37.5402761
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tow Path Circle", 
+        "access": "", 
+        "to": "2730572173", 
+        "length": "16.16029667709554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572175", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879402, 
+            37.5402761
+          ], 
+          [
+            -77.4880173, 
+            37.5402824
+          ], 
+          [
+            -77.4886638, 
+            37.5406304
+          ], 
+          [
+            -77.4886816, 
+            37.5406932
+          ], 
+          [
+            -77.4886638, 
+            37.5407386
+          ], 
+          [
+            -77.4886144, 
+            37.5407762
+          ], 
+          [
+            -77.488561, 
+            37.5407935
+          ], 
+          [
+            -77.4884938, 
+            37.5407841
+          ], 
+          [
+            -77.4878414, 
+            37.540447
+          ], 
+          [
+            -77.4878244, 
+            37.5403887
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tow Path Circle", 
+        "access": "", 
+        "to": "2730572173", 
+        "length": "180.67379510422367", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "2730572175", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879402, 
+            37.5402761
+          ], 
+          [
+            -77.4879123, 
+            37.5402512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tow Path Lane", 
+        "access": "", 
+        "to": "2730572175", 
+        "length": "3.704719648545159", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572185", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4874375, 
+            37.5398279
+          ], 
+          [
+            -77.4879123, 
+            37.5402512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tow Path Lane", 
+        "access": "", 
+        "to": "2730572176", 
+        "length": "63.009614875647586", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572185", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4875962, 
+            37.5390658
+          ], 
+          [
+            -77.4875906, 
+            37.5390866
+          ], 
+          [
+            -77.487532, 
+            37.5392906
+          ], 
+          [
+            -77.4875385, 
+            37.5396366
+          ], 
+          [
+            -77.4874734, 
+            37.539789
+          ], 
+          [
+            -77.4874375, 
+            37.5398279
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "James Falls Drive", 
+        "access": "", 
+        "to": "2730572176", 
+        "length": "87.383791523563", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611778"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4892167, 
+            37.5384133
+          ], 
+          [
+            -77.489033, 
+            37.5389378
+          ], 
+          [
+            -77.4889826, 
+            37.5390091
+          ], 
+          [
+            -77.4889382, 
+            37.5390586
+          ], 
+          [
+            -77.4888734, 
+            37.5391081
+          ], 
+          [
+            -77.4887149, 
+            37.5391811
+          ], 
+          [
+            -77.4886957, 
+            37.53919
+          ], 
+          [
+            -77.4886405, 
+            37.5392319
+          ], 
+          [
+            -77.4884921, 
+            37.5394201
+          ], 
+          [
+            -77.4884562, 
+            37.5394656
+          ], 
+          [
+            -77.4879123, 
+            37.5402512
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tow Path Lane S", 
+        "access": "", 
+        "to": "2730572185", 
+        "length": "239.53385217837328", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611783"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.480634, 
+            37.5465122
+          ], 
+          [
+            -77.4808834, 
+            37.5465898
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Grant Street", 
+        "access": "", 
+        "to": "2730568602", 
+        "length": "23.626727763572596", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617115", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4790921, 
+            37.5465392
+          ], 
+          [
+            -77.4793865, 
+            37.5466248
+          ], 
+          [
+            -77.4796223, 
+            37.5466712
+          ], 
+          [
+            -77.4798461, 
+            37.5466903
+          ], 
+          [
+            -77.4800199, 
+            37.5466753
+          ], 
+          [
+            -77.4803814, 
+            37.5466043
+          ], 
+          [
+            -77.4805109, 
+            37.5465606
+          ], 
+          [
+            -77.480634, 
+            37.5465122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Blanton Avenue", 
+        "access": "", 
+        "to": "2730568602", 
+        "length": "141.7174408289452", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617127", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6034508"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4847023, 
+            37.5437515
+          ], 
+          [
+            -77.4841872, 
+            37.5435665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49620130", 
+        "length": "49.86977067680418", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4847023, 
+            37.5437515
+          ], 
+          [
+            -77.4858224, 
+            37.5441538
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49620130", 
+        "length": "108.44347406129104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622734", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865138, 
+            37.5443432
+          ], 
+          [
+            -77.4864645, 
+            37.5442331
+          ], 
+          [
+            -77.4863187, 
+            37.5441398
+          ], 
+          [
+            -77.486012, 
+            37.5440252
+          ], 
+          [
+            -77.4855871, 
+            37.5438715
+          ], 
+          [
+            -77.4853433, 
+            37.543787
+          ], 
+          [
+            -77.4851197, 
+            37.5437076
+          ], 
+          [
+            -77.4849623, 
+            37.5436575
+          ], 
+          [
+            -77.4848046, 
+            37.5436528
+          ], 
+          [
+            -77.4847023, 
+            37.5437515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Grantland Drive", 
+        "access": "yes", 
+        "to": "49620130", 
+        "length": "188.7627581387599", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620133", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4779944, 
+            37.5485043
+          ], 
+          [
+            -77.4786337, 
+            37.5473411
+          ], 
+          [
+            -77.478955, 
+            37.5467564
+          ], 
+          [
+            -77.4790921, 
+            37.5465392
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South Boulevard", 
+        "access": "", 
+        "to": "49617127", 
+        "length": "239.0811403979723", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594618275", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "[327377564, 38173941]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865138, 
+            37.5443432
+          ], 
+          [
+            -77.4864821, 
+            37.5443857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Lane", 
+        "access": "", 
+        "to": "49620133", 
+        "length": "5.491903328906829", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622736", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883662, 
+            37.5394149
+          ], 
+          [
+            -77.4875962, 
+            37.5390658
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Canal Road", 
+        "access": "", 
+        "to": "2730572198", 
+        "length": "78.22736494189095", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730572199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482754, 
+            37.5430447
+          ], 
+          [
+            -77.4830644, 
+            37.5431608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "2730568617", 
+        "length": "30.26736668733271", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612016", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4830386, 
+            37.5426627
+          ], 
+          [
+            -77.4829164, 
+            37.5427623
+          ], 
+          [
+            -77.4828407, 
+            37.5428633
+          ], 
+          [
+            -77.482754, 
+            37.5430447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rugby Road", 
+        "access": "", 
+        "to": "2730568617", 
+        "length": "50.099896479483355", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612017", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "267611318"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482489, 
+            37.5429455
+          ], 
+          [
+            -77.4825776, 
+            37.5429787
+          ], 
+          [
+            -77.482754, 
+            37.5430447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "2730568617", 
+        "length": "25.844256568143948", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617125", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852458, 
+            37.5427018
+          ], 
+          [
+            -77.4850745, 
+            37.5428749
+          ], 
+          [
+            -77.4848084, 
+            37.5430042
+          ], 
+          [
+            -77.4845188, 
+            37.5430298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49629881", 
+        "length": "77.69479501263591", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629882", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44740513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4845188, 
+            37.5430298
+          ], 
+          [
+            -77.4841872, 
+            37.5435665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49629881", 
+        "length": "66.47344580971082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4847019, 
+            37.5427277
+          ], 
+          [
+            -77.4845877, 
+            37.5428388
+          ], 
+          [
+            -77.4845188, 
+            37.5430298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49629881", 
+        "length": "38.03773687631114", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730569813", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44740513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848224, 
+            37.5426915
+          ], 
+          [
+            -77.4849578, 
+            37.5426818
+          ], 
+          [
+            -77.4852458, 
+            37.5427018
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49629882", 
+        "length": "37.48604377003088", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623969", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44740513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4884545, 
+            37.5451003
+          ], 
+          [
+            -77.4864821, 
+            37.5443857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49621189", 
+        "length": "191.24282478439395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622736", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4890914, 
+            37.5439842
+          ], 
+          [
+            -77.4886909, 
+            37.544686
+          ], 
+          [
+            -77.4884545, 
+            37.5451003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Carrolton Street", 
+        "access": "yes", 
+        "to": "49621189", 
+        "length": "136.25507891759622", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621191", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858224, 
+            37.5441538
+          ], 
+          [
+            -77.4864821, 
+            37.5443857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Garrett Street", 
+        "access": "yes", 
+        "to": "49622734", 
+        "length": "63.639921052100156", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622736", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848224, 
+            37.5426915
+          ], 
+          [
+            -77.4847019, 
+            37.5427277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sunset Avenue", 
+        "access": "", 
+        "to": "49623969", 
+        "length": "11.364235644420623", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730569813", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "44740513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815723, 
+            37.544729
+          ], 
+          [
+            -77.4820203, 
+            37.5438581
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Park Drive;Blanton Avenue", 
+        "access": "", 
+        "to": "49617123", 
+        "length": "104.61430464598604", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617121", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "306903182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4820203, 
+            37.5438581
+          ], 
+          [
+            -77.482489, 
+            37.5429455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Park Drive;Blanton Avenue", 
+        "access": "", 
+        "to": "49617125", 
+        "length": "109.59858858057379", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617123", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "306903182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833016, 
+            37.5464067
+          ], 
+          [
+            -77.4843984, 
+            37.5468035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "French Street", 
+        "access": "", 
+        "to": "49624548", 
+        "length": "106.31658004485708", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624550", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037430"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4830386, 
+            37.5426627
+          ], 
+          [
+            -77.4831298, 
+            37.5428238
+          ], 
+          [
+            -77.4831402, 
+            37.5429411
+          ], 
+          [
+            -77.4831143, 
+            37.5430667
+          ], 
+          [
+            -77.4830644, 
+            37.5431608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Carillon Court", 
+        "access": "yes", 
+        "to": "49612016", 
+        "length": "58.22938170085158", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612017", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032895"
+      }
+    }
+  ]
+}

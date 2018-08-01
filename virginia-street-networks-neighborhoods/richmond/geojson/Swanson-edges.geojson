@@ -1,0 +1,1245 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5003729, 
+            37.4845627
+          ], 
+          [
+            -77.5004357, 
+            37.4845259
+          ], 
+          [
+            -77.5012112, 
+            37.4840722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503877", 
+        "length": "91.92778646638477", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627563", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4975478, 
+            37.4862114
+          ], 
+          [
+            -77.4977429, 
+            37.4860965
+          ], 
+          [
+            -77.4982929, 
+            37.4857781
+          ], 
+          [
+            -77.4988938, 
+            37.4854304
+          ], 
+          [
+            -77.4992477, 
+            37.4852228
+          ], 
+          [
+            -77.5003729, 
+            37.4845627
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "49627563", 
+        "length": "309.5148923082146", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503887", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5006021, 
+            37.491588
+          ], 
+          [
+            -77.5003603, 
+            37.491374
+          ], 
+          [
+            -77.5000465, 
+            37.4907864
+          ], 
+          [
+            -77.4999328, 
+            37.4905498
+          ], 
+          [
+            -77.4996541, 
+            37.4903859
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Swanson Road", 
+        "to": "49612817", 
+        "length": "161.72890343414738", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612819", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5007318, 
+            37.4898187
+          ], 
+          [
+            -77.5003268, 
+            37.4898894
+          ], 
+          [
+            -77.5000897, 
+            37.4899449
+          ], 
+          [
+            -77.4998332, 
+            37.4900899
+          ], 
+          [
+            -77.4996541, 
+            37.4903859
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lorieville Lane", 
+        "to": "49612817", 
+        "length": "122.72932649523995", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039756"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4973464, 
+            37.4895788
+          ], 
+          [
+            -77.4979021, 
+            37.4899347
+          ], 
+          [
+            -77.4987754, 
+            37.4902133
+          ], 
+          [
+            -77.4996541, 
+            37.4903859
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Swanson Road", 
+        "to": "49612817", 
+        "length": "225.9822599911434", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612815", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5012112, 
+            37.4840722
+          ], 
+          [
+            -77.502107, 
+            37.485047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roberson Lane", 
+        "to": "2393503877", 
+        "length": "134.18876750346803", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618164", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034940"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5012112, 
+            37.4840722
+          ], 
+          [
+            -77.5015203, 
+            37.4838913
+          ], 
+          [
+            -77.502323, 
+            37.4834235
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "49614964", 
+        "length": "121.79980681444626", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503877", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896019, 
+            37.4936993
+          ], 
+          [
+            -77.4902522, 
+            37.492929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Felton Road", 
+        "to": "2393508490", 
+        "length": "103.12184392044122", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49632273", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041188"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896019, 
+            37.4936993
+          ], 
+          [
+            -77.4894059, 
+            37.4935768
+          ], 
+          [
+            -77.4892076, 
+            37.4934298
+          ], 
+          [
+            -77.4889728, 
+            37.4932456
+          ], 
+          [
+            -77.4886027, 
+            37.4929098
+          ], 
+          [
+            -77.4884406, 
+            37.4927274
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393503907", 
+        "length": "149.54801027722948", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393508490", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490087, 
+            37.4939602
+          ], 
+          [
+            -77.4900294, 
+            37.4939328
+          ], 
+          [
+            -77.4897372, 
+            37.4937838
+          ], 
+          [
+            -77.4896019, 
+            37.4936993
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393508490", 
+        "length": "51.77487266558198", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620241", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933945, 
+            37.4956425
+          ], 
+          [
+            -77.497059, 
+            37.490932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hodges Road", 
+        "to": "2393508494", 
+        "length": "615.6992988365442", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619315", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933945, 
+            37.4956425
+          ], 
+          [
+            -77.4931965, 
+            37.4955535
+          ], 
+          [
+            -77.4929696, 
+            37.4954252
+          ], 
+          [
+            -77.4928626, 
+            37.4953527
+          ], 
+          [
+            -77.4926643, 
+            37.4952037
+          ], 
+          [
+            -77.4925552, 
+            37.4951149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49609524", 
+        "length": "94.98202950884458", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393508494", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494156, 
+            37.4958733
+          ], 
+          [
+            -77.4939322, 
+            37.4958247
+          ], 
+          [
+            -77.4936714, 
+            37.4957522
+          ], 
+          [
+            -77.4934313, 
+            37.4956591
+          ], 
+          [
+            -77.4933945, 
+            37.4956425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393508494", 
+        "length": "72.1813537074726", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617022", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4949461, 
+            37.4879152
+          ], 
+          [
+            -77.4951119, 
+            37.4879599
+          ], 
+          [
+            -77.4973464, 
+            37.4895788
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Swanson Road", 
+        "to": "49612815", 
+        "length": "282.4997853703883", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2393503896", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4982874, 
+            37.48882
+          ], 
+          [
+            -77.4981719, 
+            37.4888439
+          ], 
+          [
+            -77.4979729, 
+            37.4889738
+          ], 
+          [
+            -77.4973464, 
+            37.4895788
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ullswater Avenue", 
+        "to": "49612815", 
+        "length": "120.37026331244118", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145357351", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033479"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911993, 
+            37.4943118
+          ], 
+          [
+            -77.490739, 
+            37.4941626
+          ], 
+          [
+            -77.4903738, 
+            37.494057
+          ], 
+          [
+            -77.490087, 
+            37.4939602
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49620241", 
+        "length": "105.68650994871027", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620242", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4925552, 
+            37.4951149
+          ], 
+          [
+            -77.4923565, 
+            37.4949533
+          ], 
+          [
+            -77.4921296, 
+            37.4947783
+          ], 
+          [
+            -77.4919834, 
+            37.4946655
+          ], 
+          [
+            -77.4917225, 
+            37.4945206
+          ], 
+          [
+            -77.4914095, 
+            37.4943799
+          ], 
+          [
+            -77.4911993, 
+            37.4943118
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49620242", 
+        "length": "150.91977692060948", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609524", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4967008, 
+            37.4963353
+          ], 
+          [
+            -77.4965463, 
+            37.4962821
+          ], 
+          [
+            -77.4961706, 
+            37.49616
+          ], 
+          [
+            -77.4959072, 
+            37.4960917
+          ], 
+          [
+            -77.4956567, 
+            37.4960441
+          ], 
+          [
+            -77.4952602, 
+            37.4959903
+          ], 
+          [
+            -77.4951013, 
+            37.4959752
+          ], 
+          [
+            -77.4948453, 
+            37.4959509
+          ], 
+          [
+            -77.4944436, 
+            37.4959137
+          ], 
+          [
+            -77.4941801, 
+            37.4958785
+          ], 
+          [
+            -77.494156, 
+            37.4958733
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49617022", 
+        "length": "231.72142039381774", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620245", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5012752, 
+            37.4897842
+          ], 
+          [
+            -77.5015228, 
+            37.4897538
+          ], 
+          [
+            -77.5016571, 
+            37.4897051
+          ], 
+          [
+            -77.5017301, 
+            37.4896351
+          ], 
+          [
+            -77.5017926, 
+            37.4895272
+          ], 
+          [
+            -77.5017658, 
+            37.4893865
+          ], 
+          [
+            -77.5016461, 
+            37.4887791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lorieville Lane", 
+        "to": "49629590", 
+        "length": "142.66425312776119", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615856", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039756"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4949461, 
+            37.4879152
+          ], 
+          [
+            -77.4951472, 
+            37.4877091
+          ], 
+          [
+            -77.4953372, 
+            37.4875496
+          ], 
+          [
+            -77.4955184, 
+            37.4874199
+          ], 
+          [
+            -77.4956178, 
+            37.4873567
+          ], 
+          [
+            -77.4957282, 
+            37.4872867
+          ], 
+          [
+            -77.4962606, 
+            37.4869694
+          ], 
+          [
+            -77.4965074, 
+            37.486824
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "49627561", 
+        "length": "184.54884640613994", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503896", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4938596, 
+            37.4890292
+          ], 
+          [
+            -77.4939058, 
+            37.4889834
+          ], 
+          [
+            -77.4948291, 
+            37.4880351
+          ], 
+          [
+            -77.4949461, 
+            37.4879152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503896", 
+        "length": "156.67731167379551", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614389", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4975478, 
+            37.4862114
+          ], 
+          [
+            -77.4965074, 
+            37.486824
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503887", 
+        "length": "114.34242341066012", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627561", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498004, 
+            37.4871203
+          ], 
+          [
+            -77.4978678, 
+            37.4866095
+          ], 
+          [
+            -77.4975478, 
+            37.4862114
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Silverwood Drive", 
+        "to": "2393503887", 
+        "length": "110.59145822859084", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619757", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035566"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5015244, 
+            37.4878943
+          ], 
+          [
+            -77.4989395, 
+            37.4882448
+          ], 
+          [
+            -77.4985015, 
+            37.4883741
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ullswater Avenue", 
+        "to": "49614049", 
+        "length": "272.68399715600845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614050", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033477"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4985015, 
+            37.4883741
+          ], 
+          [
+            -77.4986266, 
+            37.4886658
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Silverwood Drive", 
+        "to": "49619755", 
+        "length": "34.27180079704162", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614049", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035566"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498004, 
+            37.4871203
+          ], 
+          [
+            -77.498159, 
+            37.4878615
+          ], 
+          [
+            -77.4985015, 
+            37.4883741
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Silverwood Drive", 
+        "to": "49614049", 
+        "length": "148.10009176403776", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619757", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035566"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5015244, 
+            37.4878943
+          ], 
+          [
+            -77.5020175, 
+            37.4878303
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ullswater Avenue", 
+        "to": "49614050", 
+        "length": "44.09741213599191", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614052", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033477"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498004, 
+            37.4871203
+          ], 
+          [
+            -77.4994618, 
+            37.4869656
+          ], 
+          [
+            -77.500878, 
+            37.4867464
+          ], 
+          [
+            -77.5011317, 
+            37.4867307
+          ], 
+          [
+            -77.5012948, 
+            37.48687
+          ], 
+          [
+            -77.5015244, 
+            37.4878943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Brittwood Drive', 'Sweetwood Drive']", 
+        "to": "49614050", 
+        "length": "416.47688824926104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619757", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6041290, 6038931]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4884406, 
+            37.4927274
+          ], 
+          [
+            -77.4897837, 
+            37.4918756
+          ], 
+          [
+            -77.4899578, 
+            37.4917618
+          ], 
+          [
+            -77.4905389, 
+            37.4913819
+          ], 
+          [
+            -77.4906364, 
+            37.4913181
+          ], 
+          [
+            -77.4911043, 
+            37.4910231
+          ], 
+          [
+            -77.4913035, 
+            37.4908975
+          ], 
+          [
+            -77.4918618, 
+            37.4905368
+          ], 
+          [
+            -77.4920524, 
+            37.4904137
+          ], 
+          [
+            -77.4922277, 
+            37.4902996
+          ], 
+          [
+            -77.4923594, 
+            37.4902139
+          ], 
+          [
+            -77.4925029, 
+            37.4901181
+          ], 
+          [
+            -77.492693, 
+            37.4899913
+          ], 
+          [
+            -77.4929357, 
+            37.489814
+          ], 
+          [
+            -77.4929713, 
+            37.489788
+          ], 
+          [
+            -77.4931431, 
+            37.4896535
+          ], 
+          [
+            -77.493285, 
+            37.4895426
+          ], 
+          [
+            -77.4934231, 
+            37.4894234
+          ], 
+          [
+            -77.4935634, 
+            37.4893024
+          ], 
+          [
+            -77.493729, 
+            37.4891587
+          ], 
+          [
+            -77.4938596, 
+            37.4890292
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "49614389", 
+        "length": "631.8505073378558", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503907", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5012752, 
+            37.4897842
+          ], 
+          [
+            -77.5013691, 
+            37.4904159
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kristenleaf Court", 
+        "to": "49615856", 
+        "length": "70.74864181275001", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615857", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034054"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5007318, 
+            37.4898187
+          ], 
+          [
+            -77.5010196, 
+            37.4898132
+          ], 
+          [
+            -77.5012752, 
+            37.4897842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lorieville Lane", 
+        "to": "49615856", 
+        "length": "48.19390901609867", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039756"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5007318, 
+            37.4898187
+          ], 
+          [
+            -77.5005253, 
+            37.4889664
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jasonwood Court", 
+        "to": "49619411", 
+        "length": "96.53403228199772", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619413", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035440"
+      }
+    }
+  ]
+}

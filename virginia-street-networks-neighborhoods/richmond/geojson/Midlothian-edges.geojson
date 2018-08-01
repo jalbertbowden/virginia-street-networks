@@ -1,0 +1,5061 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5217802, 
+            37.5019406
+          ], 
+          [
+            -77.5200745, 
+            37.5022639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "49627761", 
+        "length": "154.7457318253427", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619977", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5217802, 
+            37.5019406
+          ], 
+          [
+            -77.5224514, 
+            37.5018111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "49619977", 
+        "length": "60.952691634286026", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627762", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5217802, 
+            37.5019406
+          ], 
+          [
+            -77.5214837, 
+            37.5007943
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Greshamwood Place", 
+        "to": "49619977", 
+        "length": "130.1553685803499", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619979", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4985568, 
+            37.4969443
+          ], 
+          [
+            -77.4988153, 
+            37.4969583
+          ], 
+          [
+            -77.4994846, 
+            37.4969828
+          ], 
+          [
+            -77.4996164, 
+            37.4969875
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49620249", 
+        "length": "93.632384379914", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620247", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494407, 
+            37.503947
+          ], 
+          [
+            -77.4946174, 
+            37.5067815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rodman Road", 
+        "to": "49612163", 
+        "length": "315.8169396147795", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612164", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032954"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4996164, 
+            37.4969875
+          ], 
+          [
+            -77.5003195, 
+            37.4970124
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393508503", 
+        "length": "62.107028342764536", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620249", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5021584, 
+            37.4971075
+          ], 
+          [
+            -77.5028622, 
+            37.4971458
+          ], 
+          [
+            -77.504371, 
+            37.4972405
+          ], 
+          [
+            -77.5050161, 
+            37.4972808
+          ], 
+          [
+            -77.5055573, 
+            37.497317
+          ], 
+          [
+            -77.5060322, 
+            37.4973646
+          ], 
+          [
+            -77.5063087, 
+            37.4974309
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393508408", 
+        "length": "368.5738387023268", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620254", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5021584, 
+            37.4971075
+          ], 
+          [
+            -77.5008025, 
+            37.4970338
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49620254", 
+        "length": "119.93211720422329", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620252", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5144251, 
+            37.4989885
+          ], 
+          [
+            -77.5147856, 
+            37.5003665
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Oak Glen Street", 
+        "to": "49628191", 
+        "length": "156.53620285034884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617494", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039078"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5159382, 
+            37.4995535
+          ], 
+          [
+            -77.5160062, 
+            37.4996146
+          ], 
+          [
+            -77.5161774, 
+            37.4998265
+          ], 
+          [
+            -77.516284, 
+            37.4999707
+          ], 
+          [
+            -77.5163846, 
+            37.500117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "3090025095", 
+        "length": "74.19080471570479", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393508398", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5094422, 
+            37.498548
+          ], 
+          [
+            -77.5097513, 
+            37.4985676
+          ], 
+          [
+            -77.5120333, 
+            37.4984494
+          ], 
+          [
+            -77.5128734, 
+            37.4984059
+          ], 
+          [
+            -77.5133776, 
+            37.4984229
+          ], 
+          [
+            -77.5137746, 
+            37.498474
+          ], 
+          [
+            -77.5142037, 
+            37.4985846
+          ], 
+          [
+            -77.5146222, 
+            37.4987464
+          ], 
+          [
+            -77.5149977, 
+            37.4988996
+          ], 
+          [
+            -77.5153517, 
+            37.4990868
+          ], 
+          [
+            -77.5156843, 
+            37.4993252
+          ], 
+          [
+            -77.5159382, 
+            37.4995535
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393508398", 
+        "length": "612.5918764216094", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298588", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5159382, 
+            37.4995535
+          ], 
+          [
+            -77.5160491, 
+            37.4994869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Carnation Street", 
+        "to": "2393508398", 
+        "length": "12.273577942372864", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2393508399", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5165348, 
+            37.5000915
+          ], 
+          [
+            -77.5164429, 
+            37.4999558
+          ], 
+          [
+            -77.5163511, 
+            37.4998303
+          ], 
+          [
+            -77.5162578, 
+            37.4997143
+          ], 
+          [
+            -77.5160491, 
+            37.4994869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "2393508399", 
+        "length": "79.86540588326656", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090025092", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.516138, 
+            37.4983391
+          ], 
+          [
+            -77.5163776, 
+            37.4993664
+          ], 
+          [
+            -77.5160491, 
+            37.4994869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Carnation Street", 
+        "to": "2393508399", 
+        "length": "148.13854415413547", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624775", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037548"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887161, 
+            37.5073784
+          ], 
+          [
+            -77.488932, 
+            37.5078054
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Green Acres Avenue", 
+        "to": "49614903", 
+        "length": "51.17152184752948", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615202", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033862"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877039, 
+            37.506612
+          ], 
+          [
+            -77.4881582, 
+            37.5070225
+          ], 
+          [
+            -77.4885527, 
+            37.507235
+          ], 
+          [
+            -77.4887161, 
+            37.5073784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Chuckatuck Avenue", 
+        "to": "49614903", 
+        "length": "124.33172908981513", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614906", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033772"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4894352, 
+            37.5046243
+          ], 
+          [
+            -77.4888238, 
+            37.5070721
+          ], 
+          [
+            -77.4887161, 
+            37.5073784
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Green Acres Avenue", 
+        "to": "49614903", 
+        "length": "312.9218737007199", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615207", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5061545, 
+            37.498798
+          ], 
+          [
+            -77.5061807, 
+            37.4984416
+          ], 
+          [
+            -77.5062493, 
+            37.4977372
+          ], 
+          [
+            -77.50627, 
+            37.4975963
+          ], 
+          [
+            -77.5063087, 
+            37.4974309
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South German School Road", 
+        "to": "2393508408", 
+        "length": "152.7786792003696", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3089829537", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304449584"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5063087, 
+            37.4974309
+          ], 
+          [
+            -77.5064939, 
+            37.4974702
+          ], 
+          [
+            -77.5067235, 
+            37.4975551
+          ], 
+          [
+            -77.5076105, 
+            37.497909
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "598298585", 
+        "length": "126.88410859294994", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393508408", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877039, 
+            37.506612
+          ], 
+          [
+            -77.4882819, 
+            37.5044242
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bartee Road", 
+        "to": "49614906", 
+        "length": "248.6277137279493", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627451", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040861"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869375, 
+            37.5059552
+          ], 
+          [
+            -77.487207, 
+            37.506147
+          ], 
+          [
+            -77.4877039, 
+            37.506612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Chuckatuck Avenue", 
+        "to": "49614906", 
+        "length": "99.74908438852054", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614909", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033772"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4882819, 
+            37.5044242
+          ], 
+          [
+            -77.4887013, 
+            37.5026703
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bartee Road", 
+        "to": "49627451", 
+        "length": "198.55882110181693", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631733", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040861"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4882819, 
+            37.5044242
+          ], 
+          [
+            -77.4894352, 
+            37.5046243
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rice Road", 
+        "to": "49627451", 
+        "length": "104.16840437077009", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615207", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038722"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5047538, 
+            37.5049754
+          ], 
+          [
+            -77.5046104, 
+            37.5050005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3089830491", 
+        "length": "12.957348550836327", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619007", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.509595, 
+            37.5041123
+          ], 
+          [
+            -77.5094117, 
+            37.5041431
+          ], 
+          [
+            -77.5049564, 
+            37.5049395
+          ], 
+          [
+            -77.5049174, 
+            37.5049464
+          ], 
+          [
+            -77.5047538, 
+            37.5049754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "49619007", 
+        "length": "437.8254383029519", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617052", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5047538, 
+            37.5049754
+          ], 
+          [
+            -77.5047322, 
+            37.5048714
+          ], 
+          [
+            -77.504694, 
+            37.504703
+          ], 
+          [
+            -77.5044929, 
+            37.5038396
+          ], 
+          [
+            -77.5043675, 
+            37.5032962
+          ], 
+          [
+            -77.5043232, 
+            37.5031325
+          ], 
+          [
+            -77.5043102, 
+            37.5030846
+          ], 
+          [
+            -77.5042863, 
+            37.5029789
+          ], 
+          [
+            -77.5042667, 
+            37.5028751
+          ], 
+          [
+            -77.5042555, 
+            37.5027687
+          ], 
+          [
+            -77.5042538, 
+            37.5026582
+          ], 
+          [
+            -77.504259, 
+            37.5025524
+          ], 
+          [
+            -77.5042709, 
+            37.5024439
+          ], 
+          [
+            -77.5042872, 
+            37.5023449
+          ], 
+          [
+            -77.5043137, 
+            37.5022392
+          ], 
+          [
+            -77.5043513, 
+            37.5021327
+          ], 
+          [
+            -77.5043918, 
+            37.502035
+          ], 
+          [
+            -77.5044421, 
+            37.5019344
+          ], 
+          [
+            -77.5044998, 
+            37.501836
+          ], 
+          [
+            -77.5045241, 
+            37.5017997
+          ], 
+          [
+            -77.5045615, 
+            37.501744
+          ], 
+          [
+            -77.5046279, 
+            37.5016573
+          ], 
+          [
+            -77.5047036, 
+            37.5015637
+          ], 
+          [
+            -77.5047881, 
+            37.5014759
+          ], 
+          [
+            -77.5048713, 
+            37.5013956
+          ], 
+          [
+            -77.5049645, 
+            37.5013211
+          ], 
+          [
+            -77.5050657, 
+            37.5012503
+          ], 
+          [
+            -77.5051703, 
+            37.5011796
+          ], 
+          [
+            -77.5052743, 
+            37.5011109
+          ], 
+          [
+            -77.5053749, 
+            37.5010407
+          ], 
+          [
+            -77.5054713, 
+            37.5009636
+          ], 
+          [
+            -77.5055654, 
+            37.5008818
+          ], 
+          [
+            -77.505648, 
+            37.5007992
+          ], 
+          [
+            -77.505728, 
+            37.5007098
+          ], 
+          [
+            -77.5058027, 
+            37.5006168
+          ], 
+          [
+            -77.5058674, 
+            37.5005233
+          ], 
+          [
+            -77.505929, 
+            37.500426
+          ], 
+          [
+            -77.5059821, 
+            37.5003263
+          ], 
+          [
+            -77.5060279, 
+            37.5002244
+          ], 
+          [
+            -77.5060668, 
+            37.5001171
+          ], 
+          [
+            -77.506101, 
+            37.500012
+          ], 
+          [
+            -77.5061253, 
+            37.4999061
+          ], 
+          [
+            -77.5061429, 
+            37.4997997
+          ], 
+          [
+            -77.5061546, 
+            37.499692
+          ], 
+          [
+            -77.5061639, 
+            37.4995827
+          ], 
+          [
+            -77.5061809, 
+            37.4993387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "['South German School Road', 'East German School Road']", 
+        "to": "49623483", 
+        "length": "683.5293107621133", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619007", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[6035286, 6038558]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5047538, 
+            37.5049754
+          ], 
+          [
+            -77.5047869, 
+            37.5051803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "German School Road", 
+        "to": "49619007", 
+        "length": "22.976637171494268", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485615", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036810"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5134828, 
+            37.5031373
+          ], 
+          [
+            -77.5135331, 
+            37.503224
+          ], 
+          [
+            -77.5135552, 
+            37.5032644
+          ], 
+          [
+            -77.5135582, 
+            37.5032773
+          ], 
+          [
+            -77.5135653, 
+            37.5033086
+          ], 
+          [
+            -77.5135646, 
+            37.503333
+          ], 
+          [
+            -77.5135593, 
+            37.5033564
+          ], 
+          [
+            -77.513532, 
+            37.5034148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "3090013250", 
+        "length": "32.79734285431181", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090013248", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304462972"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5093463, 
+            37.4988453
+          ], 
+          [
+            -77.5095579, 
+            37.4989413
+          ], 
+          [
+            -77.5097056, 
+            37.4990362
+          ], 
+          [
+            -77.5099097, 
+            37.4991901
+          ], 
+          [
+            -77.510645, 
+            37.4998244
+          ], 
+          [
+            -77.5111627, 
+            37.5003353
+          ], 
+          [
+            -77.5116216, 
+            37.5008488
+          ], 
+          [
+            -77.5121235, 
+            37.5014407
+          ], 
+          [
+            -77.5122918, 
+            37.5016513
+          ], 
+          [
+            -77.5123844, 
+            37.5017827
+          ], 
+          [
+            -77.5124775, 
+            37.5019337
+          ], 
+          [
+            -77.5128706, 
+            37.5025828
+          ], 
+          [
+            -77.5129441, 
+            37.5026772
+          ], 
+          [
+            -77.5130096, 
+            37.5027479
+          ], 
+          [
+            -77.5130759, 
+            37.50281
+          ], 
+          [
+            -77.5131494, 
+            37.5028736
+          ], 
+          [
+            -77.5134828, 
+            37.5031373
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "3090013248", 
+        "length": "606.8134054595046", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617059", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152670550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5137042, 
+            37.503384
+          ], 
+          [
+            -77.5137048, 
+            37.503355
+          ], 
+          [
+            -77.513699, 
+            37.5033268
+          ], 
+          [
+            -77.5136896, 
+            37.5033045
+          ], 
+          [
+            -77.5136768, 
+            37.5032869
+          ], 
+          [
+            -77.5134828, 
+            37.5031373
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "3090013248", 
+        "length": "35.15207775611281", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598302108", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304462971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.513532, 
+            37.5034148
+          ], 
+          [
+            -77.5137042, 
+            37.503384
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3090013250", 
+        "length": "15.575933722317773", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598302108", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.513532, 
+            37.5034148
+          ], 
+          [
+            -77.5114456, 
+            37.5037871
+          ], 
+          [
+            -77.5098602, 
+            37.5040655
+          ], 
+          [
+            -77.5098137, 
+            37.5040743
+          ], 
+          [
+            -77.509595, 
+            37.5041123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "49617052", 
+        "length": "355.94856768969197", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090013250", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4952966, 
+            37.5066655
+          ], 
+          [
+            -77.4946174, 
+            37.5067815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49611601", 
+        "length": "61.301538851456826", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612163", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "304447119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5147856, 
+            37.5003665
+          ], 
+          [
+            -77.5154977, 
+            37.5030659
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Oak Glen Street", 
+        "to": "49617494", 
+        "length": "306.7488385845377", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "598302138", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039078"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5147856, 
+            37.5003665
+          ], 
+          [
+            -77.5163846, 
+            37.500117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brookline Street", 
+        "to": "49617494", 
+        "length": "143.80116996443928", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3090025095", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034642"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4946789, 
+            37.5071436
+          ], 
+          [
+            -77.4947174, 
+            37.5072706
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rodman Road", 
+        "to": "444485562", 
+        "length": "14.528449153410543", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485561", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032954"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4946789, 
+            37.5071436
+          ], 
+          [
+            -77.4946439, 
+            37.5070304
+          ], 
+          [
+            -77.4945924, 
+            37.5068642
+          ], 
+          [
+            -77.4946174, 
+            37.5067815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rodman Road", 
+        "to": "49612163", 
+        "length": "41.459303455150064", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485561", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032954"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4992396, 
+            37.5059416
+          ], 
+          [
+            -77.4989892, 
+            37.5059862
+          ], 
+          [
+            -77.4976727, 
+            37.5062174
+          ], 
+          [
+            -77.4974145, 
+            37.5062743
+          ], 
+          [
+            -77.4971602, 
+            37.5063331
+          ], 
+          [
+            -77.4968957, 
+            37.5064
+          ], 
+          [
+            -77.4965501, 
+            37.5064892
+          ], 
+          [
+            -77.4961237, 
+            37.5066236
+          ], 
+          [
+            -77.4956289, 
+            37.5067916
+          ], 
+          [
+            -77.4952617, 
+            37.5069271
+          ], 
+          [
+            -77.4946789, 
+            37.5071436
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485561", 
+        "length": "425.6837964320905", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485567", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4946789, 
+            37.5071436
+          ], 
+          [
+            -77.4938969, 
+            37.5074389
+          ], 
+          [
+            -77.4936534, 
+            37.5075196
+          ], 
+          [
+            -77.4935175, 
+            37.507563
+          ], 
+          [
+            -77.493237, 
+            37.5076447
+          ], 
+          [
+            -77.4929994, 
+            37.5077062
+          ], 
+          [
+            -77.4929542, 
+            37.5077179
+          ], 
+          [
+            -77.4928802, 
+            37.507737
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485551", 
+        "length": "172.10527923883384", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485561", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.501997, 
+            37.5023364
+          ], 
+          [
+            -77.5019131, 
+            37.5010812
+          ], 
+          [
+            -77.5018887, 
+            37.5010146
+          ], 
+          [
+            -77.5018399, 
+            37.5009683
+          ], 
+          [
+            -77.501772, 
+            37.5009343
+          ], 
+          [
+            -77.5016722, 
+            37.5009204
+          ], 
+          [
+            -77.5002075, 
+            37.5011133
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Giant Drive', 'Biggs Road']", 
+        "to": "49625432", 
+        "length": "301.2754004995851", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611933", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6032872, 6040611]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5002075, 
+            37.5011133
+          ], 
+          [
+            -77.498324, 
+            37.5013677
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Biggs Road", 
+        "to": "49625432", 
+        "length": "168.59203530270025", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614758", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5003195, 
+            37.4970124
+          ], 
+          [
+            -77.5002698, 
+            37.4984205
+          ], 
+          [
+            -77.5002568, 
+            37.4986271
+          ], 
+          [
+            -77.5002413, 
+            37.4990519
+          ], 
+          [
+            -77.5002026, 
+            37.4996779
+          ], 
+          [
+            -77.5002016, 
+            37.4996968
+          ], 
+          [
+            -77.500169, 
+            37.5003068
+          ], 
+          [
+            -77.5001539, 
+            37.500622
+          ], 
+          [
+            -77.5001625, 
+            37.500829
+          ], 
+          [
+            -77.5002075, 
+            37.5011133
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Warwick Village Drive", 
+        "to": "49625432", 
+        "length": "456.67021196412986", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2393508503", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037797"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5060422, 
+            37.499336
+          ], 
+          [
+            -77.5061545, 
+            37.498798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "South German School Road", 
+        "to": "3089830489", 
+        "length": "60.654713519419715", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089829537", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "441620028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5060422, 
+            37.499336
+          ], 
+          [
+            -77.5060269, 
+            37.4995533
+          ], 
+          [
+            -77.5060165, 
+            37.4996634
+          ], 
+          [
+            -77.5060054, 
+            37.4997675
+          ], 
+          [
+            -77.505988, 
+            37.4998749
+          ], 
+          [
+            -77.5059644, 
+            37.4999779
+          ], 
+          [
+            -77.5059339, 
+            37.5000853
+          ], 
+          [
+            -77.5058936, 
+            37.5001943
+          ], 
+          [
+            -77.5058464, 
+            37.5002979
+          ], 
+          [
+            -77.5057909, 
+            37.5003943
+          ], 
+          [
+            -77.5057374, 
+            37.5004818
+          ], 
+          [
+            -77.5056541, 
+            37.5005947
+          ], 
+          [
+            -77.5055854, 
+            37.5006795
+          ], 
+          [
+            -77.5055014, 
+            37.500766
+          ], 
+          [
+            -77.5054181, 
+            37.500847
+          ], 
+          [
+            -77.5053272, 
+            37.5009219
+          ], 
+          [
+            -77.5052251, 
+            37.5009968
+          ], 
+          [
+            -77.5050495, 
+            37.5011163
+          ], 
+          [
+            -77.504903, 
+            37.5012176
+          ], 
+          [
+            -77.5048176, 
+            37.5012859
+          ], 
+          [
+            -77.504726, 
+            37.5013652
+          ], 
+          [
+            -77.504635, 
+            37.5014544
+          ], 
+          [
+            -77.5045705, 
+            37.5015227
+          ], 
+          [
+            -77.5045073, 
+            37.5015976
+          ], 
+          [
+            -77.5044286, 
+            37.5017032
+          ], 
+          [
+            -77.5043995, 
+            37.501749
+          ], 
+          [
+            -77.5043675, 
+            37.5017995
+          ], 
+          [
+            -77.504313, 
+            37.5018958
+          ], 
+          [
+            -77.504261, 
+            37.5019973
+          ], 
+          [
+            -77.5042189, 
+            37.5020975
+          ], 
+          [
+            -77.5041834, 
+            37.5022069
+          ], 
+          [
+            -77.5041552, 
+            37.5023127
+          ], 
+          [
+            -77.5041347, 
+            37.5024197
+          ], 
+          [
+            -77.5041223, 
+            37.5025291
+          ], 
+          [
+            -77.5041157, 
+            37.5026378
+          ], 
+          [
+            -77.5041141, 
+            37.5027459
+          ], 
+          [
+            -77.5041248, 
+            37.5028546
+          ], 
+          [
+            -77.5041421, 
+            37.502962
+          ], 
+          [
+            -77.5041653, 
+            37.5030675
+          ], 
+          [
+            -77.5041887, 
+            37.5031535
+          ], 
+          [
+            -77.5041958, 
+            37.5031795
+          ], 
+          [
+            -77.504247, 
+            37.5033877
+          ], 
+          [
+            -77.5042965, 
+            37.5035993
+          ], 
+          [
+            -77.5043444, 
+            37.5038115
+          ], 
+          [
+            -77.5043939, 
+            37.5040223
+          ], 
+          [
+            -77.5044682, 
+            37.5043446
+          ], 
+          [
+            -77.5045145, 
+            37.5045456
+          ], 
+          [
+            -77.5045838, 
+            37.5048515
+          ], 
+          [
+            -77.5045927, 
+            37.5048975
+          ], 
+          [
+            -77.5046104, 
+            37.5050005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "['South German School Road', 'East German School Road']", 
+        "to": "3089830491", 
+        "length": "686.3615819928286", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089830489", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[304449586, 441620028, 304449588]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.505453, 
+            37.4993743
+          ], 
+          [
+            -77.5056946, 
+            37.4993398
+          ], 
+          [
+            -77.5058763, 
+            37.4993329
+          ], 
+          [
+            -77.5060422, 
+            37.499336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shallow Way", 
+        "to": "3089830489", 
+        "length": "52.357484090432436", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623484", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5060422, 
+            37.499336
+          ], 
+          [
+            -77.5061809, 
+            37.4993387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shallow Way", 
+        "to": "3089830489", 
+        "length": "12.242919112655178", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623483", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5229395, 
+            37.5019398
+          ], 
+          [
+            -77.523034, 
+            37.5019204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "651129177", 
+        "length": "8.613289544090366", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782627418", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5229395, 
+            37.5019398
+          ], 
+          [
+            -77.5201192, 
+            37.5024558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "2782627418", 
+        "length": "255.3930807978672", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485626", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5229395, 
+            37.5019398
+          ], 
+          [
+            -77.5231653, 
+            37.5027924
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wyck Street", 
+        "to": "2782627418", 
+        "length": "96.90198184235228", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617907", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "273398940"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5046104, 
+            37.5050005
+          ], 
+          [
+            -77.5044844, 
+            37.5050226
+          ], 
+          [
+            -77.5022331, 
+            37.5054186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3089806308", 
+        "length": "214.8554448296241", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089830491", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5046104, 
+            37.5050005
+          ], 
+          [
+            -77.5046493, 
+            37.5052023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "German School Road", 
+        "to": "3089830493", 
+        "length": "22.70638130985892", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089830491", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304449587"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929151, 
+            37.5078463
+          ], 
+          [
+            -77.492991, 
+            37.507829
+          ], 
+          [
+            -77.4930661, 
+            37.5078121
+          ], 
+          [
+            -77.4933294, 
+            37.5077447
+          ], 
+          [
+            -77.493467, 
+            37.507706
+          ], 
+          [
+            -77.4935893, 
+            37.5076708
+          ], 
+          [
+            -77.4938397, 
+            37.507586
+          ], 
+          [
+            -77.4943149, 
+            37.5074159
+          ], 
+          [
+            -77.4947174, 
+            37.5072706
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485562", 
+        "length": "171.66710793536384", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485552", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4947174, 
+            37.5072706
+          ], 
+          [
+            -77.4954282, 
+            37.5070129
+          ], 
+          [
+            -77.4957891, 
+            37.5068899
+          ], 
+          [
+            -77.4960474, 
+            37.5068081
+          ], 
+          [
+            -77.4962374, 
+            37.5067517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "49618294", 
+        "length": "146.05301597379778", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485562", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.488932, 
+            37.5078054
+          ], 
+          [
+            -77.4883472, 
+            37.5079046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49615202", 
+        "length": "52.764845469596786", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615537", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "304447119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.488932, 
+            37.5078054
+          ], 
+          [
+            -77.4903913, 
+            37.5075294
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49615202", 
+        "length": "132.36690109806733", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614461", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "304447119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5145052, 
+            37.503832
+          ], 
+          [
+            -77.5144255, 
+            37.5037217
+          ], 
+          [
+            -77.5144049, 
+            37.5036994
+          ], 
+          [
+            -77.5143881, 
+            37.503682
+          ], 
+          [
+            -77.5143762, 
+            37.5036651
+          ], 
+          [
+            -77.5143655, 
+            37.5036438
+          ], 
+          [
+            -77.5143586, 
+            37.5036215
+          ], 
+          [
+            -77.5143585, 
+            37.5036172
+          ], 
+          [
+            -77.514358, 
+            37.5036021
+          ], 
+          [
+            -77.5143605, 
+            37.5035857
+          ], 
+          [
+            -77.5143637, 
+            37.5035723
+          ], 
+          [
+            -77.5143724, 
+            37.5035525
+          ], 
+          [
+            -77.5143843, 
+            37.5035276
+          ], 
+          [
+            -77.5144207, 
+            37.5034692
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "3090013572", 
+        "length": "44.96450699328117", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090013570", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304462974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5144207, 
+            37.5034692
+          ], 
+          [
+            -77.5141275, 
+            37.5035212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3090013572", 
+        "length": "26.509887102369717", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485621", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5144207, 
+            37.5034692
+          ], 
+          [
+            -77.5155594, 
+            37.5032675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485623", 
+        "length": "102.95042154533739", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090013572", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5200745, 
+            37.5022639
+          ], 
+          [
+            -77.5201192, 
+            37.5024558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Arcadia Street", 
+        "to": "49627761", 
+        "length": "21.70569682102269", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485626", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5200745, 
+            37.5022639
+          ], 
+          [
+            -77.5175127, 
+            37.5027206
+          ], 
+          [
+            -77.5174653, 
+            37.5027291
+          ], 
+          [
+            -77.5173794, 
+            37.5027444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "598302137", 
+        "length": "243.74365571553653", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627761", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4962374, 
+            37.5067517
+          ], 
+          [
+            -77.4962677, 
+            37.5068575
+          ], 
+          [
+            -77.4968094, 
+            37.5087523
+          ], 
+          [
+            -77.4998717, 
+            37.5082223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Agency Avenue', 'Distributor Drive']", 
+        "to": "49616004", 
+        "length": "504.7187828282973", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618294", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035001, 6034107]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4962374, 
+            37.5067517
+          ], 
+          [
+            -77.4965951, 
+            37.5066558
+          ], 
+          [
+            -77.4969444, 
+            37.5065726
+          ], 
+          [
+            -77.4973358, 
+            37.5064906
+          ], 
+          [
+            -77.4975999, 
+            37.5064411
+          ], 
+          [
+            -77.4989992, 
+            37.5061968
+          ], 
+          [
+            -77.4990455, 
+            37.5061889
+          ], 
+          [
+            -77.4992881, 
+            37.5061475
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485614", 
+        "length": "277.6524148174527", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618294", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5154977, 
+            37.5030659
+          ], 
+          [
+            -77.5150317, 
+            37.5031484
+          ], 
+          [
+            -77.5137042, 
+            37.503384
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "598302108", 
+        "length": "162.16155229120284", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598302138", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4901718, 
+            37.5066165
+          ], 
+          [
+            -77.4898869, 
+            37.5066022
+          ], 
+          [
+            -77.4903633, 
+            37.504789
+          ], 
+          [
+            -77.4906859, 
+            37.5034559
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mobile Road", 
+        "to": "49614460", 
+        "length": "382.18097248180777", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611498", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903913, 
+            37.5075294
+          ], 
+          [
+            -77.492668, 
+            37.507145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49614461", 
+        "length": "205.37981936714365", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615540", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "304447119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903913, 
+            37.5075294
+          ], 
+          [
+            -77.4901718, 
+            37.5066165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mobile Road", 
+        "to": "49614461", 
+        "length": "103.3689791075308", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611498", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.501997, 
+            37.5023364
+          ], 
+          [
+            -77.5022115, 
+            37.5053168
+          ], 
+          [
+            -77.5022331, 
+            37.5054186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Giant Drive", 
+        "to": "3089806308", 
+        "length": "343.52071938483476", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611933", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032872"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5022331, 
+            37.5054186
+          ], 
+          [
+            -77.4995172, 
+            37.505893
+          ], 
+          [
+            -77.4994796, 
+            37.5058996
+          ], 
+          [
+            -77.4992396, 
+            37.5059416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485567", 
+        "length": "270.46137125177404", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089806308", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5022331, 
+            37.5054186
+          ], 
+          [
+            -77.5022893, 
+            37.5056185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Giant Drive", 
+        "to": "3089806308", 
+        "length": "22.780393875015026", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3089806307", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032872"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5141275, 
+            37.5035212
+          ], 
+          [
+            -77.5141254, 
+            37.5035449
+          ], 
+          [
+            -77.5141275, 
+            37.5035658
+          ], 
+          [
+            -77.5141338, 
+            37.5035867
+          ], 
+          [
+            -77.5141454, 
+            37.5036017
+          ], 
+          [
+            -77.5141554, 
+            37.5036146
+          ], 
+          [
+            -77.5145052, 
+            37.503832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "3090013570", 
+        "length": "50.215881445139075", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485621", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304462969"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5151637, 
+            37.504236
+          ], 
+          [
+            -77.514992, 
+            37.5041408
+          ], 
+          [
+            -77.5145052, 
+            37.503832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "3090013570", 
+        "length": "73.48127858966237", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617911", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304462975"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4946174, 
+            37.5067815
+          ], 
+          [
+            -77.492668, 
+            37.507145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49612163", 
+        "length": "176.6902934821214", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615540", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "304447119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4992881, 
+            37.5061475
+          ], 
+          [
+            -77.4993137, 
+            37.5062386
+          ], 
+          [
+            -77.4993277, 
+            37.5062884
+          ], 
+          [
+            -77.4998717, 
+            37.5082223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Erich Road", 
+        "to": "49616004", 
+        "length": "236.44733960815552", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485614", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152681286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5163846, 
+            37.500117
+          ], 
+          [
+            -77.5164465, 
+            37.5002166
+          ], 
+          [
+            -77.5165026, 
+            37.500324
+          ], 
+          [
+            -77.5165439, 
+            37.5004163
+          ], 
+          [
+            -77.5166215, 
+            37.5005984
+          ], 
+          [
+            -77.5166678, 
+            37.5007235
+          ], 
+          [
+            -77.5166983, 
+            37.5008322
+          ], 
+          [
+            -77.5167264, 
+            37.5009383
+          ], 
+          [
+            -77.5167809, 
+            37.5011466
+          ], 
+          [
+            -77.5168758, 
+            37.5015337
+          ], 
+          [
+            -77.516965, 
+            37.5018749
+          ], 
+          [
+            -77.5170368, 
+            37.5021386
+          ], 
+          [
+            -77.517156, 
+            37.5025995
+          ], 
+          [
+            -77.5171746, 
+            37.5026716
+          ], 
+          [
+            -77.5172005, 
+            37.5027718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "3090025105", 
+        "length": "304.6875757390059", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090025095", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "304463616"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5163846, 
+            37.500117
+          ], 
+          [
+            -77.5165348, 
+            37.5000915
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brookline Street", 
+        "to": "3090025095", 
+        "length": "13.553965186686266", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3090025092", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034642"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5175184, 
+            37.5038284
+          ], 
+          [
+            -77.5176374, 
+            37.5038078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everglades Drive", 
+        "to": "3090025111", 
+        "length": "10.747309493677555", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617912", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034832"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5172778, 
+            37.5029653
+          ], 
+          [
+            -77.5173035, 
+            37.5030584
+          ], 
+          [
+            -77.5173381, 
+            37.5031795
+          ], 
+          [
+            -77.5173827, 
+            37.5033399
+          ], 
+          [
+            -77.5175184, 
+            37.5038284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "3090025111", 
+        "length": "98.31906765904372", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090025106", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "304463616"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5175184, 
+            37.5038284
+          ], 
+          [
+            -77.5151637, 
+            37.504236
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everglades Drive", 
+        "to": "3090025111", 
+        "length": "212.66019333228138", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617911", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034832"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4976268, 
+            37.5014629
+          ], 
+          [
+            -77.498324, 
+            37.5013677
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Biggs Road", 
+        "to": "49631374", 
+        "length": "62.42555690303222", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614758", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5172005, 
+            37.5027718
+          ], 
+          [
+            -77.5173794, 
+            37.5027444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3090025105", 
+        "length": "16.077352483268225", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598302137", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5172005, 
+            37.5027718
+          ], 
+          [
+            -77.5172778, 
+            37.5029653
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "3090025106", 
+        "length": "22.57724916810777", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090025105", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "304463616"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5172005, 
+            37.5027718
+          ], 
+          [
+            -77.5171164, 
+            37.5027863
+          ], 
+          [
+            -77.5154977, 
+            37.5030659
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "598302138", 
+        "length": "153.771759222712", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090025105", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876601"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5172778, 
+            37.5029653
+          ], 
+          [
+            -77.5173897, 
+            37.5029446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485624", 
+        "length": "10.13873946935537", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090025106", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5155594, 
+            37.5032675
+          ], 
+          [
+            -77.5170954, 
+            37.5029974
+          ], 
+          [
+            -77.5171791, 
+            37.5029827
+          ], 
+          [
+            -77.5172778, 
+            37.5029653
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3090025106", 
+        "length": "155.30914410524926", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485623", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4901718, 
+            37.5066165
+          ], 
+          [
+            -77.4905009, 
+            37.5065482
+          ], 
+          [
+            -77.4909222, 
+            37.5048875
+          ], 
+          [
+            -77.4912886, 
+            37.5035752
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Mobil Road", 
+        "to": "49611502", 
+        "length": "367.9317396942853", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611498", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032735"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5003195, 
+            37.4970124
+          ], 
+          [
+            -77.5005737, 
+            37.4970214
+          ], 
+          [
+            -77.5008025, 
+            37.4970338
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "49620252", 
+        "length": "42.69182753073338", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393508503", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5093463, 
+            37.4988453
+          ], 
+          [
+            -77.5093135, 
+            37.498889
+          ], 
+          [
+            -77.509182, 
+            37.4990305
+          ], 
+          [
+            -77.5089581, 
+            37.4992543
+          ], 
+          [
+            -77.508754, 
+            37.4994735
+          ], 
+          [
+            -77.5086559, 
+            37.4996166
+          ], 
+          [
+            -77.5085961, 
+            37.4997911
+          ], 
+          [
+            -77.5085814, 
+            37.4998895
+          ], 
+          [
+            -77.5086029, 
+            37.5000112
+          ], 
+          [
+            -77.509208, 
+            37.502647
+          ], 
+          [
+            -77.5095635, 
+            37.5039901
+          ], 
+          [
+            -77.5095727, 
+            37.5040252
+          ], 
+          [
+            -77.509595, 
+            37.5041123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Labrook Concourse", 
+        "to": "49617052", 
+        "length": "614.7362626759805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617059", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5096807, 
+            37.504307
+          ], 
+          [
+            -77.5096345, 
+            37.5042097
+          ], 
+          [
+            -77.509595, 
+            37.5041123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Labrook Drive", 
+        "to": "49617052", 
+        "length": "22.94492081935277", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485618", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.498324, 
+            37.5013677
+          ], 
+          [
+            -77.4983986, 
+            37.5023334
+          ], 
+          [
+            -77.4984197, 
+            37.5023947
+          ], 
+          [
+            -77.4984724, 
+            37.5024434
+          ], 
+          [
+            -77.4985442, 
+            37.5024863
+          ], 
+          [
+            -77.4986296, 
+            37.5024996
+          ], 
+          [
+            -77.501997, 
+            37.5023364
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Toby Road', 'Pride Road']", 
+        "to": "49611933", 
+        "length": "435.1198347162999", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614758", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033716, 6034942]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5114855, 
+            37.5054448
+          ], 
+          [
+            -77.5110199, 
+            37.5044032
+          ], 
+          [
+            -77.5109241, 
+            37.504189
+          ], 
+          [
+            -77.5108821, 
+            37.504095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Beaufont Hills Drive", 
+        "to": "444485619", 
+        "length": "159.29422880547946", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623710", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "304462578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5179252, 
+            37.5047787
+          ], 
+          [
+            -77.517769, 
+            37.5042174
+          ], 
+          [
+            -77.5176374, 
+            37.5038078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "49617912", 
+        "length": "110.94936956815204", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49621152", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6038200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5206415, 
+            37.5042902
+          ], 
+          [
+            -77.5189428, 
+            37.5046026
+          ], 
+          [
+            -77.5179252, 
+            37.5047787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Atmore Drive", 
+        "to": "49621152", 
+        "length": "245.7628306297476", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630948", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5061545, 
+            37.498798
+          ], 
+          [
+            -77.5061809, 
+            37.4993387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "South German School Road", 
+        "to": "3089829537", 
+        "length": "60.185139730899174", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623483", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6038558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032834, 
+            37.4996333
+          ], 
+          [
+            -77.5033552, 
+            37.4984178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shallow Court", 
+        "to": "49618082", 
+        "length": "135.34389409633465", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618083", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032834, 
+            37.4996333
+          ], 
+          [
+            -77.5043048, 
+            37.4995118
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shallow Way", 
+        "to": "49618082", 
+        "length": "91.13810826554864", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623485", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032834, 
+            37.4996333
+          ], 
+          [
+            -77.502836, 
+            37.4997171
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shallow Way", 
+        "to": "49618082", 
+        "length": "40.56487267094373", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623486", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5176374, 
+            37.5038078
+          ], 
+          [
+            -77.5184782, 
+            37.5036434
+          ], 
+          [
+            -77.5203235, 
+            37.5033097
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everglades Drive", 
+        "to": "49617906", 
+        "length": "243.41178733667002", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617912", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034830"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5203235, 
+            37.5033097
+          ], 
+          [
+            -77.5201192, 
+            37.5024558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Arcadia Street", 
+        "to": "49617906", 
+        "length": "96.67179188496469", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485626", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5203235, 
+            37.5033097
+          ], 
+          [
+            -77.5231653, 
+            37.5027924
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Everglades Drive", 
+        "to": "49617907", 
+        "length": "257.27155700277837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617906", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034830"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5203235, 
+            37.5033097
+          ], 
+          [
+            -77.5206415, 
+            37.5042902
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Arcadia Street", 
+        "to": "49630948", 
+        "length": "112.60921926657961", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617906", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928802, 
+            37.507737
+          ], 
+          [
+            -77.4929151, 
+            37.5078463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Covington Road", 
+        "to": "444485551", 
+        "length": "12.540954914352476", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485552", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "46838745"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492668, 
+            37.507145
+          ], 
+          [
+            -77.492842, 
+            37.5076306
+          ], 
+          [
+            -77.492853, 
+            37.5076611
+          ], 
+          [
+            -77.4928802, 
+            37.507737
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Covington Road", 
+        "to": "444485551", 
+        "length": "68.4561220040807", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615540", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "46838745"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928802, 
+            37.507737
+          ], 
+          [
+            -77.4927872, 
+            37.5077588
+          ], 
+          [
+            -77.4926617, 
+            37.5077882
+          ], 
+          [
+            -77.4922689, 
+            37.5078695
+          ], 
+          [
+            -77.4918495, 
+            37.5079583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "49624998", 
+        "length": "94.22039102792564", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485551", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374989"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491865, 
+            37.5080445
+          ], 
+          [
+            -77.4922026, 
+            37.5079862
+          ], 
+          [
+            -77.4924345, 
+            37.5079434
+          ], 
+          [
+            -77.492766, 
+            37.5078764
+          ], 
+          [
+            -77.492827, 
+            37.5078641
+          ], 
+          [
+            -77.4929151, 
+            37.5078463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485552", 
+        "length": "95.2506392067415", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782628574", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "37876604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5108821, 
+            37.504095
+          ], 
+          [
+            -77.5107877, 
+            37.5041116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485619", 
+        "length": "8.531741400183343", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3090002380", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5108821, 
+            37.504095
+          ], 
+          [
+            -77.5115025, 
+            37.5039847
+          ], 
+          [
+            -77.5127963, 
+            37.5037556
+          ], 
+          [
+            -77.5141275, 
+            37.5035212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485621", 
+        "length": "293.39088455541025", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485619", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5173794, 
+            37.5027444
+          ], 
+          [
+            -77.5173897, 
+            37.5029446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "598302137", 
+        "length": "22.286036202470726", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485624", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46847806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5173794, 
+            37.5027444
+          ], 
+          [
+            -77.5173483, 
+            37.5026197
+          ], 
+          [
+            -77.5172469, 
+            37.502214
+          ], 
+          [
+            -77.5170564, 
+            37.5014802
+          ], 
+          [
+            -77.516936, 
+            37.5010714
+          ], 
+          [
+            -77.5168381, 
+            37.5007793
+          ], 
+          [
+            -77.5167163, 
+            37.5004438
+          ], 
+          [
+            -77.5166153, 
+            37.5002399
+          ], 
+          [
+            -77.5165348, 
+            37.5000915
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "3090025092", 
+        "length": "304.9550328088116", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598302137", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46847806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5154977, 
+            37.5030659
+          ], 
+          [
+            -77.5155594, 
+            37.5032675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Oak Glen Street", 
+        "to": "598302138", 
+        "length": "23.07467670167574", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485623", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039078"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.505453, 
+            37.4993743
+          ], 
+          [
+            -77.5043048, 
+            37.4995118
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shallow Way", 
+        "to": "49623484", 
+        "length": "102.46763704105476", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623485", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5043048, 
+            37.4995118
+          ], 
+          [
+            -77.504404, 
+            37.4982831
+          ], 
+          [
+            -77.5044477, 
+            37.4981503
+          ], 
+          [
+            -77.5046577, 
+            37.498119
+          ], 
+          [
+            -77.5053597, 
+            37.4981486
+          ], 
+          [
+            -77.5055096, 
+            37.4981999
+          ], 
+          [
+            -77.5055544, 
+            37.4983214
+          ], 
+          [
+            -77.505453, 
+            37.4993743
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Tilton Court", 
+        "to": "49623484", 
+        "length": "379.03751824324036", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49623485", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4992396, 
+            37.5059416
+          ], 
+          [
+            -77.4992881, 
+            37.5061475
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Erich Road", 
+        "to": "444485567", 
+        "length": "23.297878166103402", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "444485614", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152681286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5094422, 
+            37.498548
+          ], 
+          [
+            -77.5093765, 
+            37.4987746
+          ], 
+          [
+            -77.5093463, 
+            37.4988453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "49617059", 
+        "length": "34.16506665414026", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "598298588", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152670550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5096807, 
+            37.504307
+          ], 
+          [
+            -77.5098991, 
+            37.5042687
+          ], 
+          [
+            -77.5107877, 
+            37.5041116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3090002380", 
+        "length": "100.06678496391899", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485618", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5176374, 
+            37.5038078
+          ], 
+          [
+            -77.5174316, 
+            37.5030907
+          ], 
+          [
+            -77.5174145, 
+            37.5030309
+          ], 
+          [
+            -77.5173897, 
+            37.5029446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Carnation Street", 
+        "to": "444485624", 
+        "length": "98.46686377153164", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617912", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6038200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5207355, 
+            37.5050937
+          ], 
+          [
+            -77.5202377, 
+            37.5049575
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Holly Lane", 
+        "to": "49618643", 
+        "length": "46.46278559492088", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618642", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035121"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5206415, 
+            37.5042902
+          ], 
+          [
+            -77.5208026, 
+            37.5048568
+          ], 
+          [
+            -77.5207355, 
+            37.5050937
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Arcadia Street", 
+        "to": "49618643", 
+        "length": "91.61052988185392", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630948", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5076105, 
+            37.497909
+          ], 
+          [
+            -77.5086568, 
+            37.4983438
+          ], 
+          [
+            -77.5087857, 
+            37.4983974
+          ], 
+          [
+            -77.5091116, 
+            37.4984926
+          ], 
+          [
+            -77.5094422, 
+            37.498548
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "598298588", 
+        "length": "177.53363326208927", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298585", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "230917612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903521, 
+            37.5084857
+          ], 
+          [
+            -77.4918836, 
+            37.5081808
+          ], 
+          [
+            -77.491865, 
+            37.5080445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fergerson Road", 
+        "to": "2782628574", 
+        "length": "154.56640268185532", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2782628584", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491865, 
+            37.5080445
+          ], 
+          [
+            -77.4918495, 
+            37.5079583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fergerson Road", 
+        "to": "2782628574", 
+        "length": "9.684750014063763", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624998", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5022893, 
+            37.5056185
+          ], 
+          [
+            -77.5044228, 
+            37.5052379
+          ], 
+          [
+            -77.5045159, 
+            37.5052233
+          ], 
+          [
+            -77.5046493, 
+            37.5052023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3089830493", 
+        "length": "213.3249461698256", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089806307", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4992881, 
+            37.5061475
+          ], 
+          [
+            -77.4995349, 
+            37.506104
+          ], 
+          [
+            -77.5022893, 
+            37.5056185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "3089806307", 
+        "length": "271.2681816568446", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485614", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5206415, 
+            37.5042902
+          ], 
+          [
+            -77.5234687, 
+            37.50379
+          ], 
+          [
+            -77.5231653, 
+            37.5027924
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Wyck Street', 'Atmore Drive']", 
+        "to": "49617907", 
+        "length": "369.7353363831925", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630948", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[273398940, 6041199]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903521, 
+            37.5084857
+          ], 
+          [
+            -77.4897107, 
+            37.5086196
+          ], 
+          [
+            -77.4896248, 
+            37.5086621
+          ], 
+          [
+            -77.4896087, 
+            37.508726
+          ], 
+          [
+            -77.489952, 
+            37.5090281
+          ], 
+          [
+            -77.4902578, 
+            37.509394
+          ], 
+          [
+            -77.4903758, 
+            37.5094494
+          ], 
+          [
+            -77.4904617, 
+            37.5094323
+          ], 
+          [
+            -77.4904831, 
+            37.5093557
+          ], 
+          [
+            -77.4903521, 
+            37.5084857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fergerson Road", 
+        "to": "2782628584", 
+        "length": "294.8600161335837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2782628584", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903521, 
+            37.5084857
+          ], 
+          [
+            -77.4904831, 
+            37.5093557
+          ], 
+          [
+            -77.4904617, 
+            37.5094323
+          ], 
+          [
+            -77.4903758, 
+            37.5094494
+          ], 
+          [
+            -77.4902578, 
+            37.509394
+          ], 
+          [
+            -77.489952, 
+            37.5090281
+          ], 
+          [
+            -77.4896087, 
+            37.508726
+          ], 
+          [
+            -77.4896248, 
+            37.5086621
+          ], 
+          [
+            -77.4897107, 
+            37.5086196
+          ], 
+          [
+            -77.4903521, 
+            37.5084857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Fergerson Road", 
+        "to": "2782628584", 
+        "length": "294.86001613310344", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "2782628584", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5047869, 
+            37.5051803
+          ], 
+          [
+            -77.5049792, 
+            37.5051464
+          ], 
+          [
+            -77.5094314, 
+            37.5043515
+          ], 
+          [
+            -77.5094759, 
+            37.5043436
+          ], 
+          [
+            -77.5096807, 
+            37.504307
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485618", 
+        "length": "442.60008757912834", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485615", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5047869, 
+            37.5051803
+          ], 
+          [
+            -77.5046493, 
+            37.5052023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485615", 
+        "length": "12.385347815013622", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089830493", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5173897, 
+            37.5029446
+          ], 
+          [
+            -77.517506, 
+            37.5029238
+          ], 
+          [
+            -77.5201192, 
+            37.5024558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "3", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485626", 
+        "length": "246.90711563301812", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485624", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "120374991"
+      }
+    }
+  ]
+}

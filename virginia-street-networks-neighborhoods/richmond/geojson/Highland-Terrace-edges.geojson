@@ -1,0 +1,1535 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4213273, 
+            37.570251
+          ], 
+          [
+            -77.4212374, 
+            37.5712379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628287", 
+        "name": "Groveland Avenue", 
+        "to": "49612417", 
+        "length": "110.05492935561385", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4213273, 
+            37.570251
+          ], 
+          [
+            -77.4211756, 
+            37.5702375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612419", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612417", 
+        "length": "13.457697056533352", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4213273, 
+            37.570251
+          ], 
+          [
+            -77.4219127, 
+            37.5703248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612415", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612417", 
+        "length": "52.25676160617367", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4211756, 
+            37.5702375
+          ], 
+          [
+            -77.420714, 
+            37.5701739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612421", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612419", 
+        "length": "41.304322719644276", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222817, 
+            37.5726228
+          ], 
+          [
+            -77.4217366, 
+            37.5725809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616153", 
+        "name": "Craigie Avenue", 
+        "to": "49625092", 
+        "length": "48.2792139485008", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153198129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222817, 
+            37.5726228
+          ], 
+          [
+            -77.4222552, 
+            37.573039
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624082", 
+        "name": "Letcher Avenue", 
+        "to": "49625092", 
+        "length": "46.35127565785037", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039816"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4229897, 
+            37.5713737
+          ], 
+          [
+            -77.4228673, 
+            37.5726553
+          ], 
+          [
+            -77.4222817, 
+            37.5726228
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628284", 
+        "name": "['Alpine Avenue', 'Craigie Avenue']", 
+        "to": "49625092", 
+        "length": "194.70582925733268", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[153198129, 6040190]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222817, 
+            37.5726228
+          ], 
+          [
+            -77.4223948, 
+            37.5713425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628285", 
+        "name": "Letcher Avenue", 
+        "to": "49625092", 
+        "length": "142.75159634196572", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039816"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.420714, 
+            37.5701739
+          ], 
+          [
+            -77.4206544, 
+            37.5706705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618101", 
+        "name": "Woodcliff Avenue", 
+        "to": "49612421", 
+        "length": "55.484301314169706", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.420714, 
+            37.5701739
+          ], 
+          [
+            -77.4200645, 
+            37.5701046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612423", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612421", 
+        "length": "57.77559747309872", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243227, 
+            37.5749722
+          ], 
+          [
+            -77.4244026, 
+            37.5745557
+          ], 
+          [
+            -77.4244686, 
+            37.5741763
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624118", 
+        "name": "Wellington Street", 
+        "to": "49612764", 
+        "length": "89.45656214371944", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243227, 
+            37.5749722
+          ], 
+          [
+            -77.4257457, 
+            37.5751967
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624118", 
+        "name": "East Gladstone Avenue", 
+        "to": "49612572", 
+        "length": "127.90273431124552", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040667"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4211355, 
+            37.5725468
+          ], 
+          [
+            -77.4217366, 
+            37.5725809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616153", 
+        "name": "Craigie Avenue", 
+        "to": "49625095", 
+        "length": "53.126072288046196", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153198129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4211355, 
+            37.5725468
+          ], 
+          [
+            -77.4205042, 
+            37.5725243
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624212", 
+        "name": "Craigie Avenue", 
+        "to": "49625095", 
+        "length": "55.709078541987424", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153198129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4211355, 
+            37.5725468
+          ], 
+          [
+            -77.4212374, 
+            37.5712379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628287", 
+        "name": "Groveland Avenue", 
+        "to": "49625095", 
+        "length": "145.8609324364796", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4238371, 
+            37.5715833
+          ], 
+          [
+            -77.4249922, 
+            37.5718021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627703", 
+        "name": "Montvale Avenue", 
+        "to": "49624115", 
+        "length": "104.69774778935397", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038856"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236156, 
+            37.5725197
+          ], 
+          [
+            -77.4237254, 
+            37.5720554
+          ], 
+          [
+            -77.4238371, 
+            37.5715833
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625085", 
+        "name": "Napoleon Street", 
+        "to": "49627703", 
+        "length": "105.96690563940209", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041139"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4259028, 
+            37.5710638
+          ], 
+          [
+            -77.4252597, 
+            37.5709146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612405", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612407", 
+        "length": "59.07310103733289", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4244686, 
+            37.5741763
+          ], 
+          [
+            -77.4245687, 
+            37.5737619
+          ], 
+          [
+            -77.4246548, 
+            37.5734053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612764", 
+        "name": "Wellington Street", 
+        "to": "49624077", 
+        "length": "87.31223925000438", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4246548, 
+            37.5734053
+          ], 
+          [
+            -77.4248305, 
+            37.5727411
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624117", 
+        "name": "Wellington Street", 
+        "to": "49624077", 
+        "length": "75.48271112625008", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4246548, 
+            37.5734053
+          ], 
+          [
+            -77.423425, 
+            37.5732216
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624078", 
+        "name": "Arnold Avenue", 
+        "to": "49624077", 
+        "length": "110.32163256202388", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.423425, 
+            37.5732216
+          ], 
+          [
+            -77.4229825, 
+            37.5731612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624080", 
+        "name": "Arnold Avenue", 
+        "to": "49624078", 
+        "length": "39.58292086895899", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.423425, 
+            37.5732216
+          ], 
+          [
+            -77.4236156, 
+            37.5725197
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625085", 
+        "name": "Napoleon Street", 
+        "to": "49624078", 
+        "length": "79.85738256107675", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041139"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.419183, 
+            37.5715092
+          ], 
+          [
+            -77.4205578, 
+            37.5716315
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619437", 
+        "name": "Giles Avenue", 
+        "to": "49624210", 
+        "length": "121.9593348631561", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039866"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.419183, 
+            37.5715092
+          ], 
+          [
+            -77.4188366, 
+            37.5709871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619437", 
+        "name": "Meadowbridge Road", 
+        "to": "49619435", 
+        "length": "65.6111362896027", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4195234, 
+            37.5720474
+          ], 
+          [
+            -77.4191999, 
+            37.5715403
+          ], 
+          [
+            -77.419183, 
+            37.5715092
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619439", 
+        "name": "Meadowbridge Road", 
+        "to": "49619437", 
+        "length": "66.96916538579954", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4229825, 
+            37.5731612
+          ], 
+          [
+            -77.4222552, 
+            37.573039
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624082", 
+        "name": "Arnold Avenue", 
+        "to": "49624080", 
+        "length": "65.54016230063863", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4228201, 
+            37.5739118
+          ], 
+          [
+            -77.4229056, 
+            37.5734968
+          ], 
+          [
+            -77.4229825, 
+            37.5731612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612765", 
+        "name": "Napoleon Street", 
+        "to": "49624080", 
+        "length": "84.70833897452209", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206121, 
+            37.5711701
+          ], 
+          [
+            -77.4205578, 
+            37.5716315
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624209", 
+        "name": "Woodcliff Avenue", 
+        "to": "49624210", 
+        "length": "51.54256561937582", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206121, 
+            37.5711701
+          ], 
+          [
+            -77.4188366, 
+            37.5709871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619435", 
+        "name": "Highland View Avenue", 
+        "to": "49624209", 
+        "length": "157.84181381990413", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206121, 
+            37.5711701
+          ], 
+          [
+            -77.4206544, 
+            37.5706705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618101", 
+        "name": "Woodcliff Avenue", 
+        "to": "49624209", 
+        "length": "55.693621251415365", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206121, 
+            37.5711701
+          ], 
+          [
+            -77.4212374, 
+            37.5712379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624209", 
+        "name": "Highland View Avenue", 
+        "to": "49628287", 
+        "length": "55.63831559823861", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4222552, 
+            37.573039
+          ], 
+          [
+            -77.4204855, 
+            37.5727871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624084", 
+        "name": "Arnold Avenue", 
+        "to": "49624082", 
+        "length": "158.50468544868122", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4204855, 
+            37.5727871
+          ], 
+          [
+            -77.4201931, 
+            37.5730941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619444", 
+        "name": "Carolina Avenue", 
+        "to": "49624084", 
+        "length": "42.78336872957152", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041125"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4204855, 
+            37.5727871
+          ], 
+          [
+            -77.4205042, 
+            37.5725243
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624212", 
+        "name": "Woodcliff Avenue", 
+        "to": "49624084", 
+        "length": "29.27670899139992", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4270159, 
+            37.5721553
+          ], 
+          [
+            -77.4249922, 
+            37.5718021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624115", 
+        "name": "Montvale Avenue", 
+        "to": "49612565", 
+        "length": "182.67667789261952", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038856"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.421835, 
+            37.5713128
+          ], 
+          [
+            -77.4217366, 
+            37.5725809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616153", 
+        "name": "Veranda Avenue", 
+        "to": "49616151", 
+        "length": "141.31251558160767", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034170"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.421835, 
+            37.5713128
+          ], 
+          [
+            -77.4219127, 
+            37.5703248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612415", 
+        "name": "Veranda Avenue", 
+        "to": "49616151", 
+        "length": "110.10481999426504", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034170"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.421835, 
+            37.5713128
+          ], 
+          [
+            -77.4223948, 
+            37.5713425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616151", 
+        "name": "Highland View Avenue", 
+        "to": "49628285", 
+        "length": "49.46092869376722", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.421835, 
+            37.5713128
+          ], 
+          [
+            -77.4212374, 
+            37.5712379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616151", 
+        "name": "Highland View Avenue", 
+        "to": "49628287", 
+        "length": "53.337494948291486", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4228201, 
+            37.5739118
+          ], 
+          [
+            -77.4205471, 
+            37.5735958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612768", 
+        "name": "Northside Avenue", 
+        "to": "49612765", 
+        "length": "203.4343825775172", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033141"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4228201, 
+            37.5739118
+          ], 
+          [
+            -77.4244686, 
+            37.5741763
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612764", 
+        "name": "Northside Avenue", 
+        "to": "49612765", 
+        "length": "148.27006702293045", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033141"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4184657, 
+            37.570458
+          ], 
+          [
+            -77.4184922, 
+            37.5704958
+          ], 
+          [
+            -77.4188366, 
+            37.5709871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618102", 
+        "name": "Meadowbridge Road", 
+        "to": "49619435", 
+        "length": "67.32346141930907", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4201931, 
+            37.5730941
+          ], 
+          [
+            -77.420244, 
+            37.5731663
+          ], 
+          [
+            -77.4205471, 
+            37.5735958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619444", 
+        "name": "Meadowbridge Road", 
+        "to": "49612768", 
+        "length": "63.9355543635182", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4208556, 
+            37.5741552
+          ], 
+          [
+            -77.4208082, 
+            37.5740228
+          ], 
+          [
+            -77.4205638, 
+            37.5736261
+          ], 
+          [
+            -77.4205471, 
+            37.5735958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619446", 
+        "name": "Meadowbridge Road", 
+        "to": "49612768", 
+        "length": "68.08794732929144", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206544, 
+            37.5706705
+          ], 
+          [
+            -77.4184657, 
+            37.570458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618102", 
+        "name": "Newbury Avenue", 
+        "to": "49618101", 
+        "length": "194.39421749805703", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034915"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236156, 
+            37.5725197
+          ], 
+          [
+            -77.4248305, 
+            37.5727411
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625085", 
+        "name": "Craigie Avenue", 
+        "to": "49624117", 
+        "length": "109.89509875983282", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037700"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4205578, 
+            37.5716315
+          ], 
+          [
+            -77.4205042, 
+            37.5725243
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624212", 
+        "name": "Woodcliff Avenue", 
+        "to": "49624210", 
+        "length": "99.41515792433853", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037265"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4195234, 
+            37.5720474
+          ], 
+          [
+            -77.4197996, 
+            37.572472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619441", 
+        "name": "Meadowbridge Road", 
+        "to": "49619439", 
+        "length": "53.133983421955364", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4197996, 
+            37.572472
+          ], 
+          [
+            -77.4199277, 
+            37.5726847
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619442", 
+        "name": "Meadowbridge Road", 
+        "to": "49619441", 
+        "length": "26.214867415928307", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4197996, 
+            37.572472
+          ], 
+          [
+            -77.4205042, 
+            37.5725243
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624212", 
+        "name": "Craigie Avenue", 
+        "to": "49619441", 
+        "length": "62.38649662527944", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153198129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4199277, 
+            37.5726847
+          ], 
+          [
+            -77.4201931, 
+            37.5730941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619444", 
+        "name": "Meadowbridge Road", 
+        "to": "49619442", 
+        "length": "51.194969160333684", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6035455"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249922, 
+            37.5718021
+          ], 
+          [
+            -77.4249103, 
+            37.5722775
+          ], 
+          [
+            -77.4248305, 
+            37.5727411
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624115", 
+        "name": "Wellington Street", 
+        "to": "49624117", 
+        "length": "105.40976451233212", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249922, 
+            37.5718021
+          ], 
+          [
+            -77.4251312, 
+            37.571341
+          ], 
+          [
+            -77.4252597, 
+            37.5709146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624115", 
+        "name": "Wellington Street", 
+        "to": "49612407", 
+        "length": "101.49103710364159", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4229897, 
+            37.5713737
+          ], 
+          [
+            -77.4223948, 
+            37.5713425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628284", 
+        "name": "Highland View Avenue", 
+        "to": "49628285", 
+        "length": "52.55947982192037", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4223948, 
+            37.5713425
+          ], 
+          [
+            -77.4224989, 
+            37.5703801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612414", 
+        "name": "Letcher Avenue", 
+        "to": "49628285", 
+        "length": "107.43682493872795", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039816"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4224989, 
+            37.5703801
+          ], 
+          [
+            -77.4219127, 
+            37.5703248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612414", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612415", 
+        "length": "52.04327083668909", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1450 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877803, 
+            37.499869
+          ], 
+          [
+            -79.877808, 
+            37.500043
+          ], 
+          [
+            -79.877818, 
+            37.500189
+          ], 
+          [
+            -79.8778307, 
+            37.5002776
+          ], 
+          [
+            -79.8778635, 
+            37.5005055
+          ], 
+          [
+            -79.877885, 
+            37.500655
+          ], 
+          [
+            -79.877889, 
+            37.500705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Roanoke Street", 
+        "to": "207614209", 
+        "length": "93.36142181942206", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207614203", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.879141, 
+            37.500636
+          ], 
+          [
+            -79.87855, 
+            37.50068
+          ], 
+          [
+            -79.878196, 
+            37.50071
+          ], 
+          [
+            -79.878001, 
+            37.500711
+          ], 
+          [
+            -79.877889, 
+            37.500705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Federal Street", 
+        "to": "207614209", 
+        "length": "110.90733506641143", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207655827", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852939"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.879441, 
+            37.498882
+          ], 
+          [
+            -79.879354, 
+            37.498914
+          ], 
+          [
+            -79.877733, 
+            37.498963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "to": "207612994", 
+        "length": "151.6077287447411", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207612988", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877803, 
+            37.499869
+          ], 
+          [
+            -79.877795, 
+            37.499572
+          ], 
+          [
+            -79.877733, 
+            37.498963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Roanoke Street", 
+        "to": "207612994", 
+        "length": "100.99911569488845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207614203", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851332"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877656, 
+            37.498041
+          ], 
+          [
+            -79.877666, 
+            37.498192
+          ], 
+          [
+            -79.8776785, 
+            37.4983691
+          ], 
+          [
+            -79.877685, 
+            37.498462
+          ], 
+          [
+            -79.877733, 
+            37.498963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Roanoke Street", 
+        "to": "207612994", 
+        "length": "102.78128859823431", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207615324", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877733, 
+            37.498963
+          ], 
+          [
+            -79.876034, 
+            37.499028
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "207612994", 
+        "length": "150.0989162498696", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207606175", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8748128, 
+            37.4991007
+          ], 
+          [
+            -79.874771, 
+            37.4983371
+          ], 
+          [
+            -79.8747661, 
+            37.4982479
+          ], 
+          [
+            -79.8747637, 
+            37.4982042
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Water Street", 
+        "to": "207393098", 
+        "length": "99.80842600201753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207638169", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19853068"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.872652, 
+            37.498084
+          ], 
+          [
+            -79.872701, 
+            37.498092
+          ], 
+          [
+            -79.872843, 
+            37.498128
+          ], 
+          [
+            -79.873026, 
+            37.498202
+          ], 
+          [
+            -79.873152, 
+            37.49824
+          ], 
+          [
+            -79.873282, 
+            37.498264
+          ], 
+          [
+            -79.873433, 
+            37.498276
+          ], 
+          [
+            -79.8735095, 
+            37.4982707
+          ], 
+          [
+            -79.874393, 
+            37.49822
+          ], 
+          [
+            -79.8747637, 
+            37.4982042
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Murray Street", 
+        "to": "207393098", 
+        "length": "190.4618311446984", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207615332", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851364"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.875985, 
+            37.498135
+          ], 
+          [
+            -79.875334, 
+            37.498175
+          ], 
+          [
+            -79.8747637, 
+            37.4982042
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Murray Street", 
+        "to": "207393098", 
+        "length": "108.04896901152179", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207613284", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851364"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8761, 
+            37.499952
+          ], 
+          [
+            -79.8756691, 
+            37.4999796
+          ], 
+          [
+            -79.875492, 
+            37.499991
+          ], 
+          [
+            -79.8748627, 
+            37.5000122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Back Street", 
+        "to": "207643424", 
+        "length": "109.40661974601852", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207606178", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877803, 
+            37.499869
+          ], 
+          [
+            -79.8769951, 
+            37.499906
+          ], 
+          [
+            -79.8768145, 
+            37.4999142
+          ], 
+          [
+            -79.876339, 
+            37.499936
+          ], 
+          [
+            -79.8761, 
+            37.499952
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Back Street", 
+        "to": "207606178", 
+        "length": "150.56555143105703", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207614203", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8761, 
+            37.499952
+          ], 
+          [
+            -79.876078, 
+            37.499568
+          ], 
+          [
+            -79.876063, 
+            37.499445
+          ], 
+          [
+            -79.876034, 
+            37.499028
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Church Street", 
+        "to": "207606175", 
+        "length": "102.95158094787895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207606178", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851101"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.874305, 
+            37.500031
+          ], 
+          [
+            -79.8748627, 
+            37.5000122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Back Street", 
+        "to": "207618190", 
+        "length": "49.256798465361335", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207643424", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.873671, 
+            37.500984
+          ], 
+          [
+            -79.874167, 
+            37.500982
+          ], 
+          [
+            -79.8742, 
+            37.500979
+          ], 
+          [
+            -79.874251, 
+            37.500963
+          ], 
+          [
+            -79.874294, 
+            37.500935
+          ], 
+          [
+            -79.874324, 
+            37.500899
+          ], 
+          [
+            -79.874336, 
+            37.500865
+          ], 
+          [
+            -79.874336, 
+            37.500627
+          ], 
+          [
+            -79.874305, 
+            37.500031
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['North Jefferson Street', 'Carper Street']", 
+        "to": "207618190", 
+        "length": "157.99337937250715", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207598481", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[19851472, 19853214]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.874305, 
+            37.500031
+          ], 
+          [
+            -79.8736366, 
+            37.5000594
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Back Street", 
+        "to": "207618190", 
+        "length": "59.06525862958534", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207644596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.873671, 
+            37.500984
+          ], 
+          [
+            -79.873519, 
+            37.50099
+          ], 
+          [
+            -79.872685, 
+            37.501047
+          ], 
+          [
+            -79.872461, 
+            37.501046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Carper Street", 
+        "to": "207619299", 
+        "length": "107.06051140830635", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207598481", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19853214"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.873671, 
+            37.500984
+          ], 
+          [
+            -79.8736366, 
+            37.5000594
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Monroe Street", 
+        "to": "207598481", 
+        "length": "102.88458482373149", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207644596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852583"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877732, 
+            37.496907
+          ], 
+          [
+            -79.877815, 
+            37.496572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Roanoke Street", 
+        "to": "207637393", 
+        "length": "37.973852380207674", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207637394", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877656, 
+            37.498041
+          ], 
+          [
+            -79.877629, 
+            37.497437
+          ], 
+          [
+            -79.877628, 
+            37.497408
+          ], 
+          [
+            -79.8776347, 
+            37.4973135
+          ], 
+          [
+            -79.877663, 
+            37.497167
+          ], 
+          [
+            -79.877715, 
+            37.496982
+          ], 
+          [
+            -79.877732, 
+            37.496907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Roanoke Street", 
+        "to": "207637394", 
+        "length": "127.02016133241135", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207615324", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.872441, 
+            37.499213
+          ], 
+          [
+            -79.872414, 
+            37.498369
+          ], 
+          [
+            -79.87241, 
+            37.497832
+          ], 
+          [
+            -79.8724102, 
+            37.4978172
+          ], 
+          [
+            -79.8724122, 
+            37.4976553
+          ], 
+          [
+            -79.8724166, 
+            37.4972914
+          ], 
+          [
+            -79.87242, 
+            37.497013
+          ], 
+          [
+            -79.872434, 
+            37.496972
+          ], 
+          [
+            -79.872456, 
+            37.496943
+          ], 
+          [
+            -79.872487, 
+            37.496919
+          ], 
+          [
+            -79.872586, 
+            37.496871
+          ], 
+          [
+            -79.873092, 
+            37.496628
+          ], 
+          [
+            -79.8732593, 
+            37.496541
+          ], 
+          [
+            -79.87329, 
+            37.496525
+          ], 
+          [
+            -79.873485, 
+            37.496406
+          ], 
+          [
+            -79.87358, 
+            37.496354
+          ], 
+          [
+            -79.873706, 
+            37.4963
+          ], 
+          [
+            -79.87384, 
+            37.496258
+          ], 
+          [
+            -79.874303, 
+            37.496156
+          ], 
+          [
+            -79.874423, 
+            37.496139
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Hancock Street", 
+        "to": "207393043", 
+        "length": "450.7792789247828", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207617633", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851456"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8748128, 
+            37.4991007
+          ], 
+          [
+            -79.874616, 
+            37.499114
+          ], 
+          [
+            -79.8735846, 
+            37.4991652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "207375449", 
+        "length": "108.62061997172174", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207638169", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8735846, 
+            37.4991652
+          ], 
+          [
+            -79.8736366, 
+            37.5000594
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Monroe Street", 
+        "to": "207375449", 
+        "length": "99.56431032443312", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207644596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852583"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.872441, 
+            37.499213
+          ], 
+          [
+            -79.872494, 
+            37.499216
+          ], 
+          [
+            -79.8735846, 
+            37.4991652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "207375449", 
+        "length": "101.09194036332728", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207617633", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8748627, 
+            37.5000122
+          ], 
+          [
+            -79.8748479, 
+            37.4997409
+          ], 
+          [
+            -79.8748266, 
+            37.4993533
+          ], 
+          [
+            -79.8748172, 
+            37.4991808
+          ], 
+          [
+            -79.8748128, 
+            37.4991007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Water Street", 
+        "to": "207638169", 
+        "length": "101.47831060432328", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207643424", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852411"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.876034, 
+            37.499028
+          ], 
+          [
+            -79.875808, 
+            37.499037
+          ], 
+          [
+            -79.8748128, 
+            37.4991007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "207638169", 
+        "length": "108.0725951943605", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207606175", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.877656, 
+            37.498041
+          ], 
+          [
+            -79.8769201, 
+            37.4980824
+          ], 
+          [
+            -79.875985, 
+            37.498135
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Murray Street", 
+        "to": "207613284", 
+        "length": "147.82588961117807", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207615324", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851364"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.872441, 
+            37.499213
+          ], 
+          [
+            -79.872315, 
+            37.499194
+          ], 
+          [
+            -79.872239, 
+            37.499174
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "207638173", 
+        "length": "18.38338591575197", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207617633", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852103"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.876034, 
+            37.499028
+          ], 
+          [
+            -79.876014, 
+            37.498735
+          ], 
+          [
+            -79.875985, 
+            37.498135
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Church Street", 
+        "to": "207613284", 
+        "length": "99.42184586570872", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207606175", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851290"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.872441, 
+            37.499213
+          ], 
+          [
+            -79.872455, 
+            37.500122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hancock Street", 
+        "to": "207619298", 
+        "length": "101.11221335191159", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207617633", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851497"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.872455, 
+            37.500122
+          ], 
+          [
+            -79.872461, 
+            37.501046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hancock Street", 
+        "to": "207619298", 
+        "length": "102.77442364188776", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207619299", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851497"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.8736366, 
+            37.5000594
+          ], 
+          [
+            -79.873324, 
+            37.500072
+          ], 
+          [
+            -79.872455, 
+            37.500122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Back Street", 
+        "to": "207619298", 
+        "length": "104.50327293536368", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207644596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852459"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.875873, 
+            37.496633
+          ], 
+          [
+            -79.8758909, 
+            37.4968287
+          ], 
+          [
+            -79.875937, 
+            37.497334
+          ], 
+          [
+            -79.875941, 
+            37.497397
+          ], 
+          [
+            -79.875985, 
+            37.498135
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Church Street", 
+        "to": "207613284", 
+        "length": "167.36677622624202", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207167408", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851290"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.875873, 
+            37.496633
+          ], 
+          [
+            -79.875908, 
+            37.496635
+          ], 
+          [
+            -79.877056, 
+            37.49659
+          ], 
+          [
+            -79.877815, 
+            37.496572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Academy Street", 
+        "to": "207637393", 
+        "length": "171.53470892782533", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207167408", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19852277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.87942, 
+            37.499806
+          ], 
+          [
+            -79.879379, 
+            37.500029
+          ], 
+          [
+            -79.879305, 
+            37.500259
+          ], 
+          [
+            -79.879213, 
+            37.500484
+          ], 
+          [
+            -79.879141, 
+            37.500636
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "45 mph", 
+        "lanes": "4", 
+        "name": "Botetourt Road", 
+        "to": "207655827", 
+        "length": "95.83867897746681", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207633533", 
+        "ref": "US 220", 
+        "highway": "primary", 
+        "osmid": "138231485"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.879441, 
+            37.498882
+          ], 
+          [
+            -79.879558, 
+            37.498845
+          ], 
+          [
+            -79.879609, 
+            37.498833
+          ], 
+          [
+            -79.879727, 
+            37.498812
+          ], 
+          [
+            -79.879851, 
+            37.49879
+          ], 
+          [
+            -79.880093, 
+            37.498763
+          ], 
+          [
+            -79.880371, 
+            37.498723
+          ], 
+          [
+            -79.880606, 
+            37.498672
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Main Street", 
+        "to": "207612979", 
+        "length": "105.68821438721446", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207612988", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.87942, 
+            37.499806
+          ], 
+          [
+            -79.879252, 
+            37.499791
+          ], 
+          [
+            -79.879082, 
+            37.499791
+          ], 
+          [
+            -79.878948, 
+            37.499801
+          ], 
+          [
+            -79.878649, 
+            37.499834
+          ], 
+          [
+            -79.878474, 
+            37.499847
+          ], 
+          [
+            -79.877803, 
+            37.499869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Back Street", 
+        "to": "207614203", 
+        "length": "143.20514600520528", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207633533", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19851978"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.87942, 
+            37.499806
+          ], 
+          [
+            -79.879443, 
+            37.499546
+          ], 
+          [
+            -79.879441, 
+            37.498882
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "45 mph", 
+        "lanes": "4", 
+        "name": "Botetourt Road", 
+        "to": "207612988", 
+        "length": "102.84440242714275", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "207633533", 
+        "ref": "US 220", 
+        "highway": "primary", 
+        "osmid": "138231485"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2109 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858124, 
+            37.5641953
+          ], 
+          [
+            -77.4862026, 
+            37.5643983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "to": "49616514", 
+        "length": "41.1500037790916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616515", 
+        "ref": "VA 6", 
+        "highway": "secondary", 
+        "osmid": "182532004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826146, 
+            37.5671556
+          ], 
+          [
+            -77.4830343, 
+            37.5667693
+          ], 
+          [
+            -77.4830869, 
+            37.5667209
+          ], 
+          [
+            -77.4858124, 
+            37.5641953
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49616514", 
+        "length": "433.47379128473347", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49610103", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "182531995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4862026, 
+            37.5643983
+          ], 
+          [
+            -77.4869982, 
+            37.5647941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Patterson Avenue", 
+        "to": "49616515", 
+        "length": "82.81475215362313", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616516", 
+        "ref": "VA 6", 
+        "highway": "secondary", 
+        "osmid": "182532004"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.485567, 
+            37.565206
+          ], 
+          [
+            -77.4858774, 
+            37.5648116
+          ], 
+          [
+            -77.4862026, 
+            37.5643983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49616515", 
+        "length": "105.88197993333003", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613258", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876481, 
+            37.5682161
+          ], 
+          [
+            -77.4892789, 
+            37.5689989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bromley Lane", 
+        "to": "49622917", 
+        "length": "168.08119490026075", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1655795377", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036682"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872411, 
+            37.5687295
+          ], 
+          [
+            -77.4875818, 
+            37.5682998
+          ], 
+          [
+            -77.4876481, 
+            37.5682161
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49622917", 
+        "length": "67.44103339123654", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624493", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876481, 
+            37.5682161
+          ], 
+          [
+            -77.4881046, 
+            37.5676242
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49622917", 
+        "length": "77.16176537755871", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626415", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4921304, 
+            37.5696018
+          ], 
+          [
+            -77.4918764, 
+            37.569937
+          ], 
+          [
+            -77.491835, 
+            37.5699916
+          ], 
+          [
+            -77.4915525, 
+            37.5703644
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49622918", 
+        "length": "98.94558588250143", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626418", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915525, 
+            37.5703644
+          ], 
+          [
+            -77.4903672, 
+            37.5697567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bromley Lane", 
+        "to": "49622918", 
+        "length": "124.45017685481305", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614091", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196236"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908893, 
+            37.5711657
+          ], 
+          [
+            -77.4912089, 
+            37.5707796
+          ], 
+          [
+            -77.4915525, 
+            37.5703644
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49622918", 
+        "length": "106.59124068090085", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624483", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915525, 
+            37.5703644
+          ], 
+          [
+            -77.4930309, 
+            37.5711558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bromley Lane", 
+        "to": "49622918", 
+        "length": "157.27349751075496", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622919", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196236"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4936501, 
+            37.5703618
+          ], 
+          [
+            -77.4933338, 
+            37.5707674
+          ], 
+          [
+            -77.4930309, 
+            37.5711558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49622919", 
+        "length": "103.82239819726283", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623610", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200477"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4923849, 
+            37.5719344
+          ], 
+          [
+            -77.4927024, 
+            37.5715518
+          ], 
+          [
+            -77.4930309, 
+            37.5711558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49622919", 
+        "length": "103.64813718933263", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623612", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200477"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909361, 
+            37.5690044
+          ], 
+          [
+            -77.4921304, 
+            37.5696018
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49614090", 
+        "length": "124.50285555940988", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626418", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903672, 
+            37.5697567
+          ], 
+          [
+            -77.4906698, 
+            37.5693565
+          ], 
+          [
+            -77.4909361, 
+            37.5690044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614090", 
+        "length": "97.55520683447745", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614091", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200478"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909361, 
+            37.5690044
+          ], 
+          [
+            -77.4897396, 
+            37.5684264
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49614090", 
+        "length": "123.53103622238531", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618611", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915813, 
+            37.5682331
+          ], 
+          [
+            -77.4912812, 
+            37.5685919
+          ], 
+          [
+            -77.4909361, 
+            37.5690044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614090", 
+        "length": "102.93294277273183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613267", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200478"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896901, 
+            37.5705831
+          ], 
+          [
+            -77.4900314, 
+            37.5701665
+          ], 
+          [
+            -77.4903672, 
+            37.5697567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614091", 
+        "length": "109.59914308669737", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614092", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200478"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903672, 
+            37.5697567
+          ], 
+          [
+            -77.4891469, 
+            37.5691725
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bromley Lane", 
+        "to": "49614091", 
+        "length": "125.68168730291143", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618613", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196236"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896901, 
+            37.5705831
+          ], 
+          [
+            -77.4892731, 
+            37.5711388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sauer Avenue", 
+        "to": "49614092", 
+        "length": "71.91464114003172", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613897", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200478"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896901, 
+            37.5705831
+          ], 
+          [
+            -77.4908893, 
+            37.5711657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49614092", 
+        "length": "123.99834789008221", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624483", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037399"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896901, 
+            37.5705831
+          ], 
+          [
+            -77.4885018, 
+            37.5700197
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49614092", 
+        "length": "122.07087953543505", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618617", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037399"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4874569, 
+            37.5661486
+          ], 
+          [
+            -77.4871156, 
+            37.5665194
+          ], 
+          [
+            -77.4867314, 
+            37.5669369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49626413", 
+        "length": "108.53061665011288", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613260", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858523, 
+            37.567868
+          ], 
+          [
+            -77.4861836, 
+            37.5675171
+          ], 
+          [
+            -77.4867314, 
+            37.5669369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49626413", 
+        "length": "129.35221535142546", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624492", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4867314, 
+            37.5669369
+          ], 
+          [
+            -77.4848875, 
+            37.5660308
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49626413", 
+        "length": "191.26961160860384", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623989", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4867314, 
+            37.5669369
+          ], 
+          [
+            -77.4881046, 
+            37.5676242
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49626413", 
+        "length": "143.18001744405043", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626415", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4957358, 
+            37.570355
+          ], 
+          [
+            -77.4954354, 
+            37.5707561
+          ], 
+          [
+            -77.4951471, 
+            37.5711409
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49615632", 
+        "length": "101.65850515539199", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613274", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4951471, 
+            37.5711409
+          ], 
+          [
+            -77.4936501, 
+            37.5703618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49615632", 
+        "length": "157.87999162109512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623610", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4938915, 
+            37.5727086
+          ], 
+          [
+            -77.4923849, 
+            37.5719344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49615635", 
+        "length": "158.2886149693308", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623612", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037399"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4938915, 
+            37.5727086
+          ], 
+          [
+            -77.4931864, 
+            37.5734794
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49615635", 
+        "length": "105.89538701516284", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613902", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482164, 
+            37.5668834
+          ], 
+          [
+            -77.482113, 
+            37.5668111
+          ], 
+          [
+            -77.4820929, 
+            37.5667425
+          ], 
+          [
+            -77.4820929, 
+            37.5666744
+          ], 
+          [
+            -77.4820983, 
+            37.5666106
+          ], 
+          [
+            -77.4821305, 
+            37.5665511
+          ], 
+          [
+            -77.4821881, 
+            37.5664795
+          ], 
+          [
+            -77.4836096, 
+            37.5650854
+          ], 
+          [
+            -77.4839446, 
+            37.564674
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49610101", 
+        "length": "302.21635154475746", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1928937501", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "182532058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482164, 
+            37.5668834
+          ], 
+          [
+            -77.4826146, 
+            37.5671556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "1928937501", 
+        "length": "49.94775941027001", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610103", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908893, 
+            37.5711657
+          ], 
+          [
+            -77.4923849, 
+            37.5719344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49624483", 
+        "length": "157.14329674142667", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623612", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037399"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908893, 
+            37.5711657
+          ], 
+          [
+            -77.4904077, 
+            37.5718063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49624483", 
+        "length": "82.94176117259917", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613899", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4851198, 
+            37.5686608
+          ], 
+          [
+            -77.4854973, 
+            37.5682522
+          ], 
+          [
+            -77.4858523, 
+            37.567868
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lafayette Street", 
+        "to": "49624492", 
+        "length": "109.2979933425054", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613891", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858523, 
+            37.567868
+          ], 
+          [
+            -77.4842003, 
+            37.5668989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49624492", 
+        "length": "181.19223489445633", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623991", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858523, 
+            37.567868
+          ], 
+          [
+            -77.4872411, 
+            37.5687295
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49624492", 
+        "length": "155.47600710514584", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624493", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865837, 
+            37.5695667
+          ], 
+          [
+            -77.4869409, 
+            37.5691118
+          ], 
+          [
+            -77.4872411, 
+            37.5687295
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49624493", 
+        "length": "109.68142705501728", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613894", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872411, 
+            37.5687295
+          ], 
+          [
+            -77.4887919, 
+            37.5696394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wythe Avenue", 
+        "to": "49624493", 
+        "length": "170.10090422633473", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618615", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887346, 
+            37.5668022
+          ], 
+          [
+            -77.4884405, 
+            37.567186
+          ], 
+          [
+            -77.4881046, 
+            37.5676242
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Malvern Avenue", 
+        "to": "49626415", 
+        "length": "106.97669120806354", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613261", 
+        "ref": "VA 197", 
+        "highway": "primary", 
+        "osmid": "182531974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4881046, 
+            37.5676242
+          ], 
+          [
+            -77.4897396, 
+            37.5684264
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49626415", 
+        "length": "169.5247028150316", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618611", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897396, 
+            37.5684264
+          ], 
+          [
+            -77.4894907, 
+            37.5687357
+          ], 
+          [
+            -77.4894597, 
+            37.5687742
+          ], 
+          [
+            -77.4892789, 
+            37.5689989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "1655795377", 
+        "length": "75.52737876327356", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618611", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4892789, 
+            37.5689989
+          ], 
+          [
+            -77.4891469, 
+            37.5691725
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "1655795377", 
+        "length": "22.54451975712706", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618613", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4921304, 
+            37.5696018
+          ], 
+          [
+            -77.4936501, 
+            37.5703618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "to": "49626418", 
+        "length": "158.4139989518173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623610", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038291"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4927602, 
+            37.5688164
+          ], 
+          [
+            -77.492447, 
+            37.569207
+          ], 
+          [
+            -77.4921304, 
+            37.5696018
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Shenandoah Street", 
+        "to": "49626418", 
+        "length": "103.50882099455195", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613269", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4903819, 
+            37.5676305
+          ], 
+          [
+            -77.4900803, 
+            37.5680043
+          ], 
+          [
+            -77.4897396, 
+            37.5684264
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618611", 
+        "length": "105.08650361743867", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613263", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.485567, 
+            37.565206
+          ], 
+          [
+            -77.4852436, 
+            37.5655985
+          ], 
+          [
+            -77.4848875, 
+            37.5660308
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49623989", 
+        "length": "109.56747276631918", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613258", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4848875, 
+            37.5660308
+          ], 
+          [
+            -77.4842003, 
+            37.5668989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49623989", 
+        "length": "113.9894432163586", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623991", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4842003, 
+            37.5668989
+          ], 
+          [
+            -77.4839013, 
+            37.5672944
+          ], 
+          [
+            -77.4835763, 
+            37.5677244
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kent Road", 
+        "to": "49613889", 
+        "length": "107.0367201044937", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623991", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885018, 
+            37.5700197
+          ], 
+          [
+            -77.4881493, 
+            37.5704691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618617", 
+        "length": "58.85763356630476", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613895", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885018, 
+            37.5700197
+          ], 
+          [
+            -77.4887919, 
+            37.5696394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618615", 
+        "length": "49.4298836015404", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618617", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.49423, 
+            37.5695825
+          ], 
+          [
+            -77.493932, 
+            37.569983
+          ], 
+          [
+            -77.4936501, 
+            37.5703618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49623610", 
+        "length": "100.63192165932426", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613270", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200477"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4917622, 
+            37.5726333
+          ], 
+          [
+            -77.4921106, 
+            37.5722423
+          ], 
+          [
+            -77.4923849, 
+            37.5719344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Commonwealth Avenue", 
+        "to": "49623612", 
+        "length": "95.16479691174108", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613901", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200477"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904077, 
+            37.5718063
+          ], 
+          [
+            -77.4892731, 
+            37.5711388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613897", 
+        "length": "124.56617056558909", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613899", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904077, 
+            37.5718063
+          ], 
+          [
+            -77.4917622, 
+            37.5726333
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613899", 
+        "length": "150.72915848638567", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613901", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4891469, 
+            37.5691725
+          ], 
+          [
+            -77.4890377, 
+            37.5693162
+          ], 
+          [
+            -77.4888442, 
+            37.5695706
+          ], 
+          [
+            -77.4887919, 
+            37.5696394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Antrim Avenue", 
+        "to": "49618615", 
+        "length": "60.63304709077555", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618613", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45200472"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835763, 
+            37.5677244
+          ], 
+          [
+            -77.4851198, 
+            37.5686608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613889", 
+        "length": "171.36084443209", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613891", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4835763, 
+            37.5677244
+          ], 
+          [
+            -77.4826146, 
+            37.5671556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49610103", 
+        "length": "105.78789988192702", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613889", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4851198, 
+            37.5686608
+          ], 
+          [
+            -77.4865837, 
+            37.5695667
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613891", 
+        "length": "163.73259207875316", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613894", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865837, 
+            37.5695667
+          ], 
+          [
+            -77.4881493, 
+            37.5704691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613894", 
+        "length": "170.65817076939132", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613895", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4881493, 
+            37.5704691
+          ], 
+          [
+            -77.4892731, 
+            37.5711388
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613895", 
+        "length": "123.95057195632903", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613897", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.485567, 
+            37.565206
+          ], 
+          [
+            -77.4874569, 
+            37.5661486
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613258", 
+        "length": "196.8615072451427", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613260", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4874569, 
+            37.5661486
+          ], 
+          [
+            -77.4887346, 
+            37.5668022
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613260", 
+        "length": "134.06731274687877", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613261", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4917622, 
+            37.5726333
+          ], 
+          [
+            -77.4931864, 
+            37.5734794
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Monument Avenue", 
+        "to": "49613901", 
+        "length": "156.90576527111625", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613902", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45200473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887346, 
+            37.5668022
+          ], 
+          [
+            -77.4903819, 
+            37.5676305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613261", 
+        "length": "171.98646966990907", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613263", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915813, 
+            37.5682331
+          ], 
+          [
+            -77.4927602, 
+            37.5688164
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613267", 
+        "length": "122.52012351841772", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613269", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915813, 
+            37.5682331
+          ], 
+          [
+            -77.4903819, 
+            37.5676305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613267", 
+        "length": "125.19365331232554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613263", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4927602, 
+            37.5688164
+          ], 
+          [
+            -77.49423, 
+            37.5695825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613269", 
+        "length": "155.084229422931", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613270", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.49423, 
+            37.5695825
+          ], 
+          [
+            -77.4957358, 
+            37.570355
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Park Avenue", 
+        "to": "49613270", 
+        "length": "158.13014051967036", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613274", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033285"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4963133, 
+            37.5696307
+          ], 
+          [
+            -77.4960424, 
+            37.5699705
+          ], 
+          [
+            -77.4957358, 
+            37.570355
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "49613274", 
+        "length": "95.300122564855", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3140763504", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033991"
+      }
+    }
+  ]
+}

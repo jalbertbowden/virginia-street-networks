@@ -1,0 +1,1375 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446886, 
+            37.5895313
+          ], 
+          [
+            -77.4446497, 
+            37.590395
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628019", 
+        "name": "Piney Road", 
+        "to": "49625217", 
+        "length": "96.12727572345192", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446886, 
+            37.5895313
+          ], 
+          [
+            -77.4446813, 
+            37.5886577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614381", 
+        "name": "Piney Road", 
+        "to": "49625217", 
+        "length": "97.16938673797343", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4417776, 
+            37.5886318
+          ], 
+          [
+            -77.4422481, 
+            37.5887771
+          ], 
+          [
+            -77.4443256, 
+            37.5894192
+          ], 
+          [
+            -77.4446886, 
+            37.5895313
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625215", 
+        "name": "Rex Avenue", 
+        "to": "49625217", 
+        "length": "275.3818237583424", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037747"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441841, 
+            37.588498
+          ], 
+          [
+            -77.4421597, 
+            37.5878878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614377", 
+        "name": "Corbin Street", 
+        "to": "49625219", 
+        "length": "73.45329128899446", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441841, 
+            37.588498
+          ], 
+          [
+            -77.4405125, 
+            37.5880648
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614860", 
+        "name": "Rex Avenue", 
+        "to": "49625219", 
+        "length": "126.61666944032649", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441841, 
+            37.588498
+          ], 
+          [
+            -77.4417776, 
+            37.5886318
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625215", 
+        "name": "Corbin Street", 
+        "to": "49625219", 
+        "length": "15.896557168084808", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4427019, 
+            37.5868008
+          ], 
+          [
+            -77.4448451, 
+            37.5881127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617400", 
+        "name": "North Avenue", 
+        "to": "49617399", 
+        "length": "238.6931293457055", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6034604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4427019, 
+            37.5868008
+          ], 
+          [
+            -77.4421597, 
+            37.5878878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617399", 
+        "name": "Corbin Street", 
+        "to": "49614377", 
+        "length": "130.00490314917593", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4405125, 
+            37.5880648
+          ], 
+          [
+            -77.4400726, 
+            37.5889455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614862", 
+        "name": "Moss Side Avenue", 
+        "to": "49614860", 
+        "length": "105.35081399572084", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400726, 
+            37.5889455
+          ], 
+          [
+            -77.4396404, 
+            37.5897463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614864", 
+        "name": "Moss Side Avenue", 
+        "to": "49614862", 
+        "length": "96.87359053960355", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400726, 
+            37.5889455
+          ], 
+          [
+            -77.4392765, 
+            37.5887109
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628021", 
+        "name": "Akron Street", 
+        "to": "49614862", 
+        "length": "74.86046156621474", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039014"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400726, 
+            37.5889455
+          ], 
+          [
+            -77.4414096, 
+            37.5893393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627422", 
+        "name": "Akron Street", 
+        "to": "49614862", 
+        "length": "125.71538552440384", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039014"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398741, 
+            37.5851575
+          ], 
+          [
+            -77.4405657, 
+            37.5855588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617395", 
+        "name": "North Avenue", 
+        "to": "49609880", 
+        "length": "75.5525444082266", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6034604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398741, 
+            37.5851575
+          ], 
+          [
+            -77.438997, 
+            37.5860183
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617395", 
+        "name": "Nottingham Place", 
+        "to": "49609877", 
+        "length": "123.0583531408445", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4379719, 
+            37.5892414
+          ], 
+          [
+            -77.4384579, 
+            37.5893885
+          ], 
+          [
+            -77.4396404, 
+            37.5897463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620578", 
+        "name": "Cheatwood Avenue", 
+        "to": "49614864", 
+        "length": "157.4128722775857", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4409915, 
+            37.5901572
+          ], 
+          [
+            -77.4405422, 
+            37.5900206
+          ], 
+          [
+            -77.4396404, 
+            37.5897463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620580", 
+        "name": "Cheatwood Avenue", 
+        "to": "49614864", 
+        "length": "127.54884423922176", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.439251, 
+            37.59047
+          ], 
+          [
+            -77.4394458, 
+            37.590108
+          ], 
+          [
+            -77.4396404, 
+            37.5897463
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614866", 
+        "name": "Moss Side Avenue", 
+        "to": "49614864", 
+        "length": "87.50545655653566", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4406131, 
+            37.5908982
+          ], 
+          [
+            -77.4401546, 
+            37.5907541
+          ], 
+          [
+            -77.439251, 
+            37.59047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627424", 
+        "name": "Lincoln Avenue", 
+        "to": "49614866", 
+        "length": "129.15046796011862", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039887"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.439251, 
+            37.59047
+          ], 
+          [
+            -77.4380234, 
+            37.590112
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49629864", 
+        "name": "Lincoln Avenue", 
+        "to": "49614866", 
+        "length": "115.28913186419237", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039887"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4388799, 
+            37.5912254
+          ], 
+          [
+            -77.4390606, 
+            37.5908576
+          ], 
+          [
+            -77.439251, 
+            37.59047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614868", 
+        "name": "Moss Side Avenue", 
+        "to": "49614866", 
+        "length": "90.16172156020545", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033762"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4375256, 
+            37.5908329
+          ], 
+          [
+            -77.4375739, 
+            37.5908481
+          ], 
+          [
+            -77.4388799, 
+            37.5912254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626930", 
+        "name": "Maggie Walker Avenue", 
+        "to": "49614868", 
+        "length": "127.09491612599531", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398215, 
+            37.5924366
+          ], 
+          [
+            -77.4393715, 
+            37.5922907
+          ], 
+          [
+            -77.4385041, 
+            37.5920095
+          ], 
+          [
+            -77.4386974, 
+            37.5916061
+          ], 
+          [
+            -77.4388799, 
+            37.5912254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616677", 
+        "name": "['Moss Side Avenue', 'Jasper Avenue']", 
+        "to": "49614868", 
+        "length": "218.73814287686318", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6033762, 6034342]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4402153, 
+            37.591655
+          ], 
+          [
+            -77.4397531, 
+            37.5915063
+          ], 
+          [
+            -77.4388799, 
+            37.5912254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626933", 
+        "name": "Maggie Walker Avenue", 
+        "to": "49614868", 
+        "length": "127.02348295511966", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4388736, 
+            37.5872638
+          ], 
+          [
+            -77.4387609, 
+            37.5873552
+          ], 
+          [
+            -77.4386161, 
+            37.5873233
+          ], 
+          [
+            -77.4380421, 
+            37.5869982
+          ], 
+          [
+            -77.438997, 
+            37.5860183
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609883", 
+        "name": "Nottingham Place", 
+        "to": "49609877", 
+        "length": "227.34988273085838", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.438997, 
+            37.5860183
+          ], 
+          [
+            -77.4396794, 
+            37.5864428
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609878", 
+        "name": "", 
+        "to": "49609877", 
+        "length": "76.46511841992432", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4396794, 
+            37.5864428
+          ], 
+          [
+            -77.4405657, 
+            37.5855588
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609880", 
+        "name": "", 
+        "to": "49609878", 
+        "length": "125.57908494448384", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4396794, 
+            37.5864428
+          ], 
+          [
+            -77.4388736, 
+            37.5872638
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49609883", 
+        "name": "", 
+        "to": "49609878", 
+        "length": "115.68461301009766", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4396794, 
+            37.5864428
+          ], 
+          [
+            -77.4403569, 
+            37.5868642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49630492", 
+        "name": "", 
+        "to": "49609878", 
+        "length": "75.91222906089872", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4405657, 
+            37.5855588
+          ], 
+          [
+            -77.4412956, 
+            37.5859801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617397", 
+        "name": "North Avenue", 
+        "to": "49609880", 
+        "length": "79.59040993308447", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6034604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4403569, 
+            37.5868642
+          ], 
+          [
+            -77.4395898, 
+            37.5876337
+          ], 
+          [
+            -77.4395361, 
+            37.5876464
+          ], 
+          [
+            -77.4388736, 
+            37.5872638
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49630492", 
+        "name": "Nottingham Place", 
+        "to": "49609883", 
+        "length": "186.26431072709448", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4403569, 
+            37.5868642
+          ], 
+          [
+            -77.4412956, 
+            37.5859801
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617397", 
+        "name": "Nottingham Place", 
+        "to": "49630492", 
+        "length": "128.51121809535252", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4414096, 
+            37.5893393
+          ], 
+          [
+            -77.4417776, 
+            37.5886318
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625215", 
+        "name": "Corbin Street", 
+        "to": "49627422", 
+        "length": "85.1146273031464", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4414096, 
+            37.5893393
+          ], 
+          [
+            -77.4413858, 
+            37.5893864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627423", 
+        "name": "Corbin Street", 
+        "to": "49627422", 
+        "length": "5.643106583047933", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446497, 
+            37.590395
+          ], 
+          [
+            -77.4442194, 
+            37.590262
+          ], 
+          [
+            -77.4418575, 
+            37.5895321
+          ], 
+          [
+            -77.4413858, 
+            37.5893864
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628019", 
+        "name": "Akron Street", 
+        "to": "49627423", 
+        "length": "308.76556994967115", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039012"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4413858, 
+            37.5893864
+          ], 
+          [
+            -77.4409915, 
+            37.5901572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620580", 
+        "name": "Corbin Street", 
+        "to": "49627423", 
+        "length": "92.50876358342384", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4406131, 
+            37.5908982
+          ], 
+          [
+            -77.4409915, 
+            37.5901572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620580", 
+        "name": "Corbin Street", 
+        "to": "49627424", 
+        "length": "88.91044250516164", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4406131, 
+            37.5908982
+          ], 
+          [
+            -77.4402153, 
+            37.591655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626933", 
+        "name": "Corbin Street", 
+        "to": "49627424", 
+        "length": "91.18541412740448", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4406131, 
+            37.5908982
+          ], 
+          [
+            -77.441081, 
+            37.5910457
+          ], 
+          [
+            -77.4418403, 
+            37.5912852
+          ], 
+          [
+            -77.4433443, 
+            37.591769
+          ], 
+          [
+            -77.44392, 
+            37.5919482
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627424", 
+        "name": "Lincoln Avenue", 
+        "to": "49629559", 
+        "length": "313.9804240945711", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039887"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4397057, 
+            37.5926623
+          ], 
+          [
+            -77.4398215, 
+            37.5924366
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616677", 
+        "name": "Corbin Street", 
+        "to": "49627425", 
+        "length": "27.098996856579504", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443258, 
+            37.5911908
+          ], 
+          [
+            -77.441465, 
+            37.5903039
+          ], 
+          [
+            -77.4409915, 
+            37.5901572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620583", 
+        "name": "Cheatwood Avenue", 
+        "to": "49620580", 
+        "length": "315.5538666844387", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035886"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398215, 
+            37.5924366
+          ], 
+          [
+            -77.4402153, 
+            37.591655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626933", 
+        "name": "Corbin Street", 
+        "to": "49616677", 
+        "length": "93.60637097681084", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038706"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398215, 
+            37.5924366
+          ], 
+          [
+            -77.4402035, 
+            37.5925603
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616679", 
+        "name": "Jasper Avenue", 
+        "to": "49616677", 
+        "length": "36.36945383885191", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034342"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446813, 
+            37.5886577
+          ], 
+          [
+            -77.4443183, 
+            37.5885469
+          ], 
+          [
+            -77.4426289, 
+            37.5880311
+          ], 
+          [
+            -77.4421597, 
+            37.5878878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614381", 
+        "name": "Oak Park Avenue", 
+        "to": "49614377", 
+        "length": "238.1738050537481", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033565"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443258, 
+            37.5911908
+          ], 
+          [
+            -77.4445193, 
+            37.590795
+          ], 
+          [
+            -77.4445696, 
+            37.590692
+          ], 
+          [
+            -77.4446497, 
+            37.590395
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620583", 
+        "name": "Piney Road", 
+        "to": "49628019", 
+        "length": "93.27538784909115", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443258, 
+            37.5911908
+          ], 
+          [
+            -77.4441343, 
+            37.5915483
+          ], 
+          [
+            -77.44392, 
+            37.5919482
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620583", 
+        "name": "Piney Road", 
+        "to": "49629559", 
+        "length": "91.52019092076142", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4448451, 
+            37.5881127
+          ], 
+          [
+            -77.4447468, 
+            37.5882569
+          ], 
+          [
+            -77.4446886, 
+            37.5883895
+          ], 
+          [
+            -77.4446813, 
+            37.5886577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617400", 
+        "name": "Piney Road", 
+        "to": "49614381", 
+        "length": "63.682297065483", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4402153, 
+            37.591655
+          ], 
+          [
+            -77.4407022, 
+            37.5918031
+          ], 
+          [
+            -77.4414647, 
+            37.5920414
+          ], 
+          [
+            -77.4431381, 
+            37.5925479
+          ], 
+          [
+            -77.4434836, 
+            37.5926525
+          ], 
+          [
+            -77.4436034, 
+            37.5926086
+          ], 
+          [
+            -77.4436591, 
+            37.5925523
+          ], 
+          [
+            -77.4437699, 
+            37.5922958
+          ], 
+          [
+            -77.44392, 
+            37.5919482
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626933", 
+        "name": "['Piney Road', 'Maggie Walker Avenue']", 
+        "to": "49629559", 
+        "length": "399.282609497802", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6039737, 6038490]"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1840 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877078, 
+            37.5283149
+          ], 
+          [
+            -77.4879456, 
+            37.5284991
+          ], 
+          [
+            -77.488187, 
+            37.528686
+          ], 
+          [
+            -77.4883645, 
+            37.5288612
+          ], 
+          [
+            -77.4892413, 
+            37.5293288
+          ], 
+          [
+            -77.4898082, 
+            37.5296705
+          ], 
+          [
+            -77.4899594, 
+            37.5297184
+          ], 
+          [
+            -77.4907379, 
+            37.5297184
+          ], 
+          [
+            -77.4912293, 
+            37.5295805
+          ], 
+          [
+            -77.491607, 
+            37.529346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49614080", 
+        "length": "411.4070969846689", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627729", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040272"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4938221, 
+            37.5292
+          ], 
+          [
+            -77.493769, 
+            37.5293527
+          ], 
+          [
+            -77.493701, 
+            37.5294966
+          ], 
+          [
+            -77.4935423, 
+            37.5296225
+          ], 
+          [
+            -77.493376, 
+            37.5296764
+          ], 
+          [
+            -77.4930661, 
+            37.5296944
+          ], 
+          [
+            -77.4926881, 
+            37.5297484
+          ], 
+          [
+            -77.4923329, 
+            37.5297604
+          ], 
+          [
+            -77.4922346, 
+            37.5297124
+          ], 
+          [
+            -77.4921817, 
+            37.5295925
+          ], 
+          [
+            -77.4921363, 
+            37.5293408
+          ], 
+          [
+            -77.4919625, 
+            37.5291729
+          ], 
+          [
+            -77.4917659, 
+            37.5291969
+          ], 
+          [
+            -77.491607, 
+            37.529346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49614080", 
+        "length": "279.0167221046676", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612358", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040272"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491607, 
+            37.529346
+          ], 
+          [
+            -77.4911711, 
+            37.5290799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Evelyn Byrd Road", 
+        "to": "49614080", 
+        "length": "48.521805236474606", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614078", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033486"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865767, 
+            37.5266221
+          ], 
+          [
+            -77.4866567, 
+            37.5264009
+          ], 
+          [
+            -77.4867261, 
+            37.5261814
+          ], 
+          [
+            -77.4869039, 
+            37.5256744
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "49618816", 
+        "length": "109.29740244228395", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614076", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "152674346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869039, 
+            37.5256744
+          ], 
+          [
+            -77.4872133, 
+            37.5247714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "49619492", 
+        "length": "104.07952671692212", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618816", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "152674346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869039, 
+            37.5256744
+          ], 
+          [
+            -77.4887963, 
+            37.5267223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49618816", 
+        "length": "203.5938775139248", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618814", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4943582, 
+            37.5242786
+          ], 
+          [
+            -77.4951677, 
+            37.5247226
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Forest Hill Avenue", 
+        "to": "49613570", 
+        "length": "86.82142434668", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613573", 
+        "ref": "SR 683", 
+        "highway": "secondary", 
+        "osmid": "45031093"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4942536, 
+            37.5282926
+          ], 
+          [
+            -77.4945391, 
+            37.5280657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bruton Road", 
+        "to": "49612356", 
+        "length": "35.65286613384682", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612354", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492507, 
+            37.527546
+          ], 
+          [
+            -77.4932613, 
+            37.5277728
+          ], 
+          [
+            -77.4942536, 
+            37.5282926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Caledonia Road", 
+        "to": "49612356", 
+        "length": "176.05762173502512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617645", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4938221, 
+            37.5292
+          ], 
+          [
+            -77.4939562, 
+            37.5286502
+          ], 
+          [
+            -77.4942536, 
+            37.5282926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bruton Road", 
+        "to": "49612356", 
+        "length": "109.9321605156716", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612358", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033010"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4946221, 
+            37.5255631
+          ], 
+          [
+            -77.4948797, 
+            37.5251663
+          ], 
+          [
+            -77.4951677, 
+            37.5247226
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dorchester Road", 
+        "to": "49613573", 
+        "length": "105.14713211752712", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613574", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4941994, 
+            37.5264129
+          ], 
+          [
+            -77.4944201, 
+            37.5259692
+          ], 
+          [
+            -77.4946221, 
+            37.5255631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dorchester Road", 
+        "to": "49613574", 
+        "length": "101.60880208992441", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613576", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4946221, 
+            37.5255631
+          ], 
+          [
+            -77.4926404, 
+            37.5244861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Devonshire Road", 
+        "to": "49613574", 
+        "length": "211.91588258569695", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4941994, 
+            37.5264129
+          ], 
+          [
+            -77.4941406, 
+            37.5265647
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dorchester Road", 
+        "to": "49613576", 
+        "length": "17.662869951296745", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613578", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4941994, 
+            37.5264129
+          ], 
+          [
+            -77.4921549, 
+            37.5253019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sylvan Road", 
+        "to": "49613576", 
+        "length": "218.62164935987218", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617719", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037684"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945391, 
+            37.5280657
+          ], 
+          [
+            -77.4942957, 
+            37.5276568
+          ], 
+          [
+            -77.494098, 
+            37.5271947
+          ], 
+          [
+            -77.4941406, 
+            37.5265647
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dorchester Road", 
+        "to": "49613578", 
+        "length": "174.74222614377646", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612354", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.493307, 
+            37.526947
+          ], 
+          [
+            -77.4937254, 
+            37.5267551
+          ], 
+          [
+            -77.4941406, 
+            37.5265647
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Edward Road", 
+        "to": "49613578", 
+        "length": "84.94144122316104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617643", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964814, 
+            37.5284497
+          ], 
+          [
+            -77.4962132, 
+            37.5281945
+          ], 
+          [
+            -77.4959235, 
+            37.5274798
+          ], 
+          [
+            -77.4954411, 
+            37.5269588
+          ], 
+          [
+            -77.4949824, 
+            37.5267066
+          ], 
+          [
+            -77.494854, 
+            37.526636
+          ], 
+          [
+            -77.494314, 
+            37.5265343
+          ], 
+          [
+            -77.4941406, 
+            37.5265647
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sylvan Road", 
+        "to": "49613578", 
+        "length": "319.98480320227713", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625028", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037681"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902342, 
+            37.5242778
+          ], 
+          [
+            -77.4878311, 
+            37.522967
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sylvan Road", 
+        "to": "49625036", 
+        "length": "257.2831129958926", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619496", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037684"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908851, 
+            37.5235376
+          ], 
+          [
+            -77.4905493, 
+            37.5239194
+          ], 
+          [
+            -77.4902342, 
+            37.5242778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Arthur Road", 
+        "to": "49625036", 
+        "length": "100.37439053758118", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616145", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038875"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896383, 
+            37.5250325
+          ], 
+          [
+            -77.4899537, 
+            37.5246331
+          ], 
+          [
+            -77.4902342, 
+            37.5242778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Arthur Road", 
+        "to": "49625036", 
+        "length": "99.0429548199211", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038875"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902342, 
+            37.5242778
+          ], 
+          [
+            -77.4921549, 
+            37.5253019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Sylvan Road", 
+        "to": "49625036", 
+        "length": "204.15961089225357", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617719", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037684"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4962346, 
+            37.5307725
+          ], 
+          [
+            -77.4962883, 
+            37.530279
+          ], 
+          [
+            -77.4962132, 
+            37.5298026
+          ], 
+          [
+            -77.496007, 
+            37.529346
+          ], 
+          [
+            -77.4956231, 
+            37.5288667
+          ], 
+          [
+            -77.4945391, 
+            37.5280657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dorchester Road", 
+        "to": "49612354", 
+        "length": "356.2867577827664", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613582", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4962346, 
+            37.5307725
+          ], 
+          [
+            -77.4965565, 
+            37.5310618
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49613582", 
+        "length": "42.913684339623764", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618809", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494907, 
+            37.530046
+          ], 
+          [
+            -77.4956338, 
+            37.5303556
+          ], 
+          [
+            -77.4962346, 
+            37.5307725
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49613582", 
+        "length": "143.18832711057252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618811", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4962346, 
+            37.5307725
+          ], 
+          [
+            -77.495607, 
+            37.532646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Dorchester Road", 
+        "to": "49613582", 
+        "length": "215.6098679471894", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613583", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4881395, 
+            37.5220937
+          ], 
+          [
+            -77.4878311, 
+            37.522967
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "49616143", 
+        "length": "100.87186620095427", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619496", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "152674346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908851, 
+            37.5235376
+          ], 
+          [
+            -77.4885445, 
+            37.5223067
+          ], 
+          [
+            -77.4881395, 
+            37.5220937
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Devonshire Road", 
+        "to": "49616143", 
+        "length": "290.61011899096707", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616145", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908851, 
+            37.5235376
+          ], 
+          [
+            -77.4926404, 
+            37.5244861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Devonshire Road", 
+        "to": "49616145", 
+        "length": "187.36473770164324", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616147", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034167"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4921549, 
+            37.5253019
+          ], 
+          [
+            -77.4923977, 
+            37.524894
+          ], 
+          [
+            -77.4926404, 
+            37.5244861
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peterborough Road", 
+        "to": "49616147", 
+        "length": "100.33748707041863", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617719", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034747"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896383, 
+            37.5250325
+          ], 
+          [
+            -77.4894247, 
+            37.5254155
+          ], 
+          [
+            -77.4891925, 
+            37.5258318
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Arthur Road", 
+        "to": "49627429", 
+        "length": "97.21216929323859", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038875"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909391, 
+            37.5267742
+          ], 
+          [
+            -77.490201, 
+            37.5263739
+          ], 
+          [
+            -77.4891925, 
+            37.5258318
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Caledonia Road", 
+        "to": "49627429", 
+        "length": "186.34499889927383", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617722", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4891925, 
+            37.5258318
+          ], 
+          [
+            -77.4872133, 
+            37.5247714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Caledonia Road", 
+        "to": "49627429", 
+        "length": "210.69437189071243", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619492", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887963, 
+            37.5267223
+          ], 
+          [
+            -77.4889995, 
+            37.5262656
+          ], 
+          [
+            -77.4891925, 
+            37.5258318
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Arthur Road", 
+        "to": "49627429", 
+        "length": "105.03209659694048", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618814", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038875"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877078, 
+            37.5283149
+          ], 
+          [
+            -77.4868407, 
+            37.5278641
+          ], 
+          [
+            -77.4862998, 
+            37.5275829
+          ], 
+          [
+            -77.4862471, 
+            37.5275578
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Riverside Drive", 
+        "to": "49619489", 
+        "length": "153.92816860340028", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627729", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040272"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872133, 
+            37.5247714
+          ], 
+          [
+            -77.4873803, 
+            37.5243016
+          ], 
+          [
+            -77.4875277, 
+            37.5238683
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "49619494", 
+        "length": "104.20851615063668", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619492", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "152674346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494907, 
+            37.530046
+          ], 
+          [
+            -77.4946252, 
+            37.52993
+          ], 
+          [
+            -77.4938221, 
+            37.5292
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49612358", 
+        "length": "135.75903864490078", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618811", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918467, 
+            37.5282138
+          ], 
+          [
+            -77.4930659, 
+            37.5286544
+          ], 
+          [
+            -77.4938221, 
+            37.5292
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49612358", 
+        "length": "208.3598976478728", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617647", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4875277, 
+            37.5238683
+          ], 
+          [
+            -77.4896383, 
+            37.5250325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "King William Road", 
+        "to": "49619494", 
+        "length": "226.78466847417613", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037025"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4875277, 
+            37.5238683
+          ], 
+          [
+            -77.4876891, 
+            37.5234069
+          ], 
+          [
+            -77.4878311, 
+            37.522967
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "49619496", 
+        "length": "103.76464007387415", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619494", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "152674346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4877078, 
+            37.5283149
+          ], 
+          [
+            -77.4883284, 
+            37.5275358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Arthur Road", 
+        "to": "49627729", 
+        "length": "102.49902229288888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614077", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038875"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865767, 
+            37.5266221
+          ], 
+          [
+            -77.4883284, 
+            37.5275358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Evelyn Byrd Road", 
+        "to": "49614076", 
+        "length": "184.9422129192192", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614077", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033486"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.493307, 
+            37.526947
+          ], 
+          [
+            -77.4915496, 
+            37.5260151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "King William Road", 
+        "to": "49617721", 
+        "length": "186.481074791746", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617643", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037025"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492507, 
+            37.527546
+          ], 
+          [
+            -77.4927029, 
+            37.5272499
+          ], 
+          [
+            -77.4928503, 
+            37.527176
+          ], 
+          [
+            -77.493307, 
+            37.526947
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Edward Road", 
+        "to": "49617643", 
+        "length": "100.23663395134483", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617645", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492507, 
+            37.527546
+          ], 
+          [
+            -77.4909391, 
+            37.5267742
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Caledonia Road", 
+        "to": "49617645", 
+        "length": "162.77967081597282", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617722", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918467, 
+            37.5282138
+          ], 
+          [
+            -77.4921514, 
+            37.5279057
+          ], 
+          [
+            -77.492507, 
+            37.527546
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Edward Road", 
+        "to": "49617645", 
+        "length": "94.38987855611862", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617647", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918467, 
+            37.5282138
+          ], 
+          [
+            -77.4911711, 
+            37.5290799
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Edward Road", 
+        "to": "49617647", 
+        "length": "113.2758190441338", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614078", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034716"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918467, 
+            37.5282138
+          ], 
+          [
+            -77.4910348, 
+            37.5278999
+          ], 
+          [
+            -77.4902787, 
+            37.5275053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49617724", 
+        "length": "159.5143452744875", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617647", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896383, 
+            37.5250325
+          ], 
+          [
+            -77.4915496, 
+            37.5260151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "King William Road", 
+        "to": "49617721", 
+        "length": "200.92296529154507", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037025"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911711, 
+            37.5290799
+          ], 
+          [
+            -77.4883284, 
+            37.5275358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Evelyn Byrd Road", 
+        "to": "49614077", 
+        "length": "303.9268464467024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614078", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033486"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4921549, 
+            37.5253019
+          ], 
+          [
+            -77.4918691, 
+            37.5256387
+          ], 
+          [
+            -77.4915496, 
+            37.5260151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peterborough Road", 
+        "to": "49617721", 
+        "length": "95.62249252488195", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617719", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034747"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909391, 
+            37.5267742
+          ], 
+          [
+            -77.4912467, 
+            37.5263917
+          ], 
+          [
+            -77.4915496, 
+            37.5260151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peterborough Road", 
+        "to": "49617721", 
+        "length": "100.14405382617255", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617722", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034747"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909391, 
+            37.5267742
+          ], 
+          [
+            -77.4906308, 
+            37.5271155
+          ], 
+          [
+            -77.4902787, 
+            37.5275053
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Peterborough Road", 
+        "to": "49617724", 
+        "length": "100.03012280452126", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617722", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034747"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902787, 
+            37.5275053
+          ], 
+          [
+            -77.4887963, 
+            37.5267223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "New Kent Avenue", 
+        "to": "49617724", 
+        "length": "157.1095152171322", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618814", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883284, 
+            37.5275358
+          ], 
+          [
+            -77.4887963, 
+            37.5267223
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prince Arthur Road", 
+        "to": "49618814", 
+        "length": "99.45138695848661", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614077", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038875"
+      }
+    }
+  ]
+}

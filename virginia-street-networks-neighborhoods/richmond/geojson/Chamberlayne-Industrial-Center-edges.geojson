@@ -1,0 +1,3895 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4448969, 
+            37.5583944
+          ], 
+          [
+            -77.444575, 
+            37.5580117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "High Street", 
+        "to": "49631872", 
+        "length": "51.161267438095784", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628196", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424352, 
+            37.5604113
+          ], 
+          [
+            -77.4424692, 
+            37.5607651
+          ], 
+          [
+            -77.4424951, 
+            37.5608893
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327864", 
+        "length": "53.46764375768181", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620353", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424352, 
+            37.5604113
+          ], 
+          [
+            -77.4408421, 
+            37.5602414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Quicksall Lane", 
+        "to": "49620353", 
+        "length": "141.72970871116172", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626526", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040423"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424352, 
+            37.5604113
+          ], 
+          [
+            -77.4424367, 
+            37.5593839
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620353", 
+        "length": "114.27393123366939", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620351", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4455514, 
+            37.5574546
+          ], 
+          [
+            -77.4468507, 
+            37.5589655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178691", 
+        "length": "203.38652386887063", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179075", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4455514, 
+            37.5574546
+          ], 
+          [
+            -77.4456908, 
+            37.557378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Sledd Street", 
+        "to": "1238179075", 
+        "length": "14.955550983310127", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179155", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4455514, 
+            37.5574546
+          ], 
+          [
+            -77.444575, 
+            37.5580117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Sledd Street", 
+        "to": "1238179075", 
+        "length": "106.0730110203854", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628196", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4455514, 
+            37.5574546
+          ], 
+          [
+            -77.4444401, 
+            37.5561987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179075", 
+        "length": "170.6304422191548", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178850", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4378609, 
+            37.5571235
+          ], 
+          [
+            -77.4378582, 
+            37.5580378
+          ], 
+          [
+            -77.4378969, 
+            37.5580684
+          ], 
+          [
+            -77.4379593, 
+            37.5580967
+          ], 
+          [
+            -77.4386185, 
+            37.5581591
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "['Fells Street', 'Fendall Avenue']", 
+        "to": "49616132", 
+        "length": "171.38927703109673", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627333", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039280, 6037443]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4386185, 
+            37.5581591
+          ], 
+          [
+            -77.4388462, 
+            37.5581657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fells Street", 
+        "to": "49616132", 
+        "length": "20.090394925466768", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616126", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4394041, 
+            37.559312
+          ], 
+          [
+            -77.4387001, 
+            37.5593075
+          ], 
+          [
+            -77.4386176, 
+            37.5592802
+          ], 
+          [
+            -77.4385688, 
+            37.5592248
+          ], 
+          [
+            -77.4386185, 
+            37.5581591
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "['Hickory Street', 'School Street']", 
+        "to": "49616132", 
+        "length": "196.0876319365844", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612903", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6038683, 6034164]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481094, 
+            37.5624082
+          ], 
+          [
+            -77.4481654, 
+            37.5627488
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178626", 
+        "length": "38.20405382948437", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178555", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481094, 
+            37.5624082
+          ], 
+          [
+            -77.4480688, 
+            37.5621739
+          ], 
+          [
+            -77.4476526, 
+            37.5597764
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179038", 
+        "length": "295.4830263628036", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178626", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4420323, 
+            37.5554185
+          ], 
+          [
+            -77.4420433, 
+            37.5553046
+          ], 
+          [
+            -77.4420897, 
+            37.5549948
+          ], 
+          [
+            -77.442155, 
+            37.5548556
+          ], 
+          [
+            -77.4423129, 
+            37.5545185
+          ], 
+          [
+            -77.4425017, 
+            37.5542055
+          ], 
+          [
+            -77.442905, 
+            37.553762
+          ], 
+          [
+            -77.4430645, 
+            37.5535983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "lanes": "3", 
+        "name": "Chamberlayne Avenue", 
+        "to": "1238178987", 
+        "length": "226.32834824533987", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1667093667", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "[38006097, 120374941, 135207686]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4430645, 
+            37.5535983
+          ], 
+          [
+            -77.4432635, 
+            37.5534991
+          ], 
+          [
+            -77.4433781, 
+            37.5534493
+          ], 
+          [
+            -77.4434413, 
+            37.5534385
+          ], 
+          [
+            -77.4434917, 
+            37.5534392
+          ], 
+          [
+            -77.443552, 
+            37.5534442
+          ], 
+          [
+            -77.4436044, 
+            37.5534515
+          ], 
+          [
+            -77.4436933, 
+            37.553482
+          ], 
+          [
+            -77.443741, 
+            37.5535034
+          ], 
+          [
+            -77.4437958, 
+            37.5535408
+          ], 
+          [
+            -77.4438446, 
+            37.5535948
+          ], 
+          [
+            -77.4438689, 
+            37.5536397
+          ], 
+          [
+            -77.443895, 
+            37.5537111
+          ], 
+          [
+            -77.4439022, 
+            37.5537753
+          ], 
+          [
+            -77.4438886, 
+            37.553847
+          ], 
+          [
+            -77.4438482, 
+            37.5539245
+          ], 
+          [
+            -77.4437955, 
+            37.5539852
+          ], 
+          [
+            -77.4437311, 
+            37.554028
+          ], 
+          [
+            -77.4436535, 
+            37.5540674
+          ], 
+          [
+            -77.4435511, 
+            37.5540922
+          ], 
+          [
+            -77.4434755, 
+            37.5540965
+          ], 
+          [
+            -77.4434031, 
+            37.554095
+          ], 
+          [
+            -77.4431725, 
+            37.5540511
+          ], 
+          [
+            -77.4429075, 
+            37.5539821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1238178524", 
+        "length": "209.5874770689351", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178987", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "[107789393, 107789388]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4468507, 
+            37.5589655
+          ], 
+          [
+            -77.446996, 
+            37.5589134
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "1238178691", 
+        "length": "14.061029894084841", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178969", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038679"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4468507, 
+            37.5589655
+          ], 
+          [
+            -77.447397, 
+            37.5596199
+          ], 
+          [
+            -77.4474712, 
+            37.5597926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179133", 
+        "length": "107.57371042371265", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178691", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481654, 
+            37.5627488
+          ], 
+          [
+            -77.4484112, 
+            37.5624635
+          ], 
+          [
+            -77.4486033, 
+            37.5622586
+          ], 
+          [
+            -77.4492433, 
+            37.5615761
+          ], 
+          [
+            -77.4494451, 
+            37.5613566
+          ], 
+          [
+            -77.4502288, 
+            37.560504
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "2594616725", 
+        "length": "308.95401544588896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178555", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4487932, 
+            37.5597368
+          ], 
+          [
+            -77.4488088, 
+            37.5603067
+          ], 
+          [
+            -77.4494209, 
+            37.5603212
+          ], 
+          [
+            -77.4494889, 
+            37.5603228
+          ], 
+          [
+            -77.4495904, 
+            37.5603952
+          ], 
+          [
+            -77.4497111, 
+            37.5604622
+          ], 
+          [
+            -77.4497426, 
+            37.5604797
+          ], 
+          [
+            -77.4498898, 
+            37.56054
+          ], 
+          [
+            -77.4499913, 
+            37.5605481
+          ], 
+          [
+            -77.4500674, 
+            37.5604274
+          ], 
+          [
+            -77.4502288, 
+            37.560504
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Corey Avenue", 
+        "to": "2594616725", 
+        "length": "207.0148639376225", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616727", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[253544786, 253544787, 6034123]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4502288, 
+            37.560504
+          ], 
+          [
+            -77.4504212, 
+            37.5602947
+          ], 
+          [
+            -77.4506985, 
+            37.5599915
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "2594616575", 
+        "length": "70.45915978557109", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616725", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438663, 
+            37.5554542
+          ], 
+          [
+            -77.4438452, 
+            37.5549233
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178709", 
+        "length": "59.07932196570267", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178993", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438663, 
+            37.5554542
+          ], 
+          [
+            -77.4444401, 
+            37.5561987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178850", 
+        "length": "97.04139510490407", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178709", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438663, 
+            37.5554542
+          ], 
+          [
+            -77.4420323, 
+            37.5554185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Mitchell Street", 
+        "to": "1667093667", 
+        "length": "161.76383254064626", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178709", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438663, 
+            37.5554542
+          ], 
+          [
+            -77.4440532, 
+            37.5554378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Mitchell Street", 
+        "to": "1238179047", 
+        "length": "16.58076745929528", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178709", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4487932, 
+            37.5597368
+          ], 
+          [
+            -77.4502248, 
+            37.5596871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Admiral Street", 
+        "to": "2594616727", 
+        "length": "126.34674546190413", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611850", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4487932, 
+            37.5597368
+          ], 
+          [
+            -77.4476526, 
+            37.5597764
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Admiral Street", 
+        "to": "2594616727", 
+        "length": "100.66431189329538", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179038", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408431, 
+            37.5625706
+          ], 
+          [
+            -77.4412183, 
+            37.562581
+          ], 
+          [
+            -77.4415892, 
+            37.5625825
+          ], 
+          [
+            -77.441649, 
+            37.5626234
+          ], 
+          [
+            -77.4416869, 
+            37.5627571
+          ], 
+          [
+            -77.4416938, 
+            37.5628622
+          ], 
+          [
+            -77.4416788, 
+            37.5633105
+          ], 
+          [
+            -77.4416907, 
+            37.5633663
+          ], 
+          [
+            -77.44171, 
+            37.5634033
+          ], 
+          [
+            -77.4418102, 
+            37.5635271
+          ], 
+          [
+            -77.4418375, 
+            37.5636188
+          ], 
+          [
+            -77.4418401, 
+            37.5637351
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "3637985176", 
+        "length": "200.1191195667077", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3637985165", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "358974841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418401, 
+            37.5637351
+          ], 
+          [
+            -77.442314, 
+            37.5637752
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Wickham Street", 
+        "to": "3637985176", 
+        "length": "42.01940468063975", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623149", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036773"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.446996, 
+            37.5589134
+          ], 
+          [
+            -77.4456908, 
+            37.557378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179155", 
+        "length": "205.93418849535948", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178969", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4476526, 
+            37.5597764
+          ], 
+          [
+            -77.4475833, 
+            37.5596417
+          ], 
+          [
+            -77.446996, 
+            37.5589134
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178969", 
+        "length": "112.32330303666797", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179038", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.446996, 
+            37.5589134
+          ], 
+          [
+            -77.4495408, 
+            37.5588613
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "1238178969", 
+        "length": "224.45513543825615", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611847", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038679"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4411284, 
+            37.5574443
+          ], 
+          [
+            -77.4424542, 
+            37.5575384
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "49626523", 
+        "length": "117.36834311737637", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620347", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4409567, 
+            37.5563828
+          ], 
+          [
+            -77.4410957, 
+            37.556947
+          ], 
+          [
+            -77.4411284, 
+            37.5574443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49626523", 
+        "length": "119.32743768109762", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614332", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.440304, 
+            37.5571198
+          ], 
+          [
+            -77.4405953, 
+            37.5573173
+          ], 
+          [
+            -77.4407175, 
+            37.5573723
+          ], 
+          [
+            -77.4411284, 
+            37.5574443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "49626523", 
+        "length": "83.29313635079572", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614294", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4410837, 
+            37.5583887
+          ], 
+          [
+            -77.441097, 
+            37.5582457
+          ], 
+          [
+            -77.4411047, 
+            37.5579826
+          ], 
+          [
+            -77.4411124, 
+            37.5577776
+          ], 
+          [
+            -77.4411284, 
+            37.5574443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49626523", 
+        "length": "105.13006285475213", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4410837, 
+            37.5583887
+          ], 
+          [
+            -77.4410584, 
+            37.5585456
+          ], 
+          [
+            -77.4410198, 
+            37.5586618
+          ], 
+          [
+            -77.4409735, 
+            37.5587904
+          ], 
+          [
+            -77.4409233, 
+            37.5589127
+          ], 
+          [
+            -77.4408963, 
+            37.5590443
+          ], 
+          [
+            -77.4408924, 
+            37.5592218
+          ], 
+          [
+            -77.4408769, 
+            37.5593503
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49626524", 
+        "length": "109.07146973792364", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408769, 
+            37.5593503
+          ], 
+          [
+            -77.4401031, 
+            37.5593356
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "49626524", 
+        "length": "68.24672943509698", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614299", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408769, 
+            37.5593503
+          ], 
+          [
+            -77.4408421, 
+            37.5602414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49626524", 
+        "length": "99.1611995596126", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626526", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408769, 
+            37.5593503
+          ], 
+          [
+            -77.4424367, 
+            37.5593839
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "49626524", 
+        "length": "137.58069776390377", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620351", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.45107, 
+            37.5595788
+          ], 
+          [
+            -77.4510224, 
+            37.5596143
+          ], 
+          [
+            -77.4509608, 
+            37.5596476
+          ], 
+          [
+            -77.4508704, 
+            37.5596804
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616605", 
+        "length": "21.10234580627532", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616624", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253544784"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4508704, 
+            37.5596804
+          ], 
+          [
+            -77.4508201, 
+            37.559691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616607", 
+        "length": "4.589045154900481", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616605", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253544776"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4408421, 
+            37.5602414
+          ], 
+          [
+            -77.4407852, 
+            37.5608707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49626526", 
+        "length": "70.17424491828592", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617216", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4508201, 
+            37.559691
+          ], 
+          [
+            -77.4507295, 
+            37.5596902
+          ], 
+          [
+            -77.4503015, 
+            37.5596879
+          ], 
+          [
+            -77.4502248, 
+            37.5596871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "49611850", 
+        "length": "52.490224510630654", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616607", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544778"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4508201, 
+            37.559691
+          ], 
+          [
+            -77.4507773, 
+            37.5597144
+          ], 
+          [
+            -77.4507472, 
+            37.5597481
+          ], 
+          [
+            -77.4507333, 
+            37.5597878
+          ], 
+          [
+            -77.4507361, 
+            37.5598248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616613", 
+        "length": "17.88234419195199", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616607", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253544776"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4458723, 
+            37.5554454
+          ], 
+          [
+            -77.445404, 
+            37.5557369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Oak Street", 
+        "to": "49617440", 
+        "length": "52.50058963145511", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617441", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4407402, 
+            37.562519
+          ], 
+          [
+            -77.440756, 
+            37.5620493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49626529", 
+        "length": "52.2615416823032", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615169", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4444401, 
+            37.5561987
+          ], 
+          [
+            -77.4433849, 
+            37.5565372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Oak Street", 
+        "to": "1238178850", 
+        "length": "100.37133023903205", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4444401, 
+            37.5561987
+          ], 
+          [
+            -77.4446036, 
+            37.5561462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Oak Street", 
+        "to": "1238178850", 
+        "length": "15.554370822861339", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178551", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4422864, 
+            37.5564491
+          ], 
+          [
+            -77.4421228, 
+            37.5559351
+          ], 
+          [
+            -77.4420477, 
+            37.5556251
+          ], 
+          [
+            -77.4420323, 
+            37.5554185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "3", 
+        "name": "Chamberlayne Avenue", 
+        "to": "1667093667", 
+        "length": "117.09186368515157", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327868", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4420323, 
+            37.5554185
+          ], 
+          [
+            -77.4418688, 
+            37.555422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Mitchell Street", 
+        "to": "1667093667", 
+        "length": "14.422061422865992", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1667093671", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.444575, 
+            37.5580117
+          ], 
+          [
+            -77.4439528, 
+            37.5572887
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "High Street", 
+        "to": "49628196", 
+        "length": "97.34793190831142", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.444575, 
+            37.5580117
+          ], 
+          [
+            -77.4441943, 
+            37.5582754
+          ], 
+          [
+            -77.4440687, 
+            37.558388
+          ], 
+          [
+            -77.4440053, 
+            37.5585008
+          ], 
+          [
+            -77.4439759, 
+            37.5587558
+          ], 
+          [
+            -77.4439264, 
+            37.5597241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Sledd Street", 
+        "to": "49627363", 
+        "length": "211.2994757961748", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628196", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4502248, 
+            37.5596871
+          ], 
+          [
+            -77.4504733, 
+            37.5597236
+          ], 
+          [
+            -77.450524, 
+            37.5597303
+          ], 
+          [
+            -77.4506479, 
+            37.5597549
+          ], 
+          [
+            -77.450707, 
+            37.5597817
+          ], 
+          [
+            -77.4507361, 
+            37.5598248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Admiral Street", 
+        "to": "2594616613", 
+        "length": "49.51782190842501", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611850", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544777"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4507361, 
+            37.5598248
+          ], 
+          [
+            -77.4507351, 
+            37.5598843
+          ], 
+          [
+            -77.4507323, 
+            37.5599156
+          ], 
+          [
+            -77.4507211, 
+            37.5599468
+          ], 
+          [
+            -77.4506985, 
+            37.5599915
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616575", 
+        "length": "19.072973742071873", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616613", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253544782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4426443, 
+            37.5608515
+          ], 
+          [
+            -77.4424951, 
+            37.5608893
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Tazewell Street", 
+        "to": "2766327856", 
+        "length": "13.810453433482085", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327864", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "271682854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436739, 
+            37.5631294
+          ], 
+          [
+            -77.4436514, 
+            37.5630523
+          ], 
+          [
+            -77.4435663, 
+            37.562868
+          ], 
+          [
+            -77.4431429, 
+            37.5621916
+          ], 
+          [
+            -77.4429931, 
+            37.5619051
+          ], 
+          [
+            -77.4428074, 
+            37.5614249
+          ], 
+          [
+            -77.4426443, 
+            37.5608515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327856", 
+        "length": "270.3541104135616", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327849", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4426443, 
+            37.5608515
+          ], 
+          [
+            -77.4425929, 
+            37.5604377
+          ], 
+          [
+            -77.4425691, 
+            37.5599722
+          ], 
+          [
+            -77.4425848, 
+            37.559387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327859", 
+        "length": "163.17065946013213", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327856", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436739, 
+            37.5631294
+          ], 
+          [
+            -77.4435471, 
+            37.563169
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "2766327849", 
+        "length": "12.015954814507955", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327851", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "271682853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424951, 
+            37.5608893
+          ], 
+          [
+            -77.4425376, 
+            37.5610929
+          ], 
+          [
+            -77.4426256, 
+            37.5614079
+          ], 
+          [
+            -77.4427265, 
+            37.5616635
+          ], 
+          [
+            -77.442834, 
+            37.5619242
+          ], 
+          [
+            -77.4432215, 
+            37.5625903
+          ], 
+          [
+            -77.4435114, 
+            37.5630653
+          ], 
+          [
+            -77.4435471, 
+            37.563169
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327851", 
+        "length": "271.3662808168311", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327864", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438452, 
+            37.5549233
+          ], 
+          [
+            -77.4439824, 
+            37.5549309
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Webster Street", 
+        "to": "1238178993", 
+        "length": "12.127349555469955", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036711"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425848, 
+            37.559387
+          ], 
+          [
+            -77.443123, 
+            37.5593982
+          ], 
+          [
+            -77.4434642, 
+            37.559493
+          ], 
+          [
+            -77.4439264, 
+            37.5597241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "49627363", 
+        "length": "127.53062440067362", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327859", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425848, 
+            37.559387
+          ], 
+          [
+            -77.4425892, 
+            37.5585273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327862", 
+        "length": "95.62199869658485", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327859", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425848, 
+            37.559387
+          ], 
+          [
+            -77.4424367, 
+            37.5593839
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "2766327859", 
+        "length": "13.062749708612737", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620351", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425943, 
+            37.5575358
+          ], 
+          [
+            -77.4425713, 
+            37.5573834
+          ], 
+          [
+            -77.4424136, 
+            37.5568486
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "3", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327866", 
+        "length": "78.15919003348816", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327861", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425943, 
+            37.5575358
+          ], 
+          [
+            -77.4424542, 
+            37.5575384
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "2766327861", 
+        "length": "12.356517245682447", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620347", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425943, 
+            37.5575358
+          ], 
+          [
+            -77.4425892, 
+            37.5585273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327861", 
+        "length": "110.28174894764278", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327862", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4439528, 
+            37.5572887
+          ], 
+          [
+            -77.4435004, 
+            37.5575498
+          ], 
+          [
+            -77.44336, 
+            37.5575804
+          ], 
+          [
+            -77.44318, 
+            37.5575743
+          ], 
+          [
+            -77.4425943, 
+            37.5575358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "2766327861", 
+        "length": "129.88677437824242", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4425892, 
+            37.5585273
+          ], 
+          [
+            -77.4424639, 
+            37.5585179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fells Street", 
+        "to": "49620350", 
+        "length": "11.097377478843018", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327862", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4409567, 
+            37.5563828
+          ], 
+          [
+            -77.4399182, 
+            37.5562984
+          ], 
+          [
+            -77.438932, 
+            37.5562182
+          ], 
+          [
+            -77.4388985, 
+            37.5571354
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "['Hickory Street', 'West Bacon Street']", 
+        "to": "1667093687", 
+        "length": "281.5239592470707", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614332", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033552, 6034161]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4388985, 
+            37.5571354
+          ], 
+          [
+            -77.439386, 
+            37.5570088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "1667093687", 
+        "length": "45.232580210082475", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612901", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4388985, 
+            37.5571354
+          ], 
+          [
+            -77.4388462, 
+            37.5581657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Hickory Street", 
+        "to": "1667093687", 
+        "length": "114.68915856800974", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616126", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034161"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4378609, 
+            37.5571235
+          ], 
+          [
+            -77.4382627, 
+            37.5571551
+          ], 
+          [
+            -77.4387027, 
+            37.5571765
+          ], 
+          [
+            -77.4388985, 
+            37.5571354
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "1667093687", 
+        "length": "92.33131689599787", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627333", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424951, 
+            37.5608893
+          ], 
+          [
+            -77.4424119, 
+            37.5609266
+          ], 
+          [
+            -77.4423709, 
+            37.5609754
+          ], 
+          [
+            -77.4423377, 
+            37.5620835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Tazewell Street", 
+        "to": "49615170", 
+        "length": "138.23364494441756", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327864", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "271682854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4422708, 
+            37.5568913
+          ], 
+          [
+            -77.4424136, 
+            37.5568486
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Oak Street", 
+        "to": "2766327865", 
+        "length": "13.457251930894483", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327866", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4422708, 
+            37.5568913
+          ], 
+          [
+            -77.4424542, 
+            37.5575384
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620347", 
+        "length": "73.76879613815454", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327865", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4422708, 
+            37.5568913
+          ], 
+          [
+            -77.4421373, 
+            37.556485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "3", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327865", 
+        "length": "46.69915452352947", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614334", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374940"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424136, 
+            37.5568486
+          ], 
+          [
+            -77.4433849, 
+            37.5565372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Oak Street", 
+        "to": "2766327866", 
+        "length": "92.38262122751135", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424136, 
+            37.5568486
+          ], 
+          [
+            -77.4422864, 
+            37.5564491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "3", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327868", 
+        "length": "45.828529451157785", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327866", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4422864, 
+            37.5564491
+          ], 
+          [
+            -77.4421373, 
+            37.556485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Bacon Street", 
+        "to": "2766327868", 
+        "length": "13.73989831021216", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614334", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033552"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4476526, 
+            37.5597764
+          ], 
+          [
+            -77.44756, 
+            37.5597847
+          ], 
+          [
+            -77.4474712, 
+            37.5597926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "['Admiral Street', 'School Street']", 
+        "to": "1238179133", 
+        "length": "16.09540133934328", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179038", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6038683, 6039820]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4474712, 
+            37.5597926
+          ], 
+          [
+            -77.4446897, 
+            37.5600186
+          ], 
+          [
+            -77.4443502, 
+            37.5599593
+          ], 
+          [
+            -77.4439264, 
+            37.5597241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "49627363", 
+        "length": "322.7983288047439", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179133", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4439528, 
+            37.5572887
+          ], 
+          [
+            -77.4433849, 
+            37.5565372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "High Street", 
+        "to": "49627327", 
+        "length": "97.43787228853645", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617443", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4407852, 
+            37.5608707
+          ], 
+          [
+            -77.440756, 
+            37.5620493
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Roane Street", 
+        "to": "49617216", 
+        "length": "131.1165430594968", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615169", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "154116219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4407852, 
+            37.5608707
+          ], 
+          [
+            -77.4400803, 
+            37.5608497
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Home Street", 
+        "to": "49617216", 
+        "length": "62.19473153226358", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617215", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034534"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.440756, 
+            37.5620493
+          ], 
+          [
+            -77.4423377, 
+            37.5620835
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Dawn Street", 
+        "to": "49615170", 
+        "length": "139.50770433192326", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615169", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033851"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4423377, 
+            37.5620835
+          ], 
+          [
+            -77.442314, 
+            37.5637752
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Tazewell Street", 
+        "to": "49615170", 
+        "length": "188.17305822970604", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623149", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "271682854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418688, 
+            37.555422
+          ], 
+          [
+            -77.4418909, 
+            37.5556759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Chamberlayne Avenue", 
+        "to": "446391881", 
+        "length": "28.307499868139693", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1667093671", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120375062"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418688, 
+            37.555422
+          ], 
+          [
+            -77.4418001, 
+            37.5554218
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Mitchell Street", 
+        "to": "1667093671", 
+        "length": "6.057744694786561", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620345", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4378609, 
+            37.5571235
+          ], 
+          [
+            -77.4378689, 
+            37.556071
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fendall Avenue", 
+        "to": "49627333", 
+        "length": "117.06775893542834", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3006164434", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039280"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495408, 
+            37.5588613
+          ], 
+          [
+            -77.4502248, 
+            37.5596871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Currie Street", 
+        "to": "49611847", 
+        "length": "109.88067676872369", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611850", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032837"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4495408, 
+            37.5588613
+          ], 
+          [
+            -77.4502931, 
+            37.5588517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "49611847", 
+        "length": "66.34047948078748", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627358", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038679"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418909, 
+            37.5556759
+          ], 
+          [
+            -77.4418001, 
+            37.5554218
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Chamberlayne Avenue", 
+        "to": "446391881", 
+        "length": "29.374755481229844", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620345", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "154116218"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418909, 
+            37.5556759
+          ], 
+          [
+            -77.4420985, 
+            37.5563379
+          ], 
+          [
+            -77.4421373, 
+            37.556485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "3", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49614334", 
+        "length": "92.58830012970049", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "446391881", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374940"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4456908, 
+            37.557378
+          ], 
+          [
+            -77.44584, 
+            37.5573307
+          ], 
+          [
+            -77.4465116, 
+            37.5571527
+          ], 
+          [
+            -77.4465993, 
+            37.5570732
+          ], 
+          [
+            -77.446591, 
+            37.5569996
+          ], 
+          [
+            -77.445404, 
+            37.5557369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "['Sledd Street', 'Webster Street']", 
+        "to": "49617441", 
+        "length": "271.7292173792483", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179155", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039082, 6036711]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4439824, 
+            37.5549309
+          ], 
+          [
+            -77.4444387, 
+            37.5549157
+          ], 
+          [
+            -77.4446309, 
+            37.5549405
+          ], 
+          [
+            -77.4447437, 
+            37.555032
+          ], 
+          [
+            -77.445404, 
+            37.5557369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Webster Street", 
+        "to": "49617441", 
+        "length": "169.3290482587055", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036711"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.445404, 
+            37.5557369
+          ], 
+          [
+            -77.4446036, 
+            37.5561462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Oak Street", 
+        "to": "49617441", 
+        "length": "83.98482089980206", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178551", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424542, 
+            37.5575384
+          ], 
+          [
+            -77.4424639, 
+            37.5585179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620350", 
+        "length": "108.94947419347291", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620347", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.440304, 
+            37.5571198
+          ], 
+          [
+            -77.440298, 
+            37.5583183
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Brookfield Street", 
+        "to": "49614294", 
+        "length": "133.30571676984064", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614296", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033542"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.439386, 
+            37.5570088
+          ], 
+          [
+            -77.4396225, 
+            37.5569606
+          ], 
+          [
+            -77.4398827, 
+            37.5569776
+          ], 
+          [
+            -77.4400973, 
+            37.5570279
+          ], 
+          [
+            -77.440304, 
+            37.5571198
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Fritz Street", 
+        "to": "49614294", 
+        "length": "85.18037224191173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612901", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038662"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4401031, 
+            37.5593356
+          ], 
+          [
+            -77.4401282, 
+            37.5590382
+          ], 
+          [
+            -77.4401745, 
+            37.5588026
+          ], 
+          [
+            -77.440244, 
+            37.5585364
+          ], 
+          [
+            -77.440298, 
+            37.5583183
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Brookfield Street", 
+        "to": "49614296", 
+        "length": "114.63084688113986", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614299", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033542"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.440298, 
+            37.5583183
+          ], 
+          [
+            -77.4394586, 
+            37.5582323
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fells Street", 
+        "to": "49614296", 
+        "length": "74.62782220501389", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612902", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.440298, 
+            37.5583183
+          ], 
+          [
+            -77.4410837, 
+            37.5583887
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fells Street", 
+        "to": "49614296", 
+        "length": "69.71842410398511", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4439824, 
+            37.5549309
+          ], 
+          [
+            -77.4439531, 
+            37.5547257
+          ], 
+          [
+            -77.443925, 
+            37.5546826
+          ], 
+          [
+            -77.4438592, 
+            37.5545817
+          ], 
+          [
+            -77.443695, 
+            37.5544499
+          ], 
+          [
+            -77.4429075, 
+            37.5539821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178524", 
+        "length": "148.37473716293817", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178596", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4439824, 
+            37.5549309
+          ], 
+          [
+            -77.4440532, 
+            37.5554378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178596", 
+        "length": "56.7251665240687", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179047", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418001, 
+            37.5554218
+          ], 
+          [
+            -77.4410674, 
+            37.5553932
+          ], 
+          [
+            -77.4395963, 
+            37.5553539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Mitchell Street", 
+        "to": "49629726", 
+        "length": "194.4746674342545", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620345", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4401031, 
+            37.5593356
+          ], 
+          [
+            -77.4394041, 
+            37.559312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "School Street", 
+        "to": "49614299", 
+        "length": "61.68779885077098", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612903", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038683"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4421373, 
+            37.556485
+          ], 
+          [
+            -77.4409567, 
+            37.5563828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "West Bacon Street", 
+        "to": "49614332", 
+        "length": "104.71818792811797", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614334", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033552"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4394586, 
+            37.5582323
+          ], 
+          [
+            -77.4394978, 
+            37.5579445
+          ], 
+          [
+            -77.4395227, 
+            37.5576447
+          ], 
+          [
+            -77.4394939, 
+            37.557357
+          ], 
+          [
+            -77.439386, 
+            37.5570088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Tyler Street", 
+        "to": "49612901", 
+        "length": "137.59564921796385", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612902", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033196"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4394586, 
+            37.5582323
+          ], 
+          [
+            -77.4388462, 
+            37.5581657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fells Street", 
+        "to": "49612902", 
+        "length": "54.5028301909183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616126", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4394586, 
+            37.5582323
+          ], 
+          [
+            -77.4394041, 
+            37.559312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Tyler Street", 
+        "to": "49612902", 
+        "length": "120.1870920600259", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612903", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033196"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4440532, 
+            37.5554378
+          ], 
+          [
+            -77.4446036, 
+            37.5561462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179047", 
+        "length": "92.53990816690064", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178551", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4410837, 
+            37.5583887
+          ], 
+          [
+            -77.4413401, 
+            37.5584232
+          ], 
+          [
+            -77.4419345, 
+            37.558466
+          ], 
+          [
+            -77.4424639, 
+            37.5585179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Fells Street", 
+        "to": "49620350", 
+        "length": "122.59051623316937", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4456908, 
+            37.557378
+          ], 
+          [
+            -77.4446036, 
+            37.5561462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178551", 
+        "length": "167.21580471666843", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179155", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4424367, 
+            37.5593839
+          ], 
+          [
+            -77.4424639, 
+            37.5585179
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620351", 
+        "length": "96.3517893240048", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620350", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "38006098"
+      }
+    }
+  ]
+}

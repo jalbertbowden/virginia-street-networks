@@ -1,0 +1,1549 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937149, 
+            37.4608224
+          ], 
+          [
+            -77.4938529, 
+            37.4612521
+          ], 
+          [
+            -77.4938529, 
+            37.462291
+          ], 
+          [
+            -77.4937778, 
+            37.4630064
+          ], 
+          [
+            -77.4936866, 
+            37.463181
+          ], 
+          [
+            -77.4935578, 
+            37.463347
+          ], 
+          [
+            -77.4932719, 
+            37.4635046
+          ], 
+          [
+            -77.4909907, 
+            37.463918
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bemiss Road", 
+        "to": "49625772", 
+        "length": "524.7373525597561", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618679", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040688"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937149, 
+            37.4608224
+          ], 
+          [
+            -77.4940391, 
+            37.4607911
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bemiss Court", 
+        "to": "209774157", 
+        "length": "28.83391645927227", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618679", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4937149, 
+            37.4608224
+          ], 
+          [
+            -77.4935064, 
+            37.4608967
+          ], 
+          [
+            -77.4933777, 
+            37.4609669
+          ], 
+          [
+            -77.4930317, 
+            37.4613097
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bemiss Court", 
+        "to": "49618678", 
+        "length": "82.82094042768438", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618679", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4885633, 
+            37.4668685
+          ], 
+          [
+            -77.4885857, 
+            37.4668327
+          ], 
+          [
+            -77.4887788, 
+            37.4665262
+          ], 
+          [
+            -77.4889076, 
+            37.4662026
+          ], 
+          [
+            -77.488929, 
+            37.4658449
+          ], 
+          [
+            -77.4888647, 
+            37.4654532
+          ], 
+          [
+            -77.4883937, 
+            37.4641278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "49614548", 
+        "length": "317.24492933283125", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49631747", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896152, 
+            37.4673299
+          ], 
+          [
+            -77.4893915, 
+            37.4672441
+          ], 
+          [
+            -77.4885633, 
+            37.4668685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Belmont Road", 
+        "to": "49631747", 
+        "length": "106.14102380985517", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286220", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040868"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4873871, 
+            37.467802
+          ], 
+          [
+            -77.4879205, 
+            37.467514
+          ], 
+          [
+            -77.4883497, 
+            37.4671563
+          ], 
+          [
+            -77.4885364, 
+            37.4669003
+          ], 
+          [
+            -77.4885633, 
+            37.4668685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "49631747", 
+        "length": "149.05298281504216", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2031286241", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4892277, 
+            37.4604627
+          ], 
+          [
+            -77.48941, 
+            37.4601731
+          ], 
+          [
+            -77.4896139, 
+            37.4599943
+          ], 
+          [
+            -77.4899036, 
+            37.4598154
+          ], 
+          [
+            -77.4905044, 
+            37.4598154
+          ], 
+          [
+            -77.492891, 
+            37.4595646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2031286276", 
+        "length": "360.8332969038817", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286201", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "192576026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879938, 
+            37.4615953
+          ], 
+          [
+            -77.4887985, 
+            37.4615698
+          ], 
+          [
+            -77.4892813, 
+            37.4614676
+          ], 
+          [
+            -77.4897856, 
+            37.4612376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2031286214", 
+        "length": "166.56542901175783", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286232", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "192576025"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4892277, 
+            37.4604627
+          ], 
+          [
+            -77.4894637, 
+            37.460633
+          ], 
+          [
+            -77.4896032, 
+            37.4609396
+          ], 
+          [
+            -77.4897856, 
+            37.4612376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "2031286214", 
+        "length": "101.26728099163915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286201", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4897856, 
+            37.4612376
+          ], 
+          [
+            -77.490011, 
+            37.4614375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "2031286214", 
+        "length": "29.838994448382934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625774", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4831198, 
+            37.4701331
+          ], 
+          [
+            -77.4833078, 
+            37.4698641
+          ], 
+          [
+            -77.4835789, 
+            37.4695926
+          ], 
+          [
+            -77.4837853, 
+            37.4694386
+          ], 
+          [
+            -77.4840133, 
+            37.4692943
+          ], 
+          [
+            -77.4842937, 
+            37.4691549
+          ], 
+          [
+            -77.4860396, 
+            37.4683711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "571542507", 
+        "length": "329.77804204307665", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2394591048", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905966, 
+            37.4628866
+          ], 
+          [
+            -77.4907839, 
+            37.4633558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49619337", 
+        "length": "54.74444483816754", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3129705138", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905966, 
+            37.4628866
+          ], 
+          [
+            -77.4903784, 
+            37.4622843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49619337", 
+        "length": "69.7063277850119", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624971", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905966, 
+            37.4628866
+          ], 
+          [
+            -77.4914325, 
+            37.4626975
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Beddington Road", 
+        "to": "49619337", 
+        "length": "76.73673343557938", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619339", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035401"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4884694, 
+            37.4622387
+          ], 
+          [
+            -77.4887021, 
+            37.4627703
+          ], 
+          [
+            -77.4903784, 
+            37.4622843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Bathurst Road', 'Barth Road']", 
+        "to": "49624971", 
+        "length": "220.15228263580755", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619364", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037657, 6035410]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490011, 
+            37.4614375
+          ], 
+          [
+            -77.4902134, 
+            37.4618597
+          ], 
+          [
+            -77.4903784, 
+            37.4622843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49624971", 
+        "length": "99.66697535410786", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625774", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4873871, 
+            37.467802
+          ], 
+          [
+            -77.4877787, 
+            37.4678768
+          ], 
+          [
+            -77.4881963, 
+            37.4677957
+          ], 
+          [
+            -77.4888393, 
+            37.4676503
+          ], 
+          [
+            -77.4894784, 
+            37.4675
+          ], 
+          [
+            -77.4896152, 
+            37.4673299
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belmont Court", 
+        "to": "2031286220", 
+        "length": "213.8230977916092", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286241", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033763"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4896152, 
+            37.4673299
+          ], 
+          [
+            -77.4899412, 
+            37.4674029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Belmont Road", 
+        "to": "2031286220", 
+        "length": "29.90281951138408", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614874", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040868"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940391, 
+            37.4607911
+          ], 
+          [
+            -77.4942111, 
+            37.4607691
+          ], 
+          [
+            -77.4946046, 
+            37.4607769
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bemiss Court", 
+        "to": "49618680", 
+        "length": "50.133613790641036", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "209774157", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4884512, 
+            37.4598173
+          ], 
+          [
+            -77.4879724, 
+            37.4601646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2031286286", 
+        "length": "57.26409728270043", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286239", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "192576024"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883552, 
+            37.4640417
+          ], 
+          [
+            -77.4874553, 
+            37.4620298
+          ], 
+          [
+            -77.4871302, 
+            37.4612793
+          ], 
+          [
+            -77.4869092, 
+            37.460468
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "571442640", 
+        "length": "418.05617546248016", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3129705139", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869092, 
+            37.460468
+          ], 
+          [
+            -77.4879724, 
+            37.4601646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "571442640", 
+        "length": "99.75008234361819", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286239", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "192576024"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4942658, 
+            37.4658936
+          ], 
+          [
+            -77.4941864, 
+            37.466242
+          ], 
+          [
+            -77.493682, 
+            37.4661827
+          ], 
+          [
+            -77.4935092, 
+            37.466116
+          ], 
+          [
+            -77.493271, 
+            37.4659862
+          ], 
+          [
+            -77.4929535, 
+            37.4657379
+          ], 
+          [
+            -77.49279, 
+            37.4655526
+          ], 
+          [
+            -77.492678, 
+            37.4652968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Burgain Road', 'Burgain Court']", 
+        "to": "49624452", 
+        "length": "221.49846978102977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630514", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037378, 6040134]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883937, 
+            37.4641278
+          ], 
+          [
+            -77.4908198, 
+            37.4634458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookbury Boulevard", 
+        "to": "49617330", 
+        "length": "227.22293043570474", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614548", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "442660085"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883937, 
+            37.4641278
+          ], 
+          [
+            -77.4883552, 
+            37.4640417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "3129705139", 
+        "length": "10.161874164454431", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614548", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490011, 
+            37.4614375
+          ], 
+          [
+            -77.4908907, 
+            37.461148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Napotnic Lane", 
+        "to": "49632410", 
+        "length": "84.076868172353", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625774", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041283"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4904777, 
+            37.4700767
+          ], 
+          [
+            -77.4904169, 
+            37.4692039
+          ], 
+          [
+            -77.4904497, 
+            37.4686393
+          ], 
+          [
+            -77.4899412, 
+            37.4674029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mark Road", 
+        "to": "49614874", 
+        "length": "304.7529712607527", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627192", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038605"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4942864, 
+            37.467505
+          ], 
+          [
+            -77.494104, 
+            37.4677775
+          ], 
+          [
+            -77.4939216, 
+            37.4680075
+          ], 
+          [
+            -77.4936856, 
+            37.4682459
+          ], 
+          [
+            -77.4934388, 
+            37.4684332
+          ], 
+          [
+            -77.4904777, 
+            37.4700767
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belmont Road", 
+        "to": "49627192", 
+        "length": "447.3916101764682", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622040482", 
+        "ref": "SR 651", 
+        "highway": "secondary", 
+        "osmid": "6039478"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492678, 
+            37.4652968
+          ], 
+          [
+            -77.4931683, 
+            37.4650781
+          ], 
+          [
+            -77.4935922, 
+            37.4648448
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bonnington Road", 
+        "to": "49629913", 
+        "length": "95.19147648192893", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624452", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039909"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4899412, 
+            37.4674029
+          ], 
+          [
+            -77.4915613, 
+            37.4674369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Belmont Road", 
+        "to": "49614874", 
+        "length": "143.07275407907036", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625768", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040868"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879724, 
+            37.4601646
+          ], 
+          [
+            -77.488305, 
+            37.460386
+          ], 
+          [
+            -77.4885195, 
+            37.4604882
+          ], 
+          [
+            -77.4888092, 
+            37.4604627
+          ], 
+          [
+            -77.4892277, 
+            37.4604627
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "2031286201", 
+        "length": "123.09387533995456", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286239", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872021, 
+            37.4587351
+          ], 
+          [
+            -77.4873488, 
+            37.4589642
+          ], 
+          [
+            -77.4875218, 
+            37.4596877
+          ], 
+          [
+            -77.4876934, 
+            37.4599176
+          ], 
+          [
+            -77.4879724, 
+            37.4601646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "2031286239", 
+        "length": "177.11470195411292", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2031286260", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869705, 
+            37.4679681
+          ], 
+          [
+            -77.487191, 
+            37.4678716
+          ], 
+          [
+            -77.4873871, 
+            37.467802
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "2031286241", 
+        "length": "41.192420986668566", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622040247", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4942864, 
+            37.467505
+          ], 
+          [
+            -77.4915613, 
+            37.4674369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Belmont Road", 
+        "to": "622040482", 
+        "length": "240.69144681560724", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625768", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040868"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915613, 
+            37.4674369
+          ], 
+          [
+            -77.4915398, 
+            37.4664491
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49625768", 
+        "length": "109.88568844325548", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625769", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915398, 
+            37.4664491
+          ], 
+          [
+            -77.4903226, 
+            37.4664174
+          ], 
+          [
+            -77.490225, 
+            37.4663884
+          ], 
+          [
+            -77.4901681, 
+            37.4663593
+          ], 
+          [
+            -77.4900624, 
+            37.4662786
+          ], 
+          [
+            -77.4898022, 
+            37.4653525
+          ], 
+          [
+            -77.4898306, 
+            37.4651718
+          ], 
+          [
+            -77.4898997, 
+            37.465046
+          ], 
+          [
+            -77.4899648, 
+            37.4649524
+          ], 
+          [
+            -77.4900705, 
+            37.4648459
+          ], 
+          [
+            -77.4902941, 
+            37.4647459
+          ], 
+          [
+            -77.4912374, 
+            37.4644772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Birdwood Road", 
+        "to": "49625771", 
+        "length": "414.8007452686082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625769", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038357"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4915398, 
+            37.4664491
+          ], 
+          [
+            -77.4915613, 
+            37.4655209
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49616430", 
+        "length": "103.25765653013474", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625769", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.492678, 
+            37.4652968
+          ], 
+          [
+            -77.4920977, 
+            37.4654613
+          ], 
+          [
+            -77.4915613, 
+            37.4655209
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bonnington Road", 
+        "to": "49616430", 
+        "length": "102.21614115225641", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624452", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039909"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4912374, 
+            37.4644772
+          ], 
+          [
+            -77.4909907, 
+            37.463918
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49625771", 
+        "length": "65.90076236497842", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625772", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4912374, 
+            37.4644772
+          ], 
+          [
+            -77.4915378, 
+            37.4651712
+          ], 
+          [
+            -77.4915613, 
+            37.4655209
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49616430", 
+        "length": "120.57083822852991", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625771", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909907, 
+            37.463918
+          ], 
+          [
+            -77.4908198, 
+            37.4634458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49625772", 
+        "length": "54.645241192072916", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617330", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911061, 
+            37.4655188
+          ], 
+          [
+            -77.4915613, 
+            37.4655209
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bonnington Court", 
+        "to": "49616430", 
+        "length": "40.186851267140895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616429", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4860396, 
+            37.4683711
+          ], 
+          [
+            -77.4869705, 
+            37.4679681
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Iron Bridge Road", 
+        "to": "622040247", 
+        "length": "93.60893005815078", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "571542507", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "45065549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4908198, 
+            37.4634458
+          ], 
+          [
+            -77.4907839, 
+            37.4633558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bathgate Road", 
+        "to": "49617330", 
+        "length": "10.500126318980861", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3129705138", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883552, 
+            37.4640417
+          ], 
+          [
+            -77.4907839, 
+            37.4633558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brookbury Boulevard", 
+        "to": "3129705139", 
+        "length": "227.5845960625823", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3129705138", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034577"
+      }
+    }
+  ]
+}

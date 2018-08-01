@@ -1,0 +1,91 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.394517, 
+            37.5325116
+          ], 
+          [
+            -77.3954587, 
+            37.5334348
+          ], 
+          [
+            -77.3958448, 
+            37.5338133
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626036", 
+        "name": "East Richmond Road", 
+        "to": "49626034", 
+        "length": "186.22076546602653", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038091"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.392113, 
+            37.5310357
+          ], 
+          [
+            -77.3934356, 
+            37.531722
+          ], 
+          [
+            -77.394517, 
+            37.5325116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626038", 
+        "name": "East Richmond Road", 
+        "to": "49626036", 
+        "length": "269.07215971372534", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038091"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.392113, 
+            37.5310357
+          ], 
+          [
+            -77.3916316, 
+            37.5308106
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614223", 
+        "name": "East Richmond Road", 
+        "to": "49626038", 
+        "length": "49.29372619353098", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038091"
+      }
+    }
+  ]
+}

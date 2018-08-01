@@ -1,0 +1,991 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4478424, 
+            37.5109658
+          ], 
+          [
+            -77.4477291, 
+            37.5099679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612193", 
+        "length": "111.44192555770229", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612192", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479556, 
+            37.5119617
+          ], 
+          [
+            -77.4479501, 
+            37.5119142
+          ], 
+          [
+            -77.4478424, 
+            37.5109658
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612192", 
+        "length": "111.21957472193252", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612190", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4473395, 
+            37.5066365
+          ], 
+          [
+            -77.4473187, 
+            37.5064487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3096181925", 
+        "length": "20.968759980454212", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3096181921", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4473395, 
+            37.5066365
+          ], 
+          [
+            -77.4474288, 
+            37.5073239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3096181921", 
+        "length": "76.8618526212963", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612197", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4522281, 
+            37.510291
+          ], 
+          [
+            -77.4519479, 
+            37.5087753
+          ], 
+          [
+            -77.45164, 
+            37.5070655
+          ], 
+          [
+            -77.4516576, 
+            37.5068605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Perdue Avenue", 
+        "access": "", 
+        "to": "49624906", 
+        "length": "385.3481397405254", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619847", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4615295, 
+            37.5038299
+          ], 
+          [
+            -77.4614275, 
+            37.5037264
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Holly Spring Avenue", 
+        "access": "", 
+        "to": "49619234", 
+        "length": "14.61259200131702", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619244", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6041206"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4614275, 
+            37.5037264
+          ], 
+          [
+            -77.4615182, 
+            37.5026648
+          ], 
+          [
+            -77.4615267, 
+            37.5024714
+          ], 
+          [
+            -77.4614105, 
+            37.502251
+          ], 
+          [
+            -77.4614161, 
+            37.5021565
+          ], 
+          [
+            -77.4614331, 
+            37.502116
+          ], 
+          [
+            -77.461504, 
+            37.5020823
+          ], 
+          [
+            -77.4615692, 
+            37.5020688
+          ], 
+          [
+            -77.4616316, 
+            37.5020688
+          ], 
+          [
+            -77.4616911, 
+            37.502098
+          ], 
+          [
+            -77.4618442, 
+            37.5022465
+          ], 
+          [
+            -77.4618754, 
+            37.5023207
+          ], 
+          [
+            -77.4618301, 
+            37.5026716
+          ], 
+          [
+            -77.4618045, 
+            37.5027278
+          ], 
+          [
+            -77.4616486, 
+            37.5029167
+          ], 
+          [
+            -77.4616259, 
+            37.5029729
+          ], 
+          [
+            -77.4616089, 
+            37.5030292
+          ], 
+          [
+            -77.4615295, 
+            37.5038299
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Caulder Court", 
+        "access": "", 
+        "to": "49619234", 
+        "length": "410.00312251696107", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "49619244", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035366"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4469642, 
+            37.5032721
+          ], 
+          [
+            -77.4468337, 
+            37.5020573
+          ], 
+          [
+            -77.4467651, 
+            37.5014498
+          ], 
+          [
+            -77.4466548, 
+            37.500472
+          ], 
+          [
+            -77.4464171, 
+            37.4983145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3049280229", 
+        "length": "553.5252654180538", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612208", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4464171, 
+            37.4983145
+          ], 
+          [
+            -77.4462463, 
+            37.496838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3049280226", 
+        "length": "164.91575721800737", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280229", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4470204, 
+            37.5037908
+          ], 
+          [
+            -77.4469642, 
+            37.5032721
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612208", 
+        "length": "57.90578727969926", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3094987735", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4470204, 
+            37.5037908
+          ], 
+          [
+            -77.447072, 
+            37.5042675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3094987735", 
+        "length": "53.21668390921026", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280436", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4578028, 
+            37.5002109
+          ], 
+          [
+            -77.4560419, 
+            37.5023063
+          ], 
+          [
+            -77.4555919, 
+            37.5027786
+          ], 
+          [
+            -77.4555458, 
+            37.502827
+          ], 
+          [
+            -77.4549697, 
+            37.5030665
+          ], 
+          [
+            -77.4545907, 
+            37.5031521
+          ], 
+          [
+            -77.4542883, 
+            37.5031925
+          ], 
+          [
+            -77.4495872, 
+            37.50355
+          ], 
+          [
+            -77.4470204, 
+            37.5037908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Hopkins Road", 
+        "access": "", 
+        "to": "3094987735", 
+        "length": "1116.7118263389889", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616959", 
+        "ref": "SR 637", 
+        "highway": "secondary", 
+        "osmid": "6034458"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479556, 
+            37.5119617
+          ], 
+          [
+            -77.4480696, 
+            37.5129249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612190", 
+        "length": "107.6042206184889", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280438", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4485395, 
+            37.5072454
+          ], 
+          [
+            -77.4479789, 
+            37.507285
+          ], 
+          [
+            -77.4474288, 
+            37.5073239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brinser Street", 
+        "access": "", 
+        "to": "49612197", 
+        "length": "98.38870010846497", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623547", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4474288, 
+            37.5073239
+          ], 
+          [
+            -77.4474848, 
+            37.5078172
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612197", 
+        "length": "55.08994072358246", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612196", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460485, 
+            37.4950593
+          ], 
+          [
+            -77.4461509, 
+            37.4959854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3049280224", 
+        "length": "103.40224894547326", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280225", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4477291, 
+            37.5099679
+          ], 
+          [
+            -77.4476173, 
+            37.5089838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612194", 
+        "length": "109.901331421494", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612193", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4462463, 
+            37.496838
+          ], 
+          [
+            -77.4461599, 
+            37.4960667
+          ], 
+          [
+            -77.4461509, 
+            37.4959854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3049280225", 
+        "length": "95.20445970445971", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280226", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4475281, 
+            37.5081985
+          ], 
+          [
+            -77.4476173, 
+            37.5089838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612195", 
+        "length": "87.69983380936158", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612194", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4485395, 
+            37.5072454
+          ], 
+          [
+            -77.4486463, 
+            37.508109
+          ], 
+          [
+            -77.4480967, 
+            37.508153
+          ], 
+          [
+            -77.4475281, 
+            37.5081985
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "['Thurman Street', 'Kern Street']", 
+        "access": "yes", 
+        "to": "49612195", 
+        "length": "195.6781642361592", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623547", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039146, 6040772]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4475281, 
+            37.5081985
+          ], 
+          [
+            -77.4474848, 
+            37.5078172
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "49612196", 
+        "length": "42.58230189507017", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612195", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4485395, 
+            37.5072454
+          ], 
+          [
+            -77.4484305, 
+            37.5063713
+          ], 
+          [
+            -77.4480929, 
+            37.506395
+          ], 
+          [
+            -77.4478866, 
+            37.5064093
+          ], 
+          [
+            -77.4476739, 
+            37.506424
+          ], 
+          [
+            -77.4473187, 
+            37.5064487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "['Thurman Street', 'Elton Street']", 
+        "access": "yes", 
+        "to": "3096181925", 
+        "length": "196.1731613518915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623547", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035977, 6039146]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4473187, 
+            37.5064487
+          ], 
+          [
+            -77.4472922, 
+            37.5062096
+          ], 
+          [
+            -77.4472142, 
+            37.5054667
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3049280435", 
+        "length": "109.61289579521521", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3096181925", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4578028, 
+            37.5002109
+          ], 
+          [
+            -77.4602782, 
+            37.5026626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Holly Spring Avenue", 
+        "access": "", 
+        "to": "2730554058", 
+        "length": "349.38957968420925", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616959", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6041206"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4480696, 
+            37.5129249
+          ], 
+          [
+            -77.4487217, 
+            37.5125248
+          ], 
+          [
+            -77.4495412, 
+            37.5119964
+          ], 
+          [
+            -77.4504646, 
+            37.5114173
+          ], 
+          [
+            -77.4508052, 
+            37.5112036
+          ], 
+          [
+            -77.4509208, 
+            37.5111324
+          ], 
+          [
+            -77.4520312, 
+            37.510432
+          ], 
+          [
+            -77.4522281, 
+            37.510291
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Maury Street", 
+        "access": "", 
+        "to": "49619847", 
+        "length": "469.5659740032276", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049280438", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "424981719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4614275, 
+            37.5037264
+          ], 
+          [
+            -77.4602782, 
+            37.5026626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Holly Spring Avenue", 
+        "access": "", 
+        "to": "49619244", 
+        "length": "155.83510308218297", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2730554058", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6041206"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4472142, 
+            37.5054667
+          ], 
+          [
+            -77.447072, 
+            37.5042675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "access": "", 
+        "to": "3049280436", 
+        "length": "133.9713744248113", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280435", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "300834358"
+      }
+    }
+  ]
+}

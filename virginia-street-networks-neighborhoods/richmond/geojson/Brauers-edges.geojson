@@ -1,0 +1,443 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4122533, 
+            37.5484416
+          ], 
+          [
+            -77.4133869, 
+            37.5465173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865263", 
+        "name": "North 19th Street", 
+        "to": "49616210", 
+        "length": "236.22748671871474", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034200"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.413415, 
+            37.5486578
+          ], 
+          [
+            -77.41283, 
+            37.5485489
+          ], 
+          [
+            -77.4122533, 
+            37.5484416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865268", 
+        "name": "Fairfield Way", 
+        "to": "2145865263", 
+        "length": "105.22822517284783", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "secondary", 
+        "osmid": "204591186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4122533, 
+            37.5484416
+          ], 
+          [
+            -77.4110418, 
+            37.5482161
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865263", 
+        "name": "Fairfield Way", 
+        "to": "2145865246", 
+        "length": "109.74028953418869", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "secondary", 
+        "osmid": "204591186"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4101581, 
+            37.5481991
+          ], 
+          [
+            -77.4110418, 
+            37.5482161
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865246", 
+        "name": "Fairfield Avenue", 
+        "to": "2145865254", 
+        "length": "77.9517730314575", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "secondary", 
+        "osmid": "261583175"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4091608, 
+            37.5480605
+          ], 
+          [
+            -77.409952, 
+            37.5481648
+          ], 
+          [
+            -77.4101581, 
+            37.5481991
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617191", 
+        "name": "Fairfield Avenue", 
+        "to": "2145865254", 
+        "length": "89.30066716985081", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "204591180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4113483, 
+            37.547723
+          ], 
+          [
+            -77.4122075, 
+            37.546344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49630958", 
+        "name": "North 20th Street", 
+        "to": "49612744", 
+        "length": "171.07527834991265", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040770"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4113483, 
+            37.547723
+          ], 
+          [
+            -77.4110418, 
+            37.5482161
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865246", 
+        "name": "North 20th Street", 
+        "to": "49612744", 
+        "length": "61.14407506249148", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040770"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4133657, 
+            37.5448257
+          ], 
+          [
+            -77.4132198, 
+            37.5449869
+          ], 
+          [
+            -77.412786, 
+            37.5454371
+          ], 
+          [
+            -77.4127315, 
+            37.5454936
+          ], 
+          [
+            -77.4122075, 
+            37.546344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626066", 
+        "name": "North 20th Street", 
+        "to": "49630958", 
+        "length": "198.26686812245995", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040770"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4122075, 
+            37.546344
+          ], 
+          [
+            -77.4128089, 
+            37.5464324
+          ], 
+          [
+            -77.4133869, 
+            37.5465173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49630958", 
+        "name": "Brauers Lane", 
+        "to": "49616210", 
+        "length": "105.77860493517824", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4107363, 
+            37.5460981
+          ], 
+          [
+            -77.4109493, 
+            37.5461696
+          ], 
+          [
+            -77.4114685, 
+            37.5462416
+          ], 
+          [
+            -77.4122075, 
+            37.546344
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617972", 
+        "name": "Brauers Lane", 
+        "to": "49630958", 
+        "length": "133.03776512971143", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.413415, 
+            37.5486578
+          ], 
+          [
+            -77.4146467, 
+            37.5466422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612593", 
+        "name": "Rogers Street", 
+        "to": "2145865268", 
+        "length": "249.11433748622684", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033078"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4108187, 
+            37.5460098
+          ], 
+          [
+            -77.4107363, 
+            37.5460981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617972", 
+        "name": "North 21st Street", 
+        "to": "49612497", 
+        "length": "12.21725960500185", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034861"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4146467, 
+            37.5466422
+          ], 
+          [
+            -77.4140517, 
+            37.5465832
+          ], 
+          [
+            -77.4133869, 
+            37.5465173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612593", 
+        "name": "Brauers Lane", 
+        "to": "49616210", 
+        "length": "111.9627377019807", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040346"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4152334, 
+            37.5456938
+          ], 
+          [
+            -77.4147446, 
+            37.5455156
+          ], 
+          [
+            -77.4143058, 
+            37.5453555
+          ], 
+          [
+            -77.4137855, 
+            37.545877
+          ], 
+          [
+            -77.4133869, 
+            37.5465173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612591", 
+        "name": "['U Street', 'North 19th Street']", 
+        "to": "49616210", 
+        "length": "243.42149588542424", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6034200, 6038103]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4152334, 
+            37.5456938
+          ], 
+          [
+            -77.4146467, 
+            37.5466422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612593", 
+        "name": "Rogers Street", 
+        "to": "49612591", 
+        "length": "117.49241515094522", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033078"
+      }
+    }
+  ]
+}

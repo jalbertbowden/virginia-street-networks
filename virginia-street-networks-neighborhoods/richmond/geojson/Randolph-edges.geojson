@@ -1,0 +1,4301 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4608289, 
+            37.5412213
+          ], 
+          [
+            -77.4607315, 
+            37.5413907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Randolph Street", 
+        "to": "49619201", 
+        "length": "20.707452187053114", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619555", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461152, 
+            37.5406542
+          ], 
+          [
+            -77.4609904, 
+            37.5409324
+          ], 
+          [
+            -77.4609397, 
+            37.5410187
+          ], 
+          [
+            -77.4608289, 
+            37.5412213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Randolph Street", 
+        "to": "49619201", 
+        "length": "69.21870174515063", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612854", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4608289, 
+            37.5412213
+          ], 
+          [
+            -77.4612552, 
+            37.5413743
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kemper Street", 
+        "to": "49619199", 
+        "length": "41.26870397341148", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619201", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4646341, 
+            37.5400267
+          ], 
+          [
+            -77.4655497, 
+            37.5403657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blair Street", 
+        "to": "49612881", 
+        "length": "89.1200333077073", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626128", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650494, 
+            37.5392575
+          ], 
+          [
+            -77.4648383, 
+            37.5396556
+          ], 
+          [
+            -77.4646341, 
+            37.5400267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49626128", 
+        "length": "93.06796824630896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627724", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4646341, 
+            37.5400267
+          ], 
+          [
+            -77.4620206, 
+            37.5390899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blair Street", 
+        "to": "49626128", 
+        "length": "252.95466797735799", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623701", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4642035, 
+            37.540809
+          ], 
+          [
+            -77.464419, 
+            37.5404176
+          ], 
+          [
+            -77.4646341, 
+            37.5400267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49626128", 
+        "length": "94.93861363322236", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.459864, 
+            37.5429644
+          ], 
+          [
+            -77.4600266, 
+            37.5426731
+          ], 
+          [
+            -77.4600838, 
+            37.5425676
+          ], 
+          [
+            -77.4601863, 
+            37.5423798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Randolph Street", 
+        "to": "49616403", 
+        "length": "70.96483485917179", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623874", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4601863, 
+            37.5423798
+          ], 
+          [
+            -77.4602984, 
+            37.5421747
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Randolph Street", 
+        "to": "49616403", 
+        "length": "24.862606106681316", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616419", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606055, 
+            37.5425311
+          ], 
+          [
+            -77.4605456, 
+            37.5425095
+          ], 
+          [
+            -77.4601863, 
+            37.5423798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wallace Street", 
+        "to": "49616403", 
+        "length": "40.61984841351395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616404", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4615667, 
+            37.5428774
+          ], 
+          [
+            -77.4609672, 
+            37.5426614
+          ], 
+          [
+            -77.4606055, 
+            37.5425311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wallace Street", 
+        "to": "49616404", 
+        "length": "93.1099484047152", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616406", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606055, 
+            37.5425311
+          ], 
+          [
+            -77.4609218, 
+            37.5419678
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bethany Drive", 
+        "to": "49616404", 
+        "length": "68.58298991013724", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628518", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4615667, 
+            37.5428774
+          ], 
+          [
+            -77.4628092, 
+            37.5433249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wallace Street", 
+        "to": "49616406", 
+        "length": "120.35177382550889", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616408", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612456, 
+            37.5434589
+          ], 
+          [
+            -77.4614096, 
+            37.543162
+          ], 
+          [
+            -77.4615667, 
+            37.5428774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lady Street", 
+        "to": "49616406", 
+        "length": "70.60568804010768", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623878", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461883, 
+            37.5423044
+          ], 
+          [
+            -77.4617274, 
+            37.5425862
+          ], 
+          [
+            -77.4615667, 
+            37.5428774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lady Street", 
+        "to": "49616406", 
+        "length": "69.56994350052054", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625751", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4692764, 
+            37.5374157
+          ], 
+          [
+            -77.468642, 
+            37.5374107
+          ], 
+          [
+            -77.468134, 
+            37.5374066
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Colorado Avenue", 
+        "to": "2442123031", 
+        "length": "100.76189824026928", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611924", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.468134, 
+            37.5374066
+          ], 
+          [
+            -77.4671903, 
+            37.537399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Colorado Avenue", 
+        "to": "2442123031", 
+        "length": "83.23627417996855", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612884", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4624874, 
+            37.5439035
+          ], 
+          [
+            -77.4626556, 
+            37.5436012
+          ], 
+          [
+            -77.4628092, 
+            37.5433249
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49616408", 
+        "length": "70.33514892979072", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623880", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4628092, 
+            37.5433249
+          ], 
+          [
+            -77.4629731, 
+            37.5430301
+          ], 
+          [
+            -77.4631347, 
+            37.5427393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49628521", 
+        "length": "71.17929236386807", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616408", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4628092, 
+            37.5433249
+          ], 
+          [
+            -77.4629153, 
+            37.5433631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wallace Street", 
+        "to": "49616408", 
+        "length": "10.276492017970952", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2044838580", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633941, 
+            37.544228
+          ], 
+          [
+            -77.4650989, 
+            37.5448382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49614882", 
+        "length": "164.95425873059173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611905", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633941, 
+            37.544228
+          ], 
+          [
+            -77.4625948, 
+            37.5439419
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49614882", 
+        "length": "77.33990748672895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2044838571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4637256, 
+            37.543655
+          ], 
+          [
+            -77.4635712, 
+            37.5439146
+          ], 
+          [
+            -77.4633941, 
+            37.544228
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Temple Street", 
+        "to": "49614882", 
+        "length": "70.12124998990787", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614884", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607315, 
+            37.5413907
+          ], 
+          [
+            -77.4605069, 
+            37.5418062
+          ], 
+          [
+            -77.4602984, 
+            37.5421747
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Randolph Street", 
+        "to": "49616419", 
+        "length": "95.20325428386306", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619555", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4577122, 
+            37.5412652
+          ], 
+          [
+            -77.4580198, 
+            37.5413734
+          ], 
+          [
+            -77.4598671, 
+            37.542023
+          ], 
+          [
+            -77.4602984, 
+            37.5421747
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wallace Street", 
+        "to": "49616419", 
+        "length": "249.5101901254622", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626075", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034258"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4637256, 
+            37.543655
+          ], 
+          [
+            -77.4629153, 
+            37.5433631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wallace Street", 
+        "to": "49614884", 
+        "length": "78.49023688409314", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2044838580", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034256"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4640667, 
+            37.5430654
+          ], 
+          [
+            -77.4638914, 
+            37.5433683
+          ], 
+          [
+            -77.4637256, 
+            37.543655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Temple Street", 
+        "to": "49614884", 
+        "length": "72.14927503199706", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614885", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4632401, 
+            37.5427762
+          ], 
+          [
+            -77.4636896, 
+            37.5429335
+          ], 
+          [
+            -77.4640667, 
+            37.5430654
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "49614885", 
+        "length": "79.68002782029197", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2044838557", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4640667, 
+            37.5430654
+          ], 
+          [
+            -77.4644358, 
+            37.5431948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "49614885", 
+        "length": "35.59114494662069", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617639", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673199, 
+            37.5437718
+          ], 
+          [
+            -77.467111, 
+            37.544155
+          ], 
+          [
+            -77.4669045, 
+            37.5445339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Granby Street", 
+        "to": "49623846", 
+        "length": "92.34305297466975", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623848", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "39031238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4669045, 
+            37.5445339
+          ], 
+          [
+            -77.4659675, 
+            37.5442107
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rosewood Avenue", 
+        "to": "49623846", 
+        "length": "90.11409422630499", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716786", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4681205, 
+            37.5449872
+          ], 
+          [
+            -77.4680805, 
+            37.5449518
+          ], 
+          [
+            -77.4675169, 
+            37.5447515
+          ], 
+          [
+            -77.4669045, 
+            37.5445339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rosewood Avenue", 
+        "to": "49623846", 
+        "length": "118.93636933915025", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673199, 
+            37.5437718
+          ], 
+          [
+            -77.468551, 
+            37.5442056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "to": "49623848", 
+        "length": "118.80900290094954", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716785", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673199, 
+            37.5437718
+          ], 
+          [
+            -77.4664048, 
+            37.5434485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "to": "49623848", 
+        "length": "88.3517183329098", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716763", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673199, 
+            37.5437718
+          ], 
+          [
+            -77.4675367, 
+            37.5433934
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Granby Street", 
+        "to": "49623848", 
+        "length": "46.22727972163749", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716761", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686776"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700548, 
+            37.5396742
+          ], 
+          [
+            -77.4704515, 
+            37.5398138
+          ], 
+          [
+            -77.4709479, 
+            37.5399884
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Appomattox Street", 
+        "to": "49622585", 
+        "length": "86.17130585701253", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623986", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700548, 
+            37.5396742
+          ], 
+          [
+            -77.4703839, 
+            37.5390652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Georgia Avenue", 
+        "to": "49623986", 
+        "length": "73.69345376811398", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623988", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037143"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700548, 
+            37.5396742
+          ], 
+          [
+            -77.4696407, 
+            37.5395227
+          ], 
+          [
+            -77.4691876, 
+            37.5393599
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Appomattox Street", 
+        "to": "49616943", 
+        "length": "84.0938591017345", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623986", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691876, 
+            37.5393599
+          ], 
+          [
+            -77.469517, 
+            37.5387711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greenville Avenue", 
+        "to": "49616943", 
+        "length": "71.64452938869873", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616944", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034450"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4683559, 
+            37.5390652
+          ], 
+          [
+            -77.4687828, 
+            37.5392165
+          ], 
+          [
+            -77.4691876, 
+            37.5393599
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Appomattox Street", 
+        "to": "49616943", 
+        "length": "80.34270283669565", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611921", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038533"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4686826, 
+            37.5384769
+          ], 
+          [
+            -77.4691071, 
+            37.5386266
+          ], 
+          [
+            -77.4692224, 
+            37.5386672
+          ], 
+          [
+            -77.469517, 
+            37.5387711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Amelia Street", 
+        "to": "49616944", 
+        "length": "80.53808954128348", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611922", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "165564226"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4703839, 
+            37.5390652
+          ], 
+          [
+            -77.4699772, 
+            37.5389272
+          ], 
+          [
+            -77.469517, 
+            37.5387711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Amelia Street", 
+        "to": "49616944", 
+        "length": "83.16070552842844", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623988", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "165564226"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4686411, 
+            37.5441966
+          ], 
+          [
+            -77.468551, 
+            37.5442056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "to": "2146716785", 
+        "length": "8.008678325538012", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622577", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4686411, 
+            37.5441966
+          ], 
+          [
+            -77.4685985, 
+            37.5442744
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "49622577", 
+        "length": "9.433739668919442", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2146716787", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538454"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.46317, 
+            37.5454012
+          ], 
+          [
+            -77.4627146, 
+            37.5452284
+          ], 
+          [
+            -77.4619099, 
+            37.5449435
+          ], 
+          [
+            -77.4594173, 
+            37.5440583
+          ], 
+          [
+            -77.4573946, 
+            37.5433238
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Downtown Expressway", 
+        "to": "2594572464", 
+        "length": "559.3041614194913", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594565170", 
+        "ref": "VA 195", 
+        "highway": "motorway", 
+        "osmid": "38335244"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4670579, 
+            37.5464935
+          ], 
+          [
+            -77.4664851, 
+            37.5463892
+          ], 
+          [
+            -77.466292, 
+            37.5463403
+          ], 
+          [
+            -77.4661125, 
+            37.5462874
+          ], 
+          [
+            -77.4647178, 
+            37.5458131
+          ], 
+          [
+            -77.4637224, 
+            37.5455216
+          ], 
+          [
+            -77.46317, 
+            37.5454012
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2594565170", 
+        "length": "364.5241578754033", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594572455", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "37961354"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461152, 
+            37.5406542
+          ], 
+          [
+            -77.4625274, 
+            37.5411368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lakeview Avenue", 
+        "to": "49612854", 
+        "length": "132.64718929192605", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612858", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686775"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4615914, 
+            37.5398758
+          ], 
+          [
+            -77.4613815, 
+            37.5402651
+          ], 
+          [
+            -77.461152, 
+            37.5406542
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Randolph Street", 
+        "to": "49612854", 
+        "length": "94.86892558298914", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623700", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470325, 
+            37.5411247
+          ], 
+          [
+            -77.4705553, 
+            37.5407047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "49617512", 
+        "length": "50.93944991689174", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622583", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538454"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470325, 
+            37.5411247
+          ], 
+          [
+            -77.4676941, 
+            37.5402023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49622583", 
+        "length": "253.6987435023888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611917", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709479, 
+            37.5399884
+          ], 
+          [
+            -77.4705553, 
+            37.5407047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "49622585", 
+        "length": "86.8701061720784", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617512", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538454"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709479, 
+            37.5399884
+          ], 
+          [
+            -77.4712779, 
+            37.5393863
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "49622586", 
+        "length": "73.02020446384438", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622585", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538454"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4625274, 
+            37.5411368
+          ], 
+          [
+            -77.4637695, 
+            37.5415913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lakeview Avenue", 
+        "to": "49612858", 
+        "length": "120.64614040763169", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612860", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686775"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622094, 
+            37.5417132
+          ], 
+          [
+            -77.4623671, 
+            37.5414274
+          ], 
+          [
+            -77.4625274, 
+            37.5411368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lady Street", 
+        "to": "49612858", 
+        "length": "69.9766736531688", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619197", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4629519, 
+            37.5403678
+          ], 
+          [
+            -77.4627381, 
+            37.5407552
+          ], 
+          [
+            -77.4625274, 
+            37.5411368
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lady Street", 
+        "to": "49612858", 
+        "length": "93.36759676534933", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625191", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.466403, 
+            37.5425185
+          ], 
+          [
+            -77.4660099, 
+            37.5423735
+          ], 
+          [
+            -77.4643209, 
+            37.5417838
+          ], 
+          [
+            -77.4637695, 
+            37.5415913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lakeview Avenue", 
+        "to": "49612860", 
+        "length": "254.12764476909138", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611913", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686775"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4642035, 
+            37.540809
+          ], 
+          [
+            -77.463985, 
+            37.541206
+          ], 
+          [
+            -77.4637695, 
+            37.5415913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49612860", 
+        "length": "95.05921236029093", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634584, 
+            37.5421568
+          ], 
+          [
+            -77.4636132, 
+            37.5418753
+          ], 
+          [
+            -77.4637695, 
+            37.5415913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49612860", 
+        "length": "68.62202017900637", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619195", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4637695, 
+            37.5415913
+          ], 
+          [
+            -77.4635616, 
+            37.5421954
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "2782585791", 
+        "length": "69.64849864218877", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612860", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.459864, 
+            37.5429644
+          ], 
+          [
+            -77.4594061, 
+            37.5437392
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Randolph Street", 
+        "to": "49614770", 
+        "length": "95.17039820188606", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623874", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "38230968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.459864, 
+            37.5429644
+          ], 
+          [
+            -77.4612456, 
+            37.5434589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49623874", 
+        "length": "133.68303928077535", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623878", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612456, 
+            37.5434589
+          ], 
+          [
+            -77.4624874, 
+            37.5439035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49623878", 
+        "length": "120.16169055663761", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623880", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4624874, 
+            37.5439035
+          ], 
+          [
+            -77.4625948, 
+            37.5439419
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49623880", 
+        "length": "10.39004740543948", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2044838571", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4619881, 
+            37.5381744
+          ], 
+          [
+            -77.4624312, 
+            37.5383291
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49627721", 
+        "length": "42.70019493215467", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623704", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633175, 
+            37.5386482
+          ], 
+          [
+            -77.4624312, 
+            37.5383291
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49627722", 
+        "length": "85.84863082030424", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623704", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633175, 
+            37.5386482
+          ], 
+          [
+            -77.4642119, 
+            37.5389609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49627722", 
+        "length": "86.20966730507162", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627723", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4633175, 
+            37.5386482
+          ], 
+          [
+            -77.464045, 
+            37.5373739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Meade Street", 
+        "to": "49627722", 
+        "length": "155.5824414373289", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626302", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038964"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4642119, 
+            37.5389609
+          ], 
+          [
+            -77.4650634, 
+            37.537382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Eggleston Street", 
+        "to": "49627723", 
+        "length": "190.99893988497445", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626304", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039204"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4642119, 
+            37.5389609
+          ], 
+          [
+            -77.4650494, 
+            37.5392575
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49627723", 
+        "length": "80.89604093223157", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627724", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650494, 
+            37.5392575
+          ], 
+          [
+            -77.4659636, 
+            37.539581
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49627724", 
+        "length": "88.29242676142535", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612882", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660758, 
+            37.5373901
+          ], 
+          [
+            -77.4655896, 
+            37.5382907
+          ], 
+          [
+            -77.4650494, 
+            37.5392575
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49627724", 
+        "length": "226.57819950794007", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626306", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4655497, 
+            37.5403657
+          ], 
+          [
+            -77.4653495, 
+            37.5407482
+          ], 
+          [
+            -77.4651482, 
+            37.5411327
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sumpter Street", 
+        "to": "49612879", 
+        "length": "92.3673928438819", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612881", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651482, 
+            37.5411327
+          ], 
+          [
+            -77.4668294, 
+            37.5417496
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Claiborne Street", 
+        "to": "49611914", 
+        "length": "163.37674363906174", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612879", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4651482, 
+            37.5411327
+          ], 
+          [
+            -77.4642035, 
+            37.540809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Claiborne Street", 
+        "to": "49612879", 
+        "length": "90.76272084800529", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625193", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659636, 
+            37.539581
+          ], 
+          [
+            -77.4657538, 
+            37.5399787
+          ], 
+          [
+            -77.4655497, 
+            37.5403657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sumpter Street", 
+        "to": "49612881", 
+        "length": "94.60541940340141", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612882", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4655497, 
+            37.5403657
+          ], 
+          [
+            -77.4672638, 
+            37.540974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blair Street", 
+        "to": "49611916", 
+        "length": "165.62282449794677", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612881", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659636, 
+            37.539581
+          ], 
+          [
+            -77.4671903, 
+            37.537399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sumpter Street", 
+        "to": "49612882", 
+        "length": "265.71853126796873", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612884", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659636, 
+            37.539581
+          ], 
+          [
+            -77.4676941, 
+            37.5402023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Winder Street", 
+        "to": "49612882", 
+        "length": "167.53672943710131", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611917", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038871"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660758, 
+            37.5373901
+          ], 
+          [
+            -77.4666491, 
+            37.5373947
+          ], 
+          [
+            -77.4671903, 
+            37.537399
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Colorado Avenue", 
+        "to": "49612884", 
+        "length": "98.30111027888137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626306", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.46575, 
+            37.5436775
+          ], 
+          [
+            -77.4653387, 
+            37.5435273
+          ], 
+          [
+            -77.4648619, 
+            37.5433517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "2146716760", 
+        "length": "86.29877101449964", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611908", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4648619, 
+            37.5433517
+          ], 
+          [
+            -77.4646879, 
+            37.5436755
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2146716760", 
+        "length": "39.14788596648183", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716766", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686777"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4648619, 
+            37.5433517
+          ], 
+          [
+            -77.4644358, 
+            37.5431948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "2146716760", 
+        "length": "41.43256153775595", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617639", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4689433, 
+            37.5434144
+          ], 
+          [
+            -77.466403, 
+            37.5425185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lakeview Avenue", 
+        "to": "2146716762", 
+        "length": "245.19320989938558", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611913", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614117"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4689433, 
+            37.5434144
+          ], 
+          [
+            -77.4687793, 
+            37.5437509
+          ], 
+          [
+            -77.4687474, 
+            37.5438187
+          ], 
+          [
+            -77.468551, 
+            37.5442056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "2146716785", 
+        "length": "94.56206025122", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2146716762", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538453"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4664048, 
+            37.5434485
+          ], 
+          [
+            -77.4659675, 
+            37.5442107
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2146716763", 
+        "length": "93.13631982133253", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146716786", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686778"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4664048, 
+            37.5434485
+          ], 
+          [
+            -77.4659641, 
+            37.5432944
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "to": "2146716763", 
+        "length": "42.47714264255917", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611910", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039719"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4703839, 
+            37.5390652
+          ], 
+          [
+            -77.470801, 
+            37.539215
+          ], 
+          [
+            -77.4712779, 
+            37.5393863
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Amelia Street", 
+        "to": "49622586", 
+        "length": "86.55827966797412", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623988", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "165564226"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.45856, 
+            37.5406146
+          ], 
+          [
+            -77.4593465, 
+            37.540896
+          ], 
+          [
+            -77.4603129, 
+            37.5412417
+          ], 
+          [
+            -77.4607315, 
+            37.5413907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dance Street", 
+        "to": "49619555", 
+        "length": "210.0674546549142", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619556", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035490"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4577122, 
+            37.5412652
+          ], 
+          [
+            -77.4580293, 
+            37.540946
+          ], 
+          [
+            -77.4580812, 
+            37.5409136
+          ], 
+          [
+            -77.45856, 
+            37.5406146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Harrison Street", 
+        "to": "49619556", 
+        "length": "104.77129652368438", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626075", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38230970"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4601053, 
+            37.5393608
+          ], 
+          [
+            -77.4615914, 
+            37.5398758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Claiborne Street", 
+        "to": "49623700", 
+        "length": "143.03697783866252", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625190", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605774, 
+            37.5385644
+          ], 
+          [
+            -77.4603387, 
+            37.538981
+          ], 
+          [
+            -77.4601053, 
+            37.5393608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Harrison Street", 
+        "to": "49625190", 
+        "length": "97.8872539569106", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626078", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38230970"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.461883, 
+            37.5423044
+          ], 
+          [
+            -77.461277, 
+            37.5420922
+          ], 
+          [
+            -77.4609218, 
+            37.5419678
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "49628518", 
+        "length": "92.66942885833015", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625751", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4609218, 
+            37.5419678
+          ], 
+          [
+            -77.4612552, 
+            37.5413743
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bethany Drive", 
+        "to": "49628518", 
+        "length": "72.2651039502406", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4629519, 
+            37.5403678
+          ], 
+          [
+            -77.4642035, 
+            37.540809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Claiborne Street", 
+        "to": "49625193", 
+        "length": "120.79995588146687", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625191", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4629519, 
+            37.5403678
+          ], 
+          [
+            -77.4615914, 
+            37.5398758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Claiborne Street", 
+        "to": "49625191", 
+        "length": "131.87812381533877", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623700", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679348, 
+            37.5397779
+          ], 
+          [
+            -77.4683578, 
+            37.5399248
+          ], 
+          [
+            -77.4700553, 
+            37.5405271
+          ], 
+          [
+            -77.4705553, 
+            37.5407047
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Powhatan Street", 
+        "to": "49617512", 
+        "length": "253.0614153761493", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611919", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034648"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.468551, 
+            37.5442056
+          ], 
+          [
+            -77.4685985, 
+            37.5442744
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maplewood Avenue", 
+        "to": "2146716787", 
+        "length": "8.723898671805184", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2146716785", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204686783"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.468551, 
+            37.5442056
+          ], 
+          [
+            -77.4683387, 
+            37.5445911
+          ], 
+          [
+            -77.4681205, 
+            37.5449872
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "2146716798", 
+        "length": "94.86287849901878", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2146716785", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538453"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659675, 
+            37.5442107
+          ], 
+          [
+            -77.4655323, 
+            37.5440633
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rosewood Avenue", 
+        "to": "2146716786", 
+        "length": "41.73510289334314", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611906", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4631347, 
+            37.5427393
+          ], 
+          [
+            -77.4632991, 
+            37.5424434
+          ], 
+          [
+            -77.4634584, 
+            37.5421568
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "49619195", 
+        "length": "70.7998449027769", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628521", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041242"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4631347, 
+            37.5427393
+          ], 
+          [
+            -77.4632401, 
+            37.5427762
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "49628521", 
+        "length": "10.161120570994727", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2044838557", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4631347, 
+            37.5427393
+          ], 
+          [
+            -77.461883, 
+            37.5423044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Street", 
+        "to": "49628521", 
+        "length": "120.52245433264463", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625751", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4620206, 
+            37.5390899
+          ], 
+          [
+            -77.4617993, 
+            37.5394977
+          ], 
+          [
+            -77.4615914, 
+            37.5398758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Randolph Street", 
+        "to": "49623700", 
+        "length": "95.25706184056888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623701", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4681205, 
+            37.5449872
+          ], 
+          [
+            -77.4679094, 
+            37.5453631
+          ], 
+          [
+            -77.4676843, 
+            37.5457637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Meadow Street", 
+        "to": "2146716811", 
+        "length": "94.54655027815198", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2146716798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253538453"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4646622, 
+            37.5456651
+          ], 
+          [
+            -77.4650989, 
+            37.5448382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611904", 
+        "length": "99.71052742995379", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611905", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "37961352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4646622, 
+            37.5456651
+          ], 
+          [
+            -77.4620904, 
+            37.5446212
+          ], 
+          [
+            -77.4619224, 
+            37.5445688
+          ], 
+          [
+            -77.4614959, 
+            37.5444357
+          ], 
+          [
+            -77.4606769, 
+            37.5441802
+          ], 
+          [
+            -77.4594061, 
+            37.5437392
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "to": "49614770", 
+        "length": "511.09009747316423", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611904", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660191, 
+            37.5461411
+          ], 
+          [
+            -77.4650655, 
+            37.5458066
+          ], 
+          [
+            -77.4646622, 
+            37.5456651
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "to": "49611904", 
+        "length": "130.85075706659308", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614775", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650989, 
+            37.5448382
+          ], 
+          [
+            -77.4664635, 
+            37.5453267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "49611905", 
+        "length": "132.03924624588663", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623844", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4655323, 
+            37.5440633
+          ], 
+          [
+            -77.4653093, 
+            37.5444702
+          ], 
+          [
+            -77.4652793, 
+            37.5445236
+          ], 
+          [
+            -77.4650989, 
+            37.5448382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611905", 
+        "length": "94.28689235594673", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611906", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "37961352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4655323, 
+            37.5440633
+          ], 
+          [
+            -77.46575, 
+            37.5436775
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611906", 
+        "length": "47.01021715581115", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611908", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "37961352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.46575, 
+            37.5436775
+          ], 
+          [
+            -77.4659641, 
+            37.5432944
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611908", 
+        "length": "46.60677156500516", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611910", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "37961352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4659641, 
+            37.5432944
+          ], 
+          [
+            -77.4660809, 
+            37.5430868
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611910", 
+        "length": "25.283951868050703", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611911", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "37961352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.466403, 
+            37.5425185
+          ], 
+          [
+            -77.4661711, 
+            37.5429212
+          ], 
+          [
+            -77.4660809, 
+            37.5430868
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611911", 
+        "length": "69.30246310488971", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611913", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "37961352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4635616, 
+            37.5421954
+          ], 
+          [
+            -77.4640064, 
+            37.5423514
+          ], 
+          [
+            -77.4656834, 
+            37.5429469
+          ], 
+          [
+            -77.4660809, 
+            37.5430868
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kemper Street", 
+        "to": "49611911", 
+        "length": "243.29914353646672", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782585791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4668294, 
+            37.5417496
+          ], 
+          [
+            -77.4666206, 
+            37.5421271
+          ], 
+          [
+            -77.466403, 
+            37.5425185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611913", 
+        "length": "93.42449215156884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611914", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4672638, 
+            37.540974
+          ], 
+          [
+            -77.4670538, 
+            37.5413456
+          ], 
+          [
+            -77.4668294, 
+            37.5417496
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611914", 
+        "length": "94.39190036859858", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611916", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4676843, 
+            37.5457637
+          ], 
+          [
+            -77.4664635, 
+            37.5453267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Idlewood Avenue", 
+        "to": "2146716811", 
+        "length": "118.12346484367482", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623844", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4676941, 
+            37.5402023
+          ], 
+          [
+            -77.4674713, 
+            37.5405922
+          ], 
+          [
+            -77.4672638, 
+            37.540974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611916", 
+        "length": "93.85252907641257", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611917", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4676941, 
+            37.5402023
+          ], 
+          [
+            -77.4679348, 
+            37.5397779
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611917", 
+        "length": "51.75811601619007", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611919", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4679348, 
+            37.5397779
+          ], 
+          [
+            -77.4683559, 
+            37.5390652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611919", 
+        "length": "87.53962740803806", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611921", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4683559, 
+            37.5390652
+          ], 
+          [
+            -77.4686826, 
+            37.5384769
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611921", 
+        "length": "71.49744566439666", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611922", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4692764, 
+            37.5374157
+          ], 
+          [
+            -77.4689656, 
+            37.5379708
+          ], 
+          [
+            -77.4686826, 
+            37.5384769
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Allen Avenue", 
+        "to": "49611922", 
+        "length": "129.13022054280728", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611924", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "275614118"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4624312, 
+            37.5383291
+          ], 
+          [
+            -77.4622297, 
+            37.5387206
+          ], 
+          [
+            -77.4620206, 
+            37.5390899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Randolph Street", 
+        "to": "49623701", 
+        "length": "92.05772223818218", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623704", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4620206, 
+            37.5390899
+          ], 
+          [
+            -77.4605774, 
+            37.5385644
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blair Street", 
+        "to": "49623701", 
+        "length": "140.06284346492185", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626078", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038150"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4622094, 
+            37.5417132
+          ], 
+          [
+            -77.4620478, 
+            37.542006
+          ], 
+          [
+            -77.461883, 
+            37.5423044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lady Street", 
+        "to": "49625751", 
+        "length": "71.78165071622605", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619197", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037942"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4624312, 
+            37.5383291
+          ], 
+          [
+            -77.4629638, 
+            37.5373652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Randolph Street", 
+        "to": "49623704", 
+        "length": "117.05009690374742", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623705", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.464045, 
+            37.5373739
+          ], 
+          [
+            -77.4635512, 
+            37.5373699
+          ], 
+          [
+            -77.4629638, 
+            37.5373652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Colorado Avenue", 
+        "to": "49623705", 
+        "length": "95.36409042560939", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626302", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4605774, 
+            37.5385644
+          ], 
+          [
+            -77.4610009, 
+            37.5381275
+          ], 
+          [
+            -77.4613167, 
+            37.5378934
+          ], 
+          [
+            -77.4617407, 
+            37.5376345
+          ], 
+          [
+            -77.4621797, 
+            37.5374918
+          ], 
+          [
+            -77.4625382, 
+            37.537406
+          ], 
+          [
+            -77.4629638, 
+            37.5373652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Harrison Street", 
+        "to": "49623705", 
+        "length": "259.30025607380026", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626078", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "38230970"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4632401, 
+            37.5427762
+          ], 
+          [
+            -77.463077, 
+            37.543071
+          ], 
+          [
+            -77.4629153, 
+            37.5433631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "2044838580", 
+        "length": "71.2867962880515", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2044838557", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4632401, 
+            37.5427762
+          ], 
+          [
+            -77.4635616, 
+            37.5421954
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "2044838557", 
+        "length": "70.54864691433866", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2782585791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4670579, 
+            37.5464935
+          ], 
+          [
+            -77.4660191, 
+            37.5461411
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "to": "49614775", 
+        "length": "99.64172929785937", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594572455", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4629153, 
+            37.5433631
+          ], 
+          [
+            -77.4627605, 
+            37.5436378
+          ], 
+          [
+            -77.4625948, 
+            37.5439419
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Lombardy Street", 
+        "to": "2044838571", 
+        "length": "70.31067517203746", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2044838580", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "193975891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4594061, 
+            37.5437392
+          ], 
+          [
+            -77.4589911, 
+            37.5435864
+          ], 
+          [
+            -77.4574247, 
+            37.5430096
+          ], 
+          [
+            -77.4573009, 
+            37.5429415
+          ], 
+          [
+            -77.4568827, 
+            37.5427116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Grayland Avenue", 
+        "to": "49614769", 
+        "length": "250.83183546557862", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614770", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660191, 
+            37.5461411
+          ], 
+          [
+            -77.4662607, 
+            37.5456956
+          ], 
+          [
+            -77.4664635, 
+            37.5453267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "South Granby Street", 
+        "to": "49623844", 
+        "length": "98.69741937289345", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614775", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4650634, 
+            37.537382
+          ], 
+          [
+            -77.4645675, 
+            37.537378
+          ], 
+          [
+            -77.464045, 
+            37.5373739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Colorado Avenue", 
+        "to": "49626302", 
+        "length": "89.82488406297239", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626304", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4635616, 
+            37.5421954
+          ], 
+          [
+            -77.4634584, 
+            37.5421568
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kemper Street", 
+        "to": "2782585791", 
+        "length": "10.063209418278591", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619195", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4660758, 
+            37.5373901
+          ], 
+          [
+            -77.4655838, 
+            37.5373862
+          ], 
+          [
+            -77.4650634, 
+            37.537382
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Colorado Avenue", 
+        "to": "49626304", 
+        "length": "89.29571541222145", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626306", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4644358, 
+            37.5431948
+          ], 
+          [
+            -77.4641182, 
+            37.543746
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Jacquelin Court", 
+        "to": "49617639", 
+        "length": "67.40310063237398", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617640", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034713"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4634584, 
+            37.5421568
+          ], 
+          [
+            -77.4622094, 
+            37.5417132
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kemper Street", 
+        "to": "49619195", 
+        "length": "120.69752150621265", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619197", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035352"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4612552, 
+            37.5413743
+          ], 
+          [
+            -77.4616001, 
+            37.5414968
+          ], 
+          [
+            -77.4622094, 
+            37.5417132
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kemper Street", 
+        "to": "49619197", 
+        "length": "92.20993906882094", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035352"
+      }
+    }
+  ]
+}

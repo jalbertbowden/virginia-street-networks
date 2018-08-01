@@ -1,0 +1,1309 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4925355, 
+            37.57688
+          ], 
+          [
+            -77.4928831, 
+            37.5765218
+          ], 
+          [
+            -77.4932118, 
+            37.5761832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "49613824", 
+        "length": "97.77922223218339", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613826", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4939691, 
+            37.5754029
+          ], 
+          [
+            -77.493578, 
+            37.5758058
+          ], 
+          [
+            -77.4932118, 
+            37.5761832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "49613824", 
+        "length": "109.49452161165894", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613822", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4932118, 
+            37.5761832
+          ], 
+          [
+            -77.4948724, 
+            37.5771791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49613824", 
+        "length": "183.57069038537753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615151", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889493, 
+            37.5779683
+          ], 
+          [
+            -77.4890355, 
+            37.5778759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Westmoreland Street", 
+        "to": "2755225216", 
+        "length": "12.781239850774554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615642", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20298446"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4889493, 
+            37.5779683
+          ], 
+          [
+            -77.490402, 
+            37.579169
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225223", 
+        "length": "185.02214572903222", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225216", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4925355, 
+            37.57688
+          ], 
+          [
+            -77.494206, 
+            37.5778793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49613826", 
+        "length": "184.49382763068073", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040444"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918424, 
+            37.577594
+          ], 
+          [
+            -77.4922013, 
+            37.5772243
+          ], 
+          [
+            -77.4925355, 
+            37.57688
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "49613826", 
+        "length": "100.19817661537652", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613829", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4959071, 
+            37.5788961
+          ], 
+          [
+            -77.494206, 
+            37.5778793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Augusta Avenue", 
+        "to": "49615152", 
+        "length": "187.81780939742862", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040444"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4959071, 
+            37.5788961
+          ], 
+          [
+            -77.4952435, 
+            37.5796086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "49612086", 
+        "length": "98.49884485084074", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612088", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4959071, 
+            37.5788961
+          ], 
+          [
+            -77.49623, 
+            37.5785491
+          ], 
+          [
+            -77.4965688, 
+            37.5781805
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "49612084", 
+        "length": "98.67813792266804", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612086", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911607, 
+            37.5782963
+          ], 
+          [
+            -77.4915099, 
+            37.5779365
+          ], 
+          [
+            -77.4918424, 
+            37.577594
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "49613829", 
+        "length": "98.55364222069082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918424, 
+            37.577594
+          ], 
+          [
+            -77.4935484, 
+            37.5785942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49613829", 
+        "length": "187.05938320117318", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615155", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490402, 
+            37.579169
+          ], 
+          [
+            -77.4905081, 
+            37.5790891
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "2755225223", 
+        "length": "12.901470110536303", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613832", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.490402, 
+            37.579169
+          ], 
+          [
+            -77.4911239, 
+            37.5797656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225215", 
+        "length": "91.93799449434279", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225223", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905081, 
+            37.5790891
+          ], 
+          [
+            -77.4911607, 
+            37.5782963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "49613832", 
+        "length": "105.2851431333365", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905081, 
+            37.5790891
+          ], 
+          [
+            -77.4890355, 
+            37.5778759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49615642", 
+        "length": "187.24009220960338", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49613832", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491216, 
+            37.5796795
+          ], 
+          [
+            -77.4910166, 
+            37.5795148
+          ], 
+          [
+            -77.4905081, 
+            37.5790891
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49613832", 
+        "length": "90.5875205489218", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "586953814", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4963702, 
+            37.5755988
+          ], 
+          [
+            -77.4964641, 
+            37.575652
+          ], 
+          [
+            -77.4980709, 
+            37.5766214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Monument Avenue", 
+        "to": "2782567700", 
+        "length": "188.1868720890382", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973132", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20294451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4956178, 
+            37.576381
+          ], 
+          [
+            -77.495969, 
+            37.5760159
+          ], 
+          [
+            -77.4963702, 
+            37.5755988
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chantilly Street", 
+        "to": "2441973132", 
+        "length": "109.39958630569811", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615149", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4963702, 
+            37.5755988
+          ], 
+          [
+            -77.4947158, 
+            37.5746175
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Monument Avenue", 
+        "to": "2441973132", 
+        "length": "182.1599970308926", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2441973133", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20294451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4939691, 
+            37.5754029
+          ], 
+          [
+            -77.4943193, 
+            37.5750346
+          ], 
+          [
+            -77.4947158, 
+            37.5746175
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Blacker Street", 
+        "to": "2441973133", 
+        "length": "109.38026240442717", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613822", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196246"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4972961, 
+            37.5774288
+          ], 
+          [
+            -77.4976952, 
+            37.5770172
+          ], 
+          [
+            -77.4980709, 
+            37.5766214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "2782567700", 
+        "length": "112.82673895089081", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612082", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491216, 
+            37.5796795
+          ], 
+          [
+            -77.4919472, 
+            37.5802902
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "586953814", 
+        "length": "93.63832151505235", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615158", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491216, 
+            37.5796795
+          ], 
+          [
+            -77.4911239, 
+            37.5797656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Maywill Street", 
+        "to": "586953814", 
+        "length": "12.554638601458118", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755225215", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20298564"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928741, 
+            37.579309
+          ], 
+          [
+            -77.4911607, 
+            37.5782963
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Radford Avenue", 
+        "to": "49612977", 
+        "length": "188.4109126658173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612979", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928741, 
+            37.579309
+          ], 
+          [
+            -77.4932164, 
+            37.5789461
+          ], 
+          [
+            -77.4935484, 
+            37.5785942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chantilly Street", 
+        "to": "49615155", 
+        "length": "99.2667917295291", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612979", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928741, 
+            37.579309
+          ], 
+          [
+            -77.4919472, 
+            37.5802902
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chantilly Street", 
+        "to": "49615158", 
+        "length": "136.33046924101325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612979", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928741, 
+            37.579309
+          ], 
+          [
+            -77.4945589, 
+            37.580305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Radford Avenue", 
+        "to": "49612979", 
+        "length": "185.2779222036236", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033221"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4934106, 
+            37.5814917
+          ], 
+          [
+            -77.4933428, 
+            37.5816099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Staples Mill Road", 
+        "to": "569112934", 
+        "length": "14.441525752297578", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "654492273", 
+        "ref": "US 33", 
+        "highway": "primary", 
+        "osmid": "120390433"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4934106, 
+            37.5814917
+          ], 
+          [
+            -77.4932062, 
+            37.5813227
+          ], 
+          [
+            -77.4919472, 
+            37.5802902
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "49615158", 
+        "length": "185.73757996540135", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "569112934", 
+        "ref": "US 33;US 250", 
+        "highway": "primary", 
+        "osmid": "38259304"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4934106, 
+            37.5814917
+          ], 
+          [
+            -77.4932327, 
+            37.5815116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "Staples Mill Road", 
+        "to": "2755225214", 
+        "length": "15.836493722414941", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "569112934", 
+        "ref": "US 33", 
+        "highway": "primary", 
+        "osmid": "20283701"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4934106, 
+            37.5814917
+          ], 
+          [
+            -77.493863, 
+            37.5810322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "569112934", 
+        "length": "64.82480839421252", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612094", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4933428, 
+            37.5816099
+          ], 
+          [
+            -77.4932327, 
+            37.5815116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "654492273", 
+        "length": "14.619346642663183", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225214", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4939691, 
+            37.5754029
+          ], 
+          [
+            -77.4956178, 
+            37.576381
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49615149", 
+        "length": "181.54322464584033", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613822", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4956178, 
+            37.576381
+          ], 
+          [
+            -77.4972961, 
+            37.5774288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Grace Street", 
+        "to": "49615149", 
+        "length": "188.33346840203313", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612082", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040749"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948724, 
+            37.5771791
+          ], 
+          [
+            -77.495242, 
+            37.5767834
+          ], 
+          [
+            -77.4956178, 
+            37.576381
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chantilly Street", 
+        "to": "49615149", 
+        "length": "110.44254160725033", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615151", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494206, 
+            37.5778793
+          ], 
+          [
+            -77.4945573, 
+            37.5775102
+          ], 
+          [
+            -77.4948724, 
+            37.5771791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chantilly Street", 
+        "to": "49615151", 
+        "length": "97.55076589107273", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948724, 
+            37.5771791
+          ], 
+          [
+            -77.4965688, 
+            37.5781805
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cutshaw Avenue", 
+        "to": "49615151", 
+        "length": "186.46011538597213", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612084", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039198"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.494206, 
+            37.5778793
+          ], 
+          [
+            -77.4935484, 
+            37.5785942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chantilly Street", 
+        "to": "49615155", 
+        "length": "98.40172899013048", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615152", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "45196255"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4965688, 
+            37.5781805
+          ], 
+          [
+            -77.4969446, 
+            37.5777921
+          ], 
+          [
+            -77.4972961, 
+            37.5774288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "49612082", 
+        "length": "105.35977692759934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612084", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4935484, 
+            37.5785942
+          ], 
+          [
+            -77.4952435, 
+            37.5796086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fitzhugh Avenue", 
+        "to": "49615155", 
+        "length": "187.2336965813265", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612088", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041136"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4911239, 
+            37.5797656
+          ], 
+          [
+            -77.4922984, 
+            37.5807381
+          ], 
+          [
+            -77.4932327, 
+            37.5815116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755225214", 
+        "length": "268.8243539643416", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755225215", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "273390595"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945589, 
+            37.580305
+          ], 
+          [
+            -77.4949235, 
+            37.5799569
+          ], 
+          [
+            -77.4952435, 
+            37.5796086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "49612088", 
+        "length": "98.2396394912814", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945589, 
+            37.580305
+          ], 
+          [
+            -77.4942553, 
+            37.5806344
+          ], 
+          [
+            -77.493863, 
+            37.5810322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Staples Mill Road", 
+        "to": "49612094", 
+        "length": "101.52631417165941", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032922"
+      }
+    }
+  ]
+}

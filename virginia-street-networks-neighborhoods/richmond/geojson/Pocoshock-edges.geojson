@@ -1,0 +1,1001 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5042141, 
+            37.4823392
+          ], 
+          [
+            -77.5044407, 
+            37.482219
+          ], 
+          [
+            -77.5048347, 
+            37.4820228
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503869", 
+        "length": "65.11293074380566", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503875", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "19966191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5042141, 
+            37.4823392
+          ], 
+          [
+            -77.5042399, 
+            37.4823944
+          ], 
+          [
+            -77.5042735, 
+            37.4823976
+          ], 
+          [
+            -77.504362, 
+            37.4823838
+          ], 
+          [
+            -77.5044974, 
+            37.4823529
+          ], 
+          [
+            -77.5045977, 
+            37.4823273
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49627566", 
+        "length": "39.230422133459065", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503875", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "230917599"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5064711, 
+            37.4869413
+          ], 
+          [
+            -77.5052039, 
+            37.4866877
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Daytona Drive", 
+        "to": "49619089", 
+        "length": "115.34184563713657", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624620", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5064711, 
+            37.4869413
+          ], 
+          [
+            -77.5073433, 
+            37.4848376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bramwell Road", 
+        "to": "49629411", 
+        "length": "246.32402495651718", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624620", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040074"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5064711, 
+            37.4869413
+          ], 
+          [
+            -77.507761, 
+            37.4871718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Daytona Drive", 
+        "to": "49624620", 
+        "length": "116.69385132980156", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622707", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5068009, 
+            37.4895815
+          ], 
+          [
+            -77.5058046, 
+            37.4894177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Coniston Avenue", 
+        "to": "49615219", 
+        "length": "89.79525427879864", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615217", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033867"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5052039, 
+            37.4866877
+          ], 
+          [
+            -77.5048664, 
+            37.4876155
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Tennyson Avenue", 
+        "to": "49619089", 
+        "length": "107.40858594366907", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614065", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5052039, 
+            37.4866877
+          ], 
+          [
+            -77.5061427, 
+            37.4841778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Tennyson Avenue", 
+        "to": "49619089", 
+        "length": "291.20345661072395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619090", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035314"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5052039, 
+            37.4866877
+          ], 
+          [
+            -77.5039875, 
+            37.4864389
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Daytona Drive", 
+        "to": "49619089", 
+        "length": "110.86580689879827", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624618", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5073433, 
+            37.4848376
+          ], 
+          [
+            -77.5066497, 
+            37.4846679
+          ], 
+          [
+            -77.506272, 
+            37.4843742
+          ], 
+          [
+            -77.5061427, 
+            37.4841778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49619090", 
+        "length": "135.38045594078454", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "230917598"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5061427, 
+            37.4841778
+          ], 
+          [
+            -77.5055478, 
+            37.4835296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49619090", 
+        "length": "89.19009889841232", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629407", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "230917598"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5041643, 
+            37.4874881
+          ], 
+          [
+            -77.5038317, 
+            37.4874285
+          ], 
+          [
+            -77.5034289, 
+            37.4874289
+          ], 
+          [
+            -77.5033049, 
+            37.487471
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ullswater Avenue", 
+        "to": "2145357331", 
+        "length": "77.54665101539018", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614063", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033481"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5044971, 
+            37.489217
+          ], 
+          [
+            -77.5046381, 
+            37.4892393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Coniston Avenue", 
+        "to": "49615215", 
+        "length": "12.688664143692884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615214", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033867"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5048664, 
+            37.4876155
+          ], 
+          [
+            -77.5044276, 
+            37.4875299
+          ], 
+          [
+            -77.5041643, 
+            37.4874881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ullswater Avenue", 
+        "to": "49614063", 
+        "length": "63.57856151782184", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614065", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033481"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5041643, 
+            37.4874881
+          ], 
+          [
+            -77.5041184, 
+            37.4876145
+          ], 
+          [
+            -77.5041326, 
+            37.487751
+          ], 
+          [
+            -77.504408, 
+            37.488347
+          ], 
+          [
+            -77.5046589, 
+            37.4888955
+          ], 
+          [
+            -77.5046381, 
+            37.4892393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stansbury Avenue", 
+        "to": "49615215", 
+        "length": "203.65672070523732", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614063", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040456"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5092116, 
+            37.4900886
+          ], 
+          [
+            -77.5101948, 
+            37.4876417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Whitehead Road", 
+        "to": "49623404", 
+        "length": "285.6575232984086", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619996", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036881"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082583, 
+            37.4850907
+          ], 
+          [
+            -77.5073433, 
+            37.4848376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49614877", 
+        "length": "85.52345854796063", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "230917598"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5090856, 
+            37.4862372
+          ], 
+          [
+            -77.5092393, 
+            37.4856978
+          ], 
+          [
+            -77.5092243, 
+            37.4855265
+          ], 
+          [
+            -77.5091222, 
+            37.4853583
+          ], 
+          [
+            -77.5088577, 
+            37.4852435
+          ], 
+          [
+            -77.5082583, 
+            37.4850907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49614877", 
+        "length": "183.54825453853852", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622710", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "230917598"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082583, 
+            37.4850907
+          ], 
+          [
+            -77.5082979, 
+            37.4849612
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wake Road", 
+        "to": "49614877", 
+        "length": "14.821774186486758", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614879", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033765"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5048664, 
+            37.4876155
+          ], 
+          [
+            -77.5055014, 
+            37.4877543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ullswater Avenue", 
+        "to": "49614065", 
+        "length": "58.13025108797339", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614066", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033481"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5032782, 
+            37.4863064
+          ], 
+          [
+            -77.5039875, 
+            37.4864389
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Daytona Drive", 
+        "to": "49624617", 
+        "length": "64.31261752454996", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624618", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5055478, 
+            37.4835296
+          ], 
+          [
+            -77.5051742, 
+            37.4836669
+          ], 
+          [
+            -77.5049854, 
+            37.4838831
+          ], 
+          [
+            -77.5039875, 
+            37.4864389
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stansbury Avenue", 
+        "to": "49624618", 
+        "length": "363.1985874505955", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629407", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5101948, 
+            37.4876417
+          ], 
+          [
+            -77.507761, 
+            37.4871718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Daytona Drive", 
+        "to": "49623404", 
+        "length": "221.0661154318395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622707", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037469"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5101948, 
+            37.4876417
+          ], 
+          [
+            -77.5105825, 
+            37.4865908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Whitehead Road", 
+        "to": "49623404", 
+        "length": "121.79304480007974", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623406", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036881"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5105825, 
+            37.4865908
+          ], 
+          [
+            -77.5090856, 
+            37.4862372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49623406", 
+        "length": "137.8429502566179", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622710", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039677"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5046381, 
+            37.4892393
+          ], 
+          [
+            -77.5058046, 
+            37.4894177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Coniston Avenue", 
+        "to": "49615215", 
+        "length": "104.84352802459453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615217", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033867"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5055014, 
+            37.4877543
+          ], 
+          [
+            -77.5055751, 
+            37.488115
+          ], 
+          [
+            -77.5057613, 
+            37.4885498
+          ], 
+          [
+            -77.5058698, 
+            37.4889152
+          ], 
+          [
+            -77.5058046, 
+            37.4894177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bramwell Road", 
+        "to": "49615217", 
+        "length": "189.66161574223298", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614066", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040073"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5070151, 
+            37.4889331
+          ], 
+          [
+            -77.50715, 
+            37.4880611
+          ], 
+          [
+            -77.5055014, 
+            37.4877543
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Ullswater Avenue', 'Bolton Road']", 
+        "to": "49614066", 
+        "length": "247.16419595556272", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622713", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033481, 6036599]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5090856, 
+            37.4862372
+          ], 
+          [
+            -77.5086706, 
+            37.4862361
+          ], 
+          [
+            -77.508351, 
+            37.4863657
+          ], 
+          [
+            -77.5078807, 
+            37.4867542
+          ], 
+          [
+            -77.507761, 
+            37.4871718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bolton Road", 
+        "to": "49622707", 
+        "length": "175.85615302778157", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622710", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5045977, 
+            37.4823273
+          ], 
+          [
+            -77.5046785, 
+            37.4822518
+          ], 
+          [
+            -77.5047777, 
+            37.4821784
+          ], 
+          [
+            -77.5048528, 
+            37.4821135
+          ], 
+          [
+            -77.5048555, 
+            37.4820954
+          ], 
+          [
+            -77.5048528, 
+            37.4820794
+          ], 
+          [
+            -77.5048347, 
+            37.4820228
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "2393503869", 
+        "length": "43.10654069563789", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49627566", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039674"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5045977, 
+            37.4823273
+          ], 
+          [
+            -77.5055478, 
+            37.4835296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Derwent Road", 
+        "to": "49627566", 
+        "length": "157.84517391938857", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629407", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "230917598"
+      }
+    }
+  ]
+}

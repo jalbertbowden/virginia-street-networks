@@ -1,0 +1,725 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4266115, 
+            37.5687189
+          ], 
+          [
+            -77.4255038, 
+            37.5684936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624448", 
+        "name": "Fourqurean Lane", 
+        "to": "49624128", 
+        "length": "100.81943891217985", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4266115, 
+            37.5687189
+          ], 
+          [
+            -77.4278292, 
+            37.5689315
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624637", 
+        "name": "Fourqurean Lane", 
+        "to": "49624128", 
+        "length": "109.9263180537393", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4268475, 
+            37.5673115
+          ], 
+          [
+            -77.4267335, 
+            37.5683071
+          ], 
+          [
+            -77.4266115, 
+            37.5687189
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624127", 
+        "name": "Wellington Street", 
+        "to": "49624128", 
+        "length": "158.2408696856552", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4214519, 
+            37.569123
+          ], 
+          [
+            -77.4216877, 
+            37.5682808
+          ], 
+          [
+            -77.4218217, 
+            37.567802
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614819", 
+        "name": "Groveland Avenue", 
+        "to": "49624641", 
+        "length": "150.50339194113104", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041216"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4218217, 
+            37.567802
+          ], 
+          [
+            -77.4230286, 
+            37.5680515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616188", 
+        "name": "Fourqurean Lane", 
+        "to": "49624641", 
+        "length": "109.96133784327024", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4218217, 
+            37.567802
+          ], 
+          [
+            -77.4207755, 
+            37.5675753
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624207", 
+        "name": "Fourqurean Lane", 
+        "to": "49624641", 
+        "length": "95.619257642047", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252678, 
+            37.5684425
+          ], 
+          [
+            -77.4255038, 
+            37.5684936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624448", 
+        "name": "Fourqurean Lane", 
+        "to": "49624450", 
+        "length": "21.568286307070576", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252678, 
+            37.5684425
+          ], 
+          [
+            -77.4245697, 
+            37.5707691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612409", 
+        "name": "Dunn Avenue", 
+        "to": "49624450", 
+        "length": "265.9967048932963", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037375"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252678, 
+            37.5684425
+          ], 
+          [
+            -77.4230286, 
+            37.5680515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616188", 
+        "name": "Fourqurean Lane", 
+        "to": "49624450", 
+        "length": "202.14373952950322", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4214519, 
+            37.569123
+          ], 
+          [
+            -77.4220676, 
+            37.5692582
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614818", 
+        "name": "Custer Street", 
+        "to": "49614819", 
+        "length": "56.324579940421685", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4203723, 
+            37.568908
+          ], 
+          [
+            -77.4209142, 
+            37.5690159
+          ], 
+          [
+            -77.4214519, 
+            37.569123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614821", 
+        "name": "Custer Street", 
+        "to": "49614819", 
+        "length": "98.13585334551591", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4192286, 
+            37.5686039
+          ], 
+          [
+            -77.4193914, 
+            37.5687064
+          ], 
+          [
+            -77.4203723, 
+            37.568908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614822", 
+        "name": "Custer Street", 
+        "to": "49614821", 
+        "length": "107.66585420148611", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4207755, 
+            37.5675753
+          ], 
+          [
+            -77.420624, 
+            37.5680759
+          ], 
+          [
+            -77.4203723, 
+            37.568908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624207", 
+        "name": "Woodcliff Avenue", 
+        "to": "49614821", 
+        "length": "152.43376549999982", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037263"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4278292, 
+            37.5689315
+          ], 
+          [
+            -77.4278161, 
+            37.568522
+          ], 
+          [
+            -77.427797, 
+            37.567928
+          ], 
+          [
+            -77.4278094, 
+            37.5676974
+          ], 
+          [
+            -77.4278526, 
+            37.5674972
+          ], 
+          [
+            -77.4279029, 
+            37.5673831
+          ], 
+          [
+            -77.4280682, 
+            37.5670087
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624637", 
+        "name": "Henrico Drive", 
+        "to": "49624777", 
+        "length": "217.4774078474668", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4268475, 
+            37.5673115
+          ], 
+          [
+            -77.4268662, 
+            37.5671759
+          ], 
+          [
+            -77.4269024, 
+            37.5669128
+          ], 
+          [
+            -77.4269119, 
+            37.5668437
+          ], 
+          [
+            -77.4270145, 
+            37.5668134
+          ], 
+          [
+            -77.4271193, 
+            37.5668134
+          ], 
+          [
+            -77.4280682, 
+            37.5670087
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624127", 
+        "name": "Pelham Drive", 
+        "to": "49624777", 
+        "length": "157.66457759813557", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037993"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257388, 
+            37.5676596
+          ], 
+          [
+            -77.4257715, 
+            37.567519
+          ], 
+          [
+            -77.4258423, 
+            37.5672252
+          ], 
+          [
+            -77.4258686, 
+            37.5671159
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624447", 
+        "name": "Dunn Avenue", 
+        "to": "49624445", 
+        "length": "61.54715054962491", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037373"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4258686, 
+            37.5671159
+          ], 
+          [
+            -77.4268475, 
+            37.5673115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624445", 
+        "name": "Pelham Drive", 
+        "to": "49624127", 
+        "length": "89.0019863665427", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037994"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257388, 
+            37.5676596
+          ], 
+          [
+            -77.425602, 
+            37.5680841
+          ], 
+          [
+            -77.4255038, 
+            37.5684936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624447", 
+        "name": "Dunn Avenue", 
+        "to": "49624448", 
+        "length": "95.0941731943364", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037373"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257388, 
+            37.5676596
+          ], 
+          [
+            -77.4246937, 
+            37.567475
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624447", 
+        "name": "Crafton Lane", 
+        "to": "49618206", 
+        "length": "94.39794651232741", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039732"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4233151, 
+            37.5671925
+          ], 
+          [
+            -77.4234198, 
+            37.5669053
+          ], 
+          [
+            -77.4235726, 
+            37.5666907
+          ], 
+          [
+            -77.4237621, 
+            37.5665252
+          ], 
+          [
+            -77.4239496, 
+            37.5662986
+          ], 
+          [
+            -77.4240271, 
+            37.5660669
+          ], 
+          [
+            -77.4239803, 
+            37.5658063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616186", 
+        "name": "Harold Avenue", 
+        "to": "49616182", 
+        "length": "171.5989028006446", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034184"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230286, 
+            37.5680515
+          ], 
+          [
+            -77.4231764, 
+            37.5676085
+          ], 
+          [
+            -77.4233151, 
+            37.5671925
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616188", 
+        "name": "Harold Avenue", 
+        "to": "49616186", 
+        "length": "98.82568582886971", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034184"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4245697, 
+            37.5707691
+          ], 
+          [
+            -77.4240675, 
+            37.5706698
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612410", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612409", 
+        "length": "45.62986227658561", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4240675, 
+            37.5706698
+          ], 
+          [
+            -77.4230895, 
+            37.5704757
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612410", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612412", 
+        "length": "88.88060692444837", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4233151, 
+            37.5671925
+          ], 
+          [
+            -77.4246937, 
+            37.567475
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618206", 
+        "name": "Crafton Lane", 
+        "to": "49616186", 
+        "length": "125.53620490534368", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039732"
+      }
+    }
+  ]
+}

@@ -1,0 +1,4929 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206679, 
+            37.5629531
+          ], 
+          [
+            -77.4200081, 
+            37.5638199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627312", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49618688", 
+        "length": "112.60149408020536", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4206679, 
+            37.5629531
+          ], 
+          [
+            -77.4213061, 
+            37.5621408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627090", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49618688", 
+        "length": "106.43833720595575", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4196109, 
+            37.5624385
+          ], 
+          [
+            -77.4201411, 
+            37.5626966
+          ], 
+          [
+            -77.4206679, 
+            37.5629531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611644", 
+        "name": "Spruce Street", 
+        "access": "", 
+        "to": "49618688", 
+        "length": "109.36652563033165", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4217425, 
+            37.5634805
+          ], 
+          [
+            -77.4211923, 
+            37.5632105
+          ], 
+          [
+            -77.4206679, 
+            37.5629531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611666", 
+        "name": "Spruce Street", 
+        "access": "", 
+        "to": "49618688", 
+        "length": "111.43404881744885", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4253531, 
+            37.5559001
+          ], 
+          [
+            -77.4256522, 
+            37.5555197
+          ], 
+          [
+            -77.4256792, 
+            37.555507
+          ], 
+          [
+            -77.4257109, 
+            37.5555003
+          ], 
+          [
+            -77.4257459, 
+            37.5555023
+          ], 
+          [
+            -77.4257782, 
+            37.5555107
+          ], 
+          [
+            -77.4261684, 
+            37.5556809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3108416954", 
+        "name": "['North 5th Street', 'Court Street']", 
+        "access": "", 
+        "to": "49620907", 
+        "length": "100.88017619747819", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6035988, 44888582]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4261684, 
+            37.5556809
+          ], 
+          [
+            -77.4261919, 
+            37.5558317
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3108416949", 
+        "name": "Rowen Avenue", 
+        "access": "", 
+        "to": "49620907", 
+        "length": "16.900430433927223", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "44888586"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4267706, 
+            37.5611801
+          ], 
+          [
+            -77.4269402, 
+            37.5607422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627626", 
+        "name": "Montford Avenue", 
+        "access": "", 
+        "to": "49631404", 
+        "length": "50.94979337370255", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040637"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4259434, 
+            37.5561811
+          ], 
+          [
+            -77.4253531, 
+            37.5559001
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3108416954", 
+        "name": "Call Street", 
+        "access": "", 
+        "to": "49626137", 
+        "length": "60.71283174549636", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038159"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4259434, 
+            37.5561811
+          ], 
+          [
+            -77.4252691, 
+            37.5570541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49616589", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49626137", 
+        "length": "113.85761483124716", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4259434, 
+            37.5561811
+          ], 
+          [
+            -77.4261919, 
+            37.5558317
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "3108416949", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49626137", 
+        "length": "44.61399946401916", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252414, 
+            37.5558469
+          ], 
+          [
+            -77.4253531, 
+            37.5559001
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3108416954", 
+        "name": "Call Street", 
+        "access": "", 
+        "to": "49626138", 
+        "length": "11.490031649897116", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038159"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4264894, 
+            37.5572557
+          ], 
+          [
+            -77.4264566, 
+            37.557303
+          ], 
+          [
+            -77.4264402, 
+            37.5573602
+          ], 
+          [
+            -77.4264254, 
+            37.557463
+          ], 
+          [
+            -77.4264177, 
+            37.5575163
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659040968", 
+        "name": "Matthews Street", 
+        "access": "", 
+        "to": "1659041053", 
+        "length": "30.003339947597063", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "153189946"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4264701, 
+            37.5575322
+          ], 
+          [
+            -77.4264451, 
+            37.5575218
+          ], 
+          [
+            -77.4264177, 
+            37.5575163
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041060", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041053", 
+        "length": "4.981624260503445", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4264177, 
+            37.5575163
+          ], 
+          [
+            -77.4263784, 
+            37.5575174
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041053", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041054", 
+        "length": "3.467385866386612", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263784, 
+            37.5575174
+          ], 
+          [
+            -77.4263728, 
+            37.5574722
+          ], 
+          [
+            -77.4263645, 
+            37.557428
+          ], 
+          [
+            -77.4263531, 
+            37.5573486
+          ], 
+          [
+            -77.4263366, 
+            37.5572745
+          ], 
+          [
+            -77.4263006, 
+            37.5572122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041054", 
+        "name": "Rowen Avenue", 
+        "access": "", 
+        "to": "1659040962", 
+        "length": "34.90150753590095", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153189954"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263784, 
+            37.5575174
+          ], 
+          [
+            -77.4263565, 
+            37.5575228
+          ], 
+          [
+            -77.4263362, 
+            37.5575314
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041054", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041058", 
+        "length": "4.051743305926363", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4240782, 
+            37.5623577
+          ], 
+          [
+            -77.4234277, 
+            37.5631713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620658", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620656", 
+        "length": "107.13761188179659", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249149, 
+            37.5627685
+          ], 
+          [
+            -77.4245995, 
+            37.5626152
+          ], 
+          [
+            -77.4240782, 
+            37.5623577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624467", 
+        "name": "Willow Street", 
+        "access": "", 
+        "to": "49620656", 
+        "length": "86.77460433283107", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4240782, 
+            37.5623577
+          ], 
+          [
+            -77.4247567, 
+            37.5615029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620654", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620656", 
+        "length": "112.33073398452487", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230039, 
+            37.5618274
+          ], 
+          [
+            -77.4235404, 
+            37.5620922
+          ], 
+          [
+            -77.4240782, 
+            37.5623577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611663", 
+        "name": "Willow Street", 
+        "access": "", 
+        "to": "49620656", 
+        "length": "111.5829445935072", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263006, 
+            37.5572122
+          ], 
+          [
+            -77.4262923, 
+            37.5572667
+          ], 
+          [
+            -77.4262923, 
+            37.5573096
+          ], 
+          [
+            -77.4262973, 
+            37.5573681
+          ], 
+          [
+            -77.4263153, 
+            37.5574631
+          ], 
+          [
+            -77.4263362, 
+            37.5575314
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659040962", 
+        "name": "Rowen Avenue", 
+        "access": "", 
+        "to": "1659041058", 
+        "length": "35.90121225343957", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153189951"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263362, 
+            37.5575314
+          ], 
+          [
+            -77.4263227, 
+            37.5575397
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041058", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041062", 
+        "length": "1.5063791098848711", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4196109, 
+            37.5624385
+          ], 
+          [
+            -77.4194553, 
+            37.5623619
+          ], 
+          [
+            -77.4193073, 
+            37.5622981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611644", 
+        "name": "Spruce Street", 
+        "access": "", 
+        "to": "3705294627", 
+        "length": "31.002849440660157", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4264701, 
+            37.5575322
+          ], 
+          [
+            -77.4264861, 
+            37.5574786
+          ], 
+          [
+            -77.4264992, 
+            37.5574071
+          ], 
+          [
+            -77.4265058, 
+            37.55729
+          ], 
+          [
+            -77.4264894, 
+            37.5572557
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041060", 
+        "name": "Matthews Street", 
+        "access": "", 
+        "to": "1659040968", 
+        "length": "31.28001018241489", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "153189948"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4265209, 
+            37.5576204
+          ], 
+          [
+            -77.4265201, 
+            37.557595
+          ], 
+          [
+            -77.4265109, 
+            37.5575707
+          ], 
+          [
+            -77.4264938, 
+            37.5575493
+          ], 
+          [
+            -77.4264701, 
+            37.5575322
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041077", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041060", 
+        "length": "11.291211121748326", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263227, 
+            37.5575397
+          ], 
+          [
+            -77.426303, 
+            37.5575578
+          ], 
+          [
+            -77.4262897, 
+            37.5575791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041062", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041074", 
+        "length": "5.30246188989566", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263227, 
+            37.5575397
+          ], 
+          [
+            -77.4262886, 
+            37.5575115
+          ], 
+          [
+            -77.4261803, 
+            37.5574504
+          ], 
+          [
+            -77.4259768, 
+            37.5573645
+          ], 
+          [
+            -77.4258324, 
+            37.557302
+          ], 
+          [
+            -77.4257278, 
+            37.5572749
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041062", 
+        "name": "Trigg Street", 
+        "access": "", 
+        "to": "1659040974", 
+        "length": "60.6035869074756", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "153189962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257278, 
+            37.5572749
+          ], 
+          [
+            -77.4257717, 
+            37.5573216
+          ], 
+          [
+            -77.4259407, 
+            37.5574074
+          ], 
+          [
+            -77.4260687, 
+            37.557466
+          ], 
+          [
+            -77.4261688, 
+            37.5575076
+          ], 
+          [
+            -77.4262897, 
+            37.5575791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659040974", 
+        "name": "Trigg Street", 
+        "access": "", 
+        "to": "1659041074", 
+        "length": "60.47166060793682", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6034312"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4262897, 
+            37.5575791
+          ], 
+          [
+            -77.4262838, 
+            37.5576003
+          ], 
+          [
+            -77.4262841, 
+            37.557622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041074", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041079", 
+        "length": "4.828455787228248", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4264396, 
+            37.5576999
+          ], 
+          [
+            -77.4264701, 
+            37.5576879
+          ], 
+          [
+            -77.426495, 
+            37.5576696
+          ], 
+          [
+            -77.4265124, 
+            37.5576465
+          ], 
+          [
+            -77.4265209, 
+            37.5576204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041104", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041077", 
+        "length": "11.98690021931996", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4261153, 
+            37.557848
+          ], 
+          [
+            -77.4261477, 
+            37.5578347
+          ], 
+          [
+            -77.426168, 
+            37.5578184
+          ], 
+          [
+            -77.4262107, 
+            37.5577716
+          ], 
+          [
+            -77.4262698, 
+            37.5577013
+          ], 
+          [
+            -77.4263035, 
+            37.5576629
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611657", 
+        "name": "3rd Avenue", 
+        "access": "", 
+        "to": "1659041083", 
+        "length": "26.788660718827174", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "153190026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4261153, 
+            37.557848
+          ], 
+          [
+            -77.4256446, 
+            37.5584511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611659", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611657", 
+        "length": "78.88156117880764", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4262841, 
+            37.557622
+          ], 
+          [
+            -77.4262402, 
+            37.5576493
+          ], 
+          [
+            -77.4261976, 
+            37.5576974
+          ], 
+          [
+            -77.42615, 
+            37.5577546
+          ], 
+          [
+            -77.4261171, 
+            37.5578106
+          ], 
+          [
+            -77.4261138, 
+            37.5578274
+          ], 
+          [
+            -77.4261153, 
+            37.557848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041079", 
+        "name": "3rd Avenue", 
+        "access": "", 
+        "to": "49611657", 
+        "length": "30.13569928594371", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "153190032"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417879, 
+            37.569566
+          ], 
+          [
+            -77.4182635, 
+            37.5697559
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612384", 
+        "name": "East Brookland Park Boulevard", 
+        "access": "", 
+        "to": "1659123258", 
+        "length": "39.939425295274056", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.417879, 
+            37.569566
+          ], 
+          [
+            -77.4181547, 
+            37.5699145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612425", 
+        "name": "East Brookland Park Boulevard", 
+        "access": "", 
+        "to": "1659123258", 
+        "length": "45.75234653836061", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4172345, 
+            37.5692398
+          ], 
+          [
+            -77.4177596, 
+            37.5695056
+          ], 
+          [
+            -77.417879, 
+            37.569566
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611675", 
+        "name": "East Brookland Park Boulevard", 
+        "access": "", 
+        "to": "1659123258", 
+        "length": "67.41490800134704", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153198127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263035, 
+            37.5576629
+          ], 
+          [
+            -77.4263185, 
+            37.5576772
+          ], 
+          [
+            -77.4263368, 
+            37.557689
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041083", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041085", 
+        "length": "4.1485464425009795", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4262841, 
+            37.557622
+          ], 
+          [
+            -77.4262908, 
+            37.5576433
+          ], 
+          [
+            -77.4263035, 
+            37.5576629
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041079", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041083", 
+        "length": "4.892483371467764", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263368, 
+            37.557689
+          ], 
+          [
+            -77.4263692, 
+            37.5577008
+          ], 
+          [
+            -77.4264045, 
+            37.5577046
+          ], 
+          [
+            -77.4264396, 
+            37.5576999
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "1659041085", 
+        "name": "1st Ave", 
+        "access": "yes", 
+        "to": "1659041104", 
+        "length": "9.423703092317684", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263368, 
+            37.557689
+          ], 
+          [
+            -77.4263277, 
+            37.5577609
+          ], 
+          [
+            -77.4263343, 
+            37.5579027
+          ], 
+          [
+            -77.4263491, 
+            37.5579755
+          ], 
+          [
+            -77.4263577, 
+            37.5580091
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041085", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "1659041145", 
+        "length": "35.83504256252504", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "153190011"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4217425, 
+            37.5634805
+          ], 
+          [
+            -77.4223736, 
+            37.5626723
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611666", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611665", 
+        "length": "105.72050288227966", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4217425, 
+            37.5634805
+          ], 
+          [
+            -77.4210581, 
+            37.5643261
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611666", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611668", 
+        "length": "111.74514585681257", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4227913, 
+            37.5639951
+          ], 
+          [
+            -77.4222584, 
+            37.5637336
+          ], 
+          [
+            -77.4217425, 
+            37.5634805
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618686", 
+        "name": "Spruce Street", 
+        "access": "", 
+        "to": "49611666", 
+        "length": "108.75002524844412", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230559, 
+            37.5653818
+          ], 
+          [
+            -77.4225737, 
+            37.5650852
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49631426", 
+        "name": "Myrtle Street", 
+        "access": "", 
+        "to": "49624469", 
+        "length": "53.81145156227048", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4263577, 
+            37.5580091
+          ], 
+          [
+            -77.4263914, 
+            37.5579603
+          ], 
+          [
+            -77.4264163, 
+            37.5578702
+          ], 
+          [
+            -77.4264311, 
+            37.5578116
+          ], 
+          [
+            -77.4264396, 
+            37.5576999
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041145", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "1659041104", 
+        "length": "35.54089666003615", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "tertiary", 
+        "osmid": "6037388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4258784, 
+            37.5597293
+          ], 
+          [
+            -77.4257973, 
+            37.5601269
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620650", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49618771", 
+        "length": "44.79793592088863", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249993, 
+            37.5592919
+          ], 
+          [
+            -77.4255206, 
+            37.5595513
+          ], 
+          [
+            -77.4258784, 
+            37.5597293
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611660", 
+        "name": "Chestnut Street", 
+        "access": "", 
+        "to": "49618771", 
+        "length": "91.5143691330063", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4261765, 
+            37.5587
+          ], 
+          [
+            -77.4261393, 
+            37.5588285
+          ], 
+          [
+            -77.4258784, 
+            37.5597293
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624463", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49618771", 
+        "length": "117.46363372061063", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4228993, 
+            37.5582626
+          ], 
+          [
+            -77.4233984, 
+            37.558495
+          ], 
+          [
+            -77.4239479, 
+            37.5587509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611636", 
+        "name": "Chestnut Street", 
+        "access": "", 
+        "to": "49618773", 
+        "length": "107.22965684976009", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249993, 
+            37.5592919
+          ], 
+          [
+            -77.4244645, 
+            37.5590167
+          ], 
+          [
+            -77.4239479, 
+            37.5587509
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611660", 
+        "name": "Chestnut Street", 
+        "access": "", 
+        "to": "49618773", 
+        "length": "110.52087180300128", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4239479, 
+            37.5587509
+          ], 
+          [
+            -77.4233016, 
+            37.5596191
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49625965", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49618773", 
+        "length": "112.12693534047158", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4239479, 
+            37.5587509
+          ], 
+          [
+            -77.4246006, 
+            37.5579261
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627309", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49618773", 
+        "length": "108.29664024397788", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4227698, 
+            37.5581989
+          ], 
+          [
+            -77.4228993, 
+            37.5582626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611636", 
+        "name": "Chestnut Street", 
+        "access": "", 
+        "to": "49618775", 
+        "length": "13.437944202165713", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035180"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4197753, 
+            37.5660116
+          ], 
+          [
+            -77.4192322, 
+            37.5657355
+          ], 
+          [
+            -77.4187291, 
+            37.5654797
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611672", 
+        "name": "Pulaski Street", 
+        "access": "", 
+        "to": "49626201", 
+        "length": "109.57984928869543", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4176519, 
+            37.564984
+          ], 
+          [
+            -77.4181736, 
+            37.5652241
+          ], 
+          [
+            -77.4187291, 
+            37.5654797
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611650", 
+        "name": "Pulaski Street", 
+        "access": "", 
+        "to": "49626201", 
+        "length": "109.81493681805111", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4187291, 
+            37.5654797
+          ], 
+          [
+            -77.4180358, 
+            37.5662907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627315", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49626201", 
+        "length": "108.96324850340721", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4187291, 
+            37.5654797
+          ], 
+          [
+            -77.4193567, 
+            37.5646711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614558", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49626201", 
+        "length": "105.59552859770433", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4209171, 
+            37.5665507
+          ], 
+          [
+            -77.420438, 
+            37.5669857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620664", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "3094991963", 
+        "length": "64.22670549238703", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4209171, 
+            37.5665507
+          ], 
+          [
+            -77.4217708, 
+            37.5658271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614554", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "3094991963", 
+        "length": "110.19257892076959", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4209171, 
+            37.5665507
+          ], 
+          [
+            -77.4208166, 
+            37.5665201
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620662", 
+        "name": "Pulaski Street", 
+        "access": "", 
+        "to": "3094991963", 
+        "length": "9.491595734127362", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4182635, 
+            37.5697559
+          ], 
+          [
+            -77.4181547, 
+            37.5699145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49612384", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49612425", 
+        "length": "20.07953278915275", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4172345, 
+            37.5692398
+          ], 
+          [
+            -77.4167146, 
+            37.5689696
+          ], 
+          [
+            -77.4161848, 
+            37.5686942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611675", 
+        "name": "East Brookland Park Boulevard", 
+        "access": "", 
+        "to": "49612386", 
+        "length": "110.66455407921057", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153198127"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4161848, 
+            37.5686942
+          ], 
+          [
+            -77.4171102, 
+            37.5674803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614823", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49612386", 
+        "length": "157.75217482355683", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4275106, 
+            37.5608771
+          ], 
+          [
+            -77.4269402, 
+            37.5607422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627626", 
+        "name": "Althea Parkway", 
+        "access": "", 
+        "to": "49627625", 
+        "length": "52.482605299919406", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038814"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4213061, 
+            37.5621408
+          ], 
+          [
+            -77.4218298, 
+            37.5624016
+          ], 
+          [
+            -77.4223736, 
+            37.5626723
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627090", 
+        "name": "Juniper Street", 
+        "access": "", 
+        "to": "49611665", 
+        "length": "111.14506123044487", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4234277, 
+            37.5631713
+          ], 
+          [
+            -77.4228871, 
+            37.5629154
+          ], 
+          [
+            -77.4223736, 
+            37.5626723
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620658", 
+        "name": "Juniper Street", 
+        "access": "", 
+        "to": "49611665", 
+        "length": "108.24868066617573", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4223736, 
+            37.5626723
+          ], 
+          [
+            -77.4230039, 
+            37.5618274
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611663", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611665", 
+        "length": "109.17691721572905", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4233016, 
+            37.5596191
+          ], 
+          [
+            -77.4238066, 
+            37.5598693
+          ], 
+          [
+            -77.4243316, 
+            37.5601294
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625965", 
+        "name": "Althea Street", 
+        "access": "", 
+        "to": "49611661", 
+        "length": "107.09393212367888", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4233016, 
+            37.5596191
+          ], 
+          [
+            -77.4226129, 
+            37.5604661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49625965", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49627259", 
+        "length": "112.08287640051438", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4233016, 
+            37.5596191
+          ], 
+          [
+            -77.4227422, 
+            37.5593403
+          ], 
+          [
+            -77.422218, 
+            37.5590791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625965", 
+        "name": "Althea Street", 
+        "access": "", 
+        "to": "49611637", 
+        "length": "112.85330512157378", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236181, 
+            37.5574248
+          ], 
+          [
+            -77.4228993, 
+            37.5582626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611636", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611635", 
+        "length": "112.69607789467119", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252691, 
+            37.5570541
+          ], 
+          [
+            -77.4247384, 
+            37.5568028
+          ], 
+          [
+            -77.4243906, 
+            37.5566381
+          ], 
+          [
+            -77.4242619, 
+            37.5566551
+          ], 
+          [
+            -77.4236181, 
+            37.5574248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49616589", 
+        "name": "['5th Avenue', 'Trigg Street']", 
+        "access": "yes", 
+        "to": "49611635", 
+        "length": "204.45429994774622", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[153189957, 6032774]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4246006, 
+            37.5579261
+          ], 
+          [
+            -77.4240827, 
+            37.5576618
+          ], 
+          [
+            -77.4236181, 
+            37.5574248
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627309", 
+        "name": "Alder Street", 
+        "access": "", 
+        "to": "49611635", 
+        "length": "103.0231230229585", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040325"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4228993, 
+            37.5582626
+          ], 
+          [
+            -77.422218, 
+            37.5590791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611637", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611636", 
+        "length": "108.88623394928719", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.422218, 
+            37.5590791
+          ], 
+          [
+            -77.4215636, 
+            37.5599296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611639", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611637", 
+        "length": "110.80605347150455", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4215636, 
+            37.5599296
+          ], 
+          [
+            -77.4209091, 
+            37.5607758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611640", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611639", 
+        "length": "110.40228578503498", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4226129, 
+            37.5604661
+          ], 
+          [
+            -77.4220818, 
+            37.5601946
+          ], 
+          [
+            -77.4215636, 
+            37.5599296
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627259", 
+        "name": "Cypress Street", 
+        "access": "", 
+        "to": "49611639", 
+        "length": "110.09228664447866", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038629"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4209091, 
+            37.5607758
+          ], 
+          [
+            -77.4204692, 
+            37.5605589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625809", 
+        "name": "Willow Street", 
+        "access": "", 
+        "to": "49611640", 
+        "length": "45.67675669742633", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4209091, 
+            37.5607758
+          ], 
+          [
+            -77.4202546, 
+            37.561622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611642", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611640", 
+        "length": "110.40194320127723", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4219583, 
+            37.5613111
+          ], 
+          [
+            -77.4214291, 
+            37.5610411
+          ], 
+          [
+            -77.4209091, 
+            37.5607758
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625807", 
+        "name": "Willow Street", 
+        "access": "", 
+        "to": "49611640", 
+        "length": "110.01170132059016", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4250629, 
+            37.5641386
+          ], 
+          [
+            -77.4245815, 
+            37.563819
+          ], 
+          [
+            -77.4245642, 
+            37.5638084
+          ], 
+          [
+            -77.4242412, 
+            37.5635837
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "2924733632", 
+        "name": "Juniper St", 
+        "access": "", 
+        "to": "49624468", 
+        "length": "95.18036670652091", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "288920759"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4234277, 
+            37.5631713
+          ], 
+          [
+            -77.4239674, 
+            37.5634449
+          ], 
+          [
+            -77.4242412, 
+            37.5635837
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620658", 
+        "name": "Juniper Street", 
+        "access": "", 
+        "to": "49624468", 
+        "length": "85.13703378447691", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4242412, 
+            37.5635837
+          ], 
+          [
+            -77.4244652, 
+            37.5634056
+          ], 
+          [
+            -77.4246813, 
+            37.5632019
+          ], 
+          [
+            -77.4248214, 
+            37.5629873
+          ], 
+          [
+            -77.4249149, 
+            37.5627685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624468", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624467", 
+        "length": "110.14585008427848", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4242412, 
+            37.5635837
+          ], 
+          [
+            -77.42343, 
+            37.5643195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618684", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624468", 
+        "length": "108.68757596260163", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4213061, 
+            37.5621408
+          ], 
+          [
+            -77.4207835, 
+            37.5618829
+          ], 
+          [
+            -77.4202546, 
+            37.561622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627090", 
+        "name": "Juniper Street", 
+        "access": "", 
+        "to": "49611642", 
+        "length": "109.2006050782663", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038550"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4202546, 
+            37.561622
+          ], 
+          [
+            -77.4196109, 
+            37.5624385
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611644", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611642", 
+        "length": "107.09156259958861", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4226129, 
+            37.5604661
+          ], 
+          [
+            -77.4219583, 
+            37.5613111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49625807", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49627259", 
+        "length": "110.29291777779422", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236736, 
+            37.5609593
+          ], 
+          [
+            -77.4231511, 
+            37.5607164
+          ], 
+          [
+            -77.4226129, 
+            37.5604661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611662", 
+        "name": "Cypress Street", 
+        "access": "", 
+        "to": "49627259", 
+        "length": "108.42325179847637", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038629"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4196109, 
+            37.5624385
+          ], 
+          [
+            -77.4189436, 
+            37.5633003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611644", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611646", 
+        "length": "112.4703957388598", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4189436, 
+            37.5633003
+          ], 
+          [
+            -77.4183026, 
+            37.5641673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611648", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611646", 
+        "length": "111.77324500737656", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4200081, 
+            37.5638199
+          ], 
+          [
+            -77.4194658, 
+            37.5635552
+          ], 
+          [
+            -77.4189436, 
+            37.5633003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627312", 
+        "name": "Myrtle Street", 
+        "access": "", 
+        "to": "49611646", 
+        "length": "110.22019255086254", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.41739, 
+            37.5634463
+          ], 
+          [
+            -77.4179394, 
+            37.5628058
+          ], 
+          [
+            -77.4184031, 
+            37.5630342
+          ], 
+          [
+            -77.4189436, 
+            37.5633003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614836", 
+        "name": "['6th Avenue', 'Myrtle Street']", 
+        "access": "", 
+        "to": "49611646", 
+        "length": "190.3789900105379", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6033754, 6040653]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4183026, 
+            37.5641673
+          ], 
+          [
+            -77.4176519, 
+            37.564984
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611650", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611648", 
+        "length": "107.43767685187255", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4193567, 
+            37.5646711
+          ], 
+          [
+            -77.4187957, 
+            37.564403
+          ], 
+          [
+            -77.4183026, 
+            37.5641673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614558", 
+        "name": "Magnolia Street", 
+        "access": "", 
+        "to": "49611648", 
+        "length": "108.52178621306848", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4176519, 
+            37.564984
+          ], 
+          [
+            -77.416996, 
+            37.5658072
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611652", 
+        "name": "5th Avenue", 
+        "access": "yes", 
+        "to": "49611650", 
+        "length": "108.29341495357954", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032774"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4180358, 
+            37.5662907
+          ], 
+          [
+            -77.4175443, 
+            37.5660621
+          ], 
+          [
+            -77.416996, 
+            37.5658072
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627315", 
+        "name": "Victor Street", 
+        "access": "", 
+        "to": "49611652", 
+        "length": "106.2822323893737", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040329"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4171102, 
+            37.5674803
+          ], 
+          [
+            -77.4165948, 
+            37.5672401
+          ], 
+          [
+            -77.4160549, 
+            37.5669885
+          ], 
+          [
+            -77.416996, 
+            37.5658072
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614823", 
+        "name": "['5th Avenue', 'Custer Street']", 
+        "access": "yes", 
+        "to": "49611652", 
+        "length": "263.32253869529086", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6032774, 6033750]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4256446, 
+            37.5584511
+          ], 
+          [
+            -77.4249993, 
+            37.5592919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611660", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611659", 
+        "length": "109.46748681756874", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4246006, 
+            37.5579261
+          ], 
+          [
+            -77.4251227, 
+            37.5581886
+          ], 
+          [
+            -77.4256446, 
+            37.5584511
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627309", 
+        "name": "Alder Street", 
+        "access": "", 
+        "to": "49611659", 
+        "length": "109.0114684295157", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040325"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4256446, 
+            37.5584511
+          ], 
+          [
+            -77.4261765, 
+            37.5587
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624463", 
+        "name": "Alder Street", 
+        "access": "", 
+        "to": "49611659", 
+        "length": "54.46030804957418", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040325"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249993, 
+            37.5592919
+          ], 
+          [
+            -77.4243316, 
+            37.5601294
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611661", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611660", 
+        "length": "110.19613286023713", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243316, 
+            37.5601294
+          ], 
+          [
+            -77.4248727, 
+            37.5603848
+          ], 
+          [
+            -77.4254226, 
+            37.5606444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611661", 
+        "name": "Althea Street", 
+        "access": "", 
+        "to": "49620652", 
+        "length": "111.95722951834573", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4243316, 
+            37.5601294
+          ], 
+          [
+            -77.4236736, 
+            37.5609593
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611662", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611661", 
+        "length": "109.02463283981773", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4247567, 
+            37.5615029
+          ], 
+          [
+            -77.4242103, 
+            37.5612286
+          ], 
+          [
+            -77.4236736, 
+            37.5609593
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620654", 
+        "name": "Cypress Street", 
+        "access": "", 
+        "to": "49611662", 
+        "length": "113.02763181178513", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038629"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4236736, 
+            37.5609593
+          ], 
+          [
+            -77.4230039, 
+            37.5618274
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611663", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611662", 
+        "length": "113.17905465293913", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4261765, 
+            37.5587
+          ], 
+          [
+            -77.4263577, 
+            37.5580091
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659041145", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624463", 
+        "length": "78.48950690677528", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257992, 
+            37.560489
+          ], 
+          [
+            -77.4257405, 
+            37.5608206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624464", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624465", 
+        "length": "37.24398921761075", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257992, 
+            37.560489
+          ], 
+          [
+            -77.4257973, 
+            37.5601269
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620650", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624464", 
+        "length": "40.275375451177375", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257992, 
+            37.560489
+          ], 
+          [
+            -77.4269402, 
+            37.5607422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627626", 
+        "name": "Althea Parkway", 
+        "access": "", 
+        "to": "49624464", 
+        "length": "104.46956916389705", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038814"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257405, 
+            37.5608206
+          ], 
+          [
+            -77.4254226, 
+            37.5606444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624465", 
+        "name": "Althea Street", 
+        "access": "", 
+        "to": "49620652", 
+        "length": "34.201182413593415", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4255694, 
+            37.5613454
+          ], 
+          [
+            -77.4256696, 
+            37.561083
+          ], 
+          [
+            -77.4257405, 
+            37.5608206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2924733629", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624465", 
+        "length": "60.341314581504946", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4253574, 
+            37.5617954
+          ], 
+          [
+            -77.4252645, 
+            37.561987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2924733648", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624466", 
+        "length": "22.830828701208855", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4253574, 
+            37.5617954
+          ], 
+          [
+            -77.4255694, 
+            37.5613454
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2924733629", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624466", 
+        "length": "53.42815626020763", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4247567, 
+            37.5615029
+          ], 
+          [
+            -77.4252614, 
+            37.5617486
+          ], 
+          [
+            -77.4253574, 
+            37.5617954
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620654", 
+        "name": "Cypress Street", 
+        "access": "", 
+        "to": "49624466", 
+        "length": "62.15722528396909", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038629"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4249149, 
+            37.5627685
+          ], 
+          [
+            -77.4252645, 
+            37.561987
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2924733648", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624467", 
+        "length": "92.22663640413329", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4262139, 
+            37.5629182
+          ], 
+          [
+            -77.4253133, 
+            37.5628722
+          ], 
+          [
+            -77.4249149, 
+            37.5627685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2924733637", 
+        "name": "Dove Street", 
+        "access": "", 
+        "to": "49624467", 
+        "length": "116.53932664879272", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039838"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4200081, 
+            37.5638199
+          ], 
+          [
+            -77.420524, 
+            37.5640686
+          ], 
+          [
+            -77.4210581, 
+            37.5643261
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627312", 
+        "name": "Myrtle Street", 
+        "access": "", 
+        "to": "49611668", 
+        "length": "108.35122571573721", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4221137, 
+            37.5648603
+          ], 
+          [
+            -77.4215786, 
+            37.5646048
+          ], 
+          [
+            -77.4210581, 
+            37.5643261
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620660", 
+        "name": "Myrtle Street", 
+        "access": "", 
+        "to": "49611668", 
+        "length": "110.45422395134852", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4210581, 
+            37.5643261
+          ], 
+          [
+            -77.4204201, 
+            37.5651804
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611670", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611668", 
+        "length": "110.42147908931076", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4225737, 
+            37.5650852
+          ], 
+          [
+            -77.42343, 
+            37.5643195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618684", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624469", 
+        "length": "113.81064621637967", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4225737, 
+            37.5650852
+          ], 
+          [
+            -77.4221137, 
+            37.5648603
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620660", 
+        "name": "Myrtle Street", 
+        "access": "", 
+        "to": "49624469", 
+        "length": "47.64993257573345", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4225737, 
+            37.5650852
+          ], 
+          [
+            -77.4217708, 
+            37.5658271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614554", 
+        "name": "1st Avenue", 
+        "access": "", 
+        "to": "49624469", 
+        "length": "108.72057080375947", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "153190002"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4204201, 
+            37.5651804
+          ], 
+          [
+            -77.4197753, 
+            37.5660116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611672", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611670", 
+        "length": "108.53091041737488", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4214664, 
+            37.5656808
+          ], 
+          [
+            -77.420933, 
+            37.5654257
+          ], 
+          [
+            -77.4204201, 
+            37.5651804
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614555", 
+        "name": "Magnolia Street", 
+        "access": "", 
+        "to": "49611670", 
+        "length": "107.73652741475303", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4193567, 
+            37.5646711
+          ], 
+          [
+            -77.4198647, 
+            37.5649144
+          ], 
+          [
+            -77.4204201, 
+            37.5651804
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614558", 
+        "name": "Magnolia Street", 
+        "access": "", 
+        "to": "49611670", 
+        "length": "109.53933926175876", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4208166, 
+            37.5665201
+          ], 
+          [
+            -77.4202787, 
+            37.5662575
+          ], 
+          [
+            -77.4197753, 
+            37.5660116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620662", 
+        "name": "Pulaski Street", 
+        "access": "", 
+        "to": "49611672", 
+        "length": "107.82826935408822", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4191136, 
+            37.5668614
+          ], 
+          [
+            -77.4194316, 
+            37.5664317
+          ], 
+          [
+            -77.4197753, 
+            37.5660116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611673", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611672", 
+        "length": "111.10135414936038", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4201298, 
+            37.5673728
+          ], 
+          [
+            -77.4196203, 
+            37.5671164
+          ], 
+          [
+            -77.4191136, 
+            37.5668614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620666", 
+        "name": "Victor Street", 
+        "access": "", 
+        "to": "49611673", 
+        "length": "106.12224673891843", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040329"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4180358, 
+            37.5662907
+          ], 
+          [
+            -77.4185819, 
+            37.5665799
+          ], 
+          [
+            -77.4191136, 
+            37.5668614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627315", 
+        "name": "Victor Street", 
+        "access": "", 
+        "to": "49611673", 
+        "length": "114.27379377034015", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040329"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4191136, 
+            37.5668614
+          ], 
+          [
+            -77.4181624, 
+            37.5680414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611674", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611673", 
+        "length": "155.75047406753225", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4181624, 
+            37.5680414
+          ], 
+          [
+            -77.4172345, 
+            37.5692398
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49611675", 
+        "name": "3rd Avenue", 
+        "access": "yes", 
+        "to": "49611674", 
+        "length": "156.39402319934845", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153190018"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4171102, 
+            37.5674803
+          ], 
+          [
+            -77.4176478, 
+            37.567767
+          ], 
+          [
+            -77.4181624, 
+            37.5680414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614823", 
+        "name": "Custer Street", 
+        "access": "", 
+        "to": "49611674", 
+        "length": "111.80330188739825", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4257973, 
+            37.5601269
+          ], 
+          [
+            -77.4254226, 
+            37.5606444
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620650", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620652", 
+        "length": "66.36698637111654", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.427103, 
+            37.5602958
+          ], 
+          [
+            -77.4269402, 
+            37.5607422
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49627626", 
+        "name": "Montford Avenue", 
+        "access": "", 
+        "to": "49631403", 
+        "length": "51.684637655939774", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040637"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4254226, 
+            37.5606444
+          ], 
+          [
+            -77.4247567, 
+            37.5615029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620654", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620652", 
+        "length": "112.09377948752122", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4246006, 
+            37.5579261
+          ], 
+          [
+            -77.4252691, 
+            37.5570541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49616589", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49627309", 
+        "length": "113.49597031246141", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4200081, 
+            37.5638199
+          ], 
+          [
+            -77.4193567, 
+            37.5646711
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614558", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49627312", 
+        "length": "110.73320914069843", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4234277, 
+            37.5631713
+          ], 
+          [
+            -77.4227913, 
+            37.5639951
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49618686", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620658", 
+        "length": "107.44284445732804", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4180358, 
+            37.5662907
+          ], 
+          [
+            -77.4171102, 
+            37.5674803
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614823", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49627315", 
+        "length": "155.45512423380202", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4221137, 
+            37.5648603
+          ], 
+          [
+            -77.4214664, 
+            37.5656808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614555", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620660", 
+        "length": "107.63575361684777", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4221137, 
+            37.5648603
+          ], 
+          [
+            -77.4227913, 
+            37.5639951
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49618686", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620660", 
+        "length": "113.26854929987142", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4261919, 
+            37.5558317
+          ], 
+          [
+            -77.4262267, 
+            37.5561358
+          ], 
+          [
+            -77.4262647, 
+            37.556614
+          ], 
+          [
+            -77.4262853, 
+            37.5570919
+          ], 
+          [
+            -77.4263006, 
+            37.5572122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3108416949", 
+        "name": "Rowen Avenue", 
+        "access": "", 
+        "to": "1659040962", 
+        "length": "153.89104408202363", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "[6032786, 6036549]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.420438, 
+            37.5669857
+          ], 
+          [
+            -77.4204795, 
+            37.5669346
+          ], 
+          [
+            -77.4208166, 
+            37.5665201
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620664", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620662", 
+        "length": "61.611745072020575", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4208166, 
+            37.5665201
+          ], 
+          [
+            -77.4214664, 
+            37.5656808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49614555", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620662", 
+        "length": "109.52910370776841", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.420438, 
+            37.5669857
+          ], 
+          [
+            -77.4201298, 
+            37.5673728
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49620666", 
+        "name": "2nd Avenue", 
+        "access": "yes", 
+        "to": "49620664", 
+        "length": "50.91255600289161", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035906"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4266484, 
+            37.5623381
+          ], 
+          [
+            -77.4268375, 
+            37.5621806
+          ], 
+          [
+            -77.427074, 
+            37.5619894
+          ], 
+          [
+            -77.4271828, 
+            37.5618919
+          ], 
+          [
+            -77.4272065, 
+            37.561817
+          ], 
+          [
+            -77.4271781, 
+            37.5617382
+          ], 
+          [
+            -77.4270835, 
+            37.5616932
+          ], 
+          [
+            -77.4260721, 
+            37.5614609
+          ], 
+          [
+            -77.4255694, 
+            37.5613454
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "2924733641", 
+        "name": "Althea St", 
+        "access": "", 
+        "to": "2924733629", 
+        "length": "234.86600552373574", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "288920760"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4251348, 
+            37.5641864
+          ], 
+          [
+            -77.4250629, 
+            37.5641386
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "2924733632", 
+        "name": "Juniper St", 
+        "access": "", 
+        "to": "2924733631", 
+        "length": "8.273505154038963", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "288920759"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4262139, 
+            37.5629182
+          ], 
+          [
+            -77.4261943, 
+            37.5631404
+          ], 
+          [
+            -77.4261375, 
+            37.5632454
+          ], 
+          [
+            -77.4260288, 
+            37.5633429
+          ], 
+          [
+            -77.42539, 
+            37.5638766
+          ], 
+          [
+            -77.4253288, 
+            37.5639277
+          ], 
+          [
+            -77.4250629, 
+            37.5641386
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "2924733637", 
+        "name": "Althea St", 
+        "access": "", 
+        "to": "2924733632", 
+        "length": "174.78336073154", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "288920760"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4266484, 
+            37.5623381
+          ], 
+          [
+            -77.426393, 
+            37.562548
+          ], 
+          [
+            -77.4263509, 
+            37.5625878
+          ], 
+          [
+            -77.42627, 
+            37.5626643
+          ], 
+          [
+            -77.4262416, 
+            37.562743
+          ], 
+          [
+            -77.4262139, 
+            37.5629182
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "2924733641", 
+        "name": "Althea St", 
+        "access": "", 
+        "to": "2924733637", 
+        "length": "78.06029102914414", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "288920760"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4281571, 
+            37.5549564
+          ], 
+          [
+            -77.4274357, 
+            37.5557227
+          ], 
+          [
+            -77.4269971, 
+            37.5561333
+          ], 
+          [
+            -77.4268052, 
+            37.5563136
+          ], 
+          [
+            -77.4266884, 
+            37.5565704
+          ], 
+          [
+            -77.4265923, 
+            37.5568753
+          ], 
+          [
+            -77.4265338, 
+            37.5571314
+          ], 
+          [
+            -77.4264894, 
+            37.5572557
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613554", 
+        "name": "Matthews Street", 
+        "access": "", 
+        "to": "1659040968", 
+        "length": "301.071822855557", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6033346, 153189943]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252645, 
+            37.561987
+          ], 
+          [
+            -77.4257547, 
+            37.5621114
+          ], 
+          [
+            -77.4266484, 
+            37.5623381
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "2924733648", 
+        "name": "Cypress St", 
+        "access": "", 
+        "to": "2924733641", 
+        "length": "128.11292939824443", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "288920761"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4252691, 
+            37.5570541
+          ], 
+          [
+            -77.4257278, 
+            37.5572749
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "1659040974", 
+        "name": "Trigg Street", 
+        "access": "", 
+        "to": "49616589", 
+        "length": "47.31774068708849", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "153189957"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4219583, 
+            37.5613111
+          ], 
+          [
+            -77.4213061, 
+            37.5621408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "49627090", 
+        "name": "4th Avenue", 
+        "access": "yes", 
+        "to": "49625807", 
+        "length": "108.73400461501544", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6038658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4230039, 
+            37.5618274
+          ], 
+          [
+            -77.4224844, 
+            37.5615709
+          ], 
+          [
+            -77.4219583, 
+            37.5613111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611663", 
+        "name": "Willow Street", 
+        "access": "", 
+        "to": "49625807", 
+        "length": "108.61236787666846", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4217708, 
+            37.5658271
+          ], 
+          [
+            -77.4214664, 
+            37.5656808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614555", 
+        "name": "Magnolia Street", 
+        "access": "", 
+        "to": "49614554", 
+        "length": "31.385051161168903", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033630"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4227913, 
+            37.5639951
+          ], 
+          [
+            -77.4233024, 
+            37.5642657
+          ], 
+          [
+            -77.42343, 
+            37.5643195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618686", 
+        "name": "Spruce Street", 
+        "access": "", 
+        "to": "49618684", 
+        "length": "66.93120524471675", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035140"
+      }
+    }
+  ]
+}

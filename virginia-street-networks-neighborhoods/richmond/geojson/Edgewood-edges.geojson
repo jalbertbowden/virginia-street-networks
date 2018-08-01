@@ -1,0 +1,1367 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4315616, 
+            37.5806197
+          ], 
+          [
+            -77.4325191, 
+            37.5809938
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615556", 
+        "name": "Hazelhurst Avenue", 
+        "to": "49620993", 
+        "length": "94.09951356283662", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4343642, 
+            37.5789605
+          ], 
+          [
+            -77.4340476, 
+            37.5778848
+          ], 
+          [
+            -77.4340334, 
+            37.5778371
+          ], 
+          [
+            -77.4339202, 
+            37.5777614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3180202627", 
+        "name": "Garland Avenue", 
+        "to": "49614616", 
+        "length": "141.36517399928354", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "312174958"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4343642, 
+            37.5789605
+          ], 
+          [
+            -77.4342214, 
+            37.5789857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614618", 
+        "name": "Westwood Avenue", 
+        "to": "3180202627", 
+        "length": "12.895867277248046", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033702"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4346269, 
+            37.5800506
+          ], 
+          [
+            -77.4346595, 
+            37.5799639
+          ], 
+          [
+            -77.4343642, 
+            37.5789605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614620", 
+        "name": "Garland Avenue", 
+        "to": "3180202627", 
+        "length": "124.66214133647303", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "312174958"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325191, 
+            37.5809938
+          ], 
+          [
+            -77.4338187, 
+            37.581529
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617387", 
+        "name": "Hazelhurst Avenue", 
+        "to": "49615556", 
+        "length": "129.09779842230964", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039854"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.431756, 
+            37.579375
+          ], 
+          [
+            -77.431933, 
+            37.5794919
+          ], 
+          [
+            -77.4320349, 
+            37.579579
+          ], 
+          [
+            -77.432094, 
+            37.5796577
+          ], 
+          [
+            -77.4321479, 
+            37.579748
+          ], 
+          [
+            -77.4325191, 
+            37.5809938
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615553", 
+        "name": "Cliff Avenue", 
+        "to": "49615556", 
+        "length": "197.19458738023252", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4331226, 
+            37.5791795
+          ], 
+          [
+            -77.4334432, 
+            37.5802706
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617385", 
+        "name": "North Avenue", 
+        "to": "49614725", 
+        "length": "124.60589894351928", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4342214, 
+            37.5789857
+          ], 
+          [
+            -77.4336688, 
+            37.5790832
+          ], 
+          [
+            -77.4331226, 
+            37.5791795
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614618", 
+        "name": "Westwood Avenue", 
+        "to": "49614725", 
+        "length": "99.22684676604018", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033702"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4387969, 
+            37.5831614
+          ], 
+          [
+            -77.4389256, 
+            37.5831614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620171", 
+        "name": "Henrico Boulevard", 
+        "to": "49620166", 
+        "length": "11.344049257965208", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4375723, 
+            37.5831697
+          ], 
+          [
+            -77.4381407, 
+            37.5831658
+          ], 
+          [
+            -77.4383344, 
+            37.5831645
+          ], 
+          [
+            -77.4387969, 
+            37.5831614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620182", 
+        "name": "Henrico Boulevard", 
+        "to": "49620166", 
+        "length": "107.94428976187695", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4323718, 
+            37.578759
+          ], 
+          [
+            -77.4320139, 
+            37.579117
+          ], 
+          [
+            -77.431756, 
+            37.579375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623434", 
+        "name": "East Ladies Mile Road", 
+        "to": "49615553", 
+        "length": "87.41198462704217", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036889"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4351276, 
+            37.5823707
+          ], 
+          [
+            -77.4359966, 
+            37.5828809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617388", 
+        "name": "North Avenue", 
+        "to": "49611291", 
+        "length": "95.32792549298979", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4351276, 
+            37.5823707
+          ], 
+          [
+            -77.4355252, 
+            37.5819655
+          ], 
+          [
+            -77.4358786, 
+            37.5816055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617388", 
+        "name": "Fendall Avenue", 
+        "to": "49614621", 
+        "length": "107.82287123991446", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4351276, 
+            37.5823707
+          ], 
+          [
+            -77.4338187, 
+            37.581529
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617388", 
+        "name": "North Avenue", 
+        "to": "49617387", 
+        "length": "148.57794353215226", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.434973, 
+            37.5771506
+          ], 
+          [
+            -77.4353238, 
+            37.5776796
+          ], 
+          [
+            -77.4357455, 
+            37.5783389
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615589", 
+        "name": "Hanes Avenue", 
+        "to": "1667094033", 
+        "length": "148.6847647508577", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4357455, 
+            37.5783389
+          ], 
+          [
+            -77.4358743, 
+            37.5767828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615590", 
+        "name": "Fendall Avenue", 
+        "to": "1667094033", 
+        "length": "173.45116899876191", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4357455, 
+            37.5783389
+          ], 
+          [
+            -77.4357321, 
+            37.5786896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614749", 
+        "name": "Fendall Avenue", 
+        "to": "1667094033", 
+        "length": "39.02492785107075", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4369331, 
+            37.5784696
+          ], 
+          [
+            -77.4368904, 
+            37.578839
+          ], 
+          [
+            -77.4369123, 
+            37.5792413
+          ], 
+          [
+            -77.4369669, 
+            37.5795181
+          ], 
+          [
+            -77.4369995, 
+            37.5796198
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614748", 
+        "name": "Griffin Avenue", 
+        "to": "49620179", 
+        "length": "128.87932283798617", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44884754"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4369995, 
+            37.5796198
+          ], 
+          [
+            -77.4372734, 
+            37.5813844
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620181", 
+        "name": "Griffin Avenue", 
+        "to": "49620179", 
+        "length": "197.74922063299314", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44884754"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4359256, 
+            37.5798334
+          ], 
+          [
+            -77.4364566, 
+            37.5797278
+          ], 
+          [
+            -77.4369995, 
+            37.5796198
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628135", 
+        "name": "Culpepper Street", 
+        "to": "49620179", 
+        "length": "97.59734090715109", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4374286, 
+            37.5823702
+          ], 
+          [
+            -77.4373618, 
+            37.5819458
+          ], 
+          [
+            -77.4372734, 
+            37.5813844
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614622", 
+        "name": "Griffin Avenue", 
+        "to": "49620181", 
+        "length": "110.49694462989936", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44884754"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4365799, 
+            37.5832122
+          ], 
+          [
+            -77.4370168, 
+            37.5831935
+          ], 
+          [
+            -77.4375723, 
+            37.5831697
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617390", 
+        "name": "Henrico Boulevard", 
+        "to": "49620182", 
+        "length": "87.60106166418188", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041122"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4375723, 
+            37.5831697
+          ], 
+          [
+            -77.4374286, 
+            37.5823702
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614622", 
+        "name": "Griffin Avenue", 
+        "to": "49620182", 
+        "length": "89.82293405697571", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44884754"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4339202, 
+            37.5777614
+          ], 
+          [
+            -77.4339104, 
+            37.577857
+          ], 
+          [
+            -77.4342214, 
+            37.5789857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614616", 
+        "name": "Garland Avenue", 
+        "to": "49614618", 
+        "length": "139.1677059306317", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "312174958"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.434973, 
+            37.5771506
+          ], 
+          [
+            -77.4345813, 
+            37.5772934
+          ], 
+          [
+            -77.4344832, 
+            37.5773292
+          ], 
+          [
+            -77.4344286, 
+            37.5773639
+          ], 
+          [
+            -77.4342048, 
+            37.5775065
+          ], 
+          [
+            -77.4339202, 
+            37.5777614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615589", 
+        "name": "West Ladies Mile Road", 
+        "to": "49614616", 
+        "length": "116.8668794637792", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4342214, 
+            37.5789857
+          ], 
+          [
+            -77.4345408, 
+            37.5800073
+          ], 
+          [
+            -77.4346269, 
+            37.5800506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614618", 
+        "name": "Garland Avenue", 
+        "to": "49614620", 
+        "length": "126.05335574753606", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "312174958"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4359966, 
+            37.5828809
+          ], 
+          [
+            -77.4365799, 
+            37.5832122
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617390", 
+        "name": "North Avenue", 
+        "to": "49611291", 
+        "length": "63.2556487495033", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4334432, 
+            37.5802706
+          ], 
+          [
+            -77.4340029, 
+            37.5801666
+          ], 
+          [
+            -77.4346269, 
+            37.5800506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617385", 
+        "name": "Culpepper Street", 
+        "to": "49614620", 
+        "length": "107.17042094442564", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4358786, 
+            37.5816055
+          ], 
+          [
+            -77.4349881, 
+            37.5810698
+          ], 
+          [
+            -77.4348486, 
+            37.5808488
+          ], 
+          [
+            -77.4346269, 
+            37.5800506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614621", 
+        "name": "Garland Avenue", 
+        "to": "49614620", 
+        "length": "216.9379994212023", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "312174959"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4359256, 
+            37.5798334
+          ], 
+          [
+            -77.4352629, 
+            37.5799442
+          ], 
+          [
+            -77.4346269, 
+            37.5800506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628135", 
+        "name": "Culpepper Street", 
+        "to": "49614620", 
+        "length": "116.99805548169152", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4374286, 
+            37.5823702
+          ], 
+          [
+            -77.4372234, 
+            37.5823948
+          ], 
+          [
+            -77.4370536, 
+            37.5823395
+          ], 
+          [
+            -77.4358786, 
+            37.5816055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614622", 
+        "name": "Garland Avenue", 
+        "to": "49614621", 
+        "length": "166.35270278053508", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "312174959"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4359256, 
+            37.5798334
+          ], 
+          [
+            -77.4361146, 
+            37.5811124
+          ], 
+          [
+            -77.4361049, 
+            37.5811791
+          ], 
+          [
+            -77.4360825, 
+            37.5813334
+          ], 
+          [
+            -77.4358786, 
+            37.5816055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628135", 
+        "name": "Fendall Avenue", 
+        "to": "49614621", 
+        "length": "203.17291613856253", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4338187, 
+            37.581529
+          ], 
+          [
+            -77.4336699, 
+            37.580924
+          ], 
+          [
+            -77.4334432, 
+            37.5802706
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617387", 
+        "name": "North Avenue", 
+        "to": "49617385", 
+        "length": "143.9306354601531", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4358743, 
+            37.5767828
+          ], 
+          [
+            -77.4354594, 
+            37.5769521
+          ], 
+          [
+            -77.434973, 
+            37.5771506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615590", 
+        "name": "West Ladies Mile Road", 
+        "to": "49615589", 
+        "length": "89.36377278549057", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4371081, 
+            37.5762642
+          ], 
+          [
+            -77.4364916, 
+            37.5765233
+          ], 
+          [
+            -77.4358743, 
+            37.5767828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615591", 
+        "name": "West Ladies Mile Road", 
+        "to": "49615590", 
+        "length": "123.11032742636883", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4359256, 
+            37.5798334
+          ], 
+          [
+            -77.4357321, 
+            37.5786896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614749", 
+        "name": "Fendall Avenue", 
+        "to": "49628135", 
+        "length": "128.35890081072554", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4370627, 
+            37.583531
+          ], 
+          [
+            -77.438538, 
+            37.5844116
+          ], 
+          [
+            -77.4386386, 
+            37.5844717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617392", 
+        "name": "North Avenue", 
+        "to": "3049172904", 
+        "length": "173.90153290324443", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4390933, 
+            37.5847135
+          ], 
+          [
+            -77.4386935, 
+            37.5845045
+          ], 
+          [
+            -77.4386386, 
+            37.5844717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617394", 
+        "name": "North Avenue", 
+        "to": "3049172904", 
+        "length": "48.275998995413886", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4386386, 
+            37.5844717
+          ], 
+          [
+            -77.4386751, 
+            37.5845411
+          ], 
+          [
+            -77.4386621, 
+            37.5846121
+          ], 
+          [
+            -77.4386149, 
+            37.5846817
+          ], 
+          [
+            -77.4385481, 
+            37.5847304
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3049172904", 
+        "name": "", 
+        "to": "3049172908", 
+        "length": "33.13136398997047", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "secondary_link", 
+        "osmid": "300827309"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4383004, 
+            37.575689
+          ], 
+          [
+            -77.4376772, 
+            37.5759896
+          ], 
+          [
+            -77.4371081, 
+            37.5762642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615593", 
+        "name": "West Ladies Mile Road", 
+        "to": "49615591", 
+        "length": "123.04404701962719", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4369331, 
+            37.5784696
+          ], 
+          [
+            -77.4369614, 
+            37.5781338
+          ], 
+          [
+            -77.4369942, 
+            37.5776753
+          ], 
+          [
+            -77.4370597, 
+            37.576849
+          ], 
+          [
+            -77.4371081, 
+            37.5762642
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614748", 
+        "name": "Griffin Avenue", 
+        "to": "49615591", 
+        "length": "245.78445981584366", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4385481, 
+            37.5847304
+          ], 
+          [
+            -77.4390933, 
+            37.5847135
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617394", 
+        "name": "West Laburnum Avenue", 
+        "to": "3049172908", 
+        "length": "48.0914973767393", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "secondary", 
+        "osmid": "265148388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4365799, 
+            37.5832122
+          ], 
+          [
+            -77.4370627, 
+            37.583531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617392", 
+        "name": "North Avenue", 
+        "to": "49617390", 
+        "length": "55.39228672988842", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4357321, 
+            37.5786896
+          ], 
+          [
+            -77.4362573, 
+            37.5785934
+          ], 
+          [
+            -77.4363363, 
+            37.5785789
+          ], 
+          [
+            -77.4369331, 
+            37.5784696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614749", 
+        "name": "Westwood Avenue", 
+        "to": "49614748", 
+        "length": "108.65782942639467", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033713"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4357321, 
+            37.5786896
+          ], 
+          [
+            -77.4350043, 
+            37.5788213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614750", 
+        "name": "Westwood Avenue", 
+        "to": "49614749", 
+        "length": "65.8056369578905", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033713"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1463 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4045722, 
+            37.54657
+          ], 
+          [
+            -77.4054776, 
+            37.5470958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613089", 
+        "name": "Peter Paul Boulevard", 
+        "to": "49624385", 
+        "length": "98.97113222601878", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4045722, 
+            37.54657
+          ], 
+          [
+            -77.404494, 
+            37.5466462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865202", 
+        "name": "North 25th Street", 
+        "to": "49624385", 
+        "length": "10.926599335514721", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4055267, 
+            37.5455794
+          ], 
+          [
+            -77.4049387, 
+            37.5461897
+          ], 
+          [
+            -77.4045722, 
+            37.54657
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618900", 
+        "name": "North 25th Street", 
+        "to": "49624385", 
+        "length": "138.65488479958498", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4045722, 
+            37.54657
+          ], 
+          [
+            -77.404062, 
+            37.5462458
+          ], 
+          [
+            -77.4039555, 
+            37.546149
+          ], 
+          [
+            -77.4039064, 
+            37.5460476
+          ], 
+          [
+            -77.4038891, 
+            37.545886
+          ], 
+          [
+            -77.403914, 
+            37.5457305
+          ], 
+          [
+            -77.4040189, 
+            37.5456204
+          ], 
+          [
+            -77.4046002, 
+            37.5450106
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624385", 
+        "name": "Peter Paul Boulevard", 
+        "to": "49618902", 
+        "length": "219.86841548492407", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4063812, 
+            37.5476557
+          ], 
+          [
+            -77.4059534, 
+            37.5473826
+          ], 
+          [
+            -77.4054776, 
+            37.5470958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49624387", 
+        "name": "Peter Paul Boulevard", 
+        "to": "49613089", 
+        "length": "101.1427939641761", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4063812, 
+            37.5476557
+          ], 
+          [
+            -77.4073307, 
+            37.5466514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618898", 
+        "name": "North 23rd Street", 
+        "to": "49624387", 
+        "length": "139.60317265417257", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4063812, 
+            37.5476557
+          ], 
+          [
+            -77.4063094, 
+            37.5477339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145854287", 
+        "name": "North 23rd Street", 
+        "to": "49624387", 
+        "length": "10.758431668351397", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4046002, 
+            37.5450106
+          ], 
+          [
+            -77.4044893, 
+            37.5449357
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145854275", 
+        "name": "Y Street", 
+        "to": "49618902", 
+        "length": "12.847316880240351", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4055267, 
+            37.5455794
+          ], 
+          [
+            -77.4050457, 
+            37.5452841
+          ], 
+          [
+            -77.4046002, 
+            37.5450106
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618900", 
+        "name": "Y Street", 
+        "to": "49618902", 
+        "length": "103.33657611835476", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4046002, 
+            37.5450106
+          ], 
+          [
+            -77.4054556, 
+            37.544124
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618902", 
+        "name": "Peter Paul Boulevard", 
+        "to": "49612750", 
+        "length": "124.15831689235966", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4099564, 
+            37.5468741
+          ], 
+          [
+            -77.4095316, 
+            37.5466158
+          ], 
+          [
+            -77.4092201, 
+            37.5464264
+          ], 
+          [
+            -77.4090827, 
+            37.5463429
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612745", 
+        "name": "X Street", 
+        "to": "49612653", 
+        "length": "97.09449009339545", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4091424, 
+            37.5477307
+          ], 
+          [
+            -77.4093329, 
+            37.5475303
+          ], 
+          [
+            -77.4099564, 
+            37.5468741
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617974", 
+        "name": "North 21st Street", 
+        "to": "49612745", 
+        "length": "119.29135384591251", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034861"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081592, 
+            37.5457722
+          ], 
+          [
+            -77.4073307, 
+            37.5466514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618898", 
+        "name": "North 23rd Street", 
+        "to": "49612746", 
+        "length": "122.07010177641499", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072748, 
+            37.5452241
+          ], 
+          [
+            -77.4075566, 
+            37.5453987
+          ], 
+          [
+            -77.4077207, 
+            37.5455004
+          ], 
+          [
+            -77.4081592, 
+            37.5457722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612747", 
+        "name": "X Street", 
+        "to": "49612746", 
+        "length": "98.99228013153743", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081592, 
+            37.5457722
+          ], 
+          [
+            -77.4089792, 
+            37.5448881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612500", 
+        "name": "North 23rd Street", 
+        "to": "49612746", 
+        "length": "122.06207714486503", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081592, 
+            37.5457722
+          ], 
+          [
+            -77.4086351, 
+            37.5460663
+          ], 
+          [
+            -77.4086901, 
+            37.5461003
+          ], 
+          [
+            -77.4090827, 
+            37.5463429
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612746", 
+        "name": "X Street", 
+        "to": "49612653", 
+        "length": "103.25663917006148", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4064247, 
+            37.5461125
+          ], 
+          [
+            -77.4065409, 
+            37.5459911
+          ], 
+          [
+            -77.4072748, 
+            37.5452241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613088", 
+        "name": "North 24th Street", 
+        "to": "49612747", 
+        "length": "124.03365551639476", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033245"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4063934, 
+            37.5446773
+          ], 
+          [
+            -77.4068105, 
+            37.544936
+          ], 
+          [
+            -77.4072748, 
+            37.5452241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612748", 
+        "name": "X Street", 
+        "to": "49612747", 
+        "length": "98.6952528049191", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072748, 
+            37.5452241
+          ], 
+          [
+            -77.4081056, 
+            37.5443554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612502", 
+        "name": "North 24th Street", 
+        "to": "49612747", 
+        "length": "121.25982427349814", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033245"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4063934, 
+            37.5446773
+          ], 
+          [
+            -77.4072207, 
+            37.5438157
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612504", 
+        "name": "North 25th Street", 
+        "to": "49612748", 
+        "length": "120.4446164417126", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4063934, 
+            37.5446773
+          ], 
+          [
+            -77.4055267, 
+            37.5455794
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618900", 
+        "name": "North 25th Street", 
+        "to": "49612748", 
+        "length": "126.13300853257897", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4054556, 
+            37.544124
+          ], 
+          [
+            -77.4059016, 
+            37.5443854
+          ], 
+          [
+            -77.4063934, 
+            37.5446773
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612750", 
+        "name": "X Street", 
+        "to": "49612748", 
+        "length": "103.08917910301071", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4054556, 
+            37.544124
+          ], 
+          [
+            -77.4062999, 
+            37.5432542
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612750", 
+        "name": "Peter Paul Boulevard", 
+        "to": "49612505", 
+        "length": "122.08046792129612", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4054556, 
+            37.544124
+          ], 
+          [
+            -77.4053405, 
+            37.5440563
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865199", 
+        "name": "X Street", 
+        "to": "49612750", 
+        "length": "12.638682218952235", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4053943, 
+            37.5471809
+          ], 
+          [
+            -77.4058645, 
+            37.5474659
+          ], 
+          [
+            -77.4063094, 
+            37.5477339
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865204", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145854287", 
+        "length": "101.46695790242961", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "204590107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4107167, 
+            37.5445936
+          ], 
+          [
+            -77.4102726, 
+            37.5443309
+          ], 
+          [
+            -77.4098381, 
+            37.544074
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612650", 
+        "name": "V Street", 
+        "to": "49613457", 
+        "length": "96.66273223558551", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039862"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4098381, 
+            37.544074
+          ], 
+          [
+            -77.4089792, 
+            37.5448881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612500", 
+        "name": "North 23rd Street", 
+        "to": "49613457", 
+        "length": "118.05328058985445", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4064247, 
+            37.5461125
+          ], 
+          [
+            -77.4068788, 
+            37.5463826
+          ], 
+          [
+            -77.4073307, 
+            37.5466514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613088", 
+        "name": "Y Street", 
+        "to": "49618898", 
+        "length": "99.88174865016484", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4082625, 
+            37.5472149
+          ], 
+          [
+            -77.4077832, 
+            37.546925
+          ], 
+          [
+            -77.4073307, 
+            37.5466514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612655", 
+        "name": "Y Street", 
+        "to": "49618898", 
+        "length": "103.34653338141052", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4044893, 
+            37.5449357
+          ], 
+          [
+            -77.4038241, 
+            37.5456423
+          ], 
+          [
+            -77.4037498, 
+            37.5458043
+          ], 
+          [
+            -77.4037312, 
+            37.5458985
+          ], 
+          [
+            -77.4037832, 
+            37.5461371
+          ], 
+          [
+            -77.4038647, 
+            37.5462518
+          ], 
+          [
+            -77.4040321, 
+            37.5463785
+          ], 
+          [
+            -77.404494, 
+            37.5466462
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145854275", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145865202", 
+        "length": "240.28951737376946", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "204590107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4053405, 
+            37.5440563
+          ], 
+          [
+            -77.4049718, 
+            37.5444438
+          ], 
+          [
+            -77.4044893, 
+            37.5449357
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865199", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145854275", 
+        "length": "123.30067580025731", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "204590107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4099138, 
+            37.545458
+          ], 
+          [
+            -77.4094563, 
+            37.545179
+          ], 
+          [
+            -77.4089792, 
+            37.5448881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612498", 
+        "name": "W Street", 
+        "to": "49612500", 
+        "length": "103.97694927868268", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081056, 
+            37.5443554
+          ], 
+          [
+            -77.4085509, 
+            37.544627
+          ], 
+          [
+            -77.4089792, 
+            37.5448881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612502", 
+        "name": "W Street", 
+        "to": "49612500", 
+        "length": "97.19074167955176", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072207, 
+            37.5438157
+          ], 
+          [
+            -77.4076447, 
+            37.5440743
+          ], 
+          [
+            -77.4081056, 
+            37.5443554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612504", 
+        "name": "W Street", 
+        "to": "49612502", 
+        "length": "98.45577404708072", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4062999, 
+            37.5432542
+          ], 
+          [
+            -77.4067343, 
+            37.5435191
+          ], 
+          [
+            -77.4072207, 
+            37.5438157
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612505", 
+        "name": "W Street", 
+        "to": "49612504", 
+        "length": "102.44408799820003", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072207, 
+            37.5438157
+          ], 
+          [
+            -77.4080118, 
+            37.5429545
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628893", 
+        "name": "North 25th Street", 
+        "to": "49612504", 
+        "length": "118.50251945950367", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4062999, 
+            37.5432542
+          ], 
+          [
+            -77.4067066, 
+            37.5427922
+          ], 
+          [
+            -77.4067962, 
+            37.5426717
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612505", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145854266", 
+        "length": "78.22478937893042", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037338"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4062999, 
+            37.5432542
+          ], 
+          [
+            -77.4061803, 
+            37.5431812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865198", 
+        "name": "W Street", 
+        "to": "49612505", 
+        "length": "13.31083710069679", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033049"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4061803, 
+            37.5431812
+          ], 
+          [
+            -77.4059523, 
+            37.543416
+          ], 
+          [
+            -77.4053405, 
+            37.5440563
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865198", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145865199", 
+        "length": "122.3082083188637", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "204590107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4067962, 
+            37.5426717
+          ], 
+          [
+            -77.4073809, 
+            37.5427489
+          ], 
+          [
+            -77.4074614, 
+            37.5427644
+          ], 
+          [
+            -77.4077433, 
+            37.5428188
+          ], 
+          [
+            -77.4080118, 
+            37.5429545
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145854266", 
+        "name": "V Street", 
+        "to": "49628893", 
+        "length": "113.24855181830404", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039862"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4054776, 
+            37.5470958
+          ], 
+          [
+            -77.4055801, 
+            37.5469894
+          ], 
+          [
+            -77.4058326, 
+            37.5467272
+          ], 
+          [
+            -77.4064247, 
+            37.5461125
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613089", 
+        "name": "North 24th Street", 
+        "to": "49613088", 
+        "length": "137.61314561155345", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033245"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4055267, 
+            37.5455794
+          ], 
+          [
+            -77.4059498, 
+            37.5458306
+          ], 
+          [
+            -77.4064247, 
+            37.5461125
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618900", 
+        "name": "Y Street", 
+        "to": "49613088", 
+        "length": "98.93077202882853", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4054776, 
+            37.5470958
+          ], 
+          [
+            -77.4053943, 
+            37.5471809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865204", 
+        "name": "North 24th Street", 
+        "to": "49613089", 
+        "length": "11.98144689142185", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033245"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4099138, 
+            37.545458
+          ], 
+          [
+            -77.4100551, 
+            37.5453058
+          ], 
+          [
+            -77.4106462, 
+            37.5446695
+          ], 
+          [
+            -77.4107167, 
+            37.5445936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612498", 
+        "name": "North 22nd Street", 
+        "to": "49612650", 
+        "length": "119.40364046006158", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033095"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4067962, 
+            37.5426717
+          ], 
+          [
+            -77.4065986, 
+            37.5427439
+          ], 
+          [
+            -77.4061803, 
+            37.5431812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145854266", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145865198", 
+        "length": "80.23433369749203", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "204590107"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4090827, 
+            37.5463429
+          ], 
+          [
+            -77.4099138, 
+            37.545458
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612498", 
+        "name": "North 22nd Street", 
+        "to": "49612653", 
+        "length": "122.71556418412169", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033095"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4090827, 
+            37.5463429
+          ], 
+          [
+            -77.4082625, 
+            37.5472149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612655", 
+        "name": "North 22nd Street", 
+        "to": "49612653", 
+        "length": "120.99017960451901", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033095"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4082625, 
+            37.5472149
+          ], 
+          [
+            -77.4091424, 
+            37.5477307
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617974", 
+        "name": "Y Street", 
+        "to": "49612655", 
+        "length": "96.50016043131993", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035232"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.404494, 
+            37.5466462
+          ], 
+          [
+            -77.4049012, 
+            37.5468821
+          ], 
+          [
+            -77.4053943, 
+            37.5471809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145865202", 
+        "name": "Peter Paul Boulevard", 
+        "to": "2145865204", 
+        "length": "99.20459384984301", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "204590107"
+      }
+    }
+  ]
+}

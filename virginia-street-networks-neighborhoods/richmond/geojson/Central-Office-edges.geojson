@@ -1,0 +1,2477 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362284, 
+            37.5354642
+          ], 
+          [
+            -77.4354483, 
+            37.5350414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "452657665", 
+        "length": "83.3402422358342", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612012", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "71034965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362284, 
+            37.5354642
+          ], 
+          [
+            -77.4370419, 
+            37.5359555
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49616781", 
+        "length": "90.18997274391627", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "452657665", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "71034965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4382071, 
+            37.5377267
+          ], 
+          [
+            -77.4382672, 
+            37.5376622
+          ], 
+          [
+            -77.4387753, 
+            37.5370815
+          ], 
+          [
+            -77.4387978, 
+            37.5370558
+          ], 
+          [
+            -77.4388481, 
+            37.5369982
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "South 8th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "3088379266", 
+        "length": "98.80520307806788", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2142603328", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "[6036833, 45088998]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4388481, 
+            37.5369982
+          ], 
+          [
+            -77.4389548, 
+            37.537062
+          ], 
+          [
+            -77.4392032, 
+            37.5371816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "3088432690", 
+        "length": "37.41712378027742", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088379266", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "275614119"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4380498, 
+            37.5365432
+          ], 
+          [
+            -77.4384297, 
+            37.5367597
+          ], 
+          [
+            -77.4386692, 
+            37.5368962
+          ], 
+          [
+            -77.4387757, 
+            37.5369569
+          ], 
+          [
+            -77.4388481, 
+            37.5369982
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "3088379266", 
+        "length": "86.7095381603342", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088432699", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316226"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4388481, 
+            37.5369982
+          ], 
+          [
+            -77.4388616, 
+            37.5369463
+          ], 
+          [
+            -77.4388539, 
+            37.536914
+          ], 
+          [
+            -77.4388339, 
+            37.5368779
+          ], 
+          [
+            -77.4387892, 
+            37.5368456
+          ], 
+          [
+            -77.4385373, 
+            37.5367081
+          ], 
+          [
+            -77.4385119, 
+            37.5366819
+          ], 
+          [
+            -77.4384903, 
+            37.5366489
+          ], 
+          [
+            -77.4384794, 
+            37.5366182
+          ], 
+          [
+            -77.4384742, 
+            37.5366037
+          ], 
+          [
+            -77.4384734, 
+            37.5365518
+          ], 
+          [
+            -77.4385181, 
+            37.5364357
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 8th Street Connector", 
+        "service": "", 
+        "access": "yes", 
+        "to": "3088379278", 
+        "length": "78.55210876520825", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088379266", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "275614120"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4386238, 
+            37.5355472
+          ], 
+          [
+            -77.4381653, 
+            37.5352892
+          ], 
+          [
+            -77.4380757, 
+            37.5352387
+          ], 
+          [
+            -77.4378431, 
+            37.5351078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49616771", 
+        "length": "84.43894943833313", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966237544", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4378431, 
+            37.5351078
+          ], 
+          [
+            -77.4369815, 
+            37.5346111
+          ], 
+          [
+            -77.436641, 
+            37.5344117
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "846282260", 
+        "length": "131.28698089271205", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616771", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4418493, 
+            37.5351715
+          ], 
+          [
+            -77.4417957, 
+            37.5351144
+          ], 
+          [
+            -77.4417514, 
+            37.5350819
+          ], 
+          [
+            -77.4413437, 
+            37.5349883
+          ], 
+          [
+            -77.4411492, 
+            37.5348684
+          ], 
+          [
+            -77.4406805, 
+            37.5345795
+          ], 
+          [
+            -77.4405634, 
+            37.5345073
+          ], 
+          [
+            -77.440067, 
+            37.5342013
+          ], 
+          [
+            -77.4398659, 
+            37.5340901
+          ], 
+          [
+            -77.4398156, 
+            37.5340793
+          ], 
+          [
+            -77.4396888, 
+            37.5340519
+          ], 
+          [
+            -77.4390319, 
+            37.5340238
+          ], 
+          [
+            -77.4388868, 
+            37.5340491
+          ], 
+          [
+            -77.4387771, 
+            37.5340996
+          ], 
+          [
+            -77.4378431, 
+            37.5351078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "['South 10th Street', 'South 7th Street']", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49616771", 
+        "length": "452.5759162095553", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2290250741", 
+        "ref": "", 
+        "highway": "['residential', 'tertiary']", 
+        "osmid": "[219895137, 6038562]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4370419, 
+            37.5359555
+          ], 
+          [
+            -77.4373221, 
+            37.5356575
+          ], 
+          [
+            -77.4378431, 
+            37.5351078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 10th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49616771", 
+        "length": "117.82876719552092", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616781", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038562"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4400615, 
+            37.5371896
+          ], 
+          [
+            -77.439865, 
+            37.5374169
+          ], 
+          [
+            -77.4398502, 
+            37.5374341
+          ], 
+          [
+            -77.4398044, 
+            37.5374871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "3088432681", 
+        "length": "40.11382185295089", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966233988", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "83606793"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4403355, 
+            37.5368937
+          ], 
+          [
+            -77.4400835, 
+            37.537164
+          ], 
+          [
+            -77.4400615, 
+            37.5371896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "1966233988", 
+        "length": "40.83364890932373", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966233975", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[83606793, 149509962]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4359856, 
+            37.5348792
+          ], 
+          [
+            -77.4362676, 
+            37.5349218
+          ], 
+          [
+            -77.43652, 
+            37.5349789
+          ], 
+          [
+            -77.43679, 
+            37.5350659
+          ], 
+          [
+            -77.4373196, 
+            37.5353173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "", 
+        "to": "452657673", 
+        "length": "128.6155273535398", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "452657678", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38335388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4370419, 
+            37.5359555
+          ], 
+          [
+            -77.4379019, 
+            37.536457
+          ], 
+          [
+            -77.4380498, 
+            37.5365432
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "3088432699", 
+        "length": "110.34204346215172", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616781", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "71034965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4370419, 
+            37.5359555
+          ], 
+          [
+            -77.4362394, 
+            37.5368091
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 10th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49616781", 
+        "length": "118.42235715958692", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611343", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034382"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354483, 
+            37.5350414
+          ], 
+          [
+            -77.4355916, 
+            37.5349457
+          ], 
+          [
+            -77.435683, 
+            37.5349087
+          ], 
+          [
+            -77.4357719, 
+            37.5348834
+          ], 
+          [
+            -77.4358871, 
+            37.5348748
+          ], 
+          [
+            -77.4359856, 
+            37.5348792
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "", 
+        "to": "452657678", 
+        "length": "52.81324414175296", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612012", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38335388"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4403494, 
+            37.5365686
+          ], 
+          [
+            -77.4402694, 
+            37.5365205
+          ], 
+          [
+            -77.4396681, 
+            37.5361618
+          ], 
+          [
+            -77.4396328, 
+            37.5361397
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "1966235040", 
+        "length": "79.18695295568257", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594565137", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4405514, 
+            37.5366903
+          ], 
+          [
+            -77.4404916, 
+            37.5366542
+          ], 
+          [
+            -77.4403494, 
+            37.5365686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "2594565137", 
+        "length": "22.37504337387699", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609794", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4405062, 
+            37.5367341
+          ], 
+          [
+            -77.4404488, 
+            37.5366969
+          ], 
+          [
+            -77.4403494, 
+            37.5365686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "", 
+        "to": "2594565137", 
+        "length": "23.286489485429623", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088353122", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "304306223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.436641, 
+            37.5344117
+          ], 
+          [
+            -77.4362971, 
+            37.534171
+          ], 
+          [
+            -77.4362609, 
+            37.5341649
+          ], 
+          [
+            -77.4362278, 
+            37.5341674
+          ], 
+          [
+            -77.4361974, 
+            37.5341762
+          ], 
+          [
+            -77.4361689, 
+            37.5341931
+          ], 
+          [
+            -77.4359992, 
+            37.5343906
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "846282262", 
+        "length": "79.22924935473218", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "846282260", 
+        "ref": "", 
+        "highway": "tertiary_link", 
+        "osmid": "253540729"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.436641, 
+            37.5344117
+          ], 
+          [
+            -77.4364524, 
+            37.5343136
+          ], 
+          [
+            -77.4363671, 
+            37.5342928
+          ], 
+          [
+            -77.4362787, 
+            37.5342843
+          ], 
+          [
+            -77.436187, 
+            37.5342926
+          ], 
+          [
+            -77.4361087, 
+            37.5343137
+          ], 
+          [
+            -77.4360616, 
+            37.5343413
+          ], 
+          [
+            -77.4359992, 
+            37.5343906
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "846282262", 
+        "length": "63.98848587185353", 
+        "key": "1", 
+        "oneway": "True", 
+        "from": "846282260", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "71034968"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4396328, 
+            37.5361397
+          ], 
+          [
+            -77.4395552, 
+            37.536032
+          ], 
+          [
+            -77.4393877, 
+            37.5359311
+          ], 
+          [
+            -77.4393626, 
+            37.5359135
+          ], 
+          [
+            -77.4393432, 
+            37.5358901
+          ], 
+          [
+            -77.4393295, 
+            37.5358525
+          ], 
+          [
+            -77.4393266, 
+            37.5358063
+          ], 
+          [
+            -77.4393345, 
+            37.5357636
+          ], 
+          [
+            -77.4393532, 
+            37.5357146
+          ], 
+          [
+            -77.439382, 
+            37.5356747
+          ], 
+          [
+            -77.4394675, 
+            37.5355727
+          ], 
+          [
+            -77.4395494, 
+            37.5353561
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "", 
+        "to": "1966235038", 
+        "length": "102.29906307509172", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966235040", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "185937481"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4391098, 
+            37.5358276
+          ], 
+          [
+            -77.4391449, 
+            37.53579
+          ], 
+          [
+            -77.4395494, 
+            37.5353561
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "1966235038", 
+        "length": "65.21962002265471", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450572543", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "374729954"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4396328, 
+            37.5361397
+          ], 
+          [
+            -77.4392085, 
+            37.5358868
+          ], 
+          [
+            -77.4391962, 
+            37.5358794
+          ], 
+          [
+            -77.4391098, 
+            37.5358276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "450572543", 
+        "length": "57.73088385065041", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966235040", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363876, 
+            37.5396289
+          ], 
+          [
+            -77.4368044, 
+            37.5391927
+          ], 
+          [
+            -77.4372104, 
+            37.5387679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "North 8th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49615908", 
+        "length": "120.15440811770364", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619618", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "132598248"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363876, 
+            37.5396289
+          ], 
+          [
+            -77.4354882, 
+            37.5390894
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "East Franklin Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49619620", 
+        "length": "99.46299145896084", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619618", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "132598155"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354882, 
+            37.5390894
+          ], 
+          [
+            -77.4358292, 
+            37.5387185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49619620", 
+        "length": "51.05259676123793", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609108", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "294874970"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4389172, 
+            37.5384284
+          ], 
+          [
+            -77.4385263, 
+            37.5388415
+          ], 
+          [
+            -77.4380964, 
+            37.5392978
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49615910", 
+        "length": "120.79485366603518", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611338", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4372104, 
+            37.5387679
+          ], 
+          [
+            -77.4374951, 
+            37.5389381
+          ], 
+          [
+            -77.4380964, 
+            37.5392978
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Main Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49615910", 
+        "length": "97.87666096408253", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615908", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "47968353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4392032, 
+            37.5371816
+          ], 
+          [
+            -77.439457, 
+            37.5372825
+          ], 
+          [
+            -77.4395603, 
+            37.5373439
+          ], 
+          [
+            -77.4396993, 
+            37.5374253
+          ], 
+          [
+            -77.4397371, 
+            37.5374476
+          ], 
+          [
+            -77.4398044, 
+            37.5374871
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "3088432681", 
+        "length": "63.206931522259765", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088432690", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316224"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4398044, 
+            37.5374871
+          ], 
+          [
+            -77.4397358, 
+            37.5375666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49609798", 
+        "length": "10.714297810538412", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088432681", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316227"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4392032, 
+            37.5371816
+          ], 
+          [
+            -77.4393178, 
+            37.537277
+          ], 
+          [
+            -77.4394094, 
+            37.537351
+          ], 
+          [
+            -77.4394924, 
+            37.5374071
+          ], 
+          [
+            -77.4396271, 
+            37.5375019
+          ], 
+          [
+            -77.4396629, 
+            37.5375233
+          ], 
+          [
+            -77.4397358, 
+            37.5375666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "East Canal Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49609798", 
+        "length": "63.67858256887648", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088432690", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "304316223"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4389309, 
+            37.5357208
+          ], 
+          [
+            -77.4388656, 
+            37.5357888
+          ], 
+          [
+            -77.4384417, 
+            37.5362302
+          ], 
+          [
+            -77.4383558, 
+            37.5363107
+          ], 
+          [
+            -77.4381957, 
+            37.5364292
+          ], 
+          [
+            -77.4380498, 
+            37.5365432
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "3088432699", 
+        "length": "120.32779638107445", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614307", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "38231001"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4380498, 
+            37.5365432
+          ], 
+          [
+            -77.4379802, 
+            37.5366007
+          ], 
+          [
+            -77.4373572, 
+            37.5371214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "1966232564", 
+        "length": "88.6985768263193", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088432699", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "38231001"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4380498, 
+            37.5365432
+          ], 
+          [
+            -77.43825, 
+            37.5365328
+          ], 
+          [
+            -77.4383478, 
+            37.5365151
+          ], 
+          [
+            -77.4384488, 
+            37.5364791
+          ], 
+          [
+            -77.4385181, 
+            37.5364357
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "3088379278", 
+        "length": "44.097921830715116", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088432699", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "38230996"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4372874, 
+            37.5371922
+          ], 
+          [
+            -77.4382071, 
+            37.5377267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Basin Bank St", 
+        "service": "alley", 
+        "access": "yes", 
+        "to": "2142603327", 
+        "length": "100.56851629608623", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2142603328", 
+        "ref": "", 
+        "highway": "unclassified", 
+        "osmid": "204250403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4372874, 
+            37.5371922
+          ], 
+          [
+            -77.4373572, 
+            37.5371214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "2142603327", 
+        "length": "9.995581179272913", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966232564", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "374729953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4372874, 
+            37.5371922
+          ], 
+          [
+            -77.4371205, 
+            37.5373593
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49611342", 
+        "length": "23.709067533935208", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2142603327", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "374729953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4382071, 
+            37.5377267
+          ], 
+          [
+            -77.4380288, 
+            37.5378997
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "South 8th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "2142603328", 
+        "length": "24.850598829772952", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611340", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "6036833"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4405514, 
+            37.5366903
+          ], 
+          [
+            -77.4405062, 
+            37.5367341
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "3088353122", 
+        "length": "6.29493847488396", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609794", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "149509961"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4397358, 
+            37.5375666
+          ], 
+          [
+            -77.4396605, 
+            37.5376459
+          ], 
+          [
+            -77.4389172, 
+            37.5384284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49611338", 
+        "length": "120.0028197110812", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609798", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6039158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4389172, 
+            37.5384284
+          ], 
+          [
+            -77.4380288, 
+            37.5378997
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49611340", 
+        "length": "97.96628588718426", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611338", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "432532502"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4380288, 
+            37.5378997
+          ], 
+          [
+            -77.4372104, 
+            37.5387679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South 8th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49611340", 
+        "length": "120.56142742499401", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615908", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "6036831"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4380288, 
+            37.5378997
+          ], 
+          [
+            -77.4371205, 
+            37.5373593
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49611342", 
+        "length": "100.151640216144", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611340", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "432532502"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354154, 
+            37.5376855
+          ], 
+          [
+            -77.4363075, 
+            37.5382213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Main Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49614301", 
+        "length": "98.70245274348787", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49615906", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "115950647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354154, 
+            37.5376855
+          ], 
+          [
+            -77.4338215, 
+            37.5367282
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Main Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49615906", 
+        "length": "176.350803936316", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612006", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "115950647"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4354154, 
+            37.5376855
+          ], 
+          [
+            -77.4362394, 
+            37.5368091
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 10th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49615906", 
+        "length": "121.58838354412836", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611343", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038563"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4371205, 
+            37.5373593
+          ], 
+          [
+            -77.4369188, 
+            37.5372087
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "East Cary Street", 
+        "service": "", 
+        "access": "", 
+        "to": "1966232561", 
+        "length": "24.434609078443007", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611342", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "47968418"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4371205, 
+            37.5373593
+          ], 
+          [
+            -77.4363075, 
+            37.5382213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "S 9th St", 
+        "service": "", 
+        "access": "", 
+        "to": "49614301", 
+        "length": "119.72425383868575", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611342", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "47968416"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362394, 
+            37.5368091
+          ], 
+          [
+            -77.4346462, 
+            37.5358721
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "East Cary Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49611345", 
+        "length": "174.94851142184473", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611343", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "47968418"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4362394, 
+            37.5368091
+          ], 
+          [
+            -77.4369188, 
+            37.5372087
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "East Cary Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49611343", 
+        "length": "74.60601801026758", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966232561", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "47968418"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4346462, 
+            37.5358721
+          ], 
+          [
+            -77.435087, 
+            37.5354149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 12th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49611345", 
+        "length": "64.01186989647422", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "846282191", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "278387055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4346462, 
+            37.5358721
+          ], 
+          [
+            -77.4342759, 
+            37.5362565
+          ], 
+          [
+            -77.4338215, 
+            37.5367282
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 12th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49612006", 
+        "length": "119.82383762626714", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611345", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032893"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4393604, 
+            37.5352598
+          ], 
+          [
+            -77.4390923, 
+            37.5353869
+          ], 
+          [
+            -77.4390255, 
+            37.5354501
+          ], 
+          [
+            -77.4389881, 
+            37.5354809
+          ], 
+          [
+            -77.4389465, 
+            37.5355071
+          ], 
+          [
+            -77.4389076, 
+            37.5355265
+          ], 
+          [
+            -77.4388631, 
+            37.535543
+          ], 
+          [
+            -77.438825, 
+            37.5355504
+          ], 
+          [
+            -77.4387783, 
+            37.535555
+          ], 
+          [
+            -77.4387087, 
+            37.5355529
+          ], 
+          [
+            -77.4386238, 
+            37.5355472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "", 
+        "to": "1966237544", 
+        "length": "75.81764645028521", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966237539", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "185937826"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4393604, 
+            37.5352598
+          ], 
+          [
+            -77.438987, 
+            37.5356606
+          ], 
+          [
+            -77.4389664, 
+            37.5356827
+          ], 
+          [
+            -77.4389309, 
+            37.5357208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49614307", 
+        "length": "63.750979726041884", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966237539", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "38231001"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4385181, 
+            37.5364357
+          ], 
+          [
+            -77.4386352, 
+            37.5363178
+          ], 
+          [
+            -77.4390238, 
+            37.5359164
+          ], 
+          [
+            -77.4390459, 
+            37.5358936
+          ], 
+          [
+            -77.4391098, 
+            37.5358276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "4", 
+        "name": "South 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "450572543", 
+        "length": "85.43076996617175", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088379278", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "374729954"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4372104, 
+            37.5387679
+          ], 
+          [
+            -77.4363075, 
+            37.5382213
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "East Main Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49615908", 
+        "length": "100.18731942127827", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614301", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "38229538"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.435087, 
+            37.5354149
+          ], 
+          [
+            -77.4354483, 
+            37.5350414
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South 12th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "846282191", 
+        "length": "52.3574930503849", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612012", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "278387055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4363075, 
+            37.5382213
+          ], 
+          [
+            -77.4358292, 
+            37.5387185
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North 9th Street", 
+        "service": "", 
+        "access": "", 
+        "to": "49609108", 
+        "length": "69.554218085591", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614301", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6035531"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4405062, 
+            37.5367341
+          ], 
+          [
+            -77.4403993, 
+            37.5368352
+          ], 
+          [
+            -77.4403355, 
+            37.5368937
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "4", 
+        "name": "South 7th Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "1966233975", 
+        "length": "23.276999446017975", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3088353122", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[304306224, 149509962]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4389309, 
+            37.5357208
+          ], 
+          [
+            -77.4388335, 
+            37.5356657
+          ], 
+          [
+            -77.4386238, 
+            37.5355472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "1966237544", 
+        "length": "33.263935034039164", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614307", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4389309, 
+            37.5357208
+          ], 
+          [
+            -77.4391098, 
+            37.5358276
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "East Byrd Street", 
+        "service": "", 
+        "access": "yes", 
+        "to": "49614307", 
+        "length": "19.750512989358267", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450572543", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253537590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4373572, 
+            37.5371214
+          ], 
+          [
+            -77.4372475, 
+            37.5371274
+          ], 
+          [
+            -77.437143, 
+            37.5371792
+          ], 
+          [
+            -77.4370459, 
+            37.5372016
+          ], 
+          [
+            -77.4369188, 
+            37.5372087
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "service": "", 
+        "access": "", 
+        "to": "1966232561", 
+        "length": "40.724378832184385", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1966232564", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "185937325"
+      }
+    }
+  ]
+}

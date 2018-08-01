@@ -1,0 +1,3253 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858932, 
+            37.4829823
+          ], 
+          [
+            -77.4856065, 
+            37.4828089
+          ], 
+          [
+            -77.4849393, 
+            37.4825435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49629730", 
+        "length": "97.68972889955191", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629732", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858932, 
+            37.4829823
+          ], 
+          [
+            -77.4864022, 
+            37.4820945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Tignor Road", 
+        "to": "49628235", 
+        "length": "108.4859836447452", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629732", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858932, 
+            37.4829823
+          ], 
+          [
+            -77.4868769, 
+            37.4837557
+          ], 
+          [
+            -77.4875846, 
+            37.484186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49627812", 
+        "length": "200.91148262753603", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629732", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4815421, 
+            37.4883775
+          ], 
+          [
+            -77.4827098, 
+            37.4889903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warwick Road", 
+        "to": "598265387", 
+        "length": "123.556224921995", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598265380", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843113"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5021953, 
+            37.4833753
+          ], 
+          [
+            -77.5016952, 
+            37.4836596
+          ], 
+          [
+            -77.5011377, 
+            37.4839941
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "49618165", 
+        "length": "115.98538616517519", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503876", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917593"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902915, 
+            37.4849821
+          ], 
+          [
+            -77.490509, 
+            37.4850425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49626096", 
+        "length": "20.338023048875677", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626104", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902915, 
+            37.4849821
+          ], 
+          [
+            -77.489749, 
+            37.4857901
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Powell Road", 
+        "to": "49614385", 
+        "length": "101.82978769780176", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626096", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4902915, 
+            37.4849821
+          ], 
+          [
+            -77.489164, 
+            37.4846718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49626096", 
+        "length": "105.32791863587416", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629736", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4990301, 
+            37.4835078
+          ], 
+          [
+            -77.4993564, 
+            37.4839078
+          ], 
+          [
+            -77.4997091, 
+            37.4841101
+          ], 
+          [
+            -77.4999954, 
+            37.4842099
+          ], 
+          [
+            -77.500177, 
+            37.4843817
+          ], 
+          [
+            -77.5003114, 
+            37.4844995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Berrywood Road", 
+        "to": "2393503878", 
+        "length": "161.6232867066355", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612283", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039342"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5011377, 
+            37.4839941
+          ], 
+          [
+            -77.500953, 
+            37.4841049
+          ], 
+          [
+            -77.5003114, 
+            37.4844995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503878", 
+        "length": "92.08100561344169", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618165", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917593"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5003114, 
+            37.4844995
+          ], 
+          [
+            -77.5002262, 
+            37.4845519
+          ], 
+          [
+            -77.4991826, 
+            37.4851654
+          ], 
+          [
+            -77.4991438, 
+            37.4851882
+          ], 
+          [
+            -77.498236, 
+            37.4857138
+          ], 
+          [
+            -77.497836, 
+            37.4859454
+          ], 
+          [
+            -77.4974945, 
+            37.4861433
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "49619759", 
+        "length": "308.612416045644", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503878", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917593"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4920241, 
+            37.481158
+          ], 
+          [
+            -77.4918203, 
+            37.482069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Brinkwood Drive", 
+        "to": "49619866", 
+        "length": "102.91140047016941", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614956", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038834"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4920241, 
+            37.481158
+          ], 
+          [
+            -77.4955539, 
+            37.4817285
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49614956", 
+        "length": "317.94931514503287", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614958", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948714, 
+            37.4833322
+          ], 
+          [
+            -77.4961333, 
+            37.4836526
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Heywood Road", 
+        "to": "49616911", 
+        "length": "116.93925225122042", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616912", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034439"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948714, 
+            37.4833322
+          ], 
+          [
+            -77.4943864, 
+            37.4841423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49616911", 
+        "length": "99.7557119745497", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948714, 
+            37.4833322
+          ], 
+          [
+            -77.495157, 
+            37.4827671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49616911", 
+        "length": "67.72031264671821", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619871", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4961333, 
+            37.4836526
+          ], 
+          [
+            -77.4978499, 
+            37.4841634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Heywood Road", 
+        "to": "49616912", 
+        "length": "161.8105717359653", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034439"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4990301, 
+            37.4835078
+          ], 
+          [
+            -77.4988468, 
+            37.4833995
+          ], 
+          [
+            -77.4972863, 
+            37.482941
+          ], 
+          [
+            -77.4969702, 
+            37.4829331
+          ], 
+          [
+            -77.4965935, 
+            37.4830274
+          ], 
+          [
+            -77.4963579, 
+            37.4832271
+          ], 
+          [
+            -77.4961333, 
+            37.4836526
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Berrywood Road", 
+        "to": "49616912", 
+        "length": "311.5546932677279", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612283", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039342"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4900048, 
+            37.4817581
+          ], 
+          [
+            -77.4918203, 
+            37.482069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619864", 
+        "length": "163.9304022412011", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619866", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4913556, 
+            37.4832932
+          ], 
+          [
+            -77.4895672, 
+            37.4827331
+          ], 
+          [
+            -77.4900048, 
+            37.4817581
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Limestone Drive", 
+        "to": "49619864", 
+        "length": "284.81463435033214", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624594", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037457"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4900048, 
+            37.4817581
+          ], 
+          [
+            -77.4888055, 
+            37.4815582
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619864", 
+        "length": "108.16416435008387", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619863", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4918203, 
+            37.482069
+          ], 
+          [
+            -77.4917634, 
+            37.4824117
+          ], 
+          [
+            -77.4913556, 
+            37.4832932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Powell Road", 
+        "to": "49624594", 
+        "length": "142.89052290719673", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619866", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4913556, 
+            37.4832932
+          ], 
+          [
+            -77.4909005, 
+            37.4841548
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Powell Road", 
+        "to": "49624594", 
+        "length": "103.91009980848308", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626099", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4913556, 
+            37.4832932
+          ], 
+          [
+            -77.4943864, 
+            37.4841423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Limestone Drive", 
+        "to": "49624594", 
+        "length": "283.683425037609", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037457"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4849393, 
+            37.4825435
+          ], 
+          [
+            -77.4851077, 
+            37.4820526
+          ], 
+          [
+            -77.4853623, 
+            37.4811942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Richdale Road", 
+        "to": "49619859", 
+        "length": "154.67339327386748", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629730", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039930"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4853623, 
+            37.4811942
+          ], 
+          [
+            -77.4866916, 
+            37.4814002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619859", 
+        "length": "119.54540566439617", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619860", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4837704, 
+            37.4808495
+          ], 
+          [
+            -77.4847331, 
+            37.4811085
+          ], 
+          [
+            -77.4853623, 
+            37.4811942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619859", 
+        "length": "146.07020110266154", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145785717", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035604"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4943864, 
+            37.4841423
+          ], 
+          [
+            -77.4940219, 
+            37.4850121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49624596", 
+        "length": "101.95329398492461", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626183", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4943864, 
+            37.4841423
+          ], 
+          [
+            -77.4966268, 
+            37.4848445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Limestone Drive", 
+        "to": "49612279", 
+        "length": "212.60368846251347", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624596", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037457"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940448, 
+            37.4824609
+          ], 
+          [
+            -77.4938911, 
+            37.4828895
+          ], 
+          [
+            -77.4937699, 
+            37.4831234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Willoughby Court", 
+        "to": "2145766037", 
+        "length": "77.69349565710755", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619870", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040123"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4867885, 
+            37.4811069
+          ], 
+          [
+            -77.4866916, 
+            37.4814002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Tignor Road", 
+        "to": "49619862", 
+        "length": "33.72518121859121", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619860", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4888055, 
+            37.4815582
+          ], 
+          [
+            -77.4875647, 
+            37.4813307
+          ], 
+          [
+            -77.4867885, 
+            37.4811069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619862", 
+        "length": "185.29524880348657", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619863", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4888055, 
+            37.4815582
+          ], 
+          [
+            -77.4880759, 
+            37.4832098
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fernbrook Drive", 
+        "to": "49619863", 
+        "length": "194.66137467418804", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627814", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4792222, 
+            37.4821873
+          ], 
+          [
+            -77.4790451, 
+            37.4825007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617816", 
+        "length": "38.20260866566476", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049235234", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.479446, 
+            37.4824971
+          ], 
+          [
+            -77.4793185, 
+            37.4823182
+          ], 
+          [
+            -77.4792222, 
+            37.4821873
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "49617816", 
+        "length": "39.719095233315144", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049235238", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036075"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4792222, 
+            37.4821873
+          ], 
+          [
+            -77.4793381, 
+            37.4819646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "3049235239", 
+        "length": "26.79931642365064", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617816", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.493785, 
+            37.4889705
+          ], 
+          [
+            -77.4936278, 
+            37.4891268
+          ], 
+          [
+            -77.4933782, 
+            37.4893494
+          ], 
+          [
+            -77.4933549, 
+            37.4893694
+          ], 
+          [
+            -77.4930954, 
+            37.4895913
+          ], 
+          [
+            -77.4930763, 
+            37.4896056
+          ], 
+          [
+            -77.4928762, 
+            37.4897546
+          ], 
+          [
+            -77.4926978, 
+            37.4898875
+          ], 
+          [
+            -77.4924411, 
+            37.4900611
+          ], 
+          [
+            -77.4922803, 
+            37.4901697
+          ], 
+          [
+            -77.4921675, 
+            37.4902417
+          ], 
+          [
+            -77.4918407, 
+            37.4904502
+          ], 
+          [
+            -77.4918004, 
+            37.4904753
+          ], 
+          [
+            -77.4912222, 
+            37.4908358
+          ], 
+          [
+            -77.4910251, 
+            37.4909509
+          ], 
+          [
+            -77.490544, 
+            37.4912319
+          ], 
+          [
+            -77.4904469, 
+            37.4912885
+          ], 
+          [
+            -77.4901022, 
+            37.4914896
+          ], 
+          [
+            -77.4898399, 
+            37.4916429
+          ], 
+          [
+            -77.4893271, 
+            37.4919427
+          ], 
+          [
+            -77.4883192, 
+            37.4925907
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "['2', '3']", 
+        "name": "Hull Street Road", 
+        "to": "2393503912", 
+        "length": "629.977289597948", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503897", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "[230917593, 230917610]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.493785, 
+            37.4889705
+          ], 
+          [
+            -77.4917419, 
+            37.4873768
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Linwood Avenue", 
+        "to": "2393503897", 
+        "length": "252.8539851418446", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033567"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948174, 
+            37.4879186
+          ], 
+          [
+            -77.4947478, 
+            37.4879892
+          ], 
+          [
+            -77.4940807, 
+            37.4886764
+          ], 
+          [
+            -77.493785, 
+            37.4889705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503897", 
+        "length": "148.29673593074958", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145766055", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917593"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797537, 
+            37.481023
+          ], 
+          [
+            -77.4800139, 
+            37.480389
+          ], 
+          [
+            -77.4803676, 
+            37.4795889
+          ], 
+          [
+            -77.4805465, 
+            37.4791469
+          ], 
+          [
+            -77.4806644, 
+            37.4787775
+          ], 
+          [
+            -77.4809431, 
+            37.4777667
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49611728", 
+        "length": "377.5800242106982", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617818", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4797537, 
+            37.481023
+          ], 
+          [
+            -77.4849393, 
+            37.4825435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49617818", 
+        "length": "487.9434015567018", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629730", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4793381, 
+            37.4819646
+          ], 
+          [
+            -77.4794344, 
+            37.4817744
+          ], 
+          [
+            -77.4795809, 
+            37.4814392
+          ], 
+          [
+            -77.4797537, 
+            37.481023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "49617818", 
+        "length": "111.00078579174587", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049235239", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929576, 
+            37.4822393
+          ], 
+          [
+            -77.492861, 
+            37.4828438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Court", 
+        "to": "49627672", 
+        "length": "67.7747098508635", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619869", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929576, 
+            37.4822393
+          ], 
+          [
+            -77.4918203, 
+            37.482069
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619869", 
+        "length": "102.15280870713558", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619866", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4929576, 
+            37.4822393
+          ], 
+          [
+            -77.4940448, 
+            37.4824609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619869", 
+        "length": "99.07398457194506", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619870", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4940448, 
+            37.4824609
+          ], 
+          [
+            -77.495157, 
+            37.4827671
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Troy Road", 
+        "to": "49619870", 
+        "length": "103.90541812451922", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619871", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035608"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928077, 
+            37.4864701
+          ], 
+          [
+            -77.4917419, 
+            37.4873768
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "2145766047", 
+        "length": "137.90800830032006", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46838726"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928077, 
+            37.4864701
+          ], 
+          [
+            -77.4928925, 
+            37.4863962
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "2145766047", 
+        "length": "11.11648618608766", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626181", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46838726"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928077, 
+            37.4864701
+          ], 
+          [
+            -77.4942703, 
+            37.4876145
+          ], 
+          [
+            -77.4945066, 
+            37.487786
+          ], 
+          [
+            -77.494641, 
+            37.4878874
+          ], 
+          [
+            -77.4948174, 
+            37.4879186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145766055", 
+        "length": "241.86792357337825", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145766047", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204580133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883192, 
+            37.4925907
+          ], 
+          [
+            -77.4882455, 
+            37.4925116
+          ], 
+          [
+            -77.4880166, 
+            37.4922814
+          ], 
+          [
+            -77.4876253, 
+            37.4919188
+          ], 
+          [
+            -77.4871533, 
+            37.4914677
+          ], 
+          [
+            -77.486649, 
+            37.4911101
+          ], 
+          [
+            -77.4861984, 
+            37.4908292
+          ], 
+          [
+            -77.4838702, 
+            37.4896289
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Warwick Road", 
+        "to": "598265377", 
+        "length": "517.1566462927088", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503912", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "[46843113, 6035771]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4838702, 
+            37.4896289
+          ], 
+          [
+            -77.4841063, 
+            37.4892798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fernbrook Drive", 
+        "to": "598265377", 
+        "length": "44.06666143439306", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621161", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038910"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4838702, 
+            37.4896289
+          ], 
+          [
+            -77.4827098, 
+            37.4889903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warwick Road", 
+        "to": "598265380", 
+        "length": "124.63150176659238", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598265377", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "46843113"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4875846, 
+            37.484186
+          ], 
+          [
+            -77.4880465, 
+            37.4843666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49627812", 
+        "length": "45.447658477336574", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616181", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4880759, 
+            37.4832098
+          ], 
+          [
+            -77.4878903, 
+            37.4836624
+          ], 
+          [
+            -77.4875846, 
+            37.484186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fernbrook Drive", 
+        "to": "49627812", 
+        "length": "117.12384451866242", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627814", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4880759, 
+            37.4832098
+          ], 
+          [
+            -77.4864022, 
+            37.4820945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Germain Road", 
+        "to": "49627814", 
+        "length": "192.90174268244184", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628235", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909005, 
+            37.4841548
+          ], 
+          [
+            -77.4884407, 
+            37.4833631
+          ], 
+          [
+            -77.4880759, 
+            37.4832098
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Germain Road", 
+        "to": "49627814", 
+        "length": "270.71671419147924", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626099", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4841063, 
+            37.4892798
+          ], 
+          [
+            -77.4839761, 
+            37.4891779
+          ], 
+          [
+            -77.4825024, 
+            37.4886842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "49621159", 
+        "length": "157.31798975070205", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621161", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4829266, 
+            37.4879763
+          ], 
+          [
+            -77.4845196, 
+            37.4886239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145766056", 
+        "length": "157.9689579574231", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145766057", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204580130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4845196, 
+            37.4886239
+          ], 
+          [
+            -77.4841063, 
+            37.4892798
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Fernbrook Drive", 
+        "to": "2145766057", 
+        "length": "81.56384440014617", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621161", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038910"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4841063, 
+            37.4892798
+          ], 
+          [
+            -77.4842926, 
+            37.489305
+          ], 
+          [
+            -77.4855625, 
+            37.4893107
+          ], 
+          [
+            -77.4857541, 
+            37.4893394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "49621163", 
+        "length": "145.96319411276377", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49621161", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4857541, 
+            37.4893394
+          ], 
+          [
+            -77.489749, 
+            37.4857901
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Powell Road", 
+        "to": "49621163", 
+        "length": "529.2986815964554", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614385", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038129"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868215, 
+            37.4899916
+          ], 
+          [
+            -77.4862266, 
+            37.4895312
+          ], 
+          [
+            -77.4857541, 
+            37.4893394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "49621163", 
+        "length": "120.18049237960665", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617745", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868215, 
+            37.4899916
+          ], 
+          [
+            -77.487049, 
+            37.4903077
+          ], 
+          [
+            -77.4877525, 
+            37.491604
+          ], 
+          [
+            -77.4879621, 
+            37.4919553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "2145766060", 
+        "length": "240.70016601391694", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617745", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4974945, 
+            37.4861433
+          ], 
+          [
+            -77.4968376, 
+            37.4865239
+          ], 
+          [
+            -77.4964239, 
+            37.4867556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2393503888", 
+        "length": "116.47780717587094", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49619759", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917593"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.489749, 
+            37.4857901
+          ], 
+          [
+            -77.4905998, 
+            37.4865057
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Linwood Avenue", 
+        "to": "49614385", 
+        "length": "109.42409204503939", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614386", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033567"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905998, 
+            37.4865057
+          ], 
+          [
+            -77.4917419, 
+            37.4873768
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Linwood Avenue", 
+        "to": "49614386", 
+        "length": "139.8136310112936", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033567"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4905998, 
+            37.4865057
+          ], 
+          [
+            -77.491943, 
+            37.4854456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ellington Street", 
+        "to": "49614386", 
+        "length": "167.2027174618521", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619087", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035311"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4876465, 
+            37.4850666
+          ], 
+          [
+            -77.4880465, 
+            37.4843666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elkton Road", 
+        "to": "49616179", 
+        "length": "85.48855667756794", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616181", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4880465, 
+            37.4843666
+          ], 
+          [
+            -77.489164, 
+            37.4846718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49616181", 
+        "length": "104.30885045108549", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629736", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4847531, 
+            37.4791376
+          ], 
+          [
+            -77.4834937, 
+            37.4786811
+          ], 
+          [
+            -77.482917, 
+            37.4785619
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49614948", 
+        "length": "174.8118620690297", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614950", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4847531, 
+            37.4791376
+          ], 
+          [
+            -77.4844451, 
+            37.4796248
+          ], 
+          [
+            -77.4844003, 
+            37.4799731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Titus Street", 
+        "to": "624201180", 
+        "length": "99.56787820261408", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614950", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039715"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.495157, 
+            37.4827671
+          ], 
+          [
+            -77.4955539, 
+            37.4817285
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49619871", 
+        "length": "120.7144517325152", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614958", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4955754, 
+            37.485483
+          ], 
+          [
+            -77.4940219, 
+            37.4850121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Germain Road", 
+        "to": "49626183", 
+        "length": "146.77399819310313", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612277", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4955754, 
+            37.485483
+          ], 
+          [
+            -77.4945933, 
+            37.486178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kimrod Road", 
+        "to": "49612277", 
+        "length": "116.14139475231579", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612276", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4955754, 
+            37.485483
+          ], 
+          [
+            -77.4966268, 
+            37.4848445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kimrod Road", 
+        "to": "49612279", 
+        "length": "116.85293059316487", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612277", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4836429, 
+            37.4794964
+          ], 
+          [
+            -77.4835162, 
+            37.4794467
+          ], 
+          [
+            -77.482611, 
+            37.4790795
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Lindy Lane", 
+        "to": "49619520", 
+        "length": "102.20719294948654", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145785697", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482917, 
+            37.4785619
+          ], 
+          [
+            -77.4827668, 
+            37.4788088
+          ], 
+          [
+            -77.482611, 
+            37.4790795
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mandy Lane", 
+        "to": "49619520", 
+        "length": "63.59532553190561", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614948", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037947"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482611, 
+            37.4790795
+          ], 
+          [
+            -77.4820657, 
+            37.4796955
+          ], 
+          [
+            -77.4819331, 
+            37.4798061
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mandy Lane", 
+        "to": "2145785708", 
+        "length": "100.71151070797433", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619520", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037947"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4948174, 
+            37.4879186
+          ], 
+          [
+            -77.4946776, 
+            37.4877765
+          ], 
+          [
+            -77.4928925, 
+            37.4863962
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Chesterfield Drive", 
+        "to": "49626181", 
+        "length": "240.0311710591597", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145766055", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038447"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4928925, 
+            37.4863962
+          ], 
+          [
+            -77.4935752, 
+            37.4858949
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49626181", 
+        "length": "82.09411566029532", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626182", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46838726"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4935752, 
+            37.4858949
+          ], 
+          [
+            -77.491943, 
+            37.4854456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49626182", 
+        "length": "152.47774299626406", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619087", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4935752, 
+            37.4858949
+          ], 
+          [
+            -77.4945933, 
+            37.486178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49626182", 
+        "length": "95.21317931778533", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612276", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4935752, 
+            37.4858949
+          ], 
+          [
+            -77.4940219, 
+            37.4850121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Clearfield Street", 
+        "to": "49626183", 
+        "length": "105.80988842904502", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626182", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038181"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909005, 
+            37.4841548
+          ], 
+          [
+            -77.4914341, 
+            37.4842826
+          ], 
+          [
+            -77.4940219, 
+            37.4850121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Germain Road", 
+        "to": "49626183", 
+        "length": "291.57748062010086", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626099", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039104"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864022, 
+            37.4820945
+          ], 
+          [
+            -77.4866916, 
+            37.4814002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Tignor Road", 
+        "to": "49628235", 
+        "length": "81.33923596652487", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619860", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040570"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4786466, 
+            37.4830663
+          ], 
+          [
+            -77.4788957, 
+            37.4827373
+          ], 
+          [
+            -77.4790036, 
+            37.4825716
+          ], 
+          [
+            -77.4790451, 
+            37.4825007
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Broad Rock Boulevard", 
+        "to": "3049235234", 
+        "length": "72.13078506845979", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598265433", 
+        "ref": "VA 10", 
+        "highway": "primary", 
+        "osmid": "108527671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4790451, 
+            37.4825007
+          ], 
+          [
+            -77.479174, 
+            37.4824296
+          ], 
+          [
+            -77.479216, 
+            37.4824155
+          ], 
+          [
+            -77.4792688, 
+            37.4824115
+          ], 
+          [
+            -77.4793263, 
+            37.4824207
+          ], 
+          [
+            -77.479446, 
+            37.4824971
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "3049235238", 
+        "length": "41.2977399078744", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049235234", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "300832063"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.482917, 
+            37.4785619
+          ], 
+          [
+            -77.482007, 
+            37.478147
+          ], 
+          [
+            -77.4815057, 
+            37.4778778
+          ], 
+          [
+            -77.4813337, 
+            37.4778153
+          ], 
+          [
+            -77.481137, 
+            37.477791
+          ], 
+          [
+            -77.4809431, 
+            37.4777667
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49611728", 
+        "length": "197.65988685203922", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614948", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4868215, 
+            37.4899916
+          ], 
+          [
+            -77.4879686, 
+            37.4891522
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pamworth Lane", 
+        "to": "49617745", 
+        "length": "137.7152138089168", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617747", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034761"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879686, 
+            37.4891522
+          ], 
+          [
+            -77.4885373, 
+            37.4886329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pamworth Lane", 
+        "to": "49617747", 
+        "length": "76.51982250967312", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617748", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034761"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4879686, 
+            37.4891522
+          ], 
+          [
+            -77.4885802, 
+            37.4896629
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Vivian Court", 
+        "to": "49617747", 
+        "length": "78.35846545624082", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623166", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036779"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.491943, 
+            37.4854456
+          ], 
+          [
+            -77.490509, 
+            37.4850425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "49619087", 
+        "length": "134.2704618603854", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626104", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964239, 
+            37.4867556
+          ], 
+          [
+            -77.4958987, 
+            37.4870497
+          ], 
+          [
+            -77.4956535, 
+            37.4871952
+          ], 
+          [
+            -77.4955384, 
+            37.4872783
+          ], 
+          [
+            -77.4954569, 
+            37.4873372
+          ], 
+          [
+            -77.4952647, 
+            37.4874897
+          ], 
+          [
+            -77.4950725, 
+            37.4876597
+          ], 
+          [
+            -77.4948174, 
+            37.4879186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Hull Street Road", 
+        "to": "2145766055", 
+        "length": "193.16237745282626", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503888", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "230917593"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4945933, 
+            37.486178
+          ], 
+          [
+            -77.4962724, 
+            37.4866516
+          ], 
+          [
+            -77.4964239, 
+            37.4867556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bryce Lane", 
+        "to": "2393503888", 
+        "length": "174.95769035494953", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612276", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "46838727"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.479446, 
+            37.4824971
+          ], 
+          [
+            -77.4794292, 
+            37.482339
+          ], 
+          [
+            -77.4793867, 
+            37.4821943
+          ], 
+          [
+            -77.4793548, 
+            37.4820847
+          ], 
+          [
+            -77.4793381, 
+            37.4819646
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "3049235239", 
+        "length": "60.123758468597934", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049235238", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "429498011"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.479446, 
+            37.4824971
+          ], 
+          [
+            -77.479492, 
+            37.4825822
+          ], 
+          [
+            -77.4796358, 
+            37.4830669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Old Warwick Road", 
+        "to": "2703121095", 
+        "length": "65.68460770853892", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049235238", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036075"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4887663, 
+            37.4853666
+          ], 
+          [
+            -77.489164, 
+            37.4846718
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Saline Drive", 
+        "to": "49630057", 
+        "length": "84.87792964611013", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629736", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4955539, 
+            37.4817285
+          ], 
+          [
+            -77.4964873, 
+            37.4818732
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49614958", 
+        "length": "83.94225153557828", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614959", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4964873, 
+            37.4818732
+          ], 
+          [
+            -77.4974744, 
+            37.4820435
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Orcutt Lane", 
+        "to": "49614960", 
+        "length": "89.15975451545609", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614959", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4909005, 
+            37.4841548
+          ], 
+          [
+            -77.490509, 
+            37.4850425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Powell Road", 
+        "to": "49626099", 
+        "length": "104.60721970630829", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626104", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4966268, 
+            37.4848445
+          ], 
+          [
+            -77.4978499, 
+            37.4841634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kimrod Road", 
+        "to": "49612279", 
+        "length": "131.88019877526565", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4978499, 
+            37.4841634
+          ], 
+          [
+            -77.4990301, 
+            37.4835078
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Kimrod Road", 
+        "to": "49612283", 
+        "length": "127.15247285112031", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612281", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032986"
+      }
+    }
+  ]
+}

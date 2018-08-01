@@ -1,0 +1,2517 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.405596, 
+            37.5304935
+          ], 
+          [
+            -77.4058654, 
+            37.5302138
+          ], 
+          [
+            -77.4064397, 
+            37.5296176
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49621065", 
+        "name": "North 35th Street", 
+        "access": "", 
+        "to": "49615489", 
+        "length": "122.59497247566489", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4046059, 
+            37.5285067
+          ], 
+          [
+            -77.4053123, 
+            37.5289347
+          ], 
+          [
+            -77.4059065, 
+            37.5292946
+          ], 
+          [
+            -77.4059595, 
+            37.5293267
+          ], 
+          [
+            -77.4064397, 
+            37.5296176
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615491", 
+        "name": "M Street", 
+        "access": "", 
+        "to": "49615489", 
+        "length": "203.54840695309346", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4064397, 
+            37.5296176
+          ], 
+          [
+            -77.4072798, 
+            37.5287455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620308", 
+        "name": "North 35th Street", 
+        "access": "", 
+        "to": "49615489", 
+        "length": "122.06686315190866", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4073537, 
+            37.5301713
+          ], 
+          [
+            -77.4068768, 
+            37.5298825
+          ], 
+          [
+            -77.4064397, 
+            37.5296176
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613941", 
+        "name": "M Street", 
+        "access": "", 
+        "to": "49615489", 
+        "length": "101.45205416211164", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4046059, 
+            37.5285067
+          ], 
+          [
+            -77.403772, 
+            37.5293724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618380", 
+        "name": "North 37th Street", 
+        "access": "", 
+        "to": "49615491", 
+        "length": "121.16934183201286", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4037059, 
+            37.5279615
+          ], 
+          [
+            -77.404152, 
+            37.5282317
+          ], 
+          [
+            -77.4046059, 
+            37.5285067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615492", 
+        "name": "M Street", 
+        "access": "", 
+        "to": "49615491", 
+        "length": "99.89821626863318", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4049784, 
+            37.5266404
+          ], 
+          [
+            -77.405293, 
+            37.5270472
+          ], 
+          [
+            -77.4054564, 
+            37.5273031
+          ], 
+          [
+            -77.4054747, 
+            37.5276047
+          ], 
+          [
+            -77.4046059, 
+            37.5285067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616353", 
+        "name": "['North 37th Street', 'Crestview Road']", 
+        "access": "", 
+        "to": "49615491", 
+        "length": "244.81505058575567", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6034227, 6035030]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4037059, 
+            37.5279615
+          ], 
+          [
+            -77.4049784, 
+            37.5266404
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616353", 
+        "name": "North 38th Street", 
+        "access": "", 
+        "to": "49615492", 
+        "length": "184.9079256880013", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040977"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4027923, 
+            37.527408
+          ], 
+          [
+            -77.4032661, 
+            37.5276951
+          ], 
+          [
+            -77.4037059, 
+            37.5279615
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615493", 
+        "name": "M Street", 
+        "access": "", 
+        "to": "49615492", 
+        "length": "101.41240824148704", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4028476, 
+            37.5288124
+          ], 
+          [
+            -77.4023525, 
+            37.5285124
+          ], 
+          [
+            -77.4019584, 
+            37.5282737
+          ], 
+          [
+            -77.4027923, 
+            37.527408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49621057", 
+        "name": "['North 39th Street', 'N Street']", 
+        "access": "", 
+        "to": "49615493", 
+        "length": "219.8720421418078", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6036771, 6036043]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4027923, 
+            37.527408
+          ], 
+          [
+            -77.404443, 
+            37.5256942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616355", 
+        "name": "North 39th Street", 
+        "access": "", 
+        "to": "49615493", 
+        "length": "239.87025168352827", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036771"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4047672, 
+            37.5313539
+          ], 
+          [
+            -77.4042901, 
+            37.5310649
+          ], 
+          [
+            -77.4038563, 
+            37.5308021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49626517", 
+        "name": "O Street", 
+        "access": "", 
+        "to": "49625990", 
+        "length": "101.10545894234505", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4038563, 
+            37.5308021
+          ], 
+          [
+            -77.4040891, 
+            37.5305605
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625989", 
+        "name": "North 36th Street", 
+        "access": "", 
+        "to": "49625990", 
+        "length": "33.819714490510165", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038060"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4029334, 
+            37.530243
+          ], 
+          [
+            -77.403414, 
+            37.5305342
+          ], 
+          [
+            -77.4038563, 
+            37.5308021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618381", 
+        "name": "O Street", 
+        "access": "", 
+        "to": "49625990", 
+        "length": "102.43995573702355", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4114585, 
+            37.5249631
+          ], 
+          [
+            -77.4114305, 
+            37.525875
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145837978", 
+        "name": "", 
+        "access": "", 
+        "to": "2145837959", 
+        "length": "101.45729123250399", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4093605, 
+            37.5251022
+          ], 
+          [
+            -77.4096559, 
+            37.5250555
+          ], 
+          [
+            -77.4098929, 
+            37.5249782
+          ], 
+          [
+            -77.4102533, 
+            37.5248448
+          ], 
+          [
+            -77.4105039, 
+            37.5247849
+          ], 
+          [
+            -77.410703, 
+            37.5247849
+          ], 
+          [
+            -77.4109914, 
+            37.5248339
+          ], 
+          [
+            -77.4111218, 
+            37.5248639
+          ], 
+          [
+            -77.41129, 
+            37.5248965
+          ], 
+          [
+            -77.4113876, 
+            37.5249217
+          ], 
+          [
+            -77.4114585, 
+            37.5249631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3025124403", 
+        "name": "East Grace Street", 
+        "access": "", 
+        "to": "2145837959", 
+        "length": "195.00025359390028", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4132195, 
+            37.5255639
+          ], 
+          [
+            -77.4132845, 
+            37.5252913
+          ], 
+          [
+            -77.4132776, 
+            37.5251742
+          ], 
+          [
+            -77.4132556, 
+            37.525114
+          ], 
+          [
+            -77.413211, 
+            37.5250548
+          ], 
+          [
+            -77.4131861, 
+            37.5250306
+          ], 
+          [
+            -77.4131544, 
+            37.5249998
+          ], 
+          [
+            -77.4130889, 
+            37.5249478
+          ], 
+          [
+            -77.4129853, 
+            37.5248935
+          ], 
+          [
+            -77.4127867, 
+            37.5248421
+          ], 
+          [
+            -77.4126806, 
+            37.5248291
+          ], 
+          [
+            -77.412519, 
+            37.5248094
+          ], 
+          [
+            -77.4122306, 
+            37.5248285
+          ], 
+          [
+            -77.4117946, 
+            37.5248938
+          ], 
+          [
+            -77.4116227, 
+            37.5249113
+          ], 
+          [
+            -77.4114585, 
+            37.5249631
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145837971", 
+        "name": "East Grace Street", 
+        "access": "", 
+        "to": "2145837959", 
+        "length": "223.4309195862378", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072919, 
+            37.5274027
+          ], 
+          [
+            -77.4081011, 
+            37.5278929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624199", 
+        "name": "East Clay Street", 
+        "access": "", 
+        "to": "49624200", 
+        "length": "89.82035392767551", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "374649620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4073866, 
+            37.5315782
+          ], 
+          [
+            -77.4082302, 
+            37.5307023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611477", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "49611476", 
+        "length": "122.58896136359081", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4073866, 
+            37.5315782
+          ], 
+          [
+            -77.4069421, 
+            37.5313089
+          ], 
+          [
+            -77.40651, 
+            37.5310472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611477", 
+        "name": "N Street", 
+        "access": "", 
+        "to": "49613942", 
+        "length": "97.29665218288025", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4073866, 
+            37.5315782
+          ], 
+          [
+            -77.4065577, 
+            37.5324386
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611477", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "49611479", 
+        "length": "120.43133042560942", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4117699, 
+            37.5260333
+          ], 
+          [
+            -77.412054, 
+            37.5259042
+          ], 
+          [
+            -77.4130443, 
+            37.5255857
+          ], 
+          [
+            -77.4132195, 
+            37.5255639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145837990", 
+        "name": "", 
+        "access": "", 
+        "to": "2145837971", 
+        "length": "138.79223237051295", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588091"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4056812, 
+            37.5319076
+          ], 
+          [
+            -77.4052043, 
+            37.5316187
+          ], 
+          [
+            -77.4047672, 
+            37.5313539
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613944", 
+        "name": "O Street", 
+        "access": "", 
+        "to": "49626517", 
+        "length": "101.45056112569527", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4047672, 
+            37.5313539
+          ], 
+          [
+            -77.405596, 
+            37.5304935
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49621065", 
+        "name": "North 35th Street", 
+        "access": "", 
+        "to": "49626517", 
+        "length": "120.42662128308355", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4111089, 
+            37.5261831
+          ], 
+          [
+            -77.4111138, 
+            37.5260941
+          ], 
+          [
+            -77.4111541, 
+            37.526011
+          ], 
+          [
+            -77.4112258, 
+            37.5259424
+          ], 
+          [
+            -77.4113212, 
+            37.5258954
+          ], 
+          [
+            -77.4114305, 
+            37.525875
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145838021", 
+        "name": "", 
+        "access": "", 
+        "to": "2145837978", 
+        "length": "49.53391475275218", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4117699, 
+            37.5260333
+          ], 
+          [
+            -77.4117212, 
+            37.5259728
+          ], 
+          [
+            -77.4116544, 
+            37.5259243
+          ], 
+          [
+            -77.4115478, 
+            37.5258844
+          ], 
+          [
+            -77.4114305, 
+            37.525875
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145837990", 
+        "name": "", 
+        "access": "", 
+        "to": "2145837978", 
+        "length": "36.77017601877668", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.408932, 
+            37.5270302
+          ], 
+          [
+            -77.4082425, 
+            37.5267239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615004", 
+        "name": "East Marshall Street", 
+        "access": "", 
+        "to": "49615003", 
+        "length": "69.71251303724922", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "45087736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4094536, 
+            37.5264901
+          ], 
+          [
+            -77.4094022, 
+            37.526542
+          ], 
+          [
+            -77.408932, 
+            37.5270302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49631094", 
+        "name": "North 35th Street", 
+        "access": "", 
+        "to": "49615003", 
+        "length": "75.66933399845323", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409846, 
+            37.5275839
+          ], 
+          [
+            -77.4096936, 
+            37.5274916
+          ], 
+          [
+            -77.408932, 
+            37.5270302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613934", 
+        "name": "East Marshall Street", 
+        "access": "", 
+        "to": "49615003", 
+        "length": "101.45427500085252", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "374649624"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081011, 
+            37.5278929
+          ], 
+          [
+            -77.4085214, 
+            37.5274565
+          ], 
+          [
+            -77.4088096, 
+            37.5271572
+          ], 
+          [
+            -77.408932, 
+            37.5270302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624199", 
+        "name": "North 35th Street", 
+        "access": "", 
+        "to": "49615003", 
+        "length": "120.74442328236007", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040451"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4087847, 
+            37.5257063
+          ], 
+          [
+            -77.4084934, 
+            37.5262531
+          ], 
+          [
+            -77.4082425, 
+            37.5267239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625976", 
+        "name": "North 36th Street", 
+        "access": "", 
+        "to": "49615004", 
+        "length": "122.8742657272391", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038053"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4082425, 
+            37.5267239
+          ], 
+          [
+            -77.407004, 
+            37.526346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49615006", 
+        "name": "East Marshall Street", 
+        "access": "", 
+        "to": "49615004", 
+        "length": "117.05538247863672", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "45087736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.411488, 
+            37.5264254
+          ], 
+          [
+            -77.4115965, 
+            37.5264027
+          ], 
+          [
+            -77.4116748, 
+            37.5263645
+          ], 
+          [
+            -77.4117378, 
+            37.5263113
+          ], 
+          [
+            -77.411781, 
+            37.5262469
+          ], 
+          [
+            -77.4118014, 
+            37.5261757
+          ], 
+          [
+            -77.4117976, 
+            37.5261028
+          ], 
+          [
+            -77.4117699, 
+            37.5260333
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145838029", 
+        "name": "", 
+        "access": "", 
+        "to": "2145837990", 
+        "length": "58.582329375501466", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4106985, 
+            37.5266989
+          ], 
+          [
+            -77.4112198, 
+            37.5270147
+          ], 
+          [
+            -77.4114266, 
+            37.52714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "3025124395", 
+        "name": "East Broad Street", 
+        "access": "yes", 
+        "to": "3025124394", 
+        "length": "80.82079792349647", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "374649626"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4114266, 
+            37.52714
+          ], 
+          [
+            -77.411575, 
+            37.5272299
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "569028284", 
+        "name": "East Broad Street", 
+        "access": "yes", 
+        "to": "3025124394", 
+        "length": "16.472426196338645", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "374649626"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.411488, 
+            37.5264254
+          ], 
+          [
+            -77.4114742, 
+            37.5265501
+          ], 
+          [
+            -77.4114686, 
+            37.5266176
+          ], 
+          [
+            -77.4114622, 
+            37.5267241
+          ], 
+          [
+            -77.4114587, 
+            37.5268509
+          ], 
+          [
+            -77.4114481, 
+            37.5269924
+          ], 
+          [
+            -77.4114266, 
+            37.52714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145838029", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "3025124394", 
+        "length": "79.70558626500492", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032732"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4103328, 
+            37.5264773
+          ], 
+          [
+            -77.4104617, 
+            37.5265554
+          ], 
+          [
+            -77.4106985, 
+            37.5266989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "3025124396", 
+        "name": "East Broad Street", 
+        "access": "yes", 
+        "to": "3025124395", 
+        "length": "40.59706930753743", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "374649626"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409846, 
+            37.5275839
+          ], 
+          [
+            -77.4101351, 
+            37.5272837
+          ], 
+          [
+            -77.4103743, 
+            37.5270354
+          ], 
+          [
+            -77.4106985, 
+            37.5266989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613934", 
+        "name": "Chimborazo Boulevard", 
+        "access": "", 
+        "to": "3025124395", 
+        "length": "123.87228329373028", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4103328, 
+            37.5264773
+          ], 
+          [
+            -77.409342, 
+            37.5258771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "3025124397", 
+        "name": "East Broad Street", 
+        "access": "yes", 
+        "to": "3025124396", 
+        "length": "109.97843909360832", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "374649626"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4111089, 
+            37.5261831
+          ], 
+          [
+            -77.4109384, 
+            37.5262199
+          ], 
+          [
+            -77.4108216, 
+            37.5262384
+          ], 
+          [
+            -77.4104627, 
+            37.5264206
+          ], 
+          [
+            -77.4103328, 
+            37.5264773
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145838021", 
+        "name": "North 34th Street", 
+        "access": "", 
+        "to": "3025124396", 
+        "length": "76.76226518306873", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034355"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409342, 
+            37.5258771
+          ], 
+          [
+            -77.4087847, 
+            37.5257063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625976", 
+        "name": "East Broad Street", 
+        "access": "", 
+        "to": "3025124397", 
+        "length": "52.70313346893757", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "47968381"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4092366, 
+            37.5253303
+          ], 
+          [
+            -77.4091556, 
+            37.5254422
+          ], 
+          [
+            -77.4091355, 
+            37.525511
+          ], 
+          [
+            -77.4091345, 
+            37.5255763
+          ], 
+          [
+            -77.4091537, 
+            37.5256738
+          ], 
+          [
+            -77.409342, 
+            37.5258771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3094984661", 
+        "name": "North 36th Street", 
+        "access": "", 
+        "to": "3025124397", 
+        "length": "68.5034104940363", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "6038055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4052526, 
+            37.5243867
+          ], 
+          [
+            -77.4059154, 
+            37.5244523
+          ], 
+          [
+            -77.406552, 
+            37.524482
+          ], 
+          [
+            -77.4068058, 
+            37.5245367
+          ], 
+          [
+            -77.4082576, 
+            37.5248499
+          ], 
+          [
+            -77.4091336, 
+            37.5249438
+          ], 
+          [
+            -77.4092051, 
+            37.5249575
+          ], 
+          [
+            -77.4092799, 
+            37.5249833
+          ], 
+          [
+            -77.4093459, 
+            37.525042
+          ], 
+          [
+            -77.4093605, 
+            37.5251022
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145837936", 
+        "name": "Government Road", 
+        "access": "", 
+        "to": "3025124403", 
+        "length": "378.3218674176702", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "44845891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4092366, 
+            37.5253303
+          ], 
+          [
+            -77.4092898, 
+            37.5252569
+          ], 
+          [
+            -77.409339, 
+            37.5251808
+          ], 
+          [
+            -77.4093605, 
+            37.5251022
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "3094984661", 
+        "name": "North 36th Street", 
+        "access": "", 
+        "to": "3025124403", 
+        "length": "27.87454974270588", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "6038055"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4107225, 
+            37.528115
+          ], 
+          [
+            -77.4110179, 
+            37.5278083
+          ], 
+          [
+            -77.411575, 
+            37.5272299
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611470", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "569028284", 
+        "length": "123.88079654766871", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.403772, 
+            37.5293724
+          ], 
+          [
+            -77.4033219, 
+            37.5290998
+          ], 
+          [
+            -77.4028476, 
+            37.5288124
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618380", 
+        "name": "N Street", 
+        "access": "", 
+        "to": "49621057", 
+        "length": "102.60710710689688", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036043"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.411488, 
+            37.5264254
+          ], 
+          [
+            -77.4113989, 
+            37.5264231
+          ], 
+          [
+            -77.4113134, 
+            37.526403
+          ], 
+          [
+            -77.4112372, 
+            37.5263662
+          ], 
+          [
+            -77.4111888, 
+            37.5263288
+          ], 
+          [
+            -77.4111503, 
+            37.5262847
+          ], 
+          [
+            -77.4111233, 
+            37.5262355
+          ], 
+          [
+            -77.4111089, 
+            37.5261831
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145838029", 
+        "name": "", 
+        "access": "", 
+        "to": "2145838021", 
+        "length": "47.46004180650538", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "204588090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.40651, 
+            37.5310472
+          ], 
+          [
+            -77.4060332, 
+            37.5307583
+          ], 
+          [
+            -77.405596, 
+            37.5304935
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613942", 
+        "name": "N Street", 
+        "access": "", 
+        "to": "49621065", 
+        "length": "101.45130066761831", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974341"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.403772, 
+            37.5293724
+          ], 
+          [
+            -77.4029334, 
+            37.530243
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618381", 
+        "name": "North 37th Street", 
+        "access": "", 
+        "to": "49618380", 
+        "length": "121.85358570094398", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035030"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4107225, 
+            37.528115
+          ], 
+          [
+            -77.4098916, 
+            37.5289776
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611472", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "49611470", 
+        "length": "120.73493615777991", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409846, 
+            37.5275839
+          ], 
+          [
+            -77.409976, 
+            37.5276627
+          ], 
+          [
+            -77.4102781, 
+            37.5278457
+          ], 
+          [
+            -77.4107225, 
+            37.528115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613934", 
+        "name": "East Marshall Street", 
+        "access": "", 
+        "to": "49611470", 
+        "length": "97.29924803420084", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "374649624"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409015, 
+            37.5284466
+          ], 
+          [
+            -77.4094471, 
+            37.5287083
+          ], 
+          [
+            -77.4098916, 
+            37.5289776
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613937", 
+        "name": "East Clay Street", 
+        "access": "", 
+        "to": "49611472", 
+        "length": "97.2987945860674", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "374649620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4098916, 
+            37.5289776
+          ], 
+          [
+            -77.4090703, 
+            37.5298302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611474", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "49611472", 
+        "length": "119.33650808084818", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4087847, 
+            37.5257063
+          ], 
+          [
+            -77.4072627, 
+            37.5252311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625976", 
+        "name": "East Broad Street", 
+        "access": "", 
+        "to": "2723892565", 
+        "length": "144.28739489421903", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "266890335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4087847, 
+            37.5257063
+          ], 
+          [
+            -77.4092366, 
+            37.5253303
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49625976", 
+        "name": "North 36th Street", 
+        "access": "", 
+        "to": "3094984661", 
+        "length": "57.77581716654292", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038053"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081938, 
+            37.5292992
+          ], 
+          [
+            -77.4086259, 
+            37.5295609
+          ], 
+          [
+            -77.4090703, 
+            37.5298302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613939", 
+        "name": "East Leigh Street", 
+        "access": "", 
+        "to": "49611474", 
+        "length": "97.29108322251189", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "266890331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4090703, 
+            37.5298302
+          ], 
+          [
+            -77.4082302, 
+            37.5307023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611476", 
+        "name": "North 33rd Street", 
+        "access": "", 
+        "to": "49611474", 
+        "length": "122.06620896765892", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032728"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4073537, 
+            37.5301713
+          ], 
+          [
+            -77.4077858, 
+            37.5304331
+          ], 
+          [
+            -77.4082302, 
+            37.5307023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613941", 
+        "name": "M Street", 
+        "access": "", 
+        "to": "49611476", 
+        "length": "97.29036405495202", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4065577, 
+            37.5324386
+          ], 
+          [
+            -77.4061132, 
+            37.5321694
+          ], 
+          [
+            -77.4056812, 
+            37.5319076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49611479", 
+        "name": "O Street", 
+        "access": "", 
+        "to": "49613944", 
+        "length": "97.2889349195788", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "424974344"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.404443, 
+            37.5256942
+          ], 
+          [
+            -77.4047129, 
+            37.5261931
+          ], 
+          [
+            -77.4049784, 
+            37.5266404
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616355", 
+        "name": "Crestview Road", 
+        "access": "", 
+        "to": "49616353", 
+        "length": "115.37078305592405", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034227"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4036916, 
+            37.5240255
+          ], 
+          [
+            -77.4036773, 
+            37.524381
+          ], 
+          [
+            -77.4036779, 
+            37.5248372
+          ], 
+          [
+            -77.4041268, 
+            37.5252912
+          ], 
+          [
+            -77.404443, 
+            37.5256942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616358", 
+        "name": "Crestview Road", 
+        "access": "", 
+        "to": "49616355", 
+        "length": "207.26770055882963", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034227"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4052526, 
+            37.5243867
+          ], 
+          [
+            -77.4049769, 
+            37.524323
+          ], 
+          [
+            -77.4045958, 
+            37.5241779
+          ], 
+          [
+            -77.4043461, 
+            37.5241238
+          ], 
+          [
+            -77.4039938, 
+            37.5241003
+          ], 
+          [
+            -77.4037886, 
+            37.524056
+          ], 
+          [
+            -77.4036916, 
+            37.5240255
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145837936", 
+        "name": "Government Road", 
+        "access": "", 
+        "to": "49616358", 
+        "length": "144.60838043589794", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "secondary", 
+        "osmid": "44845891"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409015, 
+            37.5284466
+          ], 
+          [
+            -77.4094549, 
+            37.5279899
+          ], 
+          [
+            -77.4096244, 
+            37.527814
+          ], 
+          [
+            -77.409846, 
+            37.5275839
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613937", 
+        "name": "Chimborazo Boulevard", 
+        "access": "", 
+        "to": "49613934", 
+        "length": "120.74944692656288", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072798, 
+            37.5287455
+          ], 
+          [
+            -77.4069359, 
+            37.5285371
+          ], 
+          [
+            -77.4067967, 
+            37.5284528
+          ], 
+          [
+            -77.4067417, 
+            37.5284195
+          ], 
+          [
+            -77.4065074, 
+            37.5282632
+          ], 
+          [
+            -77.4063188, 
+            37.5280744
+          ], 
+          [
+            -77.4059963, 
+            37.527514
+          ], 
+          [
+            -77.4058597, 
+            37.5269454
+          ], 
+          [
+            -77.4058356, 
+            37.5267786
+          ], 
+          [
+            -77.4057933, 
+            37.5264662
+          ], 
+          [
+            -77.4056935, 
+            37.5262704
+          ], 
+          [
+            -77.4053468, 
+            37.5256997
+          ], 
+          [
+            -77.4051315, 
+            37.5252331
+          ], 
+          [
+            -77.4050597, 
+            37.524973
+          ], 
+          [
+            -77.4050605, 
+            37.5246761
+          ], 
+          [
+            -77.4051353, 
+            37.524545
+          ], 
+          [
+            -77.4052526, 
+            37.5243867
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620308", 
+        "name": "['East Leigh Street', 'Glenwood Avenue']", 
+        "access": "", 
+        "to": "2145837936", 
+        "length": "548.3249684305587", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[266890331, 6037278]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081938, 
+            37.5292992
+          ], 
+          [
+            -77.4086404, 
+            37.5288355
+          ], 
+          [
+            -77.409015, 
+            37.5284466
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613939", 
+        "name": "Chimborazo Boulevard", 
+        "access": "", 
+        "to": "49613937", 
+        "length": "119.33146666449068", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.409015, 
+            37.5284466
+          ], 
+          [
+            -77.4081011, 
+            37.5278929
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624199", 
+        "name": "East Clay Street", 
+        "access": "", 
+        "to": "49613937", 
+        "length": "101.44652433160682", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "374649620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4072798, 
+            37.5287455
+          ], 
+          [
+            -77.4077169, 
+            37.5290103
+          ], 
+          [
+            -77.4081938, 
+            37.5292992
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620308", 
+        "name": "East Leigh Street", 
+        "access": "", 
+        "to": "49613939", 
+        "length": "101.45280157977577", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "266890331"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081938, 
+            37.5292992
+          ], 
+          [
+            -77.4073537, 
+            37.5301713
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613941", 
+        "name": "Chimborazo Boulevard", 
+        "access": "", 
+        "to": "49613939", 
+        "length": "122.06652921653625", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4073537, 
+            37.5301713
+          ], 
+          [
+            -77.40651, 
+            37.5310472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613942", 
+        "name": "Chimborazo Boulevard", 
+        "access": "", 
+        "to": "49613941", 
+        "length": "122.59463708119245", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.40651, 
+            37.5310472
+          ], 
+          [
+            -77.4064005, 
+            37.5311609
+          ], 
+          [
+            -77.4056812, 
+            37.5319076
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613942", 
+        "name": "Chimborazo Boulevard", 
+        "access": "", 
+        "to": "49613944", 
+        "length": "120.42629192549313", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033443"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4081011, 
+            37.5278929
+          ], 
+          [
+            -77.4077111, 
+            37.5282977
+          ], 
+          [
+            -77.4076229, 
+            37.5283836
+          ], 
+          [
+            -77.4072798, 
+            37.5287455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624199", 
+        "name": "North 35th Street", 
+        "access": "", 
+        "to": "49620308", 
+        "length": "119.34456369776359", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040451"
+      }
+    }
+  ]
+}

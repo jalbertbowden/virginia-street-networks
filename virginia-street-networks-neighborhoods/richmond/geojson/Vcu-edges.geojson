@@ -1,0 +1,1837 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4498557, 
+            37.5490252
+          ], 
+          [
+            -77.450004, 
+            37.5491151
+          ], 
+          [
+            -77.4514476, 
+            37.5499896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49627392", 
+        "length": "176.6701261658597", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618673", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54375340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4522655, 
+            37.5491229
+          ], 
+          [
+            -77.4518506, 
+            37.5495575
+          ], 
+          [
+            -77.4514476, 
+            37.5499896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Shafer Street", 
+        "access": "", 
+        "to": "49627392", 
+        "length": "120.39679119795883", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626402", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038694"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4506984, 
+            37.5507826
+          ], 
+          [
+            -77.4509616, 
+            37.5505041
+          ], 
+          [
+            -77.4510472, 
+            37.5504135
+          ], 
+          [
+            -77.4510787, 
+            37.5503801
+          ], 
+          [
+            -77.4514476, 
+            37.5499896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Shafer Street", 
+        "access": "", 
+        "to": "49627392", 
+        "length": "110.20159647778456", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1991596255", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "54173301"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528557, 
+            37.5431754
+          ], 
+          [
+            -77.4528544, 
+            37.5435273
+          ], 
+          [
+            -77.452854, 
+            37.5436346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Cherry Street", 
+        "access": "", 
+        "to": "1850183162", 
+        "length": "51.07531647761209", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450572488", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384059"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452854, 
+            37.5436346
+          ], 
+          [
+            -77.4528532, 
+            37.5438339
+          ], 
+          [
+            -77.4528508, 
+            37.5445152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Cherry Street", 
+        "access": "", 
+        "to": "49612139", 
+        "length": "97.94624827700562", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1850183162", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384059"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452854, 
+            37.5436346
+          ], 
+          [
+            -77.4534697, 
+            37.5436416
+          ], 
+          [
+            -77.4540868, 
+            37.5436485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Green Alley", 
+        "access": "", 
+        "to": "49624707", 
+        "length": "108.73177451085965", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1850183162", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "174327782"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540868, 
+            37.5436485
+          ], 
+          [
+            -77.4540938, 
+            37.5435239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Linden Street", 
+        "access": "", 
+        "to": "49624707", 
+        "length": "13.872533919163699", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624709", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152640955"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540868, 
+            37.5436485
+          ], 
+          [
+            -77.4540905, 
+            37.5445332
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Linden Street", 
+        "access": "", 
+        "to": "49624707", 
+        "length": "98.40240907530422", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616279", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152640955"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540938, 
+            37.5435239
+          ], 
+          [
+            -77.454097, 
+            37.5431989
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Linden Street", 
+        "access": "", 
+        "to": "49624709", 
+        "length": "36.149634553428996", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624711", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "152640955"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540714, 
+            37.5471876
+          ], 
+          [
+            -77.454067, 
+            37.5478607
+          ], 
+          [
+            -77.4540613, 
+            37.5484323
+          ], 
+          [
+            -77.4540607, 
+            37.5484588
+          ], 
+          [
+            -77.4542668, 
+            37.5485331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "['Park Avenue', 'North Linden Street']", 
+        "access": "", 
+        "to": "1654252752", 
+        "length": "161.35972570794212", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615803", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033296, 152640954]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540714, 
+            37.5471876
+          ], 
+          [
+            -77.453211, 
+            37.5471845
+          ], 
+          [
+            -77.4528041, 
+            37.5471828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "Floyd Avenue", 
+        "access": "", 
+        "to": "49615802", 
+        "length": "111.75930977488213", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615803", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "327920841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4491056, 
+            37.5431452
+          ], 
+          [
+            -77.449734, 
+            37.5431503
+          ], 
+          [
+            -77.4503611, 
+            37.5431553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cumberland Street", 
+        "access": "", 
+        "to": "49618311", 
+        "length": "110.72912626259998", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49609928", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503409, 
+            37.5444926
+          ], 
+          [
+            -77.4503452, 
+            37.5441923
+          ], 
+          [
+            -77.4503509, 
+            37.543818
+          ], 
+          [
+            -77.4503611, 
+            37.5431553
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "access": "", 
+        "to": "49618311", 
+        "length": "148.75354721548504", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49616274", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503611, 
+            37.5431553
+          ], 
+          [
+            -77.4509999, 
+            37.5431604
+          ], 
+          [
+            -77.4516254, 
+            37.5431655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cumberland Street", 
+        "access": "", 
+        "to": "450572398", 
+        "length": "111.50526248090185", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618311", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4491056, 
+            37.5431452
+          ], 
+          [
+            -77.44908, 
+            37.5444771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "access": "", 
+        "to": "49609928", 
+        "length": "148.1594516287049", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3341198942", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "44740519"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.454097, 
+            37.5431989
+          ], 
+          [
+            -77.4537799, 
+            37.5431828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cumberland Street", 
+        "access": "", 
+        "to": "49624711", 
+        "length": "28.022532622097202", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1654473613", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "265141474"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528557, 
+            37.5431754
+          ], 
+          [
+            -77.4534787, 
+            37.5431804
+          ], 
+          [
+            -77.4537799, 
+            37.5431828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cumberland Street", 
+        "access": "", 
+        "to": "1654473613", 
+        "length": "81.50997160015663", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450572488", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4542668, 
+            37.5485331
+          ], 
+          [
+            -77.4543796, 
+            37.5485064
+          ], 
+          [
+            -77.455278, 
+            37.5485267
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "Grove Avenue", 
+        "access": "", 
+        "to": "1654252750", 
+        "length": "89.63803470620336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1654252752", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "[6033921, 327920849]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.450023, 
+            37.5428221
+          ], 
+          [
+            -77.4500863, 
+            37.5428358
+          ], 
+          [
+            -77.4503519, 
+            37.542874
+          ], 
+          [
+            -77.4506303, 
+            37.542897
+          ], 
+          [
+            -77.4511657, 
+            37.5429005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "access": "", 
+        "to": "2594565199", 
+        "length": "101.49686544898974", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594565183", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "38230986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4490599, 
+            37.5457818
+          ], 
+          [
+            -77.4491371, 
+            37.5457827
+          ], 
+          [
+            -77.4503206, 
+            37.5457964
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "49618307", 
+        "length": "111.18994234347925", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618193", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "44740520"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488116, 
+            37.5470697
+          ], 
+          [
+            -77.4489075, 
+            37.5469399
+          ], 
+          [
+            -77.4489843, 
+            37.5468018
+          ], 
+          [
+            -77.4490237, 
+            37.54669
+          ], 
+          [
+            -77.4490497, 
+            37.5464058
+          ], 
+          [
+            -77.4490599, 
+            37.5457818
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "North Belvidere Street", 
+        "access": "", 
+        "to": "49618193", 
+        "length": "147.5349565772324", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626398", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "327205889"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4490599, 
+            37.5457818
+          ], 
+          [
+            -77.44908, 
+            37.5444771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "South Belvidere Street", 
+        "access": "", 
+        "to": "3341198942", 
+        "length": "145.12772085936064", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618193", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "6034962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503409, 
+            37.5444926
+          ], 
+          [
+            -77.4503206, 
+            37.5457964
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Pine Street", 
+        "access": "", 
+        "to": "49616274", 
+        "length": "145.0278413439865", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618307", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035006"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503409, 
+            37.5444926
+          ], 
+          [
+            -77.4516132, 
+            37.5444971
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49616274", 
+        "length": "112.20412359305291", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616277", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "265141468"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503409, 
+            37.5444926
+          ], 
+          [
+            -77.4497723, 
+            37.5444871
+          ], 
+          [
+            -77.44908, 
+            37.5444771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "3341198942", 
+        "length": "111.21152726259109", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616274", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "265141468"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4503206, 
+            37.5457964
+          ], 
+          [
+            -77.4515726, 
+            37.5458109
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "1665852731", 
+        "length": "110.42260819804355", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618307", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "44740520"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528248, 
+            37.5458254
+          ], 
+          [
+            -77.4528508, 
+            37.5445152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Cherry Street", 
+        "access": "", 
+        "to": "1850183246", 
+        "length": "145.74667681166443", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612139", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032947"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528248, 
+            37.5458254
+          ], 
+          [
+            -77.4528152, 
+            37.5465054
+          ], 
+          [
+            -77.4528121, 
+            37.5466543
+          ], 
+          [
+            -77.4528041, 
+            37.5471828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Cherry Street", 
+        "access": "", 
+        "to": "49615802", 
+        "length": "150.98974642296136", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1850183246", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040354"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528248, 
+            37.5458254
+          ], 
+          [
+            -77.4515726, 
+            37.5458109
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Main Street", 
+        "access": "yes", 
+        "to": "1850183246", 
+        "length": "110.44022235097623", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1665852731", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "44740520"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4540905, 
+            37.5445332
+          ], 
+          [
+            -77.4528508, 
+            37.5445152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49612139", 
+        "length": "109.34632911667457", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616279", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "265141468"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4474084, 
+            37.5488289
+          ], 
+          [
+            -77.4477652, 
+            37.5484242
+          ], 
+          [
+            -77.4481263, 
+            37.5479775
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "North Belvidere Street", 
+        "access": "", 
+        "to": "3339364019", 
+        "length": "113.93324168607704", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596250", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "[6039453, 370471135]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4474084, 
+            37.5488289
+          ], 
+          [
+            -77.4481955, 
+            37.5492974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596250", 
+        "length": "86.79322752592607", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596259", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "370471137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516254, 
+            37.5431655
+          ], 
+          [
+            -77.4522374, 
+            37.5431704
+          ], 
+          [
+            -77.4528557, 
+            37.5431754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Cumberland Street", 
+        "access": "", 
+        "to": "450572488", 
+        "length": "108.50657959518698", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "450572398", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516132, 
+            37.5444971
+          ], 
+          [
+            -77.4516193, 
+            37.5438261
+          ], 
+          [
+            -77.4516254, 
+            37.5431655
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "access": "", 
+        "to": "450572398", 
+        "length": "148.11278967602289", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616277", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "41384068"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488116, 
+            37.5470697
+          ], 
+          [
+            -77.449784, 
+            37.5476478
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49626398", 
+        "length": "107.18137793520857", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626400", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481263, 
+            37.5479775
+          ], 
+          [
+            -77.4481699, 
+            37.5479288
+          ], 
+          [
+            -77.448449, 
+            37.5475389
+          ], 
+          [
+            -77.4488116, 
+            37.5470697
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "North Belvidere Street", 
+        "access": "", 
+        "to": "49626398", 
+        "length": "117.7117601832337", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3339364019", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "327205889"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4506984, 
+            37.5507826
+          ], 
+          [
+            -77.4495733, 
+            37.5501145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "2741466931", 
+        "length": "123.95709876198788", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596255", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "188530610"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4489727, 
+            37.5484903
+          ], 
+          [
+            -77.4493788, 
+            37.5480685
+          ], 
+          [
+            -77.449784, 
+            37.5476478
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Pine Street", 
+        "access": "", 
+        "to": "49626400", 
+        "length": "117.89746615865104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629683", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039818"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.449784, 
+            37.5476478
+          ], 
+          [
+            -77.4506624, 
+            37.5481699
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49626400", 
+        "length": "96.81215348653697", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618671", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "268207603"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4522655, 
+            37.5491229
+          ], 
+          [
+            -77.4506624, 
+            37.5481699
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "West Franklin Street", 
+        "access": "", 
+        "to": "49618671", 
+        "length": "176.69364781888993", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626402", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "153974047"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4489727, 
+            37.5484903
+          ], 
+          [
+            -77.4485734, 
+            37.5489049
+          ], 
+          [
+            -77.4481955, 
+            37.5492974
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Pine Street", 
+        "access": "", 
+        "to": "1991596259", 
+        "length": "112.94262683010776", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629683", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039818"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481955, 
+            37.5492974
+          ], 
+          [
+            -77.449095, 
+            37.5498305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596259", 
+        "length": "99.0335235684354", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1991596242", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "188530610"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516132, 
+            37.5444971
+          ], 
+          [
+            -77.4528508, 
+            37.5445152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Cary Street", 
+        "access": "yes", 
+        "to": "49616277", 
+        "length": "109.16139413289342", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612139", 
+        "ref": "VA 147", 
+        "highway": "secondary", 
+        "osmid": "265141468"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4516132, 
+            37.5444971
+          ], 
+          [
+            -77.4515726, 
+            37.5458109
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Laurel Street", 
+        "access": "", 
+        "to": "49616277", 
+        "length": "146.17291158991728", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1665852731", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036978"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481263, 
+            37.5479775
+          ], 
+          [
+            -77.4483782, 
+            37.5481301
+          ], 
+          [
+            -77.448465, 
+            37.5481827
+          ], 
+          [
+            -77.4485708, 
+            37.5482468
+          ], 
+          [
+            -77.4489727, 
+            37.5484903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49629683", 
+        "length": "93.93751805886994", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3339364019", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54375340"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4498557, 
+            37.5490252
+          ], 
+          [
+            -77.4494717, 
+            37.5494318
+          ], 
+          [
+            -77.449095, 
+            37.5498305
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Laurel Street", 
+        "access": "", 
+        "to": "1991596242", 
+        "length": "111.90504099427837", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618673", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "153974041"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.449095, 
+            37.5498305
+          ], 
+          [
+            -77.4495733, 
+            37.5501145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "access": "", 
+        "to": "1991596242", 
+        "length": "52.695168454805994", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2741466931", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "188530610"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4515529, 
+            37.5471832
+          ], 
+          [
+            -77.4528041, 
+            37.5471828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "South Cathedral Place", 
+        "access": "", 
+        "to": "49618669", 
+        "length": "110.33824702844556", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615802", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4515726, 
+            37.5458109
+          ], 
+          [
+            -77.4515555, 
+            37.5464945
+          ], 
+          [
+            -77.4515545, 
+            37.5465331
+          ], 
+          [
+            -77.4515529, 
+            37.5471832
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Laurel Street", 
+        "access": "", 
+        "to": "49618669", 
+        "length": "152.65178615800568", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1665852731", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035134"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4515529, 
+            37.5471832
+          ], 
+          [
+            -77.4513569, 
+            37.5473916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Laurel Street", 
+        "access": "", 
+        "to": "49618669", 
+        "length": "28.914403573780145", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618670", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "153974045"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4513569, 
+            37.5473916
+          ], 
+          [
+            -77.4520467, 
+            37.5476814
+          ], 
+          [
+            -77.4520758, 
+            37.5476935
+          ], 
+          [
+            -77.4526723, 
+            37.547944
+          ], 
+          [
+            -77.4528042, 
+            37.5479994
+          ], 
+          [
+            -77.4528105, 
+            37.5478566
+          ], 
+          [
+            -77.452811, 
+            37.547732
+          ], 
+          [
+            -77.4528116, 
+            37.5475856
+          ], 
+          [
+            -77.4528041, 
+            37.5471828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "", 
+        "name": "['Cathedral Place', 'North Cathedral Place']", 
+        "access": "yes", 
+        "to": "49615802", 
+        "length": "235.2713032808871", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49618670", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035524, 6039245]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4506624, 
+            37.5481699
+          ], 
+          [
+            -77.4508238, 
+            37.547991
+          ], 
+          [
+            -77.4510554, 
+            37.5477319
+          ], 
+          [
+            -77.4513012, 
+            37.5474654
+          ], 
+          [
+            -77.4513569, 
+            37.5473916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Laurel Street", 
+        "access": "", 
+        "to": "49618670", 
+        "length": "106.07441120512834", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618671", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "153974045"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4498557, 
+            37.5490252
+          ], 
+          [
+            -77.4502609, 
+            37.5485853
+          ], 
+          [
+            -77.4506624, 
+            37.5481699
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Laurel Street", 
+        "access": "", 
+        "to": "49618671", 
+        "length": "118.79643237951635", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618673", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "153974041"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4498557, 
+            37.5490252
+          ], 
+          [
+            -77.4489727, 
+            37.5484903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "West Grace Street", 
+        "access": "", 
+        "to": "49618673", 
+        "length": "97.99409634550251", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629683", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "54375340"
+      }
+    }
+  ]
+}

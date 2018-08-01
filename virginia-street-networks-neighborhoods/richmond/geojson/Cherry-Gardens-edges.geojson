@@ -1,0 +1,785 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4619068, 
+            37.4827702
+          ], 
+          [
+            -77.4619335, 
+            37.4822809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belt Boulevard", 
+        "to": "49626625", 
+        "length": "54.474005256839156", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618706", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038367"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607104, 
+            37.4824682
+          ], 
+          [
+            -77.4591226, 
+            37.4827406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Delano Street", 
+        "to": "49609538", 
+        "length": "143.38056442725934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618704", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607104, 
+            37.4824682
+          ], 
+          [
+            -77.4619335, 
+            37.4822809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Delano Street", 
+        "to": "49609538", 
+        "length": "109.9456654348927", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618706", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607104, 
+            37.4824682
+          ], 
+          [
+            -77.460628, 
+            37.483152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609538", 
+        "length": "76.40344705482224", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609540", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6031985"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4607104, 
+            37.4824682
+          ], 
+          [
+            -77.460543, 
+            37.481663
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Berry Street", 
+        "to": "49609538", 
+        "length": "90.76998156819994", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619302", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4557952, 
+            37.4824259
+          ], 
+          [
+            -77.457294, 
+            37.4821767
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Irvington Street", 
+        "to": "49619299", 
+        "length": "135.1606019085022", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4557952, 
+            37.4824259
+          ], 
+          [
+            -77.4555526, 
+            37.4816358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Zion Street", 
+        "to": "49619299", 
+        "length": "90.45092402477549", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624405", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037349"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4619121, 
+            37.4814465
+          ], 
+          [
+            -77.4619616, 
+            37.4810968
+          ], 
+          [
+            -77.4620014, 
+            37.4810425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belt Boulevard", 
+        "to": "49626628", 
+        "length": "46.127360682046024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619304", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038367"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4620014, 
+            37.4810425
+          ], 
+          [
+            -77.4625217, 
+            37.481327
+          ], 
+          [
+            -77.4627583, 
+            37.4814945
+          ], 
+          [
+            -77.4629689, 
+            37.4816981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49626674", 
+        "length": "113.05359467328157", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626628", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "300829777"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4613342, 
+            37.4805814
+          ], 
+          [
+            -77.4614601, 
+            37.4806936
+          ], 
+          [
+            -77.4616192, 
+            37.4808093
+          ], 
+          [
+            -77.4620014, 
+            37.4810425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49626628", 
+        "length": "78.3112075794954", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49626669", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "300829777"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4589219, 
+            37.4819192
+          ], 
+          [
+            -77.4591226, 
+            37.4827406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hill Street", 
+        "to": "49619301", 
+        "length": "93.06274142899315", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618704", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4589219, 
+            37.4819192
+          ], 
+          [
+            -77.4587149, 
+            37.4810719
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hill Street", 
+        "to": "49619301", 
+        "length": "95.99671428191789", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626665", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4589219, 
+            37.4819192
+          ], 
+          [
+            -77.457294, 
+            37.4821767
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Irvington Street", 
+        "to": "49619301", 
+        "length": "146.50994125966395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4589219, 
+            37.4819192
+          ], 
+          [
+            -77.460543, 
+            37.481663
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Irvington Street", 
+        "to": "49619301", 
+        "length": "145.8935513446286", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619302", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460543, 
+            37.481663
+          ], 
+          [
+            -77.4619121, 
+            37.4814465
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Irvington Street", 
+        "to": "49619302", 
+        "length": "123.21751763734333", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619304", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.460543, 
+            37.481663
+          ], 
+          [
+            -77.4603671, 
+            37.4808165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Berry Street", 
+        "to": "49619302", 
+        "length": "95.42450912711091", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626668", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4571754, 
+            37.4813484
+          ], 
+          [
+            -77.4587149, 
+            37.4810719
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Terminal Avenue", 
+        "to": "49626663", 
+        "length": "139.3191072332312", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626665", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45028925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4571754, 
+            37.4813484
+          ], 
+          [
+            -77.457294, 
+            37.4821767
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Pine Street", 
+        "to": "49626663", 
+        "length": "92.72150895826977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038754"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4571754, 
+            37.4813484
+          ], 
+          [
+            -77.4555526, 
+            37.4816358
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Terminal Avenue", 
+        "to": "49626663", 
+        "length": "146.75787730603298", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624405", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45028925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4619121, 
+            37.4814465
+          ], 
+          [
+            -77.4619335, 
+            37.4822809
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belt Boulevard", 
+        "to": "49619304", 
+        "length": "92.8264063829237", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618706", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038367"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4587149, 
+            37.4810719
+          ], 
+          [
+            -77.4603671, 
+            37.4808165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Terminal Avenue", 
+        "to": "49626665", 
+        "length": "148.57121791264765", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626668", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45028925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4613342, 
+            37.4805814
+          ], 
+          [
+            -77.4612061, 
+            37.4806498
+          ], 
+          [
+            -77.4610868, 
+            37.4806848
+          ], 
+          [
+            -77.4603671, 
+            37.4808165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Terminal Avenue", 
+        "to": "49626668", 
+        "length": "90.04550226758002", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626669", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45028925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4613342, 
+            37.4805814
+          ], 
+          [
+            -77.4614314, 
+            37.480506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Terminal Avenue", 
+        "to": "49626669", 
+        "length": "11.997399870020315", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049189853", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45028925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4606874, 
+            37.4793958
+          ], 
+          [
+            -77.460401, 
+            37.4788185
+          ], 
+          [
+            -77.4602955, 
+            37.4786452
+          ], 
+          [
+            -77.4602011, 
+            37.47848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "3049220333", 
+        "length": "110.59055925272824", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049220335", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "307645724"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.457294, 
+            37.4821767
+          ], 
+          [
+            -77.4574274, 
+            37.482979
+          ], 
+          [
+            -77.4591226, 
+            37.4827406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Pine Street', 'Delano Street']", 
+        "to": "49618704", 
+        "length": "241.9634133583555", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619300", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035146, 6038754]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4614314, 
+            37.480506
+          ], 
+          [
+            -77.4612197, 
+            37.480294
+          ], 
+          [
+            -77.4610414, 
+            37.4800688
+          ], 
+          [
+            -77.4608922, 
+            37.4798089
+          ], 
+          [
+            -77.4606874, 
+            37.4793958
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "3049220335", 
+        "length": "140.8095361343133", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049189853", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "[300829777, 307645724]"
+      }
+    }
+  ]
+}

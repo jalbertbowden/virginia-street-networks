@@ -1,0 +1,899 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492477, 
+            37.4725945
+          ], 
+          [
+            -77.4523187, 
+            37.4724425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "4", 
+        "name": "Bells Road", 
+        "to": "49613489", 
+        "length": "271.6166981642368", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613491", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "300837135"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593139, 
+            37.4764742
+          ], 
+          [
+            -77.4584951, 
+            37.4766539
+          ], 
+          [
+            -77.4581158, 
+            37.4767062
+          ], 
+          [
+            -77.4576403, 
+            37.4768857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Twyman Road", 
+        "to": "49611841", 
+        "length": "155.44843896339614", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611842", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032836"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4576403, 
+            37.4768857
+          ], 
+          [
+            -77.4578102, 
+            37.477074
+          ], 
+          [
+            -77.4594057, 
+            37.4779823
+          ], 
+          [
+            -77.4596509, 
+            37.4781482
+          ], 
+          [
+            -77.4598741, 
+            37.4783375
+          ], 
+          [
+            -77.4600662, 
+            37.4785409
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49616613", 
+        "length": "284.6292651479716", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611841", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "300829777"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4554553, 
+            37.4726834
+          ], 
+          [
+            -77.4567071, 
+            37.4757038
+          ], 
+          [
+            -77.4568887, 
+            37.476075
+          ], 
+          [
+            -77.4570126, 
+            37.4762737
+          ], 
+          [
+            -77.457155, 
+            37.4764556
+          ], 
+          [
+            -77.4573399, 
+            37.476643
+          ], 
+          [
+            -77.4576403, 
+            37.4768857
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "4", 
+        "name": "East Belt Boulevard", 
+        "to": "49611841", 
+        "length": "510.7335790956394", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049235247", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "306059985"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593139, 
+            37.4764742
+          ], 
+          [
+            -77.4593885, 
+            37.4765816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Rosanell Lane", 
+        "to": "49611842", 
+        "length": "13.640405684560339", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613587", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4593139, 
+            37.4764742
+          ], 
+          [
+            -77.459127, 
+            37.4761481
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Rosanell Lane", 
+        "to": "49611842", 
+        "length": "39.84655513734576", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613589", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033353"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4473, 
+            37.4707773
+          ], 
+          [
+            -77.44596, 
+            37.4707891
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Circle", 
+        "to": "49626500", 
+        "length": "118.29743870237617", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618321", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038320"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.449905, 
+            37.469447
+          ], 
+          [
+            -77.450009, 
+            37.468339
+          ], 
+          [
+            -77.449881, 
+            37.468291
+          ], 
+          [
+            -77.449593, 
+            37.468163
+          ], 
+          [
+            -77.449401, 
+            37.467891
+          ], 
+          [
+            -77.449353, 
+            37.467251
+          ], 
+          [
+            -77.449497, 
+            37.466195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Transport Place", 
+        "to": "49632076", 
+        "length": "389.3466306412379", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624803", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041058"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4462111, 
+            37.4644393
+          ], 
+          [
+            -77.4462511, 
+            37.463485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "49613986", 
+        "length": "106.20194334068977", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618330", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4462111, 
+            37.4644393
+          ], 
+          [
+            -77.4461965, 
+            37.465278
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "49613986", 
+        "length": "93.29436457625548", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4598142, 
+            37.4712292
+          ], 
+          [
+            -77.4595715, 
+            37.4712088
+          ], 
+          [
+            -77.4590887, 
+            37.4712173
+          ], 
+          [
+            -77.4587132, 
+            37.4712429
+          ], 
+          [
+            -77.458386, 
+            37.4712812
+          ], 
+          [
+            -77.4580856, 
+            37.4713578
+          ], 
+          [
+            -77.4573453, 
+            37.4715835
+          ], 
+          [
+            -77.4567176, 
+            37.4717836
+          ], 
+          [
+            -77.4558432, 
+            37.472039
+          ], 
+          [
+            -77.4554516, 
+            37.4721369
+          ], 
+          [
+            -77.4552801, 
+            37.4722255
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "lanes": "", 
+        "name": "Warwick Road", 
+        "to": "49613493", 
+        "length": "420.76821403211085", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145785615", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "[46843113, 300832070, 300832071]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.44596, 
+            37.4707891
+          ], 
+          [
+            -77.4459932, 
+            37.4702948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "49618321", 
+        "length": "55.05719834309681", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618323", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4461965, 
+            37.465278
+          ], 
+          [
+            -77.44614, 
+            37.4661165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "49618325", 
+        "length": "93.39650367321495", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618327", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460221, 
+            37.4691736
+          ], 
+          [
+            -77.4460108, 
+            37.4696119
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "2146876825", 
+        "length": "48.76067254587765", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146876834", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460221, 
+            37.4691736
+          ], 
+          [
+            -77.4460319, 
+            37.468793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "2146876825", 
+        "length": "42.341551893210664", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146876821", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460108, 
+            37.4696119
+          ], 
+          [
+            -77.4459932, 
+            37.4702948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "49618323", 
+        "length": "75.97229824260711", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146876834", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521962, 
+            37.4695649
+          ], 
+          [
+            -77.449905, 
+            37.469447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Transport Street", 
+        "to": "49624803", 
+        "length": "202.68663152100237", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624805", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037561"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521962, 
+            37.4695649
+          ], 
+          [
+            -77.4523187, 
+            37.4724425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Industry Avenue", 
+        "to": "49624805", 
+        "length": "320.24729953053475", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613491", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037976"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4521962, 
+            37.4695649
+          ], 
+          [
+            -77.4550611, 
+            37.4694935
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Transport Street", 
+        "to": "49624805", 
+        "length": "253.03149058799025", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624807", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037561"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.448805, 
+            37.469447
+          ], 
+          [
+            -77.449905, 
+            37.469447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Transport Street", 
+        "to": "49624802", 
+        "length": "97.10559666376349", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624803", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037561"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4600662, 
+            37.4785409
+          ], 
+          [
+            -77.4603225, 
+            37.4789248
+          ], 
+          [
+            -77.4606351, 
+            37.4795881
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "3049220337", 
+        "length": "127.08967026952035", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49616613", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "300829777"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4460319, 
+            37.468793
+          ], 
+          [
+            -77.44614, 
+            37.4661165
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "Castlewood Road", 
+        "to": "49618325", 
+        "length": "297.84999137579734", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2146876821", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4539352, 
+            37.4723688
+          ], 
+          [
+            -77.4536291, 
+            37.4723842
+          ], 
+          [
+            -77.4523187, 
+            37.4724425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "4", 
+        "name": "Bells Road", 
+        "to": "49613491", 
+        "length": "142.93128641470204", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049235252", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "300837135"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4539352, 
+            37.4723688
+          ], 
+          [
+            -77.4546271, 
+            37.472413
+          ], 
+          [
+            -77.4549563, 
+            37.4723758
+          ], 
+          [
+            -77.4550359, 
+            37.4723786
+          ], 
+          [
+            -77.4551164, 
+            37.472399
+          ], 
+          [
+            -77.4551934, 
+            37.4724376
+          ], 
+          [
+            -77.4552695, 
+            37.4724959
+          ], 
+          [
+            -77.4554553, 
+            37.4726834
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3049235247", 
+        "length": "149.02863222673568", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049235252", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "300832064"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4554553, 
+            37.4726834
+          ], 
+          [
+            -77.4552801, 
+            37.4722255
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "4", 
+        "name": "East Belt Boulevard", 
+        "to": "3049235247", 
+        "length": "53.226895683988424", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613493", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038404"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4552801, 
+            37.4722255
+          ], 
+          [
+            -77.4548466, 
+            37.4722845
+          ], 
+          [
+            -77.4544219, 
+            37.4723308
+          ], 
+          [
+            -77.4539352, 
+            37.4723688
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "lanes": "4", 
+        "name": "Bells Road", 
+        "to": "3049235252", 
+        "length": "119.83834174814461", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613493", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "306059986"
+      }
+    }
+  ]
+}

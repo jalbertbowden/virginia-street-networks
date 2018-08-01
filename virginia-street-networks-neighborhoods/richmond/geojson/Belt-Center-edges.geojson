@@ -1,0 +1,1971 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4870405, 
+            37.5097786
+          ], 
+          [
+            -77.4871644, 
+            37.5097469
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1844392650", 
+        "length": "11.486264377612574", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610489", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "37876612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.48684, 
+            37.5092731
+          ], 
+          [
+            -77.4870108, 
+            37.5097038
+          ], 
+          [
+            -77.4870405, 
+            37.5097786
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "West Belt Boulevard", 
+        "to": "49610489", 
+        "length": "58.9421728766791", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298580", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6039679"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864055, 
+            37.508231
+          ], 
+          [
+            -77.4865352, 
+            37.5084787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298578", 
+        "length": "29.832885530657105", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298539", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4857775, 
+            37.5076515
+          ], 
+          [
+            -77.485945, 
+            37.5077587
+          ], 
+          [
+            -77.4860485, 
+            37.5078385
+          ], 
+          [
+            -77.4861555, 
+            37.5079348
+          ], 
+          [
+            -77.4862576, 
+            37.508038
+          ], 
+          [
+            -77.4863467, 
+            37.5081469
+          ], 
+          [
+            -77.4864055, 
+            37.508231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298539", 
+        "length": "85.72986235050948", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2145364715", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4864055, 
+            37.508231
+          ], 
+          [
+            -77.4865315, 
+            37.5082044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49610382", 
+        "length": "11.504185975525267", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "598298539", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46847406"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4833261, 
+            37.5087812
+          ], 
+          [
+            -77.4847241, 
+            37.5085299
+          ], 
+          [
+            -77.4862504, 
+            37.5082586
+          ], 
+          [
+            -77.4864055, 
+            37.508231
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "598298539", 
+        "length": "278.50737988163235", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615535", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46847406"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4871644, 
+            37.5097469
+          ], 
+          [
+            -77.4870432, 
+            37.5094055
+          ], 
+          [
+            -77.4869956, 
+            37.5092756
+          ], 
+          [
+            -77.4869815, 
+            37.5092369
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "West Belt Boulevard", 
+        "to": "1844392644", 
+        "length": "58.976557880882595", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392650", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869815, 
+            37.5092369
+          ], 
+          [
+            -77.48684, 
+            37.5092731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1844392644", 
+        "length": "13.117867566608233", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298580", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "37876611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4869815, 
+            37.5092369
+          ], 
+          [
+            -77.4868608, 
+            37.508897
+          ], 
+          [
+            -77.486785, 
+            37.5086874
+          ], 
+          [
+            -77.4867307, 
+            37.508555
+          ], 
+          [
+            -77.4866785, 
+            37.508452
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "['East Belt Boulevard', 'West Belt Boulevard']", 
+        "to": "49610461", 
+        "length": "91.36398909448587", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392644", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "[46847409, 6038409]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4873258, 
+            37.5096585
+          ], 
+          [
+            -77.4876635, 
+            37.5092418
+          ], 
+          [
+            -77.4878688, 
+            37.5089971
+          ], 
+          [
+            -77.4879054, 
+            37.5089596
+          ], 
+          [
+            -77.4879731, 
+            37.5088951
+          ], 
+          [
+            -77.4880453, 
+            37.5088428
+          ], 
+          [
+            -77.4881496, 
+            37.508778
+          ], 
+          [
+            -77.4882748, 
+            37.5087162
+          ], 
+          [
+            -77.4883983, 
+            37.5086567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "444485657", 
+        "length": "148.4781674947968", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392646", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "37876612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4871644, 
+            37.5097469
+          ], 
+          [
+            -77.487238, 
+            37.5097207
+          ], 
+          [
+            -77.4872795, 
+            37.5096963
+          ], 
+          [
+            -77.4873258, 
+            37.5096585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1844392646", 
+        "length": "17.5374214430031", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392650", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "37876612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872701, 
+            37.5100352
+          ], 
+          [
+            -77.487267, 
+            37.5098923
+          ], 
+          [
+            -77.4872714, 
+            37.5098471
+          ], 
+          [
+            -77.4872764, 
+            37.5098064
+          ], 
+          [
+            -77.4872851, 
+            37.5097667
+          ], 
+          [
+            -77.4872989, 
+            37.5097201
+          ], 
+          [
+            -77.4873258, 
+            37.5096585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "1844392646", 
+        "length": "42.54443930548747", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392657", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "173669898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718979, 
+            37.5033112
+          ], 
+          [
+            -77.4714765, 
+            37.5035634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "2730553992", 
+        "length": "46.57762074903741", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2730553993", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "174319560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4718979, 
+            37.5033112
+          ], 
+          [
+            -77.4730121, 
+            37.5026441
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "622039836", 
+        "length": "123.17198123458272", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2730553992", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "174319560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4872701, 
+            37.5100352
+          ], 
+          [
+            -77.4871912, 
+            37.5098201
+          ], 
+          [
+            -77.4871644, 
+            37.5097469
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Westover Hills Boulevard", 
+        "to": "1844392650", 
+        "length": "33.39513494408917", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1844392657", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6035466"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.487682, 
+            37.5079982
+          ], 
+          [
+            -77.4866155, 
+            37.5081894
+          ], 
+          [
+            -77.4865315, 
+            37.5082044
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Old Midlothian Turnpike", 
+        "to": "49610382", 
+        "length": "104.06972812714538", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49615536", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "46847406"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865315, 
+            37.5082044
+          ], 
+          [
+            -77.4866785, 
+            37.508452
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49610382", 
+        "length": "30.440989604150573", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610461", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865315, 
+            37.5082044
+          ], 
+          [
+            -77.4864416, 
+            37.5080637
+          ], 
+          [
+            -77.4863697, 
+            37.5079696
+          ], 
+          [
+            -77.4862799, 
+            37.5078812
+          ], 
+          [
+            -77.4861843, 
+            37.5077997
+          ], 
+          [
+            -77.4860405, 
+            37.5076918
+          ], 
+          [
+            -77.4858357, 
+            37.507566
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "3089786271", 
+        "length": "95.11245208794145", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610382", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4808464, 
+            37.5040077
+          ], 
+          [
+            -77.4807298, 
+            37.5043895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Millenbeck Road", 
+        "to": "49619983", 
+        "length": "43.69471486879627", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626130", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038152"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4817597, 
+            37.5033341
+          ], 
+          [
+            -77.4810347, 
+            37.5037764
+          ], 
+          [
+            -77.4808464, 
+            37.5040077
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Millenbeck Road", 
+        "to": "49619983", 
+        "length": "111.32632237450024", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626131", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038152"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4801998, 
+            37.5034164
+          ], 
+          [
+            -77.4804186, 
+            37.503615
+          ], 
+          [
+            -77.4808464, 
+            37.5040077
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wharton Road", 
+        "to": "49619983", 
+        "length": "87.06711371657545", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145364706", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4807298, 
+            37.5043895
+          ], 
+          [
+            -77.4817753, 
+            37.5047146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Plazaview Road", 
+        "to": "49626130", 
+        "length": "99.08473755137821", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622834", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4788844, 
+            37.5051896
+          ], 
+          [
+            -77.4789879, 
+            37.5043283
+          ], 
+          [
+            -77.4790346, 
+            37.5038533
+          ], 
+          [
+            -77.4807298, 
+            37.5043895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Plazaview Road', 'Lordley Road', 'Lordley Lane']", 
+        "to": "49626130", 
+        "length": "310.2567807285733", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625063", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6040105, 6038099, 6037693]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4817597, 
+            37.5033341
+          ], 
+          [
+            -77.4814701, 
+            37.5031043
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brandon Road", 
+        "to": "49631993", 
+        "length": "36.14269857486072", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49626131", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4817597, 
+            37.5033341
+          ], 
+          [
+            -77.4826414, 
+            37.5039747
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brandon Road", 
+        "to": "49626131", 
+        "length": "105.49622466247457", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622835", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865352, 
+            37.5084787
+          ], 
+          [
+            -77.4865952, 
+            37.5086412
+          ], 
+          [
+            -77.4867139, 
+            37.5089348
+          ], 
+          [
+            -77.4868038, 
+            37.509176
+          ], 
+          [
+            -77.48684, 
+            37.5092731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "['East Belt Boulevard', 'West Belt Boulevard']", 
+        "to": "598298580", 
+        "length": "92.36618594314231", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298578", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "[46847408, 6039679]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852092, 
+            37.5091858
+          ], 
+          [
+            -77.4867497, 
+            37.5092682
+          ], 
+          [
+            -77.48684, 
+            37.5092731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "598298580", 
+        "length": "144.2140776394743", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485593", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "37876611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4742896, 
+            37.5028836
+          ], 
+          [
+            -77.4752795, 
+            37.5038448
+          ], 
+          [
+            -77.4757838, 
+            37.5041768
+          ], 
+          [
+            -77.476288, 
+            37.5044406
+          ], 
+          [
+            -77.4788698, 
+            37.505317
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298574", 
+        "length": "496.96037637321297", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298570", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4788698, 
+            37.505317
+          ], 
+          [
+            -77.48547, 
+            37.5075076
+          ], 
+          [
+            -77.485651, 
+            37.5075858
+          ], 
+          [
+            -77.4857775, 
+            37.5076515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "2145364715", 
+        "length": "662.8048789827759", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298574", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4788698, 
+            37.505317
+          ], 
+          [
+            -77.478706, 
+            37.506747
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lordley Lane", 
+        "to": "598298574", 
+        "length": "159.70884255338945", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625061", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4788698, 
+            37.505317
+          ], 
+          [
+            -77.4788844, 
+            37.5051896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lordley Lane", 
+        "to": "598298574", 
+        "length": "14.228662368824127", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625063", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037693"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4852092, 
+            37.5091858
+          ], 
+          [
+            -77.485408, 
+            37.5091613
+          ], 
+          [
+            -77.4856032, 
+            37.5091369
+          ], 
+          [
+            -77.4860204, 
+            37.5090714
+          ], 
+          [
+            -77.4865319, 
+            37.5089806
+          ], 
+          [
+            -77.4870687, 
+            37.5088853
+          ], 
+          [
+            -77.4883983, 
+            37.5086567
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "35 mph", 
+        "lanes": "['2', '1']", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485657", 
+        "length": "287.5266685434883", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485593", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "[120374992, 37876609, 37876610, 174319567]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730121, 
+            37.5026441
+          ], 
+          [
+            -77.4732582, 
+            37.5025739
+          ], 
+          [
+            -77.4734573, 
+            37.5025681
+          ], 
+          [
+            -77.4736451, 
+            37.5025894
+          ], 
+          [
+            -77.4738484, 
+            37.5026301
+          ], 
+          [
+            -77.4740553, 
+            37.5027393
+          ], 
+          [
+            -77.4742896, 
+            37.5028836
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "598298570", 
+        "length": "123.99850072333577", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622039836", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "6032173"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730121, 
+            37.5026441
+          ], 
+          [
+            -77.47364, 
+            37.5022312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "622039837", 
+        "length": "71.96435032543785", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622039836", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "174319560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.47364, 
+            37.5022312
+          ], 
+          [
+            -77.4742896, 
+            37.5028836
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "598298570", 
+        "length": "92.47216664994745", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622039837", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "46847408"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.47364, 
+            37.5022312
+          ], 
+          [
+            -77.4737413, 
+            37.5021666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "622039838", 
+        "length": "11.46849220316834", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622039837", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "174319560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4737413, 
+            37.5021666
+          ], 
+          [
+            -77.4743684, 
+            37.501816
+          ], 
+          [
+            -77.4744688, 
+            37.5017448
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "622039787", 
+        "length": "79.5779970023363", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622039838", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "174319560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4737413, 
+            37.5021666
+          ], 
+          [
+            -77.4743403, 
+            37.5027691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "622039838", 
+        "length": "85.34932681960525", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610079", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4754696, 
+            37.501064
+          ], 
+          [
+            -77.4744688, 
+            37.5017448
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Hull Street", 
+        "to": "622039839", 
+        "length": "116.33021622548002", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "622039787", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "174319560"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4811412, 
+            37.5059423
+          ], 
+          [
+            -77.4817753, 
+            37.5047146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Berkley Road", 
+        "to": "49622832", 
+        "length": "147.57028751797742", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622834", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036652"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858357, 
+            37.507566
+          ], 
+          [
+            -77.4857552, 
+            37.5075278
+          ], 
+          [
+            -77.485536, 
+            37.5074348
+          ], 
+          [
+            -77.4811412, 
+            37.5059423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49622832", 
+        "length": "452.01917041751807", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3089786271", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4811412, 
+            37.5059423
+          ], 
+          [
+            -77.4788844, 
+            37.5051896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49625063", 
+        "length": "216.01255910597214", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49622832", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4788844, 
+            37.5051896
+          ], 
+          [
+            -77.476288, 
+            37.5043215
+          ], 
+          [
+            -77.4758267, 
+            37.5040661
+          ], 
+          [
+            -77.475416, 
+            37.5037868
+          ], 
+          [
+            -77.475301, 
+            37.5037086
+          ], 
+          [
+            -77.4743403, 
+            37.5027691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "East Belt Boulevard", 
+        "to": "49610079", 
+        "length": "493.90228175915047", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625063", 
+        "ref": "VA 161", 
+        "highway": "primary", 
+        "osmid": "6038409"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4817753, 
+            37.5047146
+          ], 
+          [
+            -77.4835984, 
+            37.5053331
+          ], 
+          [
+            -77.4838141, 
+            37.5053101
+          ], 
+          [
+            -77.4839823, 
+            37.5052058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Plazaview Road", 
+        "to": "49630442", 
+        "length": "212.99603091776868", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622834", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040105"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4839823, 
+            37.5052058
+          ], 
+          [
+            -77.4826414, 
+            37.5039747
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brandon Road", 
+        "to": "49630442", 
+        "length": "180.9659873531936", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622835", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4858357, 
+            37.507566
+          ], 
+          [
+            -77.4859119, 
+            37.5074105
+          ], 
+          [
+            -77.4859674, 
+            37.5072533
+          ], 
+          [
+            -77.4859196, 
+            37.5070263
+          ], 
+          [
+            -77.485765, 
+            37.5068457
+          ], 
+          [
+            -77.4839823, 
+            37.5052058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brandon Road", 
+        "to": "49630442", 
+        "length": "327.44974359734584", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3089786271", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4743403, 
+            37.5027691
+          ], 
+          [
+            -77.4742409, 
+            37.5025861
+          ], 
+          [
+            -77.4741945, 
+            37.5024547
+          ], 
+          [
+            -77.4741783, 
+            37.5023147
+          ], 
+          [
+            -77.4741917, 
+            37.5021815
+          ], 
+          [
+            -77.4742132, 
+            37.5020546
+          ], 
+          [
+            -77.4742644, 
+            37.5019316
+          ], 
+          [
+            -77.4744688, 
+            37.5017448
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "622039787", 
+        "length": "124.00358975861653", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610079", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "6032542"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883361, 
+            37.5085931
+          ], 
+          [
+            -77.4870437, 
+            37.5088243
+          ], 
+          [
+            -77.4865119, 
+            37.5089168
+          ], 
+          [
+            -77.4861178, 
+            37.5089883
+          ], 
+          [
+            -77.4860187, 
+            37.5090026
+          ], 
+          [
+            -77.4856174, 
+            37.5090635
+          ], 
+          [
+            -77.485305, 
+            37.5091038
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Midlothian Turnpike", 
+        "to": "444485444", 
+        "length": "273.4616496761435", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485420", 
+        "ref": "US 60", 
+        "highway": "primary", 
+        "osmid": "[37876608, 37876606, 37876607]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4883361, 
+            37.5085931
+          ], 
+          [
+            -77.4881276, 
+            37.5085873
+          ], 
+          [
+            -77.4877531, 
+            37.5085479
+          ], 
+          [
+            -77.4870041, 
+            37.5084729
+          ], 
+          [
+            -77.4868268, 
+            37.508455
+          ], 
+          [
+            -77.4866785, 
+            37.508452
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "49610461", 
+        "length": "147.2082854234879", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "444485420", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "6032319"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865352, 
+            37.5084787
+          ], 
+          [
+            -77.4863662, 
+            37.5085654
+          ], 
+          [
+            -77.486313, 
+            37.508606
+          ], 
+          [
+            -77.4861217, 
+            37.5087384
+          ], 
+          [
+            -77.4859991, 
+            37.508818
+          ], 
+          [
+            -77.4859163, 
+            37.508865
+          ], 
+          [
+            -77.4858039, 
+            37.5089235
+          ], 
+          [
+            -77.4856691, 
+            37.50898
+          ], 
+          [
+            -77.4855132, 
+            37.5090333
+          ], 
+          [
+            -77.485305, 
+            37.5091038
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "444485444", 
+        "length": "129.89743701098655", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "598298578", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "304445708"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4865352, 
+            37.5084787
+          ], 
+          [
+            -77.4866785, 
+            37.508452
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "598298578", 
+        "length": "12.987690600097169", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49610461", 
+        "ref": "", 
+        "highway": "primary_link", 
+        "osmid": "6032319"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4857775, 
+            37.5076515
+          ], 
+          [
+            -77.4858357, 
+            37.507566
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brandon Road", 
+        "to": "2145364715", 
+        "length": "10.807722278176406", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3089786271", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041023"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4826414, 
+            37.5039747
+          ], 
+          [
+            -77.4818983, 
+            37.5044939
+          ], 
+          [
+            -77.4817753, 
+            37.5047146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Berkley Road", 
+        "to": "49622834", 
+        "length": "114.21351221532353", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49622835", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036652"
+      }
+    }
+  ]
+}

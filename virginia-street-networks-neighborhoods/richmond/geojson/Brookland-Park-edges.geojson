@@ -1,0 +1,1381 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.434872, 
+            37.5741696
+          ], 
+          [
+            -77.4349731, 
+            37.5731157
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623537", 
+        "name": "Hanes Avenue", 
+        "to": "49624005", 
+        "length": "117.55967187039674", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4348486, 
+            37.5761892
+          ], 
+          [
+            -77.4347799, 
+            37.5753106
+          ], 
+          [
+            -77.434872, 
+            37.5741696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49621083", 
+        "name": "Hanes Avenue", 
+        "to": "49624005", 
+        "length": "225.07945208746685", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4336353, 
+            37.5744707
+          ], 
+          [
+            -77.4342838, 
+            37.5743128
+          ], 
+          [
+            -77.434872, 
+            37.5741696
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614614", 
+        "name": "West Gladstone Avenue", 
+        "to": "49624005", 
+        "length": "114.04787499583124", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.431727, 
+            37.5783731
+          ], 
+          [
+            -77.4308361, 
+            37.5778558
+          ], 
+          [
+            -77.4304452, 
+            37.5775771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618236", 
+        "name": "Woodrow Avenue", 
+        "to": "49614497", 
+        "length": "143.7036135928291", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041212"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4304452, 
+            37.5775771
+          ], 
+          [
+            -77.4303389, 
+            37.577515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49630517", 
+        "name": "Woodrow Avenue", 
+        "to": "49614497", 
+        "length": "11.64096606314534", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041212"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4304452, 
+            37.5775771
+          ], 
+          [
+            -77.4303189, 
+            37.5765447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614497", 
+        "name": "Lamb Avenue", 
+        "to": "49614495", 
+        "length": "115.36844743139903", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4374448, 
+            37.5717159
+          ], 
+          [
+            -77.4373187, 
+            37.5732371
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49620177", 
+        "name": "Griffin Avenue", 
+        "to": "49617865", 
+        "length": "169.56216911335542", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.436278, 
+            37.5716547
+          ], 
+          [
+            -77.4368729, 
+            37.5716859
+          ], 
+          [
+            -77.4374448, 
+            37.5717159
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617863", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "49617865", 
+        "length": "103.08650214632516", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6034814"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4348486, 
+            37.5761892
+          ], 
+          [
+            -77.4343008, 
+            37.5762413
+          ], 
+          [
+            -77.4337758, 
+            37.5762913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49621083", 
+        "name": "West Meredith Street", 
+        "to": "49614615", 
+        "length": "95.24838493906125", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036053"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4336353, 
+            37.5744707
+          ], 
+          [
+            -77.4336446, 
+            37.5753439
+          ], 
+          [
+            -77.4337758, 
+            37.5762913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614614", 
+        "name": "Garland Avenue", 
+        "to": "49614615", 
+        "length": "203.13477063860296", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033657"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.43266, 
+            37.5763423
+          ], 
+          [
+            -77.4331909, 
+            37.576318
+          ], 
+          [
+            -77.4337758, 
+            37.5762913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617383", 
+        "name": "West Meredith Street", 
+        "to": "49614615", 
+        "length": "98.52282925923855", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036053"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4361883, 
+            37.5731709
+          ], 
+          [
+            -77.4367488, 
+            37.5732037
+          ], 
+          [
+            -77.4373187, 
+            37.5732371
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623539", 
+        "name": "West Crawford Street", 
+        "to": "49620177", 
+        "length": "99.9222316495279", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4361883, 
+            37.5731709
+          ], 
+          [
+            -77.436278, 
+            37.5716547
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617863", 
+        "name": "Fendall Avenue", 
+        "to": "49623539", 
+        "length": "168.82654045826172", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4361883, 
+            37.5731709
+          ], 
+          [
+            -77.4355655, 
+            37.5731426
+          ], 
+          [
+            -77.4349731, 
+            37.5731157
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623539", 
+        "name": "West Crawford Street", 
+        "to": "49623537", 
+        "length": "107.30200914399288", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.427877, 
+            37.5750867
+          ], 
+          [
+            -77.428413, 
+            37.5750395
+          ], 
+          [
+            -77.4289912, 
+            37.5749886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615545", 
+        "name": "East Gladstone Avenue", 
+        "to": "49631444", 
+        "length": "98.8242487804014", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040667"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303389, 
+            37.577515
+          ], 
+          [
+            -77.4293492, 
+            37.5769146
+          ], 
+          [
+            -77.4291797, 
+            37.576651
+          ], 
+          [
+            -77.4289912, 
+            37.5749886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49630517", 
+        "name": "Woodrow Avenue", 
+        "to": "49631444", 
+        "length": "328.42203644286235", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041212"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301509, 
+            37.5749102
+          ], 
+          [
+            -77.4295601, 
+            37.5749501
+          ], 
+          [
+            -77.4289912, 
+            37.5749886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614494", 
+        "name": "East Gladstone Avenue", 
+        "to": "49631444", 
+        "length": "102.60235152227803", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040667"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4289912, 
+            37.5749886
+          ], 
+          [
+            -77.429283, 
+            37.5713355
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612397", 
+        "name": "Woodrow Avenue", 
+        "to": "49631444", 
+        "length": "407.1340871617957", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041212"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325968, 
+            37.5729926
+          ], 
+          [
+            -77.4331842, 
+            37.573023
+          ], 
+          [
+            -77.4337642, 
+            37.5730531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49611296", 
+        "name": "West Crawford Street", 
+        "to": "49614613", 
+        "length": "103.13232771076466", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4349731, 
+            37.5731157
+          ], 
+          [
+            -77.4343779, 
+            37.5730849
+          ], 
+          [
+            -77.4337642, 
+            37.5730531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623537", 
+        "name": "West Crawford Street", 
+        "to": "49614613", 
+        "length": "106.79813122861569", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036933"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4337642, 
+            37.5730531
+          ], 
+          [
+            -77.4336353, 
+            37.5744707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614614", 
+        "name": "Garland Avenue", 
+        "to": "49614613", 
+        "length": "158.08326180778766", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033657"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4324454, 
+            37.5747607
+          ], 
+          [
+            -77.4330556, 
+            37.574612
+          ], 
+          [
+            -77.4336353, 
+            37.5744707
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617381", 
+        "name": "West Gladstone Avenue", 
+        "to": "49614614", 
+        "length": "109.74122450395245", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4268656, 
+            37.573137
+          ], 
+          [
+            -77.4264394, 
+            37.5736449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612569", 
+        "name": "Richmond Henrico Turnpike", 
+        "to": "49612567", 
+        "length": "67.84506059998404", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033069"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4260302, 
+            37.5743606
+          ], 
+          [
+            -77.426139, 
+            37.5740079
+          ], 
+          [
+            -77.4261602, 
+            37.5739392
+          ], 
+          [
+            -77.4264394, 
+            37.5736449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612570", 
+        "name": "Richmond Henrico Turnpike", 
+        "to": "49612569", 
+        "length": "89.20618417667183", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033069"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4315, 
+            37.5764325
+          ], 
+          [
+            -77.4313156, 
+            37.5748349
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618233", 
+        "name": "Barton Avenue", 
+        "to": "49618231", 
+        "length": "178.43702063620242", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4315, 
+            37.5764325
+          ], 
+          [
+            -77.4320623, 
+            37.5763888
+          ], 
+          [
+            -77.43266, 
+            37.5763423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618233", 
+        "name": "East Meredith Street", 
+        "to": "49617383", 
+        "length": "102.74657627335222", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037276"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.431727, 
+            37.5783731
+          ], 
+          [
+            -77.4316435, 
+            37.5776495
+          ], 
+          [
+            -77.4316124, 
+            37.5772061
+          ], 
+          [
+            -77.4315, 
+            37.5764325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618236", 
+        "name": "Barton Avenue", 
+        "to": "49618233", 
+        "length": "216.82626863753924", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4315, 
+            37.5764325
+          ], 
+          [
+            -77.4309079, 
+            37.5764887
+          ], 
+          [
+            -77.4303189, 
+            37.5765447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618233", 
+        "name": "East Meredith Street", 
+        "to": "49614495", 
+        "length": "104.86069581457264", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037276"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4301509, 
+            37.5749102
+          ], 
+          [
+            -77.4302708, 
+            37.5728498
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49611298", 
+        "name": "Lamb Avenue", 
+        "to": "49614494", 
+        "length": "229.4141926077537", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4313156, 
+            37.5748349
+          ], 
+          [
+            -77.4307337, 
+            37.5748725
+          ], 
+          [
+            -77.4301509, 
+            37.5749102
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618231", 
+        "name": "East Gladstone Avenue", 
+        "to": "49614494", 
+        "length": "103.01302751393084", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040667"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4303189, 
+            37.5765447
+          ], 
+          [
+            -77.4302203, 
+            37.5758894
+          ], 
+          [
+            -77.4301509, 
+            37.5749102
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614495", 
+        "name": "Lamb Avenue", 
+        "to": "49614494", 
+        "length": "182.4874185684572", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325968, 
+            37.5729926
+          ], 
+          [
+            -77.4327169, 
+            37.5714892
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612392", 
+        "name": "North Avenue", 
+        "to": "49611296", 
+        "length": "167.55239894430613", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325968, 
+            37.5729926
+          ], 
+          [
+            -77.4320321, 
+            37.5729567
+          ], 
+          [
+            -77.4314209, 
+            37.5729178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49611296", 
+        "name": "East Crawford Avenue", 
+        "to": "49611297", 
+        "length": "103.99530162855146", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032644"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4325968, 
+            37.5729926
+          ], 
+          [
+            -77.4324454, 
+            37.5747607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617381", 
+        "name": "North Avenue", 
+        "to": "49611296", 
+        "length": "197.11151411870748", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314209, 
+            37.5729178
+          ], 
+          [
+            -77.4315386, 
+            37.5714365
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612393", 
+        "name": "Barton Avenue", 
+        "to": "49611297", 
+        "length": "165.08585177052908", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302708, 
+            37.5728498
+          ], 
+          [
+            -77.4308898, 
+            37.5728864
+          ], 
+          [
+            -77.4314209, 
+            37.5729178
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49611298", 
+        "name": "East Crawford Avenue", 
+        "to": "49611297", 
+        "length": "101.66937929151041", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032644"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4314209, 
+            37.5729178
+          ], 
+          [
+            -77.4313156, 
+            37.5748349
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618231", 
+        "name": "Barton Avenue", 
+        "to": "49611297", 
+        "length": "213.43380991303556", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034974"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4302708, 
+            37.5728498
+          ], 
+          [
+            -77.430382, 
+            37.5713847
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612395", 
+        "name": "Lamb Avenue", 
+        "to": "49611298", 
+        "length": "163.25217838421366", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033597"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4328356, 
+            37.5782569
+          ], 
+          [
+            -77.43266, 
+            37.5763423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617383", 
+        "name": "North Avenue", 
+        "to": "49615588", 
+        "length": "213.51562320557088", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4324454, 
+            37.5747607
+          ], 
+          [
+            -77.43266, 
+            37.5763423
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617383", 
+        "name": "North Avenue", 
+        "to": "49617381", 
+        "length": "176.92969112135071", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "265148387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4313156, 
+            37.5748349
+          ], 
+          [
+            -77.4318899, 
+            37.5747973
+          ], 
+          [
+            -77.4324454, 
+            37.5747607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618231", 
+        "name": "East Gladstone Avenue", 
+        "to": "49617381", 
+        "length": "99.93690500055303", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040667"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4315386, 
+            37.5714365
+          ], 
+          [
+            -77.4321502, 
+            37.5714639
+          ], 
+          [
+            -77.4327169, 
+            37.5714892
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612393", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612392", 
+        "length": "104.04088144367202", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.430382, 
+            37.5713847
+          ], 
+          [
+            -77.4309958, 
+            37.5714122
+          ], 
+          [
+            -77.4315386, 
+            37.5714365
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612395", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612393", 
+        "length": "102.12534017557553", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.429283, 
+            37.5713355
+          ], 
+          [
+            -77.4298188, 
+            37.5713595
+          ], 
+          [
+            -77.430382, 
+            37.5713847
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612397", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612395", 
+        "length": "97.03931993112582", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.429283, 
+            37.5713355
+          ], 
+          [
+            -77.4281669, 
+            37.5712856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612398", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612397", 
+        "length": "98.54886744230953", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.427877, 
+            37.5750867
+          ], 
+          [
+            -77.4280188, 
+            37.5726883
+          ], 
+          [
+            -77.4280306, 
+            37.5724892
+          ], 
+          [
+            -77.4281669, 
+            37.5712856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615545", 
+        "name": "Cliff Avenue", 
+        "to": "49612398", 
+        "length": "423.637410166746", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4281669, 
+            37.5712856
+          ], 
+          [
+            -77.4269816, 
+            37.5712275
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612398", 
+        "name": "East Brookland Park Boulevard", 
+        "to": "49612403", 
+        "length": "104.69265296507304", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "6033026"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.427877, 
+            37.5750867
+          ], 
+          [
+            -77.4280049, 
+            37.5763821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615547", 
+        "name": "Cliff Avenue", 
+        "to": "49615545", 
+        "length": "144.52294692303568", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033962"
+      }
+    }
+  ]
+}

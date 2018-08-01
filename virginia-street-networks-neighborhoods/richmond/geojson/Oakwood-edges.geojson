@@ -1,0 +1,1437 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4010921, 
+            37.5311411
+          ], 
+          [
+            -77.4009692, 
+            37.5307022
+          ], 
+          [
+            -77.4008671, 
+            37.5303376
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618374", 
+        "name": "R Street", 
+        "to": "49617792", 
+        "length": "91.54737526887021", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4008671, 
+            37.5303376
+          ], 
+          [
+            -77.3985325, 
+            37.5307455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631902", 
+        "name": "North 38th Street", 
+        "to": "49617792", 
+        "length": "210.8634607662256", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040980"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4008671, 
+            37.5303376
+          ], 
+          [
+            -77.4011799, 
+            37.5305437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617791", 
+        "name": "P Street", 
+        "to": "49617792", 
+        "length": "35.87125804423399", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "332228566"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3995261, 
+            37.5322697
+          ], 
+          [
+            -77.4013045, 
+            37.5319068
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625983", 
+        "name": "North 36th Street", 
+        "to": "49625985", 
+        "length": "161.97166131013034", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038057"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3981799, 
+            37.5333895
+          ], 
+          [
+            -77.3992451, 
+            37.5331961
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631099", 
+        "name": "North 35th Street", 
+        "to": "49624898", 
+        "length": "96.38425920091751", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44845903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3981799, 
+            37.5333895
+          ], 
+          [
+            -77.3971853, 
+            37.53357
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619579", 
+        "name": "North 35th Street", 
+        "to": "49624898", 
+        "length": "89.99379992388857", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44845903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3984105, 
+            37.5342566
+          ], 
+          [
+            -77.3982903, 
+            37.5338047
+          ], 
+          [
+            -77.3981799, 
+            37.5333895
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613119", 
+        "name": "Boxley Street", 
+        "to": "49624898", 
+        "length": "98.56565450710082", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037609"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4000333, 
+            37.5359834
+          ], 
+          [
+            -77.3999325, 
+            37.5356193
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631870", 
+        "name": "Canepa Street", 
+        "to": "49632259", 
+        "length": "41.46187192256241", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4013045, 
+            37.5319068
+          ], 
+          [
+            -77.4011955, 
+            37.5315139
+          ], 
+          [
+            -77.4010921, 
+            37.5311411
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625983", 
+        "name": "R Street", 
+        "to": "49618374", 
+        "length": "87.2022028357645", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4010921, 
+            37.5311411
+          ], 
+          [
+            -77.3987871, 
+            37.5315837
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618375", 
+        "name": "North 37th Street", 
+        "to": "49618374", 
+        "length": "209.1868038521082", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035027"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3980837, 
+            37.5347035
+          ], 
+          [
+            -77.3980344, 
+            37.53471
+          ], 
+          [
+            -77.3979731, 
+            37.5347065
+          ], 
+          [
+            -77.3979294, 
+            37.5346683
+          ], 
+          [
+            -77.3978243, 
+            37.5343767
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3304709815", 
+        "name": "Boxley Street", 
+        "to": "49613121", 
+        "length": "49.29761047666523", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037611"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3978243, 
+            37.5343767
+          ], 
+          [
+            -77.3984105, 
+            37.5342566
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613119", 
+        "name": "Oakwood Avenue", 
+        "to": "49613121", 
+        "length": "53.40128184524205", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033258"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3987871, 
+            37.5315837
+          ], 
+          [
+            -77.3988839, 
+            37.5318963
+          ], 
+          [
+            -77.3989018, 
+            37.5319541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618375", 
+        "name": "Canepa Street", 
+        "to": "49632265", 
+        "length": "42.4222363654635", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4013045, 
+            37.5319068
+          ], 
+          [
+            -77.4026226, 
+            37.5316972
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625983", 
+        "name": "North 36th Street", 
+        "to": "49623576", 
+        "length": "118.57620540172555", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038057"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4013045, 
+            37.5319068
+          ], 
+          [
+            -77.4014301, 
+            37.53236
+          ], 
+          [
+            -77.4015461, 
+            37.5327785
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49625983", 
+        "name": "R Street", 
+        "to": "49627841", 
+        "length": "99.27016782370255", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3964927, 
+            37.531139
+          ], 
+          [
+            -77.3967121, 
+            37.5319108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619580", 
+        "name": "Briel Street", 
+        "to": "2840007374", 
+        "length": "87.99867733314767", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035501"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4039381, 
+            37.5322146
+          ], 
+          [
+            -77.4043753, 
+            37.5324794
+          ], 
+          [
+            -77.4046143, 
+            37.5326242
+          ], 
+          [
+            -77.4048521, 
+            37.5327683
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617785", 
+        "name": "P Street", 
+        "to": "49613946", 
+        "length": "101.44982237356497", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4039381, 
+            37.5322146
+          ], 
+          [
+            -77.4034882, 
+            37.531942
+          ], 
+          [
+            -77.4030273, 
+            37.5316628
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617785", 
+        "name": "P Street", 
+        "to": "49617787", 
+        "length": "101.09771311607017", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4039381, 
+            37.5322146
+          ], 
+          [
+            -77.4037788, 
+            37.5323799
+          ], 
+          [
+            -77.4028392, 
+            37.5325438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617785", 
+        "name": "North 35th Street", 
+        "to": "49623574", 
+        "length": "107.99717973771514", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6040451, 44845903]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3984192, 
+            37.5303933
+          ], 
+          [
+            -77.3985325, 
+            37.5307455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3304402296", 
+        "name": "Canepa Street", 
+        "to": "49631902", 
+        "length": "40.42854588252051", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3975566, 
+            37.5318002
+          ], 
+          [
+            -77.3987871, 
+            37.5315837
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618377", 
+        "name": "North 37th Street", 
+        "to": "49618375", 
+        "length": "111.1745873986818", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035027"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4026226, 
+            37.5316972
+          ], 
+          [
+            -77.4027349, 
+            37.5321361
+          ], 
+          [
+            -77.4028392, 
+            37.5325438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623576", 
+        "name": "Blakey Street", 
+        "to": "49623574", 
+        "length": "96.08269951022037", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4028392, 
+            37.5325438
+          ], 
+          [
+            -77.4015461, 
+            37.5327785
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627841", 
+        "name": "North 35th Street", 
+        "to": "49623574", 
+        "length": "117.00471843410777", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44845903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4030782, 
+            37.5334007
+          ], 
+          [
+            -77.4029566, 
+            37.5329649
+          ], 
+          [
+            -77.4028392, 
+            37.5325438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613110", 
+        "name": "Blakey Street", 
+        "to": "49623574", 
+        "length": "97.61321362758892", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6036953"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4017852, 
+            37.5336378
+          ], 
+          [
+            -77.4022849, 
+            37.5335506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613113", 
+        "name": "Oakwood Avenue", 
+        "to": "49613112", 
+        "length": "45.12908705039681", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033258"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4015461, 
+            37.5327785
+          ], 
+          [
+            -77.401661, 
+            37.5331913
+          ], 
+          [
+            -77.4017852, 
+            37.5336378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627841", 
+        "name": "R Street", 
+        "to": "49613113", 
+        "length": "97.8757600255826", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038922"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4017852, 
+            37.5336378
+          ], 
+          [
+            -77.4011241, 
+            37.533759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613115", 
+        "name": "Oakwood Avenue", 
+        "to": "49613113", 
+        "length": "59.848258984479585", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033258"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4026226, 
+            37.5316972
+          ], 
+          [
+            -77.4026275, 
+            37.5314206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617788", 
+        "name": "North 36th Street", 
+        "to": "49623576", 
+        "length": "30.76821793925747", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038057"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3987871, 
+            37.5315837
+          ], 
+          [
+            -77.3986502, 
+            37.5311418
+          ], 
+          [
+            -77.3985325, 
+            37.5307455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618375", 
+        "name": "Canepa Street", 
+        "to": "49631902", 
+        "length": "95.89749997765271", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3985325, 
+            37.5307455
+          ], 
+          [
+            -77.3973372, 
+            37.5309608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631903", 
+        "name": "North 38th Street", 
+        "to": "49631902", 
+        "length": "108.11711019142504", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040980"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4011241, 
+            37.533759
+          ], 
+          [
+            -77.4012187, 
+            37.5341241
+          ], 
+          [
+            -77.4013196, 
+            37.5345134
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613115", 
+        "name": "S Street", 
+        "to": "49626620", 
+        "length": "85.6625273036476", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4011241, 
+            37.533759
+          ], 
+          [
+            -77.3994823, 
+            37.5340634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613115", 
+        "name": "Oakwood Avenue", 
+        "to": "49613118", 
+        "length": "148.71478725283797", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033258"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3967121, 
+            37.5319108
+          ], 
+          [
+            -77.3970665, 
+            37.5331533
+          ], 
+          [
+            -77.3971853, 
+            37.53357
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49619580", 
+        "name": "Briel Street", 
+        "to": "49619579", 
+        "length": "189.20750913321154", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035501"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4021043, 
+            37.5311037
+          ], 
+          [
+            -77.4024083, 
+            37.5312879
+          ], 
+          [
+            -77.4025849, 
+            37.5313948
+          ], 
+          [
+            -77.4026275, 
+            37.5314206
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617790", 
+        "name": "P Street", 
+        "to": "49617788", 
+        "length": "58.06977679245868", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4021043, 
+            37.5311037
+          ], 
+          [
+            -77.4016543, 
+            37.5308311
+          ], 
+          [
+            -77.4011799, 
+            37.5305437
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617790", 
+        "name": "P Street", 
+        "to": "49617791", 
+        "length": "102.6056024223279", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3984105, 
+            37.5342566
+          ], 
+          [
+            -77.3994823, 
+            37.5340634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613119", 
+        "name": "Oakwood Avenue", 
+        "to": "49613118", 
+        "length": "96.94579347557442", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033258"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4026275, 
+            37.5314206
+          ], 
+          [
+            -77.4030273, 
+            37.5316628
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617788", 
+        "name": "P Street", 
+        "to": "49617787", 
+        "length": "44.37644299941995", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034781"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4015461, 
+            37.5327785
+          ], 
+          [
+            -77.4003641, 
+            37.5330143
+          ], 
+          [
+            -77.3992451, 
+            37.5331961
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627841", 
+        "name": "North 35th Street", 
+        "to": "49631099", 
+        "length": "208.2528507187402", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "44845903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3992451, 
+            37.5331961
+          ], 
+          [
+            -77.3993587, 
+            37.5336116
+          ], 
+          [
+            -77.3994823, 
+            37.5340634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631099", 
+        "name": "Canepa Street", 
+        "to": "49613118", 
+        "length": "98.70917427593625", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.39913, 
+            37.5328048
+          ], 
+          [
+            -77.3992468, 
+            37.5331099
+          ], 
+          [
+            -77.3992451, 
+            37.5331961
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2145838065", 
+        "name": "Canepa Street", 
+        "to": "49631099", 
+        "length": "45.053308239733184", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3996945, 
+            37.5348181
+          ], 
+          [
+            -77.4013196, 
+            37.5345134
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626621", 
+        "name": "Melton Avenue", 
+        "to": "49626620", 
+        "length": "147.28714584673799", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038363"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3996945, 
+            37.5348181
+          ], 
+          [
+            -77.399814, 
+            37.5352203
+          ], 
+          [
+            -77.3999325, 
+            37.5356193
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626621", 
+        "name": "Canepa Street", 
+        "to": "49631870", 
+        "length": "91.55347027356893", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3996945, 
+            37.5348181
+          ], 
+          [
+            -77.3995839, 
+            37.5344249
+          ], 
+          [
+            -77.3994823, 
+            37.5340634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626621", 
+        "name": "Canepa Street", 
+        "to": "49613118", 
+        "length": "86.00368547942861", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4023399, 
+            37.5353498
+          ], 
+          [
+            -77.4014379, 
+            37.5348065
+          ], 
+          [
+            -77.4013973, 
+            37.5347476
+          ], 
+          [
+            -77.4013196, 
+            37.5345134
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616692", 
+        "name": "S Street", 
+        "to": "49626620", 
+        "length": "134.30633375111285", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4031719, 
+            37.534486
+          ], 
+          [
+            -77.4037637, 
+            37.5338717
+          ], 
+          [
+            -77.4038929, 
+            37.5337256
+          ], 
+          [
+            -77.4041323, 
+            37.5334891
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616691", 
+        "name": "North 34th Street", 
+        "to": "49616690", 
+        "length": "139.5621634645342", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4031719, 
+            37.534486
+          ], 
+          [
+            -77.4025148, 
+            37.534088
+          ], 
+          [
+            -77.4024317, 
+            37.5340376
+          ], 
+          [
+            -77.4023982, 
+            37.5339656
+          ], 
+          [
+            -77.4022849, 
+            37.5335506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616691", 
+        "name": "R Street", 
+        "to": "49613112", 
+        "length": "137.9210269810044", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6038924, 332228567]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4031719, 
+            37.534486
+          ], 
+          [
+            -77.4023399, 
+            37.5353498
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616692", 
+        "name": "North 34th Street", 
+        "to": "49616691", 
+        "length": "120.89609700696846", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4023399, 
+            37.5353498
+          ], 
+          [
+            -77.4017248, 
+            37.5359883
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616692", 
+        "name": "North 34th Street", 
+        "to": "2145838073", 
+        "length": "89.36879353322767", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034351"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.3999325, 
+            37.5356193
+          ], 
+          [
+            -77.4008984, 
+            37.5354241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631870", 
+        "name": "T Street", 
+        "to": "49631869", 
+        "length": "87.91518562499382", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040961"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4030782, 
+            37.5334007
+          ], 
+          [
+            -77.4022849, 
+            37.5335506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49613110", 
+        "name": "Oakwood Avenue", 
+        "to": "49613112", 
+        "length": "71.92975978694794", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033258"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1225 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5200598, 
+            37.528125
+          ], 
+          [
+            -77.5176598, 
+            37.5284661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614693", 
+        "name": "Greenvale Drive", 
+        "to": "49613697", 
+        "length": "215.072583045961", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033687"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5219702, 
+            37.5274086
+          ], 
+          [
+            -77.5212065, 
+            37.5279143
+          ], 
+          [
+            -77.5200598, 
+            37.528125
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614694", 
+        "name": "Greenvale Drive", 
+        "to": "49613697", 
+        "length": "191.58817572759574", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033687"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5188197, 
+            37.5262099
+          ], 
+          [
+            -77.5198284, 
+            37.5274788
+          ], 
+          [
+            -77.5200598, 
+            37.528125
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613695", 
+        "name": "Glencove Lane", 
+        "to": "49613697", 
+        "length": "241.5579795953917", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033375"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5096033, 
+            37.5281329
+          ], 
+          [
+            -77.5102906, 
+            37.5279139
+          ], 
+          [
+            -77.5105739, 
+            37.5277777
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620492", 
+        "name": "Kimberly Drive", 
+        "to": "49613378", 
+        "length": "94.55900008930611", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038171"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5105739, 
+            37.5277777
+          ], 
+          [
+            -77.511255, 
+            37.5271905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616045", 
+        "name": "Kimberly Drive", 
+        "to": "49613378", 
+        "length": "88.74225589004571", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038171"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5115347, 
+            37.5302724
+          ], 
+          [
+            -77.511308, 
+            37.5285649
+          ], 
+          [
+            -77.5111405, 
+            37.5283294
+          ], 
+          [
+            -77.5105739, 
+            37.5277777
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49613382", 
+        "name": "Lansing Avenue", 
+        "to": "49613378", 
+        "length": "300.1835803308443", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033306"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5038657, 
+            37.530113
+          ], 
+          [
+            -77.5026724, 
+            37.5295284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "40 mph", 
+        "from": "49620447", 
+        "name": "Forest Hill Avenue", 
+        "to": "49612429", 
+        "length": "123.72131130554402", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 683", 
+        "highway": "secondary", 
+        "osmid": "315801931"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.514251, 
+            37.5276368
+          ], 
+          [
+            -77.513881, 
+            37.5273578
+          ], 
+          [
+            -77.5134265, 
+            37.5269103
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145486489", 
+        "name": "Netherwood Road", 
+        "to": "2145486469", 
+        "length": "108.94741565595693", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037744"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5151263, 
+            37.5251055
+          ], 
+          [
+            -77.5149601, 
+            37.5252072
+          ], 
+          [
+            -77.5145379, 
+            37.5254928
+          ], 
+          [
+            -77.5143902, 
+            37.5257331
+          ], 
+          [
+            -77.5141389, 
+            37.5261194
+          ], 
+          [
+            -77.5139213, 
+            37.5265077
+          ], 
+          [
+            -77.5137866, 
+            37.5266741
+          ], 
+          [
+            -77.5136364, 
+            37.5267768
+          ], 
+          [
+            -77.5134265, 
+            37.5269103
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49624762", 
+        "name": "Stonybrook Drive", 
+        "to": "2145486469", 
+        "length": "256.0336236681391", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204551033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5126713, 
+            37.5300478
+          ], 
+          [
+            -77.5124901, 
+            37.5302059
+          ], 
+          [
+            -77.5122362, 
+            37.5302593
+          ], 
+          [
+            -77.5120134, 
+            37.5302757
+          ], 
+          [
+            -77.5115347, 
+            37.5302724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145486572", 
+        "name": "Nicolet Road", 
+        "to": "49613382", 
+        "length": "108.89529450625147", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033665"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5105227, 
+            37.5302516
+          ], 
+          [
+            -77.5109979, 
+            37.5302141
+          ], 
+          [
+            -77.5115347, 
+            37.5302724
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614650", 
+        "name": "Nicolet Road", 
+        "to": "49613382", 
+        "length": "89.91342698036459", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033665"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5151263, 
+            37.5251055
+          ], 
+          [
+            -77.5158188, 
+            37.5260604
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618281", 
+        "name": "Blakemore Road", 
+        "to": "49624762", 
+        "length": "122.52390800689658", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5089147, 
+            37.5268435
+          ], 
+          [
+            -77.509346, 
+            37.5277218
+          ], 
+          [
+            -77.5096033, 
+            37.5281329
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612432", 
+        "name": "Briarcliff Road", 
+        "to": "49620492", 
+        "length": "155.8847490971128", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5096033, 
+            37.5281329
+          ], 
+          [
+            -77.5105227, 
+            37.5302516
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620492", 
+        "name": "Briarcliff Road", 
+        "to": "49614650", 
+        "length": "249.2190787860888", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.506109, 
+            37.5280008
+          ], 
+          [
+            -77.5029364, 
+            37.5293611
+          ], 
+          [
+            -77.5026724, 
+            37.5295284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612430", 
+        "name": "Bliley Road", 
+        "to": "49612429", 
+        "length": "347.93867528051305", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.506109, 
+            37.5280008
+          ], 
+          [
+            -77.5082199, 
+            37.5270827
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2009582782", 
+        "name": "Bliley Road", 
+        "to": "49612430", 
+        "length": "212.36420349064383", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5055459, 
+            37.5271289
+          ], 
+          [
+            -77.5057583, 
+            37.5274604
+          ], 
+          [
+            -77.506109, 
+            37.5280008
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49629271", 
+        "name": "Willow Creek Lane", 
+        "to": "49612430", 
+        "length": "108.95873377969411", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039629"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.510808, 
+            37.531247
+          ], 
+          [
+            -77.5105227, 
+            37.5302516
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49620495", 
+        "name": "Briarcliff Road", 
+        "to": "49614650", 
+        "length": "113.53855158257521", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5089147, 
+            37.5268435
+          ], 
+          [
+            -77.5100744, 
+            37.5262976
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612434", 
+        "name": "Bliley Road", 
+        "to": "49612432", 
+        "length": "118.96009328382648", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5089147, 
+            37.5268435
+          ], 
+          [
+            -77.5082199, 
+            37.5270827
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2009582782", 
+        "name": "Bliley Road", 
+        "to": "49612432", 
+        "length": "66.81382162214096", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5180529, 
+            37.5263159
+          ], 
+          [
+            -77.5180738, 
+            37.52678
+          ], 
+          [
+            -77.5181266, 
+            37.5273346
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618282", 
+        "name": "Junaluska Court", 
+        "to": "2145486482", 
+        "length": "113.514673898241", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5219702, 
+            37.5274086
+          ], 
+          [
+            -77.5217546, 
+            37.5272099
+          ], 
+          [
+            -77.5210303, 
+            37.5268049
+          ], 
+          [
+            -77.5204915, 
+            37.5260899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49614694", 
+        "name": "Greenvale Court", 
+        "to": "2145486421", 
+        "length": "199.97749419229172", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035249"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5049542, 
+            37.5273759
+          ], 
+          [
+            -77.5055459, 
+            37.5271289
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49629271", 
+        "name": "Willow Creek Way", 
+        "to": "49631830", 
+        "length": "58.98243434111159", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040928"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5055459, 
+            37.5271289
+          ], 
+          [
+            -77.5067656, 
+            37.526634
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49631833", 
+        "name": "Willow Creek Way", 
+        "to": "49629271", 
+        "length": "120.85356837497626", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040928"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5158188, 
+            37.5260604
+          ], 
+          [
+            -77.5158843, 
+            37.5260414
+          ], 
+          [
+            -77.5162751, 
+            37.525918
+          ], 
+          [
+            -77.5166066, 
+            37.5259426
+          ], 
+          [
+            -77.517047, 
+            37.5260371
+          ], 
+          [
+            -77.5180529, 
+            37.5263159
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618281", 
+        "name": "West Junaluska Drive", 
+        "to": "49618282", 
+        "length": "206.86540659476464", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204551035"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5158188, 
+            37.5260604
+          ], 
+          [
+            -77.5156311, 
+            37.5261609
+          ], 
+          [
+            -77.5154422, 
+            37.5263112
+          ], 
+          [
+            -77.5152376, 
+            37.5266296
+          ], 
+          [
+            -77.5151884, 
+            37.5269295
+          ], 
+          [
+            -77.5152324, 
+            37.5272192
+          ], 
+          [
+            -77.5156598, 
+            37.5279691
+          ], 
+          [
+            -77.5162531, 
+            37.5288299
+          ], 
+          [
+            -77.5166416, 
+            37.5293681
+          ], 
+          [
+            -77.5164013, 
+            37.5295585
+          ], 
+          [
+            -77.5162986, 
+            37.5296903
+          ], 
+          [
+            -77.5161909, 
+            37.5299207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618281", 
+        "name": "['North Junaluska Drive', 'Junaluska Circle']", 
+        "to": "2145486563", 
+        "length": "493.5709438760618", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039265, 6039925]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5158188, 
+            37.5260604
+          ], 
+          [
+            -77.516499, 
+            37.5270793
+          ], 
+          [
+            -77.516765, 
+            37.5277166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618281", 
+        "name": "Blakemore Road", 
+        "to": "2145486493", 
+        "length": "202.89883293752166", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037536"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5126713, 
+            37.5300478
+          ], 
+          [
+            -77.5128054, 
+            37.5301072
+          ], 
+          [
+            -77.5132811, 
+            37.530364
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145486572", 
+        "name": "Nicolet Circle", 
+        "to": "49626309", 
+        "length": "64.30722718781658", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038251"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5230717, 
+            37.5265584
+          ], 
+          [
+            -77.5227598, 
+            37.5267661
+          ], 
+          [
+            -77.5219702, 
+            37.5274086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145486441", 
+        "name": "Greenvale Drive", 
+        "to": "49614694", 
+        "length": "135.71584817921496", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033687"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.511255, 
+            37.5271905
+          ], 
+          [
+            -77.5115888, 
+            37.5267839
+          ], 
+          [
+            -77.5119168, 
+            37.5265314
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616045", 
+        "name": "Kimberly Circle", 
+        "to": "2145486440", 
+        "length": "94.28714210392496", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5180529, 
+            37.5263159
+          ], 
+          [
+            -77.5184737, 
+            37.5262786
+          ], 
+          [
+            -77.5188197, 
+            37.5262099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49618282", 
+        "name": "West Junaluska Drive", 
+        "to": "49613695", 
+        "length": "68.81306380116959", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204551035"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5126713, 
+            37.5300478
+          ], 
+          [
+            -77.5126973, 
+            37.5300251
+          ], 
+          [
+            -77.5128165, 
+            37.529869
+          ], 
+          [
+            -77.5128216, 
+            37.529758
+          ], 
+          [
+            -77.512808, 
+            37.529647
+          ], 
+          [
+            -77.5123756, 
+            37.5288436
+          ], 
+          [
+            -77.512408, 
+            37.5285283
+          ], 
+          [
+            -77.512864, 
+            37.5280852
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145486572", 
+        "name": "Nicolet Road", 
+        "to": "49614655", 
+        "length": "244.4264657775573", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033665, 6033668]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5100744, 
+            37.5262976
+          ], 
+          [
+            -77.5102433, 
+            37.5265642
+          ], 
+          [
+            -77.5104713, 
+            37.5267656
+          ], 
+          [
+            -77.511255, 
+            37.5271905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49612434", 
+        "name": "Cedarhurst Drive", 
+        "to": "49616045", 
+        "length": "147.03057839475773", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.511255, 
+            37.5271905
+          ], 
+          [
+            -77.5126248, 
+            37.5278965
+          ], 
+          [
+            -77.512864, 
+            37.5280852
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "49616045", 
+        "name": "Cedarhurst Drive", 
+        "to": "49614655", 
+        "length": "173.86458166300912", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040137"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082199, 
+            37.5270827
+          ], 
+          [
+            -77.507956, 
+            37.5265585
+          ], 
+          [
+            -77.5076664, 
+            37.5261485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2009582782", 
+        "name": "Old Willow Court", 
+        "to": "49624311", 
+        "length": "115.05056850384862", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037309"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5150639, 
+            37.5306415
+          ], 
+          [
+            -77.514308, 
+            37.529647
+          ], 
+          [
+            -77.512864, 
+            37.5280852
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "2145486584", 
+        "name": "Cedarhurst Drive", 
+        "to": "49614655", 
+        "length": "344.5616233863906", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040137"
+      }
+    }
+  ]
+}

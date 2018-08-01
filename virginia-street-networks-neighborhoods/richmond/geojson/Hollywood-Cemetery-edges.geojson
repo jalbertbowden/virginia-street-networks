@@ -1,0 +1,177 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4572483, 
+            37.5420281
+          ], 
+          [
+            -77.4571245, 
+            37.5420004
+          ], 
+          [
+            -77.4569762, 
+            37.5419894
+          ], 
+          [
+            -77.4566678, 
+            37.5419666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623873", 
+        "name": "Idlewood Avenue", 
+        "to": "49623871", 
+        "length": "51.796950073890514", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037099"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4529521, 
+            37.5378333
+          ], 
+          [
+            -77.4529402, 
+            37.5384915
+          ], 
+          [
+            -77.4529112, 
+            37.53916
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612147", 
+        "name": "South Cherry Street", 
+        "to": "49612146", 
+        "length": "147.61537264671313", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "152636415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4529112, 
+            37.53916
+          ], 
+          [
+            -77.452861, 
+            37.5404891
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612146", 
+        "name": "South Cherry Street", 
+        "to": "49611966", 
+        "length": "147.89709851416373", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "152636415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4549596, 
+            37.5418497
+          ], 
+          [
+            -77.45434, 
+            37.5418445
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "2594572421", 
+        "name": "Idlewood Avenue", 
+        "to": "2594572492", 
+        "length": "54.64697527668643", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "265141473"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4566678, 
+            37.5419666
+          ], 
+          [
+            -77.455205, 
+            37.541846
+          ], 
+          [
+            -77.4549596, 
+            37.5418497
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623871", 
+        "name": "Idlewood Avenue", 
+        "to": "2594572421", 
+        "length": "151.34929799984639", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6037099"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4566678, 
+            37.5419666
+          ], 
+          [
+            -77.4566819, 
+            37.5409029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623871", 
+        "name": "Dobson Street", 
+        "to": "49616414", 
+        "length": "118.31790261364719", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038227"
+      }
+    }
+  ]
+}

@@ -1,0 +1,2793 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756599, 
+            37.5668514
+          ], 
+          [
+            -77.4754324, 
+            37.5666518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238144", 
+        "length": "29.919195976023143", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238152", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4756599, 
+            37.5668514
+          ], 
+          [
+            -77.4766425, 
+            37.5676886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238130", 
+        "length": "127.18298796357483", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238144", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4747874, 
+            37.5675081
+          ], 
+          [
+            -77.4752211, 
+            37.5671816
+          ], 
+          [
+            -77.4755371, 
+            37.5669438
+          ], 
+          [
+            -77.4756599, 
+            37.5668514
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "2755238144", 
+        "length": "106.0759378873295", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623355", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471904, 
+            37.5650854
+          ], 
+          [
+            -77.4728503, 
+            37.5659194
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "49623351", 
+        "length": "124.76159352809881", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623352", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.471904, 
+            37.5650854
+          ], 
+          [
+            -77.470688, 
+            37.5640749
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "49623351", 
+        "length": "155.32618421160817", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614139", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727696, 
+            37.5644219
+          ], 
+          [
+            -77.4723461, 
+            37.5647465
+          ], 
+          [
+            -77.471904, 
+            37.5650854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Altamont Avenue", 
+        "to": "49623351", 
+        "length": "106.16180809045512", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755238158", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470937, 
+            37.5658107
+          ], 
+          [
+            -77.4714276, 
+            37.5654427
+          ], 
+          [
+            -77.471904, 
+            37.5650854
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Altamont Avenue", 
+        "to": "49623351", 
+        "length": "117.37305499928466", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623011", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4746902, 
+            37.5660425
+          ], 
+          [
+            -77.4748276, 
+            37.5661553
+          ], 
+          [
+            -77.4754324, 
+            37.5666518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238152", 
+        "length": "94.20458104315125", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238146", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4738281, 
+            37.5667275
+          ], 
+          [
+            -77.474281, 
+            37.5663676
+          ], 
+          [
+            -77.4746902, 
+            37.5660425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "2755238146", 
+        "length": "107.61854126422958", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623354", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4746902, 
+            37.5660425
+          ], 
+          [
+            -77.4742892, 
+            37.5657072
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238146", 
+        "length": "51.388111305258455", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238150", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4748028, 
+            37.5690629
+          ], 
+          [
+            -77.473822, 
+            37.5682347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49623019", 
+        "length": "126.34214765172064", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623017", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4748028, 
+            37.5690629
+          ], 
+          [
+            -77.4743718, 
+            37.5693961
+          ], 
+          [
+            -77.4739104, 
+            37.5697528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49623231", 
+        "length": "109.89906002800525", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623019", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4748028, 
+            37.5690629
+          ], 
+          [
+            -77.4761312, 
+            37.5701869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49623019", 
+        "length": "171.30249383434955", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1754044077", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "182532015"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4748028, 
+            37.5690629
+          ], 
+          [
+            -77.4757682, 
+            37.568324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49623357", 
+        "length": "118.31365457498386", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623019", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "6039253"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4728503, 
+            37.5659194
+          ], 
+          [
+            -77.4733158, 
+            37.5655603
+          ], 
+          [
+            -77.4737478, 
+            37.5652271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "2755238148", 
+        "length": "110.41030186569199", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623352", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4737478, 
+            37.5652271
+          ], 
+          [
+            -77.4731628, 
+            37.5647455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238148", 
+        "length": "74.36065269662204", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238160", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4737478, 
+            37.5652271
+          ], 
+          [
+            -77.4742892, 
+            37.5657072
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238150", 
+        "length": "71.62324212894879", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238148", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.472441, 
+            37.5641649
+          ], 
+          [
+            -77.4727696, 
+            37.5644219
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238158", 
+        "length": "40.69943075734643", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238156", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4727696, 
+            37.5644219
+          ], 
+          [
+            -77.4731628, 
+            37.5647455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238160", 
+        "length": "49.972560936178056", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238158", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730075, 
+            37.5704678
+          ], 
+          [
+            -77.4721008, 
+            37.5711574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49628013", 
+        "length": "110.7808507241567", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628500", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730075, 
+            37.5704678
+          ], 
+          [
+            -77.4746984, 
+            37.5717944
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Moore Street", 
+        "to": "49628013", 
+        "length": "209.7436272874268", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625185", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "201286908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730075, 
+            37.5704678
+          ], 
+          [
+            -77.4720034, 
+            37.5696391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Moore Street", 
+        "to": "49624796", 
+        "length": "127.79571743910279", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628013", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "201286908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4730075, 
+            37.5704678
+          ], 
+          [
+            -77.4739104, 
+            37.5697528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49623231", 
+        "length": "112.51862836762527", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628013", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709911, 
+            37.5673227
+          ], 
+          [
+            -77.4700358, 
+            37.5665108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Leigh Street", 
+        "to": "49623226", 
+        "length": "123.48367191632768", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623228", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036804"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709911, 
+            37.5673227
+          ], 
+          [
+            -77.4705564, 
+            37.5676508
+          ], 
+          [
+            -77.4701029, 
+            37.567993
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "49628011", 
+        "length": "108.1209982684325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623228", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709911, 
+            37.5673227
+          ], 
+          [
+            -77.4719524, 
+            37.5681421
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Leigh Street", 
+        "to": "49623228", 
+        "length": "124.45401441803017", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623229", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036804"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4709911, 
+            37.5673227
+          ], 
+          [
+            -77.4714508, 
+            37.5669757
+          ], 
+          [
+            -77.4719002, 
+            37.5666365
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "49623014", 
+        "length": "110.67546081688194", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623228", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4682177, 
+            37.5678772
+          ], 
+          [
+            -77.468697, 
+            37.5682822
+          ], 
+          [
+            -77.4691795, 
+            37.5686899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Norfolk Street", 
+        "to": "49628958", 
+        "length": "123.93904998345927", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631920", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4683187, 
+            37.5693557
+          ], 
+          [
+            -77.468748, 
+            37.5690156
+          ], 
+          [
+            -77.4691795, 
+            37.5686899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "49628958", 
+        "length": "106.04114153396834", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627512", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691795, 
+            37.5686899
+          ], 
+          [
+            -77.4696468, 
+            37.5683372
+          ], 
+          [
+            -77.4701029, 
+            37.567993
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "49628011", 
+        "length": "112.4080946336924", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628958", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691795, 
+            37.5686899
+          ], 
+          [
+            -77.4701681, 
+            37.5694878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Norfolk Street", 
+        "to": "49628958", 
+        "length": "124.3868874087542", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629924", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470937, 
+            37.5658107
+          ], 
+          [
+            -77.4704864, 
+            37.5661607
+          ], 
+          [
+            -77.4700358, 
+            37.5665108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Altamont Avenue", 
+        "to": "49623226", 
+        "length": "111.24938875922362", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623011", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470937, 
+            37.5658107
+          ], 
+          [
+            -77.4697277, 
+            37.5648075
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49623011", 
+        "length": "154.33027431869542", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614140", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470937, 
+            37.5658107
+          ], 
+          [
+            -77.4719002, 
+            37.5666365
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49623014", 
+        "length": "125.09106653923735", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623011", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673588, 
+            37.5700669
+          ], 
+          [
+            -77.4683187, 
+            37.5693557
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "49628963", 
+        "length": "115.83909821631443", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627512", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4682177, 
+            37.5678772
+          ], 
+          [
+            -77.4675949, 
+            37.5683451
+          ], 
+          [
+            -77.4672378, 
+            37.5686679
+          ], 
+          [
+            -77.4668807, 
+            37.5692996
+          ], 
+          [
+            -77.4668748, 
+            37.5694142
+          ], 
+          [
+            -77.4672258, 
+            37.5698875
+          ], 
+          [
+            -77.4673588, 
+            37.5700669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Patton Road', 'Altamont Avenue']", 
+        "to": "49628963", 
+        "length": "297.3611009247432", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631920", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[366222795, 252983276]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4673588, 
+            37.5700669
+          ], 
+          [
+            -77.4676421, 
+            37.5703874
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Patton Road", 
+        "to": "49628963", 
+        "length": "43.52641757697628", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2589815651", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "252983277"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4770092, 
+            37.5751607
+          ], 
+          [
+            -77.4762078, 
+            37.5731607
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49611045", 
+        "length": "233.40108080383052", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611048", 
+        "ref": "", 
+        "highway": "motorway_link", 
+        "osmid": "6032541"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4762078, 
+            37.5731607
+          ], 
+          [
+            -77.4750094, 
+            37.5742695
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Hamilton Street", 
+        "to": "49611048", 
+        "length": "162.38981668911484", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49619319", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6038087"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4762214, 
+            37.5706225
+          ], 
+          [
+            -77.4763083, 
+            37.5705516
+          ], 
+          [
+            -77.4763588, 
+            37.5705051
+          ], 
+          [
+            -77.4763714, 
+            37.5704618
+          ], 
+          [
+            -77.4763609, 
+            37.5704089
+          ], 
+          [
+            -77.4763022, 
+            37.5703447
+          ], 
+          [
+            -77.4761312, 
+            37.5701869
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "1754044077", 
+        "length": "60.67303588631303", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623021", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532014"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4682177, 
+            37.5678772
+          ], 
+          [
+            -77.4691448, 
+            37.567193
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Altamont Avenue", 
+        "to": "49631920", 
+        "length": "111.67787852592797", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628009", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4675246, 
+            37.5675569
+          ], 
+          [
+            -77.4679748, 
+            37.5677116
+          ], 
+          [
+            -77.4680848, 
+            37.5677717
+          ], 
+          [
+            -77.4682177, 
+            37.5678772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Norfolk Street", 
+        "to": "49631920", 
+        "length": "71.62052090184565", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625783", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.469687, 
+            37.5635859
+          ], 
+          [
+            -77.4691544, 
+            37.5646113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "North Boulevard", 
+        "to": "49623347", 
+        "length": "123.33976601023073", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623009", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "132598259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.470688, 
+            37.5640749
+          ], 
+          [
+            -77.4703964, 
+            37.5638287
+          ], 
+          [
+            -77.4702437, 
+            37.5637547
+          ], 
+          [
+            -77.469687, 
+            37.5635859
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "49623347", 
+        "length": "105.89145149347326", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614139", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.469687, 
+            37.5635859
+          ], 
+          [
+            -77.4702278, 
+            37.5626098
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "North Boulevard", 
+        "to": "2708076302", 
+        "length": "118.57678918944201", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623347", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "132598259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691448, 
+            37.567193
+          ], 
+          [
+            -77.4686862, 
+            37.5668229
+          ], 
+          [
+            -77.4685724, 
+            37.5667597
+          ], 
+          [
+            -77.468167, 
+            37.566622
+          ], 
+          [
+            -77.4680555, 
+            37.5665877
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Moore Street", 
+        "to": "49625782", 
+        "length": "119.37905678940494", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628009", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "201286908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4680555, 
+            37.5665877
+          ], 
+          [
+            -77.4675246, 
+            37.5675569
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "North Boulevard", 
+        "to": "49625782", 
+        "length": "117.52315489102627", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625783", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "132598259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4680555, 
+            37.5665877
+          ], 
+          [
+            -77.468604, 
+            37.565596
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "North Boulevard", 
+        "to": "49623223", 
+        "length": "120.4376897497938", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625782", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "132598259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.468604, 
+            37.565596
+          ], 
+          [
+            -77.4691544, 
+            37.5646113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "North Boulevard", 
+        "to": "49623009", 
+        "length": "119.79304795171838", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623223", 
+        "ref": "SR 161", 
+        "highway": "primary", 
+        "osmid": "132598259"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4700358, 
+            37.5665108
+          ], 
+          [
+            -77.4693128, 
+            37.5658908
+          ], 
+          [
+            -77.4691668, 
+            37.5657751
+          ], 
+          [
+            -77.468604, 
+            37.565596
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Leigh Street", 
+        "to": "49623223", 
+        "length": "165.57700729036173", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623226", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036804"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4728503, 
+            37.5659194
+          ], 
+          [
+            -77.4738281, 
+            37.5667275
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "49623352", 
+        "length": "124.54014242411435", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623354", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4719002, 
+            37.5666365
+          ], 
+          [
+            -77.4723904, 
+            37.5662665
+          ], 
+          [
+            -77.4728503, 
+            37.5659194
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Summit Avenue", 
+        "to": "49623352", 
+        "length": "115.66381678161518", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623014", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039448"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4691448, 
+            37.567193
+          ], 
+          [
+            -77.4695908, 
+            37.5668515
+          ], 
+          [
+            -77.4700358, 
+            37.5665108
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Altamont Avenue", 
+        "to": "49623226", 
+        "length": "109.21591951616409", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628009", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4697277, 
+            37.5648075
+          ], 
+          [
+            -77.4691544, 
+            37.5646113
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49614140", 
+        "length": "55.05481970965992", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623009", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4697277, 
+            37.5648075
+          ], 
+          [
+            -77.4702076, 
+            37.5644414
+          ], 
+          [
+            -77.470688, 
+            37.5640749
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Sheppard Street", 
+        "to": "49614139", 
+        "length": "117.50710561073618", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614140", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "83606951"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4766425, 
+            37.5676886
+          ], 
+          [
+            -77.4762384, 
+            37.5679823
+          ], 
+          [
+            -77.47588, 
+            37.5682428
+          ], 
+          [
+            -77.4757682, 
+            37.568324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49623357", 
+        "length": "104.57500948917067", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2755238130", 
+        "ref": "", 
+        "highway": "primary", 
+        "osmid": "6039253"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4757682, 
+            37.568324
+          ], 
+          [
+            -77.4747874, 
+            37.5675081
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "49623357", 
+        "length": "125.34874565606721", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623355", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729207, 
+            37.5689158
+          ], 
+          [
+            -77.4733619, 
+            37.5685824
+          ], 
+          [
+            -77.473822, 
+            37.5682347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "49623017", 
+        "length": "109.78506785402797", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623230", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729207, 
+            37.5689158
+          ], 
+          [
+            -77.4720034, 
+            37.5696391
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "49623230", 
+        "length": "114.07008918024043", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624796", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729207, 
+            37.5689158
+          ], 
+          [
+            -77.4719524, 
+            37.5681421
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Leigh Street", 
+        "to": "49623230", 
+        "length": "121.21445130978245", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623229", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036804"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4729207, 
+            37.5689158
+          ], 
+          [
+            -77.4739104, 
+            37.5697528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Leigh Street", 
+        "to": "49623230", 
+        "length": "127.5922798144759", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623231", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036804"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4739104, 
+            37.5697528
+          ], 
+          [
+            -77.4755653, 
+            37.5711617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Leigh Street", 
+        "to": "49623231", 
+        "length": "214.10707993631914", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623232", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036804"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4755653, 
+            37.5711617
+          ], 
+          [
+            -77.4746984, 
+            37.5717944
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belleville Street", 
+        "to": "49625185", 
+        "length": "103.88880441002546", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623232", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4755653, 
+            37.5711617
+          ], 
+          [
+            -77.4762214, 
+            37.5706225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belleville Street", 
+        "to": "49623021", 
+        "length": "83.32043063444155", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623232", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4721008, 
+            37.5711574
+          ], 
+          [
+            -77.4737027, 
+            37.5725495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Norfolk Street", 
+        "to": "49625187", 
+        "length": "209.5648587741119", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628500", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4721008, 
+            37.5711574
+          ], 
+          [
+            -77.4711769, 
+            37.5718601
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49628500", 
+        "length": "112.88321622693104", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627517", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4721008, 
+            37.5711574
+          ], 
+          [
+            -77.4711295, 
+            37.5702996
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Norfolk Street", 
+        "to": "49624797", 
+        "length": "128.1997988131522", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628500", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.468154, 
+            37.5710068
+          ], 
+          [
+            -77.4692677, 
+            37.5701754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "49627514", 
+        "length": "134.8740900493697", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49631715", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4703277, 
+            37.572506
+          ], 
+          [
+            -77.4719574, 
+            37.5738166
+          ], 
+          [
+            -77.4737027, 
+            37.5725495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Carlton Street', 'Belleville Street']", 
+        "to": "49625187", 
+        "length": "413.3197531125354", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624532", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6037738, 6037421]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4703277, 
+            37.572506
+          ], 
+          [
+            -77.4711769, 
+            37.5718601
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49624532", 
+        "length": "103.75697223465954", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627517", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4703277, 
+            37.572506
+          ], 
+          [
+            -77.4696086, 
+            37.5730529
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roseneath Road", 
+        "to": "49624532", 
+        "length": "87.85716918021917", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628503", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "182532005"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4728726, 
+            37.5674481
+          ], 
+          [
+            -77.4733601, 
+            37.5670805
+          ], 
+          [
+            -77.4738281, 
+            37.5667275
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "49623354", 
+        "length": "116.27639330366894", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623016", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4738281, 
+            37.5667275
+          ], 
+          [
+            -77.4747874, 
+            37.5675081
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "49623354", 
+        "length": "121.2066626540913", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623355", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036863"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4720034, 
+            37.5696391
+          ], 
+          [
+            -77.4710567, 
+            37.5688177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Moore Street", 
+        "to": "49628012", 
+        "length": "123.7441042150576", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624796", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "201286908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4720034, 
+            37.5696391
+          ], 
+          [
+            -77.4711295, 
+            37.5702996
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "49624796", 
+        "length": "106.45462048487974", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624797", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711295, 
+            37.5702996
+          ], 
+          [
+            -77.4701681, 
+            37.5694878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Norfolk Street", 
+        "to": "49624797", 
+        "length": "123.84066768087006", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629924", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039912"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4711295, 
+            37.5702996
+          ], 
+          [
+            -77.4701939, 
+            37.5710067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "49624797", 
+        "length": "113.96753586813159", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701939, 
+            37.5710067
+          ], 
+          [
+            -77.4692677, 
+            37.5701754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rockbridge Street", 
+        "to": "49627514", 
+        "length": "123.35463984101139", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624798", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701939, 
+            37.5710067
+          ], 
+          [
+            -77.4711769, 
+            37.5718601
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rockbridge Street", 
+        "to": "49624798", 
+        "length": "128.52861580922595", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627517", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701939, 
+            37.5710067
+          ], 
+          [
+            -77.4688275, 
+            37.5720393
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "49624798", 
+        "length": "166.43659730634317", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624799", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4746984, 
+            37.5717944
+          ], 
+          [
+            -77.4737027, 
+            37.5725495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Belleville Street", 
+        "to": "49625187", 
+        "length": "121.48522278904422", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625185", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701681, 
+            37.5694878
+          ], 
+          [
+            -77.4697214, 
+            37.5698247
+          ], 
+          [
+            -77.4692677, 
+            37.5701754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "49627514", 
+        "length": "110.2291542344961", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629924", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4710567, 
+            37.5688177
+          ], 
+          [
+            -77.4706241, 
+            37.5691439
+          ], 
+          [
+            -77.4701681, 
+            37.5694878
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "49629924", 
+        "length": "108.13006737864683", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628012", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4719002, 
+            37.5666365
+          ], 
+          [
+            -77.4728726, 
+            37.5674481
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49623016", 
+        "length": "124.49249690630123", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623014", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4728726, 
+            37.5674481
+          ], 
+          [
+            -77.473822, 
+            37.5682347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Clay Street", 
+        "to": "49623017", 
+        "length": "121.08004187235964", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49623016", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036721"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4719524, 
+            37.5681421
+          ], 
+          [
+            -77.4724253, 
+            37.5677855
+          ], 
+          [
+            -77.4728726, 
+            37.5674481
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "49623016", 
+        "length": "111.98179461170471", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623229", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.473822, 
+            37.5682347
+          ], 
+          [
+            -77.4747874, 
+            37.5675081
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Mactavish Avenue", 
+        "to": "49623017", 
+        "length": "117.36814043576327", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623355", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037558"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701029, 
+            37.567993
+          ], 
+          [
+            -77.4691448, 
+            37.567193
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Moore Street", 
+        "to": "49628009", 
+        "length": "122.68833967614962", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628011", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "201286908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4701029, 
+            37.567993
+          ], 
+          [
+            -77.4710567, 
+            37.5688177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Moore Street", 
+        "to": "49628011", 
+        "length": "124.43808097531429", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49628012", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "201286908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4719524, 
+            37.5681421
+          ], 
+          [
+            -77.4715282, 
+            37.5684621
+          ], 
+          [
+            -77.4710567, 
+            37.5688177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Highpoint Avenue", 
+        "to": "49628012", 
+        "length": "109.00573531669781", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623229", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4766425, 
+            37.5676886
+          ], 
+          [
+            -77.4769601, 
+            37.5679541
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238140", 
+        "length": "40.69471672482142", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238130", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4683187, 
+            37.5693557
+          ], 
+          [
+            -77.4692677, 
+            37.5701754
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Rockbridge Street", 
+        "to": "49627514", 
+        "length": "123.74116360908003", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49627512", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038750"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4769601, 
+            37.5679541
+          ], 
+          [
+            -77.4771573, 
+            37.5681189
+          ], 
+          [
+            -77.4777363, 
+            37.568603
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "3", 
+        "name": "West Broad Street", 
+        "to": "2755238142", 
+        "length": "99.4581785860892", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2755238140", 
+        "ref": "US 250", 
+        "highway": "primary", 
+        "osmid": "270510929"
+      }
+    }
+  ]
+}

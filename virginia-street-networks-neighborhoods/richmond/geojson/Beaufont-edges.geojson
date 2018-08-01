@@ -1,0 +1,2181 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082539, 
+            37.5114355
+          ], 
+          [
+            -77.5074427, 
+            37.510738
+          ], 
+          [
+            -77.507289, 
+            37.5104418
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618753", 
+        "name": "Labrook Drive", 
+        "to": "49618752", 
+        "length": "141.17851158989595", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035172"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.507289, 
+            37.5104418
+          ], 
+          [
+            -77.5087991, 
+            37.5101597
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628375", 
+        "name": "Keaneland Drive", 
+        "to": "49618752", 
+        "length": "136.88021615114252", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041112"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.507289, 
+            37.5104418
+          ], 
+          [
+            -77.50704, 
+            37.509946
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618752", 
+        "name": "Labrook Drive", 
+        "to": "49618751", 
+        "length": "59.360964173611116", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035172"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.504972, 
+            37.5070096
+          ], 
+          [
+            -77.505207, 
+            37.508447
+          ], 
+          [
+            -77.5055107, 
+            37.5099009
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3089829498", 
+        "name": "German School Road", 
+        "to": "49623236", 
+        "length": "325.1324184535668", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "304449585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5055107, 
+            37.5099009
+          ], 
+          [
+            -77.5056218, 
+            37.5104997
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623237", 
+        "name": "German School Road", 
+        "to": "49623236", 
+        "length": "67.31975430744306", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "304449585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5092577, 
+            37.5081853
+          ], 
+          [
+            -77.5082428, 
+            37.508293
+          ], 
+          [
+            -77.5076892, 
+            37.5082345
+          ], 
+          [
+            -77.5072493, 
+            37.508067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612040", 
+        "name": "Lamar Drive", 
+        "to": "49612038", 
+        "length": "182.6740571548449", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5072493, 
+            37.508067
+          ], 
+          [
+            -77.5075325, 
+            37.5072708
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618764", 
+        "name": "Labrook Drive", 
+        "to": "49612038", 
+        "length": "92.0160581794663", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.511146, 
+            37.5087639
+          ], 
+          [
+            -77.5088261, 
+            37.5091632
+          ], 
+          [
+            -77.5084367, 
+            37.5092279
+          ], 
+          [
+            -77.5079043, 
+            37.5092298
+          ], 
+          [
+            -77.5074893, 
+            37.5090847
+          ], 
+          [
+            -77.5072267, 
+            37.5088139
+          ], 
+          [
+            -77.507108, 
+            37.508347
+          ], 
+          [
+            -77.5072493, 
+            37.508067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626975", 
+        "name": "['Laveta Drive', 'Labrook Drive']", 
+        "to": "49612038", 
+        "length": "456.0660077334647", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6038505, 6035177]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5092577, 
+            37.5081853
+          ], 
+          [
+            -77.5107626, 
+            37.5078266
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612042", 
+        "name": "Lamar Drive", 
+        "to": "49612040", 
+        "length": "138.64516099240237", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5075325, 
+            37.5072708
+          ], 
+          [
+            -77.5083621, 
+            37.5074134
+          ], 
+          [
+            -77.5090112, 
+            37.5075636
+          ], 
+          [
+            -77.5091488, 
+            37.5077726
+          ], 
+          [
+            -77.5092577, 
+            37.5081853
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618764", 
+        "name": "Lamesa Drive", 
+        "to": "49612040", 
+        "length": "207.67929301880235", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038442"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5097586, 
+            37.5062604
+          ], 
+          [
+            -77.5102633, 
+            37.5067634
+          ], 
+          [
+            -77.5103277, 
+            37.5068463
+          ], 
+          [
+            -77.5103814, 
+            37.506924
+          ], 
+          [
+            -77.5104323, 
+            37.5070293
+          ], 
+          [
+            -77.5107626, 
+            37.5078266
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618760", 
+        "name": "Lasalle Drive", 
+        "to": "49612042", 
+        "length": "198.08322467595656", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5107626, 
+            37.5078266
+          ], 
+          [
+            -77.5118291, 
+            37.5075585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612045", 
+        "name": "Lamar Drive", 
+        "to": "49612042", 
+        "length": "98.7119382085067", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5107626, 
+            37.5078266
+          ], 
+          [
+            -77.511146, 
+            37.5087639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626975", 
+        "name": "Lasalle Drive", 
+        "to": "49612042", 
+        "length": "109.60336657990953", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.512074, 
+            37.5069551
+          ], 
+          [
+            -77.511724, 
+            37.5070507
+          ], 
+          [
+            -77.5116789, 
+            37.5070772
+          ], 
+          [
+            -77.5116563, 
+            37.507106
+          ], 
+          [
+            -77.5116475, 
+            37.5071356
+          ], 
+          [
+            -77.5116504, 
+            37.5071644
+          ], 
+          [
+            -77.5118291, 
+            37.5075585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002386", 
+        "name": "Beaufont Court", 
+        "to": "49612045", 
+        "length": "94.5663030542336", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033813"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123396, 
+            37.5074027
+          ], 
+          [
+            -77.512188, 
+            37.5074511
+          ], 
+          [
+            -77.5118291, 
+            37.5075585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612047", 
+        "name": "Lamar Drive", 
+        "to": "49612045", 
+        "length": "48.26376992394259", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5128563, 
+            37.5077425
+          ], 
+          [
+            -77.5132919, 
+            37.5079295
+          ], 
+          [
+            -77.5134697, 
+            37.5080096
+          ], 
+          [
+            -77.5138527, 
+            37.508235
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612050", 
+        "name": "Beaufont Hills Drive", 
+        "to": "49628302", 
+        "length": "103.81927367150291", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5138527, 
+            37.508235
+          ], 
+          [
+            -77.5147345, 
+            37.5073302
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631172", 
+        "name": "Beaufont Hills Court", 
+        "to": "49628302", 
+        "length": "127.20567869198621", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040501"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5150313, 
+            37.5089816
+          ], 
+          [
+            -77.5140512, 
+            37.5083668
+          ], 
+          [
+            -77.5138527, 
+            37.508235
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616829", 
+        "name": "['Beaufont Hills Drive', 'Vevadel Drive']", 
+        "to": "49628302", 
+        "length": "133.08531526318814", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6037673, 6039140]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.512074, 
+            37.5069551
+          ], 
+          [
+            -77.5122236, 
+            37.507279
+          ], 
+          [
+            -77.5123396, 
+            37.5074027
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002386", 
+        "name": "Beaufont Hills Drive", 
+        "to": "49612047", 
+        "length": "55.516293091584586", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6039144"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5128563, 
+            37.5077425
+          ], 
+          [
+            -77.51269, 
+            37.5076615
+          ], 
+          [
+            -77.5125669, 
+            37.5075898
+          ], 
+          [
+            -77.5124022, 
+            37.5074695
+          ], 
+          [
+            -77.5123396, 
+            37.5074027
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612050", 
+        "name": "Beaufont Hills Drive", 
+        "to": "49612047", 
+        "length": "59.70495629688246", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123396, 
+            37.5074027
+          ], 
+          [
+            -77.5123092, 
+            37.5072602
+          ], 
+          [
+            -77.5121714, 
+            37.5069425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612047", 
+        "name": "Beaufont Hills Drive", 
+        "to": "49615053", 
+        "length": "53.444936052288675", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "304462578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5150459, 
+            37.5063924
+          ], 
+          [
+            -77.5143178, 
+            37.5065322
+          ], 
+          [
+            -77.5142273, 
+            37.5065648
+          ], 
+          [
+            -77.5141663, 
+            37.5065956
+          ], 
+          [
+            -77.5141168, 
+            37.5066299
+          ], 
+          [
+            -77.5140621, 
+            37.5066716
+          ], 
+          [
+            -77.5140116, 
+            37.5067217
+          ], 
+          [
+            -77.5139737, 
+            37.5067693
+          ], 
+          [
+            -77.51394, 
+            37.5068218
+          ], 
+          [
+            -77.5138716, 
+            37.5069696
+          ], 
+          [
+            -77.5138243, 
+            37.5070422
+          ], 
+          [
+            -77.5137664, 
+            37.507104
+          ], 
+          [
+            -77.5136949, 
+            37.5071557
+          ], 
+          [
+            -77.5132098, 
+            37.5073828
+          ], 
+          [
+            -77.5131278, 
+            37.5074358
+          ], 
+          [
+            -77.5128563, 
+            37.5077425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612051", 
+        "name": "Lamar Drive", 
+        "to": "49612050", 
+        "length": "258.10928462288985", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032908"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123465, 
+            37.5135299
+          ], 
+          [
+            -77.5126749, 
+            37.5132163
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617683", 
+        "name": "Goodwood Court", 
+        "to": "49617685", 
+        "length": "45.34435331948326", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123465, 
+            37.5135299
+          ], 
+          [
+            -77.5112892, 
+            37.5128626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616836", 
+        "name": "Goodwood Road", 
+        "to": "49617685", 
+        "length": "119.20668226992866", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123465, 
+            37.5135299
+          ], 
+          [
+            -77.5117361, 
+            37.5142661
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617686", 
+        "name": "Goodwood Court", 
+        "to": "49617685", 
+        "length": "98.00627958250264", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034734"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5112892, 
+            37.5128626
+          ], 
+          [
+            -77.5123288, 
+            37.5117632
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614144", 
+        "name": "Deter Road", 
+        "to": "49616836", 
+        "length": "152.8582946585067", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5112892, 
+            37.5128626
+          ], 
+          [
+            -77.5097751, 
+            37.5143635
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616836", 
+        "name": "Deter Road", 
+        "to": "49616837", 
+        "length": "213.8061208552847", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5135605, 
+            37.5126553
+          ], 
+          [
+            -77.5133116, 
+            37.51232
+          ], 
+          [
+            -77.5132503, 
+            37.5120268
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49617182", 
+        "name": "Edgemont Drive", 
+        "to": "49614148", 
+        "length": "76.33608330704504", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034529"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5056218, 
+            37.5104997
+          ], 
+          [
+            -77.5057544, 
+            37.5110715
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623239", 
+        "name": "German School Road", 
+        "to": "49623237", 
+        "length": "64.66625988645856", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "304449585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5057544, 
+            37.5110715
+          ], 
+          [
+            -77.5051639, 
+            37.5111433
+          ], 
+          [
+            -77.5049371, 
+            37.5109872
+          ], 
+          [
+            -77.5049075, 
+            37.510797
+          ], 
+          [
+            -77.5050521, 
+            37.5105785
+          ], 
+          [
+            -77.5056218, 
+            37.5104997
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623239", 
+        "name": "German School Crescent", 
+        "to": "49623237", 
+        "length": "178.98676628205274", 
+        "key": "1", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040888"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5116769, 
+            37.5058568
+          ], 
+          [
+            -77.5115848, 
+            37.5058816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002384", 
+        "name": "Beaufont Terrace", 
+        "to": "49628210", 
+        "length": "8.581817618486076", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5116769, 
+            37.5058568
+          ], 
+          [
+            -77.5118304, 
+            37.5062021
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628216", 
+        "name": "Beaufont Hills Drive", 
+        "to": "49628210", 
+        "length": "40.72460892237516", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "304462578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5118304, 
+            37.5062021
+          ], 
+          [
+            -77.5117417, 
+            37.5062224
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002385", 
+        "name": "Beaufont Terrace", 
+        "to": "49628216", 
+        "length": "8.145578699025345", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5118304, 
+            37.5062021
+          ], 
+          [
+            -77.5121714, 
+            37.5069425
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49615053", 
+        "name": "Beaufont Hills Drive", 
+        "to": "49628216", 
+        "length": "87.67618280002766", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "304462578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5159938, 
+            37.5079653
+          ], 
+          [
+            -77.5157563, 
+            37.5082103
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616827", 
+        "name": "Deter Road", 
+        "to": "49616825", 
+        "length": "34.37592044781428", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5157563, 
+            37.5082103
+          ], 
+          [
+            -77.5150167, 
+            37.5077226
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49631451", 
+        "name": "June Drive", 
+        "to": "49616827", 
+        "length": "84.8584142409319", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040669"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5157563, 
+            37.5082103
+          ], 
+          [
+            -77.5153633, 
+            37.5086345
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612785", 
+        "name": "Deter Road", 
+        "to": "49616827", 
+        "length": "58.55355968183817", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5150313, 
+            37.5089816
+          ], 
+          [
+            -77.5153633, 
+            37.5086345
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612785", 
+        "name": "Deter Road", 
+        "to": "49616829", 
+        "length": "48.46173731237041", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5150313, 
+            37.5089816
+          ], 
+          [
+            -77.5145243, 
+            37.5095065
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616830", 
+        "name": "Deter Road", 
+        "to": "49616829", 
+        "length": "73.54983102236133", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5145243, 
+            37.5095065
+          ], 
+          [
+            -77.5141529, 
+            37.5098583
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616830", 
+        "name": "Deter Road", 
+        "to": "49616832", 
+        "length": "51.038211407452586", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5145243, 
+            37.5095065
+          ], 
+          [
+            -77.5149373, 
+            37.509676
+          ], 
+          [
+            -77.515268, 
+            37.509735
+          ], 
+          [
+            -77.5153815, 
+            37.509812
+          ], 
+          [
+            -77.5154048, 
+            37.5100234
+          ], 
+          [
+            -77.5150381, 
+            37.51046
+          ], 
+          [
+            -77.5141957, 
+            37.5113545
+          ], 
+          [
+            -77.5138738, 
+            37.5116645
+          ], 
+          [
+            -77.5135289, 
+            37.5119528
+          ], 
+          [
+            -77.5132503, 
+            37.5120268
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616830", 
+        "name": "['West Crieff Road', 'Republic Drive']", 
+        "to": "49614148", 
+        "length": "405.05318179810024", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[6033504, 6039135]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5141529, 
+            37.5098583
+          ], 
+          [
+            -77.5130351, 
+            37.511005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49616834", 
+        "name": "Deter Road", 
+        "to": "49616832", 
+        "length": "161.22566122021215", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5141529, 
+            37.5098583
+          ], 
+          [
+            -77.5133462, 
+            37.5093656
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626965", 
+        "name": "Laveta Drive", 
+        "to": "49616832", 
+        "length": "89.82823066038706", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082539, 
+            37.5114355
+          ], 
+          [
+            -77.507039, 
+            37.5122123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623241", 
+        "name": "Seaman Road", 
+        "to": "49618753", 
+        "length": "137.67461437323527", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038441"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5082539, 
+            37.5114355
+          ], 
+          [
+            -77.509508, 
+            37.512347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618756", 
+        "name": "Labrook Drive", 
+        "to": "49618753", 
+        "length": "150.07020250633488", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035172"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5130351, 
+            37.511005
+          ], 
+          [
+            -77.5123288, 
+            37.5117632
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614144", 
+        "name": "Deter Road", 
+        "to": "49616834", 
+        "length": "104.8574296326914", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6034407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5116095, 
+            37.5096674
+          ], 
+          [
+            -77.511808, 
+            37.510047
+          ], 
+          [
+            -77.5121502, 
+            37.5104292
+          ], 
+          [
+            -77.5130351, 
+            37.511005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627482", 
+        "name": "Lasalle Drive", 
+        "to": "49616834", 
+        "length": "198.83222688831617", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123288, 
+            37.5117632
+          ], 
+          [
+            -77.5126464, 
+            37.51198
+          ], 
+          [
+            -77.5128827, 
+            37.5120336
+          ], 
+          [
+            -77.5132503, 
+            37.5120268
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614144", 
+        "name": "West Crieff Road", 
+        "to": "49614148", 
+        "length": "91.09344544669975", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5097751, 
+            37.5143635
+          ], 
+          [
+            -77.507039, 
+            37.5122123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623241", 
+        "name": "German School Road", 
+        "to": "49616837", 
+        "length": "339.88488932895416", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "304449585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5097751, 
+            37.5143635
+          ], 
+          [
+            -77.5118901, 
+            37.5160669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49611242", 
+        "name": "German School Road", 
+        "to": "49616837", 
+        "length": "265.91949477255537", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "304449585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.507039, 
+            37.5122123
+          ], 
+          [
+            -77.505881, 
+            37.5112832
+          ], 
+          [
+            -77.5057544, 
+            37.5110715
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49623241", 
+        "name": "German School Road", 
+        "to": "49623239", 
+        "length": "171.38013465488555", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "tertiary", 
+        "osmid": "304449585"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5075325, 
+            37.5072708
+          ], 
+          [
+            -77.5078048, 
+            37.506864
+          ], 
+          [
+            -77.5082618, 
+            37.5066527
+          ], 
+          [
+            -77.5092384, 
+            37.5064746
+          ], 
+          [
+            -77.509435, 
+            37.5064233
+          ], 
+          [
+            -77.5095369, 
+            37.5063772
+          ], 
+          [
+            -77.5097586, 
+            37.5062604
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618764", 
+        "name": "Labrook Drive", 
+        "to": "49618760", 
+        "length": "238.41308883805146", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5101118, 
+            37.5056778
+          ], 
+          [
+            -77.5100882, 
+            37.5057669
+          ], 
+          [
+            -77.5100555, 
+            37.5058537
+          ], 
+          [
+            -77.5099945, 
+            37.5059847
+          ], 
+          [
+            -77.509897, 
+            37.5061229
+          ], 
+          [
+            -77.5097586, 
+            37.5062604
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618749", 
+        "name": "Labrook Drive", 
+        "to": "49618760", 
+        "length": "72.92194316698166", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6035177"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5075325, 
+            37.5072708
+          ], 
+          [
+            -77.5064669, 
+            37.5066308
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626820", 
+        "name": "Lamesa Drive", 
+        "to": "49618764", 
+        "length": "117.92939443781124", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038442"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5121714, 
+            37.5069425
+          ], 
+          [
+            -77.512074, 
+            37.5069551
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002386", 
+        "name": "Beaufont Court", 
+        "to": "49615053", 
+        "length": "8.707464238853476", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033813"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5113967, 
+            37.5054599
+          ], 
+          [
+            -77.511536, 
+            37.5057723
+          ], 
+          [
+            -77.5115848, 
+            37.5058816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002382", 
+        "name": "Beaufont Hills Drive", 
+        "to": "3090002384", 
+        "length": "49.75395896033786", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6039144"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5113967, 
+            37.5054599
+          ], 
+          [
+            -77.5101118, 
+            37.5056778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49618749", 
+        "name": "Lacorolla Avenue", 
+        "to": "3090002382", 
+        "length": "115.93491974008501", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6037007"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5123288, 
+            37.5117632
+          ], 
+          [
+            -77.5117858, 
+            37.5114313
+          ], 
+          [
+            -77.5111852, 
+            37.5110212
+          ], 
+          [
+            -77.5106069, 
+            37.5105551
+          ], 
+          [
+            -77.5102827, 
+            37.5102146
+          ], 
+          [
+            -77.5101355, 
+            37.509919
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49614144", 
+        "name": "Crieff Road", 
+        "to": "49631823", 
+        "length": "285.94971935236674", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6040924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5101355, 
+            37.509919
+          ], 
+          [
+            -77.5116095, 
+            37.5096674
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49627482", 
+        "name": "Keaneland Drive", 
+        "to": "49631823", 
+        "length": "133.02803349726142", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041112"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5101355, 
+            37.509919
+          ], 
+          [
+            -77.5087991, 
+            37.5101597
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628375", 
+        "name": "Keaneland Drive", 
+        "to": "49631823", 
+        "length": "120.91156284151054", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6041112"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5117417, 
+            37.5062224
+          ], 
+          [
+            -77.5113981, 
+            37.5063147
+          ], 
+          [
+            -77.5113529, 
+            37.5063217
+          ], 
+          [
+            -77.5113068, 
+            37.5063155
+          ], 
+          [
+            -77.5112764, 
+            37.5062945
+          ], 
+          [
+            -77.5112538, 
+            37.5062649
+          ], 
+          [
+            -77.5111694, 
+            37.5060935
+          ], 
+          [
+            -77.5111615, 
+            37.5060554
+          ], 
+          [
+            -77.5111733, 
+            37.5060196
+          ], 
+          [
+            -77.5112018, 
+            37.5059907
+          ], 
+          [
+            -77.511244, 
+            37.5059736
+          ], 
+          [
+            -77.5115848, 
+            37.5058816
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002385", 
+        "name": "Beaufont Terrace", 
+        "to": "3090002384", 
+        "length": "116.50697766095779", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5115848, 
+            37.5058816
+          ], 
+          [
+            -77.511244, 
+            37.5059736
+          ], 
+          [
+            -77.5112018, 
+            37.5059907
+          ], 
+          [
+            -77.5111733, 
+            37.5060196
+          ], 
+          [
+            -77.5111615, 
+            37.5060554
+          ], 
+          [
+            -77.5111694, 
+            37.5060935
+          ], 
+          [
+            -77.5112538, 
+            37.5062649
+          ], 
+          [
+            -77.5112764, 
+            37.5062945
+          ], 
+          [
+            -77.5113068, 
+            37.5063155
+          ], 
+          [
+            -77.5113529, 
+            37.5063217
+          ], 
+          [
+            -77.5113981, 
+            37.5063147
+          ], 
+          [
+            -77.5117417, 
+            37.5062224
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002384", 
+        "name": "Beaufont Terrace", 
+        "to": "3090002385", 
+        "length": "116.50697766155753", 
+        "key": "1", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039089"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5117417, 
+            37.5062224
+          ], 
+          [
+            -77.512074, 
+            37.5069551
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3090002385", 
+        "name": "Beaufont Hills Drive", 
+        "to": "3090002386", 
+        "length": "86.60937137071436", 
+        "key": "0", 
+        "oneway": "True", 
+        "highway": "residential", 
+        "osmid": "6039144"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5103683, 
+            37.5117183
+          ], 
+          [
+            -77.5093954, 
+            37.5109437
+          ], 
+          [
+            -77.5090112, 
+            37.5105935
+          ], 
+          [
+            -77.5087991, 
+            37.5101597
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49628376", 
+        "name": "Duffton Road", 
+        "to": "49628375", 
+        "length": "225.00543333352957", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6039185"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5116095, 
+            37.5096674
+          ], 
+          [
+            -77.511146, 
+            37.5087639
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626975", 
+        "name": "Lasalle Drive", 
+        "to": "49627482", 
+        "length": "108.49528773626521", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.511146, 
+            37.5087639
+          ], 
+          [
+            -77.511908, 
+            37.508547
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49626976", 
+        "name": "Laveta Drive", 
+        "to": "49626975", 
+        "length": "71.42975251427977", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6038505"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5138736, 
+            37.5137534
+          ], 
+          [
+            -77.511939, 
+            37.5160009
+          ], 
+          [
+            -77.5118901, 
+            37.5160669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49611245", 
+        "name": "Glenway Drive", 
+        "to": "49611242", 
+        "length": "311.20537844919807", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6032623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5153633, 
+            37.5086345
+          ], 
+          [
+            -77.515701, 
+            37.5087924
+          ], 
+          [
+            -77.5163481, 
+            37.5090064
+          ], 
+          [
+            -77.5166475, 
+            37.5092343
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "49612785", 
+        "name": "Vaden Drive", 
+        "to": "49612787", 
+        "length": "133.05494175227426", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "6033152"
+      }
+    }
+  ]
+}

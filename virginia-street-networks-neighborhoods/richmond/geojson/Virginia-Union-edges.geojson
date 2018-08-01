@@ -1,0 +1,3185 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4441607, 
+            37.565664
+          ], 
+          [
+            -77.4440289, 
+            37.5648326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620361", 
+        "length": "93.2007310018559", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49611776", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4455473, 
+            37.5655225
+          ], 
+          [
+            -77.4447853, 
+            37.5656003
+          ], 
+          [
+            -77.4441607, 
+            37.565664
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "to": "49611776", 
+        "length": "123.25734825836744", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611778", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4441607, 
+            37.565664
+          ], 
+          [
+            -77.4443082, 
+            37.5664811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "5", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49611776", 
+        "length": "91.80861705961776", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327815", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374939"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443257, 
+            37.5665779
+          ], 
+          [
+            -77.4443655, 
+            37.5668336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Chamberlayne Avenue", 
+        "to": "1349864961", 
+        "length": "28.65619175473031", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49614046", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443257, 
+            37.5665779
+          ], 
+          [
+            -77.4443082, 
+            37.5664811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "5", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327815", 
+        "length": "10.876684119721048", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1349864961", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374939"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4459986, 
+            37.565603
+          ], 
+          [
+            -77.4458924, 
+            37.565611
+          ], 
+          [
+            -77.4455473, 
+            37.5655225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "to": "49611778", 
+        "length": "41.38338855424684", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611779", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4455473, 
+            37.5655225
+          ], 
+          [
+            -77.4459376, 
+            37.5651487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "49611778", 
+        "length": "53.96928113915525", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614045", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446393, 
+            37.5665298
+          ], 
+          [
+            -77.4448858, 
+            37.5662563
+          ], 
+          [
+            -77.4455473, 
+            37.5655225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "49611778", 
+        "length": "137.69885814301404", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327806", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4459986, 
+            37.565603
+          ], 
+          [
+            -77.4463685, 
+            37.5678298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49611779", 
+        "length": "249.8163456813953", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624161", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4472792, 
+            37.565429
+          ], 
+          [
+            -77.4466134, 
+            37.5655195
+          ], 
+          [
+            -77.4459986, 
+            37.565603
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "to": "49611779", 
+        "length": "114.5498511439003", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611781", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4459986, 
+            37.565603
+          ], 
+          [
+            -77.4459376, 
+            37.5651487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49611779", 
+        "length": "50.815479571972915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614045", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4485036, 
+            37.5653387
+          ], 
+          [
+            -77.4478832, 
+            37.5653845
+          ], 
+          [
+            -77.4472792, 
+            37.565429
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "to": "49611781", 
+        "length": "108.41472297742078", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179056", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4472792, 
+            37.565429
+          ], 
+          [
+            -77.4470036, 
+            37.5639843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Northumberland Avenue", 
+        "to": "49611781", 
+        "length": "162.51530886851137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614042", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4472792, 
+            37.565429
+          ], 
+          [
+            -77.4476491, 
+            37.5676751
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Northumberland Avenue", 
+        "to": "49611781", 
+        "length": "251.94480818047933", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624163", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.443939, 
+            37.5643907
+          ], 
+          [
+            -77.4440289, 
+            37.5648326
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620359", 
+        "length": "49.785858138592204", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620361", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.443939, 
+            37.5643907
+          ], 
+          [
+            -77.4438917, 
+            37.5639592
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620357", 
+        "length": "48.174966171485515", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620359", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4463652, 
+            37.5635483
+          ], 
+          [
+            -77.4467284, 
+            37.5634866
+          ], 
+          [
+            -77.4476061, 
+            37.5633374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wickham Street", 
+        "to": "1667093897", 
+        "length": "111.89255260216325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623153", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036773"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4476061, 
+            37.5633374
+          ], 
+          [
+            -77.4470036, 
+            37.5639843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "1667093897", 
+        "length": "89.43652596442523", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614042", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4480444, 
+            37.5628776
+          ], 
+          [
+            -77.447662, 
+            37.5632844
+          ], 
+          [
+            -77.4476061, 
+            37.5633374
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "1667093897", 
+        "length": "64.11064503641379", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178951", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4508672, 
+            37.559918
+          ], 
+          [
+            -77.4509139, 
+            37.5599161
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616588", 
+        "length": "4.122998954796287", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616586", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253544776"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4509139, 
+            37.5599161
+          ], 
+          [
+            -77.450997, 
+            37.5599178
+          ], 
+          [
+            -77.4510674, 
+            37.5599468
+          ], 
+          [
+            -77.4511828, 
+            37.5600026
+          ], 
+          [
+            -77.4513461, 
+            37.5600763
+          ], 
+          [
+            -77.4514052, 
+            37.5600986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616577", 
+        "length": "48.582478748190724", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616588", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544779"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4509139, 
+            37.5599161
+          ], 
+          [
+            -77.4509577, 
+            37.559903
+          ], 
+          [
+            -77.4509943, 
+            37.5598798
+          ], 
+          [
+            -77.4510092, 
+            37.5598619
+          ], 
+          [
+            -77.4510201, 
+            37.5598488
+          ], 
+          [
+            -77.4510332, 
+            37.5598089
+          ], 
+          [
+            -77.4510284, 
+            37.5597679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616599", 
+        "length": "21.555965630498267", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616588", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "253544776"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4483873, 
+            37.5639016
+          ], 
+          [
+            -77.4482283, 
+            37.5639148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Graham Road", 
+        "to": "1238178958", 
+        "length": "14.095090415422204", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630017", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486267, 
+            37.5653244
+          ], 
+          [
+            -77.4484, 
+            37.5639773
+          ], 
+          [
+            -77.4483873, 
+            37.5639016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178958", 
+        "length": "159.65405813674815", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179013", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4494674, 
+            37.5639063
+          ], 
+          [
+            -77.4489901, 
+            37.5639053
+          ], 
+          [
+            -77.4483873, 
+            37.5639016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Graham Road", 
+        "to": "1238178958", 
+        "length": "95.22999472262111", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616303", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040203"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4447518, 
+            37.5690763
+          ], 
+          [
+            -77.4452539, 
+            37.572093
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620367", 
+        "length": "338.4433413519379", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617872", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4465515, 
+            37.568877
+          ], 
+          [
+            -77.4456518, 
+            37.5689766
+          ], 
+          [
+            -77.4447518, 
+            37.5690763
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hammond Avenue", 
+        "to": "49620367", 
+        "length": "160.20288097109716", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628381", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039812"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4447518, 
+            37.5690763
+          ], 
+          [
+            -77.4445626, 
+            37.5680092
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620366", 
+        "length": "119.85586541820547", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620367", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.45295, 
+            37.5624138
+          ], 
+          [
+            -77.4533369, 
+            37.5624127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roberts Street", 
+        "to": "2594616338", 
+        "length": "34.112384146972836", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630990", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4532258, 
+            37.5612032
+          ], 
+          [
+            -77.4539503, 
+            37.5616731
+          ], 
+          [
+            -77.4539585, 
+            37.5617514
+          ], 
+          [
+            -77.4539421, 
+            37.5622898
+          ], 
+          [
+            -77.4538885, 
+            37.5623747
+          ], 
+          [
+            -77.4538268, 
+            37.5623942
+          ], 
+          [
+            -77.453728, 
+            37.5624106
+          ], 
+          [
+            -77.4535807, 
+            37.562412
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Bath Street", 
+        "to": "2594616340", 
+        "length": "189.48018690663923", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616352", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[253544753, 369175429]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.452715, 
+            37.5617786
+          ], 
+          [
+            -77.4534975, 
+            37.5622409
+          ], 
+          [
+            -77.4535716, 
+            37.5623094
+          ], 
+          [
+            -77.4535807, 
+            37.562412
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Thomas Street", 
+        "to": "2594616340", 
+        "length": "107.522284357791", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616357", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544756"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4535807, 
+            37.562412
+          ], 
+          [
+            -77.4533369, 
+            37.5624127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roberts Street", 
+        "to": "2594616340", 
+        "length": "21.495477949203607", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49630990", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4514052, 
+            37.5600986
+          ], 
+          [
+            -77.4513208, 
+            37.5600339
+          ], 
+          [
+            -77.4512391, 
+            37.5599714
+          ], 
+          [
+            -77.4511434, 
+            37.5599134
+          ], 
+          [
+            -77.4510899, 
+            37.5598754
+          ], 
+          [
+            -77.4510674, 
+            37.5598397
+          ], 
+          [
+            -77.4510284, 
+            37.5597679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2594616599", 
+        "length": "50.45170987262281", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2594616577", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "253544780"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4494674, 
+            37.5639063
+          ], 
+          [
+            -77.4494468, 
+            37.5634939
+          ], 
+          [
+            -77.4494427, 
+            37.5632231
+          ], 
+          [
+            -77.449525, 
+            37.5632231
+          ], 
+          [
+            -77.449628, 
+            37.5632427
+          ], 
+          [
+            -77.4497021, 
+            37.5632361
+          ], 
+          [
+            -77.449772, 
+            37.5632068
+          ], 
+          [
+            -77.4499902, 
+            37.5630044
+          ], 
+          [
+            -77.4500478, 
+            37.5629849
+          ], 
+          [
+            -77.4501055, 
+            37.5629881
+          ], 
+          [
+            -77.4501713, 
+            37.5630175
+          ], 
+          [
+            -77.4504183, 
+            37.5631904
+          ], 
+          [
+            -77.4504718, 
+            37.5632263
+          ], 
+          [
+            -77.4505336, 
+            37.5632427
+          ], 
+          [
+            -77.4506036, 
+            37.5632427
+          ], 
+          [
+            -77.4506982, 
+            37.5632329
+          ], 
+          [
+            -77.4509814, 
+            37.5631582
+          ], 
+          [
+            -77.4510833, 
+            37.5630987
+          ], 
+          [
+            -77.4515956, 
+            37.5625443
+          ], 
+          [
+            -77.4522146, 
+            37.5619561
+          ], 
+          [
+            -77.4523819, 
+            37.5618787
+          ], 
+          [
+            -77.452526, 
+            37.5618036
+          ], 
+          [
+            -77.4526495, 
+            37.5616894
+          ], 
+          [
+            -77.4531682, 
+            37.5611249
+          ], 
+          [
+            -77.4525954, 
+            37.5607914
+          ], 
+          [
+            -77.4523917, 
+            37.5606729
+          ], 
+          [
+            -77.4514052, 
+            37.5600986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['School Road', 'Bath Street']", 
+        "to": "2594616577", 
+        "length": "727.2816415086176", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616303", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6039704, 253544749]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4494674, 
+            37.5639063
+          ], 
+          [
+            -77.4498334, 
+            37.5639071
+          ], 
+          [
+            -77.4502457, 
+            37.5639111
+          ], 
+          [
+            -77.4516653, 
+            37.5639109
+          ], 
+          [
+            -77.4519744, 
+            37.5639116
+          ], 
+          [
+            -77.4522945, 
+            37.5639092
+          ], 
+          [
+            -77.4533246, 
+            37.5639018
+          ], 
+          [
+            -77.4533322, 
+            37.5629784
+          ], 
+          [
+            -77.4533369, 
+            37.5624127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Cecil Road', 'West Graham Road']", 
+        "to": "49630990", 
+        "length": "505.71295611953883", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2594616303", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6040377, 6040203]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438917, 
+            37.5639592
+          ], 
+          [
+            -77.4451162, 
+            37.5637674
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wickham Street", 
+        "to": "49623151", 
+        "length": "110.04708123133389", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620357", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036773"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438917, 
+            37.5639592
+          ], 
+          [
+            -77.4438275, 
+            37.5636825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "6", 
+        "name": "Chamberlayne Avenue", 
+        "to": "2766327845", 
+        "length": "31.29248519139711", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620357", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "271682852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519456, 
+            37.5663001
+          ], 
+          [
+            -77.4519367, 
+            37.566774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Langston Avenue", 
+        "to": "49626443", 
+        "length": "52.715962282582474", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611867", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038298"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519456, 
+            37.5663001
+          ], 
+          [
+            -77.4494731, 
+            37.5662744
+          ], 
+          [
+            -77.4488047, 
+            37.5662675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dubois Avenue", 
+        "to": "1238178891", 
+        "length": "276.93594271787316", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611867", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032845"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519456, 
+            37.5663001
+          ], 
+          [
+            -77.4531764, 
+            37.5662968
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dubois Avenue", 
+        "to": "49611867", 
+        "length": "108.51202617731121", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611868", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032845"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4519456, 
+            37.5663001
+          ], 
+          [
+            -77.4519569, 
+            37.565804
+          ], 
+          [
+            -77.4519661, 
+            37.5653963
+          ], 
+          [
+            -77.4520123, 
+            37.5653183
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Langston Avenue", 
+        "to": "49611783", 
+        "length": "110.1267831189511", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611867", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038298"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438275, 
+            37.5636825
+          ], 
+          [
+            -77.4438414, 
+            37.5630485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sledd Street", 
+        "to": "2766327845", 
+        "length": "70.52809416154393", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327847", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438414, 
+            37.5630485
+          ], 
+          [
+            -77.4438572, 
+            37.562331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sledd Street", 
+        "to": "2766327847", 
+        "length": "79.81699555479263", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628200", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039082"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4438572, 
+            37.562331
+          ], 
+          [
+            -77.4451598, 
+            37.5623483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Roberts Street", 
+        "to": "49628200", 
+        "length": "114.86375271500455", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040902"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486267, 
+            37.5653244
+          ], 
+          [
+            -77.4493064, 
+            37.5653232
+          ], 
+          [
+            -77.4520123, 
+            37.5653183
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "to": "49611783", 
+        "length": "298.49039817575766", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179013", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4520123, 
+            37.5653183
+          ], 
+          [
+            -77.4519744, 
+            37.5639116
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Langston Avenue", 
+        "to": "49611783", 
+        "length": "156.49765010805743", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3729886583", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038298"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4507989, 
+            37.5701332
+          ], 
+          [
+            -77.4508053, 
+            37.5696289
+          ], 
+          [
+            -77.450856, 
+            37.5695335
+          ], 
+          [
+            -77.4509194, 
+            37.5694707
+          ], 
+          [
+            -77.4509985, 
+            37.5694255
+          ], 
+          [
+            -77.4510777, 
+            37.5693929
+          ], 
+          [
+            -77.4512139, 
+            37.5693602
+          ], 
+          [
+            -77.4528275, 
+            37.5693608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2741412817", 
+        "length": "247.81912136000716", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2741412829", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "268825300"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4507989, 
+            37.5701332
+          ], 
+          [
+            -77.4513638, 
+            37.5701364
+          ], 
+          [
+            -77.4520477, 
+            37.5701394
+          ], 
+          [
+            -77.4529677, 
+            37.5701417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "to": "2741412794", 
+        "length": "191.20133482600318", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2741412829", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45103250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4507989, 
+            37.5701332
+          ], 
+          [
+            -77.4491981, 
+            37.5701241
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "to": "2741412829", 
+        "length": "141.12820363403029", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179002", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45103250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4463984, 
+            37.5623932
+          ], 
+          [
+            -77.4463652, 
+            37.5635483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Northumberland Avenue", 
+        "to": "49629237", 
+        "length": "128.51078841870014", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623153", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040843"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4463984, 
+            37.5623932
+          ], 
+          [
+            -77.4451598, 
+            37.5623483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roberts Street", 
+        "to": "49629237", 
+        "length": "109.31896906244009", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479733, 
+            37.5624193
+          ], 
+          [
+            -77.446983, 
+            37.5624107
+          ], 
+          [
+            -77.4463984, 
+            37.5623932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Roberts Street", 
+        "to": "49629237", 
+        "length": "138.89762797501658", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629238", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039612"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479733, 
+            37.5624193
+          ], 
+          [
+            -77.4480444, 
+            37.5628776
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178951", 
+        "length": "51.35899848511817", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629238", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4440289, 
+            37.5648326
+          ], 
+          [
+            -77.4446328, 
+            37.5647308
+          ], 
+          [
+            -77.4465826, 
+            37.5644019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Graham Road", 
+        "to": "49614043", 
+        "length": "230.187760504728", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620361", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040207"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4529677, 
+            37.5701417
+          ], 
+          [
+            -77.4528275, 
+            37.5693608
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Reserve Street", 
+        "to": "2741412794", 
+        "length": "87.73160022947802", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2741412817", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "268825299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4480444, 
+            37.5628776
+          ], 
+          [
+            -77.448157, 
+            37.5635125
+          ], 
+          [
+            -77.4482283, 
+            37.5639148
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "49630017", 
+        "length": "116.49769271159391", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178951", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4482283, 
+            37.5639148
+          ], 
+          [
+            -77.4485036, 
+            37.5653387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179056", 
+        "length": "160.2241759172264", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49630017", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4471084, 
+            37.5721831
+          ], 
+          [
+            -77.4462758, 
+            37.5721426
+          ], 
+          [
+            -77.4452539, 
+            37.572093
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "49617872", 
+        "length": "163.79291001434524", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617874", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486267, 
+            37.5653244
+          ], 
+          [
+            -77.4485036, 
+            37.5653387
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Overbrook Road", 
+        "to": "1238179056", 
+        "length": "10.968973597400257", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238179013", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4486267, 
+            37.5653244
+          ], 
+          [
+            -77.4488047, 
+            37.5662675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179013", 
+        "length": "106.06487334642574", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178891", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4491981, 
+            37.5701241
+          ], 
+          [
+            -77.4490639, 
+            37.5701402
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "to": "1238179002", 
+        "length": "11.96566483749442", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617132", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45103250"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4491981, 
+            37.5701241
+          ], 
+          [
+            -77.4493404, 
+            37.572312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238179002", 
+        "length": "243.67505244367737", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178916", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4491981, 
+            37.5701241
+          ], 
+          [
+            -77.4490945, 
+            37.5686129
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "49629676", 
+        "length": "168.33307610916222", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179002", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4444753, 
+            37.5675304
+          ], 
+          [
+            -77.4445626, 
+            37.5680092
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49620364", 
+        "length": "53.808411740157794", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620366", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4444753, 
+            37.5675304
+          ], 
+          [
+            -77.4443655, 
+            37.5668336
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "4", 
+        "name": "Chamberlayne Avenue", 
+        "to": "49614046", 
+        "length": "78.10465468653915", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49620364", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "120374938"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488047, 
+            37.5662675
+          ], 
+          [
+            -77.448677, 
+            37.5662773
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Dubois Avenue", 
+        "to": "1238178891", 
+        "length": "11.311102349327964", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1238178674", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032845"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.449021, 
+            37.5675397
+          ], 
+          [
+            -77.4490079, 
+            37.5673484
+          ], 
+          [
+            -77.4488047, 
+            37.5662675
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178891", 
+        "length": "142.86076797407313", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49624164", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4528275, 
+            37.5693608
+          ], 
+          [
+            -77.4527098, 
+            37.5687051
+          ], 
+          [
+            -77.4527184, 
+            37.5680989
+          ], 
+          [
+            -77.4526668, 
+            37.5679967
+          ], 
+          [
+            -77.4525637, 
+            37.5679217
+          ], 
+          [
+            -77.4524606, 
+            37.5678877
+          ], 
+          [
+            -77.4513605, 
+            37.5678672
+          ], 
+          [
+            -77.4512487, 
+            37.5678945
+          ], 
+          [
+            -77.4511198, 
+            37.5683032
+          ], 
+          [
+            -77.4508706, 
+            37.5687051
+          ], 
+          [
+            -77.4506987, 
+            37.5687801
+          ], 
+          [
+            -77.4504494, 
+            37.5688346
+          ], 
+          [
+            -77.449865, 
+            37.568821
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Reserve Street", 
+        "to": "2741412816", 
+        "length": "471.15466298394887", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2741412817", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "268825299"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4471084, 
+            37.5721831
+          ], 
+          [
+            -77.4467995, 
+            37.5703335
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49617874", 
+        "length": "207.51860305762395", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617129", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4471084, 
+            37.5721831
+          ], 
+          [
+            -77.4481492, 
+            37.5722443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "49617874", 
+        "length": "92.00524550629369", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617875", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481492, 
+            37.5722443
+          ], 
+          [
+            -77.4479947, 
+            37.570195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Northumberland Avenue", 
+        "to": "49617875", 
+        "length": "228.34254439242324", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617130", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4481492, 
+            37.5722443
+          ], 
+          [
+            -77.4492021, 
+            37.5723023
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "49617875", 
+        "length": "93.04361770676621", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617876", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492021, 
+            37.5723023
+          ], 
+          [
+            -77.4490639, 
+            37.5701402
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "49617876", 
+        "length": "240.79070691733799", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617132", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4492021, 
+            37.5723023
+          ], 
+          [
+            -77.4493404, 
+            37.572312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "West Brookland Park Boulevard", 
+        "to": "49617876", 
+        "length": "12.239646244569172", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178916", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "265147387"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.448677, 
+            37.5662773
+          ], 
+          [
+            -77.4488445, 
+            37.567223
+          ], 
+          [
+            -77.4488682, 
+            37.5675555
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "2708076374", 
+        "length": "143.2599146186596", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238178674", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4476491, 
+            37.5676751
+          ], 
+          [
+            -77.4482583, 
+            37.5676153
+          ], 
+          [
+            -77.4488682, 
+            37.5675555
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Edgehill Road", 
+        "to": "2708076374", 
+        "length": "108.29810777474108", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624163", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488682, 
+            37.5675555
+          ], 
+          [
+            -77.449021, 
+            37.5675397
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Edgehill Road", 
+        "to": "2708076374", 
+        "length": "13.58527378056975", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624164", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4488682, 
+            37.5675555
+          ], 
+          [
+            -77.4489448, 
+            37.5686281
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "2708076373", 
+        "length": "119.49226230009405", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076374", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4446393, 
+            37.5665298
+          ], 
+          [
+            -77.4445554, 
+            37.5665657
+          ], 
+          [
+            -77.4444516, 
+            37.5665709
+          ], 
+          [
+            -77.4443765, 
+            37.5665499
+          ], 
+          [
+            -77.4443082, 
+            37.5664811
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2766327815", 
+        "length": "34.33380717479656", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2766327806", 
+        "ref": "", 
+        "highway": "tertiary_link", 
+        "osmid": "271682850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4470036, 
+            37.5639843
+          ], 
+          [
+            -77.4465826, 
+            37.5644019
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "49614043", 
+        "length": "59.457176852179366", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614042", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4465826, 
+            37.5644019
+          ], 
+          [
+            -77.4459376, 
+            37.5651487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "49614043", 
+        "length": "100.66473180565394", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614045", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4465515, 
+            37.568877
+          ], 
+          [
+            -77.4463685, 
+            37.5678298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49628381", 
+        "length": "117.58817051287278", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624161", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.447824, 
+            37.5687417
+          ], 
+          [
+            -77.4471935, 
+            37.5688087
+          ], 
+          [
+            -77.4465515, 
+            37.568877
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hammond Avenue", 
+        "to": "49628381", 
+        "length": "113.18890093300627", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629674", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039812"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4465515, 
+            37.568877
+          ], 
+          [
+            -77.4467995, 
+            37.5703335
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49628381", 
+        "length": "163.46972570220186", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617129", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039187"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4476491, 
+            37.5676751
+          ], 
+          [
+            -77.4470136, 
+            37.5677519
+          ], 
+          [
+            -77.4463685, 
+            37.5678298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Edgehill Road", 
+        "to": "49624161", 
+        "length": "114.2034180310053", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49624163", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4445626, 
+            37.5680092
+          ], 
+          [
+            -77.4451785, 
+            37.567948
+          ], 
+          [
+            -77.4457426, 
+            37.567892
+          ], 
+          [
+            -77.4463685, 
+            37.5678298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Edgehill Road", 
+        "to": "49624161", 
+        "length": "160.45621403095325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49620366", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037238"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4451744, 
+            37.5618175
+          ], 
+          [
+            -77.4451598, 
+            37.5623483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49628386", 
+        "length": "59.05292803335424", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4476491, 
+            37.5676751
+          ], 
+          [
+            -77.447824, 
+            37.5687417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Northumberland Avenue", 
+        "to": "49624163", 
+        "length": "119.63178846866388", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629674", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.449021, 
+            37.5675397
+          ], 
+          [
+            -77.4490945, 
+            37.5686129
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "49624164", 
+        "length": "119.54376591686119", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49629676", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "107789391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4451598, 
+            37.5623483
+          ], 
+          [
+            -77.4451162, 
+            37.5637674
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Seminary Avenue", 
+        "to": "49623151", 
+        "length": "157.88798170806172", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49628388", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039189"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4467995, 
+            37.5703335
+          ], 
+          [
+            -77.4479947, 
+            37.570195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "to": "49617129", 
+        "length": "106.48733199115426", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617130", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479947, 
+            37.570195
+          ], 
+          [
+            -77.447824, 
+            37.5687417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Northumberland Avenue", 
+        "to": "49617130", 
+        "length": "162.34411382361114", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49629674", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6040841"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4479947, 
+            37.570195
+          ], 
+          [
+            -77.4490639, 
+            37.5701402
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Sherwood Avenue", 
+        "to": "49617130", 
+        "length": "94.45618246847764", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617132", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4490945, 
+            37.5686129
+          ], 
+          [
+            -77.4489448, 
+            37.5686281
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hammond Avenue", 
+        "to": "49629676", 
+        "length": "13.305482693403533", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076373", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039812"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4451162, 
+            37.5637674
+          ], 
+          [
+            -77.4463652, 
+            37.5635483
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wickham Street", 
+        "to": "49623151", 
+        "length": "112.7841706148823", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623153", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6036773"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4485036, 
+            37.5653387
+          ], 
+          [
+            -77.448677, 
+            37.5662773
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "1238178674", 
+        "length": "105.51036550588417", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "1238179056", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443655, 
+            37.5668336
+          ], 
+          [
+            -77.4446393, 
+            37.5665298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Lombardy Street", 
+        "to": "49614046", 
+        "length": "41.52699395557616", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2766327806", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6033475"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4490639, 
+            37.5701402
+          ], 
+          [
+            -77.4489448, 
+            37.5686281
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Brook Road", 
+        "to": "49617132", 
+        "length": "168.51265403894533", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2708076373", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "45089237"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4489448, 
+            37.5686281
+          ], 
+          [
+            -77.4483977, 
+            37.5686836
+          ], 
+          [
+            -77.447824, 
+            37.5687417
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Hammond Avenue", 
+        "to": "49629674", 
+        "length": "99.61486570299792", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2708076373", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039812"
+      }
+    }
+  ]
+}

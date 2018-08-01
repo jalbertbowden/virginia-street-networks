@@ -1,0 +1,6401 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452045, 
+            37.629234
+          ], 
+          [
+            -79.45206, 
+            37.62922
+          ], 
+          [
+            -79.452093, 
+            37.629203
+          ], 
+          [
+            -79.452246, 
+            37.629155
+          ], 
+          [
+            -79.452442, 
+            37.629108
+          ], 
+          [
+            -79.452971, 
+            37.629033
+          ], 
+          [
+            -79.453486, 
+            37.628965
+          ], 
+          [
+            -79.453914, 
+            37.628898
+          ], 
+          [
+            -79.454197, 
+            37.628848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115231", 
+        "name": "Kanawha Street", 
+        "to": "219115264", 
+        "length": "195.35149702685308", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453955, 
+            37.627942
+          ], 
+          [
+            -79.454057, 
+            37.628341
+          ], 
+          [
+            -79.454197, 
+            37.628848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172765", 
+        "name": "11th Street", 
+        "to": "219115264", 
+        "length": "103.0042153999403", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495144"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.456461, 
+            37.628487
+          ], 
+          [
+            -79.455756, 
+            37.628596
+          ], 
+          [
+            -79.455229, 
+            37.628683
+          ], 
+          [
+            -79.454889, 
+            37.628728
+          ], 
+          [
+            -79.454197, 
+            37.628848
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115277", 
+        "name": "Kanawha Street", 
+        "to": "219115264", 
+        "length": "203.46409362000057", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451539, 
+            37.6351415
+          ], 
+          [
+            -79.451793, 
+            37.635031
+          ], 
+          [
+            -79.452078, 
+            37.634888
+          ], 
+          [
+            -79.452104, 
+            37.634862
+          ], 
+          [
+            -79.452122, 
+            37.634824
+          ], 
+          [
+            -79.452123, 
+            37.634783
+          ], 
+          [
+            -79.452016, 
+            37.634565
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218991078", 
+        "name": "", 
+        "to": "218991105", 
+        "length": "94.02319333545337", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20475751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.463903, 
+            37.630244
+          ], 
+          [
+            -79.463822, 
+            37.629885
+          ], 
+          [
+            -79.463696, 
+            37.629439
+          ], 
+          [
+            -79.463652, 
+            37.629379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210924", 
+        "name": "15th Street", 
+        "to": "219169537", 
+        "length": "99.1135750995721", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495153"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.465606, 
+            37.629028
+          ], 
+          [
+            -79.46518, 
+            37.629118
+          ], 
+          [
+            -79.464456, 
+            37.629258
+          ], 
+          [
+            -79.464384, 
+            37.629271
+          ], 
+          [
+            -79.463652, 
+            37.629379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169525", 
+        "name": "Fitzlee Street", 
+        "to": "219169537", 
+        "length": "176.5833293364711", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461467, 
+            37.629734
+          ], 
+          [
+            -79.462718, 
+            37.629533
+          ], 
+          [
+            -79.463023, 
+            37.629476
+          ], 
+          [
+            -79.463422, 
+            37.629422
+          ], 
+          [
+            -79.463463, 
+            37.629421
+          ], 
+          [
+            -79.463652, 
+            37.629379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116278", 
+        "name": "Fitzlee Street", 
+        "to": "219169537", 
+        "length": "196.61012452596503", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.463393, 
+            37.628298
+          ], 
+          [
+            -79.463582, 
+            37.628956
+          ], 
+          [
+            -79.463637, 
+            37.629149
+          ], 
+          [
+            -79.463644, 
+            37.629205
+          ], 
+          [
+            -79.463652, 
+            37.629379
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219212638", 
+        "name": "15th Street", 
+        "to": "219169537", 
+        "length": "122.68860004043117", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495153"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452976, 
+            37.63762
+          ], 
+          [
+            -79.453088, 
+            37.637587
+          ], 
+          [
+            -79.45325, 
+            37.63751
+          ], 
+          [
+            -79.453471, 
+            37.637387
+          ], 
+          [
+            -79.453627, 
+            37.637285
+          ], 
+          [
+            -79.453742, 
+            37.637192
+          ], 
+          [
+            -79.453775, 
+            37.637143
+          ], 
+          [
+            -79.45379, 
+            37.637088
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218735648", 
+        "name": "", 
+        "to": "218735627", 
+        "length": "95.69097713452635", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20464823"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.458719, 
+            37.628146
+          ], 
+          [
+            -79.457899, 
+            37.628269
+          ], 
+          [
+            -79.457559, 
+            37.628326
+          ], 
+          [
+            -79.457056, 
+            37.628391
+          ], 
+          [
+            -79.456694, 
+            37.628446
+          ], 
+          [
+            -79.456461, 
+            37.628487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115298", 
+        "name": "Kanawha Street", 
+        "to": "219115277", 
+        "length": "202.5226286989101", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482521"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45673, 
+            37.629438
+          ], 
+          [
+            -79.456588, 
+            37.628964
+          ], 
+          [
+            -79.456461, 
+            37.628487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219212659", 
+        "name": "12th Street", 
+        "to": "219115277", 
+        "length": "108.40642145204095", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492720"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.456244, 
+            37.627556
+          ], 
+          [
+            -79.456255, 
+            37.627651
+          ], 
+          [
+            -79.456333, 
+            37.627938
+          ], 
+          [
+            -79.456461, 
+            37.628487
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172782", 
+        "name": "12th Street", 
+        "to": "219115277", 
+        "length": "105.35939614833532", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492720"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.465643, 
+            37.627926
+          ], 
+          [
+            -79.465485, 
+            37.627406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218871827", 
+        "name": "", 
+        "to": "218871824", 
+        "length": "59.4887695194228", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20470637"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.465643, 
+            37.627926
+          ], 
+          [
+            -79.467137, 
+            37.627706
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219212621", 
+        "name": "Wert Faulkner Highway", 
+        "to": "218871824", 
+        "length": "133.86264752964877", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.463393, 
+            37.628298
+          ], 
+          [
+            -79.463889, 
+            37.628213
+          ], 
+          [
+            -79.464461, 
+            37.628121
+          ], 
+          [
+            -79.465437, 
+            37.627956
+          ], 
+          [
+            -79.465643, 
+            37.627926
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219212638", 
+        "name": "Wert Faulkner Highway", 
+        "to": "218871824", 
+        "length": "202.48359319995166", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447249, 
+            37.636801
+          ], 
+          [
+            -79.448109, 
+            37.637485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219149808", 
+        "name": "6th Street", 
+        "to": "219227154", 
+        "length": "107.35818420752626", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447249, 
+            37.636801
+          ], 
+          [
+            -79.4464142, 
+            37.6361067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219123488", 
+        "name": "6th Street", 
+        "to": "219227154", 
+        "length": "106.63101561132433", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447249, 
+            37.636801
+          ], 
+          [
+            -79.448814, 
+            37.635518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219269623", 
+        "name": "McCulloch Street", 
+        "to": "219227154", 
+        "length": "198.4080893972145", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448647, 
+            37.629822
+          ], 
+          [
+            -79.448808, 
+            37.629725
+          ], 
+          [
+            -79.448988, 
+            37.62972
+          ], 
+          [
+            -79.449348, 
+            37.629648
+          ], 
+          [
+            -79.449781, 
+            37.629554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115219", 
+        "name": "Kanawha Street", 
+        "to": "219098133", 
+        "length": "105.94174026270764", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482519"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45002, 
+            37.630601
+          ], 
+          [
+            -79.449981, 
+            37.630345
+          ], 
+          [
+            -79.449781, 
+            37.629554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098140", 
+        "name": "9th Street", 
+        "to": "219098133", 
+        "length": "118.40696655709272", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449358, 
+            37.628102
+          ], 
+          [
+            -79.449514, 
+            37.628597
+          ], 
+          [
+            -79.449781, 
+            37.629554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098125", 
+        "name": "9th Street", 
+        "to": "219098133", 
+        "length": "165.75708629575547", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461193, 
+            37.62867
+          ], 
+          [
+            -79.460893, 
+            37.62872
+          ], 
+          [
+            -79.460183, 
+            37.628847
+          ], 
+          [
+            -79.459533, 
+            37.628953
+          ], 
+          [
+            -79.458938, 
+            37.629055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116275", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219200467", 
+        "length": "203.21037721230417", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461193, 
+            37.62867
+          ], 
+          [
+            -79.461467, 
+            37.629734
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116275", 
+        "name": "14th Street", 
+        "to": "219116278", 
+        "length": "120.78095493380438", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482547"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461193, 
+            37.62867
+          ], 
+          [
+            -79.462137, 
+            37.628508
+          ], 
+          [
+            -79.462851, 
+            37.628385
+          ], 
+          [
+            -79.463393, 
+            37.628298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116275", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219212638", 
+        "length": "198.16848499662643", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448325, 
+            37.630889
+          ], 
+          [
+            -79.448826, 
+            37.630797
+          ], 
+          [
+            -79.44953, 
+            37.630684
+          ], 
+          [
+            -79.45002, 
+            37.630601
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194280", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219098140", 
+        "length": "152.71532879043784", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452285, 
+            37.630198
+          ], 
+          [
+            -79.451398, 
+            37.630351
+          ], 
+          [
+            -79.45002, 
+            37.630601
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116353", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219098140", 
+        "length": "204.49392950181627", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449048, 
+            37.638242
+          ], 
+          [
+            -79.450583, 
+            37.636945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218765002", 
+        "name": "Shenandoah Street", 
+        "to": "219227165", 
+        "length": "197.7129325876401", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495345"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449048, 
+            37.638242
+          ], 
+          [
+            -79.449587, 
+            37.638679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219180357", 
+        "name": "6th Street", 
+        "to": "219227165", 
+        "length": "67.94341173031832", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449048, 
+            37.638242
+          ], 
+          [
+            -79.448824, 
+            37.63806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218764981", 
+        "name": "6th Street", 
+        "to": "219227165", 
+        "length": "28.267297890431575", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.4464142, 
+            37.6361067
+          ], 
+          [
+            -79.447232, 
+            37.635474
+          ], 
+          [
+            -79.448003, 
+            37.634865
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219123488", 
+        "name": "Anderson Street", 
+        "to": "219211038", 
+        "length": "196.62029461578135", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448003, 
+            37.634865
+          ], 
+          [
+            -79.447127, 
+            37.634221
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169725", 
+        "name": "7th Street", 
+        "to": "219211038", 
+        "length": "105.28304532334185", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448443, 
+            37.635219
+          ], 
+          [
+            -79.448376, 
+            37.635165
+          ], 
+          [
+            -79.448003, 
+            37.634865
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218939806", 
+        "name": "7th Street", 
+        "to": "219211038", 
+        "length": "55.24807380957282", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449586, 
+            37.633616
+          ], 
+          [
+            -79.448899, 
+            37.634145
+          ], 
+          [
+            -79.448003, 
+            37.634865
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992039", 
+        "name": "Anderson Street", 
+        "to": "219211038", 
+        "length": "196.83923968280598", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.444208, 
+            37.6443
+          ], 
+          [
+            -79.443994, 
+            37.644477
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219053604", 
+        "name": "", 
+        "to": "219053599", 
+        "length": "27.254265662384753", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20479903"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.445554, 
+            37.643212
+          ], 
+          [
+            -79.444668, 
+            37.643911
+          ], 
+          [
+            -79.444208, 
+            37.6443
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219028119", 
+        "name": "Catawba Street", 
+        "to": "219053599", 
+        "length": "169.42562553736596", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481894"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.44581, 
+            37.636628
+          ], 
+          [
+            -79.445919, 
+            37.636546
+          ], 
+          [
+            -79.4460691, 
+            37.636424
+          ], 
+          [
+            -79.4462731, 
+            37.6362367
+          ], 
+          [
+            -79.4463027, 
+            37.636209
+          ], 
+          [
+            -79.4464142, 
+            37.6361067
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219123273", 
+        "name": "Burlington", 
+        "to": "219123488", 
+        "length": "78.76547438906336", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451318, 
+            37.640032
+          ], 
+          [
+            -79.451419, 
+            37.639961
+          ], 
+          [
+            -79.451534, 
+            37.639873
+          ], 
+          [
+            -79.45194, 
+            37.639544
+          ], 
+          [
+            -79.452147, 
+            37.639349
+          ], 
+          [
+            -79.452528, 
+            37.639051
+          ], 
+          [
+            -79.452627, 
+            37.638969
+          ], 
+          [
+            -79.452813, 
+            37.638796
+          ], 
+          [
+            -79.452868, 
+            37.638708
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219227169", 
+        "name": "Shawnee Street", 
+        "to": "218991833", 
+        "length": "201.45630292315195", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450467, 
+            37.639354
+          ], 
+          [
+            -79.450866, 
+            37.639672
+          ], 
+          [
+            -79.451318, 
+            37.640032
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098937", 
+        "name": "6th Street", 
+        "to": "219227169", 
+        "length": "106.32417943287263", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449623, 
+            37.641331
+          ], 
+          [
+            -79.449979, 
+            37.641047
+          ], 
+          [
+            -79.450542, 
+            37.640617
+          ], 
+          [
+            -79.450782, 
+            37.640425
+          ], 
+          [
+            -79.451128, 
+            37.640168
+          ], 
+          [
+            -79.451318, 
+            37.640032
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219321209", 
+        "name": "Shawnee Street", 
+        "to": "219227169", 
+        "length": "207.78898381204698", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.458198, 
+            37.627244
+          ], 
+          [
+            -79.458274, 
+            37.62725
+          ], 
+          [
+            -79.458347, 
+            37.62727
+          ], 
+          [
+            -79.458392, 
+            37.627292
+          ], 
+          [
+            -79.458412, 
+            37.627302
+          ], 
+          [
+            -79.458466, 
+            37.627346
+          ], 
+          [
+            -79.458499, 
+            37.627387
+          ], 
+          [
+            -79.458522, 
+            37.627432
+          ], 
+          [
+            -79.458536, 
+            37.627492
+          ], 
+          [
+            -79.458708, 
+            37.628091
+          ], 
+          [
+            -79.458719, 
+            37.628146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172800", 
+        "name": "['Virginia Street', '13th Street']", 
+        "to": "219115298", 
+        "length": "119.21328660248449", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20484875, 20487436]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.458938, 
+            37.629055
+          ], 
+          [
+            -79.458808, 
+            37.628602
+          ], 
+          [
+            -79.458719, 
+            37.628146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219200467", 
+        "name": "13th Street", 
+        "to": "219115298", 
+        "length": "102.99200181885845", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487436"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449027, 
+            37.63318
+          ], 
+          [
+            -79.44876, 
+            37.632934
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169712", 
+        "name": "8th Street", 
+        "to": "219176740", 
+        "length": "36.08018646226473", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449452, 
+            37.632345
+          ], 
+          [
+            -79.449625, 
+            37.632221
+          ], 
+          [
+            -79.449838, 
+            37.632092
+          ], 
+          [
+            -79.450057, 
+            37.63197
+          ], 
+          [
+            -79.450571, 
+            37.631713
+          ], 
+          [
+            -79.450712, 
+            37.631653
+          ], 
+          [
+            -79.451065, 
+            37.631524
+          ], 
+          [
+            -79.451258, 
+            37.631469
+          ], 
+          [
+            -79.451463, 
+            37.631426
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169699", 
+        "name": "Fitzlee Street", 
+        "to": "219052839", 
+        "length": "206.3956597431876", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452531, 
+            37.631225
+          ], 
+          [
+            -79.452121, 
+            37.631298
+          ], 
+          [
+            -79.451463, 
+            37.631426
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116357", 
+        "name": "Fitzlee Street", 
+        "to": "219052839", 
+        "length": "96.70054633771991", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451402, 
+            37.631905
+          ], 
+          [
+            -79.451378, 
+            37.631799
+          ], 
+          [
+            -79.451374, 
+            37.631691
+          ], 
+          [
+            -79.451377, 
+            37.631649
+          ], 
+          [
+            -79.451398, 
+            37.631577
+          ], 
+          [
+            -79.451463, 
+            37.631426
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992093", 
+        "name": "", 
+        "to": "219052839", 
+        "length": "54.63804044333604", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20479839"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.463216, 
+            37.627606
+          ], 
+          [
+            -79.463174, 
+            37.627548
+          ], 
+          [
+            -79.463084, 
+            37.627492
+          ], 
+          [
+            -79.463011, 
+            37.627471
+          ], 
+          [
+            -79.462801, 
+            37.627475
+          ], 
+          [
+            -79.462432, 
+            37.627516
+          ], 
+          [
+            -79.462124, 
+            37.627569
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115145", 
+        "name": "Kanawha Street", 
+        "to": "219115305", 
+        "length": "103.45399453666823", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482522"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.457009, 
+            37.630474
+          ], 
+          [
+            -79.4572, 
+            37.630436
+          ], 
+          [
+            -79.458116, 
+            37.63027
+          ], 
+          [
+            -79.458556, 
+            37.630211
+          ], 
+          [
+            -79.458745, 
+            37.630195
+          ], 
+          [
+            -79.458978, 
+            37.630161
+          ], 
+          [
+            -79.459239, 
+            37.630111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169608", 
+        "name": "Fitzlee Street", 
+        "to": "219169579", 
+        "length": "200.69849117403544", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.458938, 
+            37.629055
+          ], 
+          [
+            -79.459081, 
+            37.629602
+          ], 
+          [
+            -79.459239, 
+            37.630111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219200467", 
+        "name": "13th Street", 
+        "to": "219169579", 
+        "length": "120.43095163335917", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487436"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461467, 
+            37.629734
+          ], 
+          [
+            -79.460883, 
+            37.629819
+          ], 
+          [
+            -79.460695, 
+            37.629859
+          ], 
+          [
+            -79.460457, 
+            37.629894
+          ], 
+          [
+            -79.460131, 
+            37.629933
+          ], 
+          [
+            -79.459856, 
+            37.629981
+          ], 
+          [
+            -79.459693, 
+            37.630017
+          ], 
+          [
+            -79.45944, 
+            37.630064
+          ], 
+          [
+            -79.459239, 
+            37.630111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116278", 
+        "name": "Fitzlee Street", 
+        "to": "219169579", 
+        "length": "200.88263894328787", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.460399, 
+            37.631067
+          ], 
+          [
+            -79.460176, 
+            37.630931
+          ], 
+          [
+            -79.460136, 
+            37.630915
+          ], 
+          [
+            -79.460065, 
+            37.630901
+          ], 
+          [
+            -79.459991, 
+            37.630901
+          ], 
+          [
+            -79.459662, 
+            37.630969
+          ], 
+          [
+            -79.459603, 
+            37.63097
+          ], 
+          [
+            -79.459535, 
+            37.630952
+          ], 
+          [
+            -79.459498, 
+            37.630925
+          ], 
+          [
+            -79.459466, 
+            37.630881
+          ], 
+          [
+            -79.459239, 
+            37.630111
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219200503", 
+        "name": "13th Street", 
+        "to": "219169579", 
+        "length": "181.1958388693873", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487436"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450467, 
+            37.639354
+          ], 
+          [
+            -79.44971, 
+            37.639974
+          ], 
+          [
+            -79.448831, 
+            37.640684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098937", 
+        "name": "Catawba Street", 
+        "to": "219053614", 
+        "length": "206.51067992206308", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447157, 
+            37.641932
+          ], 
+          [
+            -79.447728, 
+            37.641528
+          ], 
+          [
+            -79.448831, 
+            37.640684
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219093090", 
+        "name": "Catawba Street", 
+        "to": "219053614", 
+        "length": "202.53337250653504", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448831, 
+            37.640684
+          ], 
+          [
+            -79.447928, 
+            37.640016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219053619", 
+        "name": "", 
+        "to": "219053614", 
+        "length": "108.8381496568213", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20479905"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448831, 
+            37.640684
+          ], 
+          [
+            -79.449623, 
+            37.641331
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219321209", 
+        "name": "5th Street", 
+        "to": "219053614", 
+        "length": "100.22237577791695", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20493844"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.443994, 
+            37.644477
+          ], 
+          [
+            -79.443173, 
+            37.643842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219053604", 
+        "name": "2nd Street", 
+        "to": "219135178", 
+        "length": "101.07728942461762", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.443994, 
+            37.644477
+          ], 
+          [
+            -79.443897, 
+            37.644548
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218554291", 
+        "name": "Catawba Street", 
+        "to": "219053604", 
+        "length": "11.633743059757201", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448, 
+            37.642568
+          ], 
+          [
+            -79.447556, 
+            37.642943
+          ], 
+          [
+            -79.447367, 
+            37.64311
+          ], 
+          [
+            -79.446895, 
+            37.643457
+          ], 
+          [
+            -79.44668, 
+            37.643633
+          ], 
+          [
+            -79.446366, 
+            37.643876
+          ], 
+          [
+            -79.446209, 
+            37.643989
+          ], 
+          [
+            -79.446057, 
+            37.644131
+          ], 
+          [
+            -79.445892, 
+            37.644264
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219093093", 
+        "name": "Shawnee Street", 
+        "to": "219357744", 
+        "length": "264.87127676694143", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449587, 
+            37.638679
+          ], 
+          [
+            -79.44918, 
+            37.639021
+          ], 
+          [
+            -79.447928, 
+            37.640016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219180357", 
+        "name": "Pocahantas Street", 
+        "to": "219053619", 
+        "length": "208.49873434608236", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.446346, 
+            37.641285
+          ], 
+          [
+            -79.446386, 
+            37.641249
+          ], 
+          [
+            -79.446882, 
+            37.640851
+          ], 
+          [
+            -79.447379, 
+            37.640459
+          ], 
+          [
+            -79.447928, 
+            37.640016
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219093087", 
+        "name": "Pocahantas Street", 
+        "to": "219053619", 
+        "length": "198.34553538033515", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448325, 
+            37.630889
+          ], 
+          [
+            -79.447267, 
+            37.63106
+          ], 
+          [
+            -79.4465997, 
+            37.631173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194280", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219176723", 
+        "length": "155.22559800766763", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447954, 
+            37.632284
+          ], 
+          [
+            -79.447481, 
+            37.631911
+          ], 
+          [
+            -79.447336, 
+            37.631796
+          ], 
+          [
+            -79.446827, 
+            37.631411
+          ], 
+          [
+            -79.4465997, 
+            37.631173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219053751", 
+        "name": "8th Street", 
+        "to": "219176723", 
+        "length": "172.0641938564451", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45203, 
+            37.638065
+          ], 
+          [
+            -79.451788, 
+            37.638247
+          ], 
+          [
+            -79.451371, 
+            37.63858
+          ], 
+          [
+            -79.451007, 
+            37.63886
+          ], 
+          [
+            -79.45082, 
+            37.639024
+          ], 
+          [
+            -79.450467, 
+            37.639354
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098916", 
+        "name": "Catawba Street", 
+        "to": "219098937", 
+        "length": "198.9332772591369", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450467, 
+            37.639354
+          ], 
+          [
+            -79.449587, 
+            37.638679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219180357", 
+        "name": "6th Street", 
+        "to": "219098937", 
+        "length": "107.90802253874111", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453476, 
+            37.634342
+          ], 
+          [
+            -79.454829, 
+            37.636049
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219152355", 
+        "name": "Smiley Road", 
+        "to": "219152351", 
+        "length": "224.1664882385572", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484098"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448325, 
+            37.630889
+          ], 
+          [
+            -79.4478665, 
+            37.6302541
+          ], 
+          [
+            -79.447415, 
+            37.6296526
+          ], 
+          [
+            -79.4473728, 
+            37.6295962
+          ], 
+          [
+            -79.447241, 
+            37.629409
+          ], 
+          [
+            -79.446943, 
+            37.629045
+          ], 
+          [
+            -79.446444, 
+            37.628358
+          ], 
+          [
+            -79.446275, 
+            37.628144
+          ], 
+          [
+            -79.446125, 
+            37.627921
+          ], 
+          [
+            -79.4459, 
+            37.627643
+          ], 
+          [
+            -79.445671, 
+            37.627328
+          ], 
+          [
+            -79.445401, 
+            37.626974
+          ], 
+          [
+            -79.445099, 
+            37.626563
+          ], 
+          [
+            -79.444971, 
+            37.626407
+          ], 
+          [
+            -79.444736, 
+            37.626094
+          ], 
+          [
+            -79.444539, 
+            37.625871
+          ], 
+          [
+            -79.444464, 
+            37.625777
+          ], 
+          [
+            -79.444364, 
+            37.625632
+          ], 
+          [
+            -79.444327, 
+            37.625553
+          ], 
+          [
+            -79.444307, 
+            37.62547
+          ], 
+          [
+            -79.444304, 
+            37.625396
+          ], 
+          [
+            -79.444319, 
+            37.625294
+          ], 
+          [
+            -79.444356, 
+            37.625189
+          ], 
+          [
+            -79.444404, 
+            37.625086
+          ], 
+          [
+            -79.444464, 
+            37.624988
+          ], 
+          [
+            -79.444561, 
+            37.62493
+          ], 
+          [
+            -79.444666, 
+            37.624896
+          ], 
+          [
+            -79.444748, 
+            37.624887
+          ], 
+          [
+            -79.444821, 
+            37.624884
+          ], 
+          [
+            -79.445031, 
+            37.624894
+          ], 
+          [
+            -79.445055, 
+            37.624886
+          ], 
+          [
+            -79.44508, 
+            37.624857
+          ], 
+          [
+            -79.44508, 
+            37.624796
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194280", 
+        "name": "Blue Ridge Road", 
+        "to": "219194173", 
+        "length": "821.9877499316266", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20486819"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.440827, 
+            37.644418
+          ], 
+          [
+            -79.440908, 
+            37.644464
+          ], 
+          [
+            -79.440996, 
+            37.644531
+          ], 
+          [
+            -79.441188, 
+            37.644769
+          ], 
+          [
+            -79.441345, 
+            37.644981
+          ], 
+          [
+            -79.441364, 
+            37.644995
+          ], 
+          [
+            -79.441419, 
+            37.645024
+          ], 
+          [
+            -79.441481, 
+            37.64504
+          ], 
+          [
+            -79.441533, 
+            37.645043
+          ], 
+          [
+            -79.441597, 
+            37.645035
+          ], 
+          [
+            -79.441797, 
+            37.64487
+          ], 
+          [
+            -79.4421, 
+            37.644639
+          ], 
+          [
+            -79.442523, 
+            37.644334
+          ], 
+          [
+            -79.442608, 
+            37.644273
+          ], 
+          [
+            -79.44268, 
+            37.644215
+          ], 
+          [
+            -79.442938, 
+            37.643992
+          ], 
+          [
+            -79.443051, 
+            37.643912
+          ], 
+          [
+            -79.443173, 
+            37.643842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219180469", 
+        "name": "['2nd Street', 'Pocahantas Street']", 
+        "to": "219135178", 
+        "length": "294.696366140132", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20483395, 20485398]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.456547, 
+            37.627521
+          ], 
+          [
+            -79.456244, 
+            37.627556
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172785", 
+        "name": "Virginia Street", 
+        "to": "219172782", 
+        "length": "26.973901449642636", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484873"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450583, 
+            37.636945
+          ], 
+          [
+            -79.45076, 
+            37.637078
+          ], 
+          [
+            -79.450981, 
+            37.637256
+          ], 
+          [
+            -79.451088, 
+            37.637348
+          ], 
+          [
+            -79.451166, 
+            37.637409
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218765002", 
+        "name": "7th Street", 
+        "to": "219180354", 
+        "length": "72.82350721623062", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45203, 
+            37.638065
+          ], 
+          [
+            -79.451804, 
+            37.637881
+          ], 
+          [
+            -79.45156, 
+            37.637708
+          ], 
+          [
+            -79.451166, 
+            37.637409
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098916", 
+        "name": "7th Street", 
+        "to": "219180354", 
+        "length": "105.46195951423698", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451166, 
+            37.637409
+          ], 
+          [
+            -79.449587, 
+            37.638679
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219180357", 
+        "name": "Pocahantas Street", 
+        "to": "219180354", 
+        "length": "198.2313866492804", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.471292, 
+            37.627713
+          ], 
+          [
+            -79.471438, 
+            37.627604
+          ], 
+          [
+            -79.471697, 
+            37.627421
+          ], 
+          [
+            -79.471839, 
+            37.627305
+          ], 
+          [
+            -79.471872, 
+            37.627269
+          ], 
+          [
+            -79.4719, 
+            37.627216
+          ], 
+          [
+            -79.471932, 
+            37.627017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219073755", 
+        "name": "Pineview Drive", 
+        "to": "219195720", 
+        "length": "99.87169421297156", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20486962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.467137, 
+            37.627706
+          ], 
+          [
+            -79.468081, 
+            37.627572
+          ], 
+          [
+            -79.468898, 
+            37.627444
+          ], 
+          [
+            -79.470272, 
+            37.627253
+          ], 
+          [
+            -79.471932, 
+            37.627017
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219212621", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219195720", 
+        "length": "429.30357042020836", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.44581, 
+            37.636628
+          ], 
+          [
+            -79.445903, 
+            37.636713
+          ], 
+          [
+            -79.446088, 
+            37.63687
+          ], 
+          [
+            -79.446397, 
+            37.637144
+          ], 
+          [
+            -79.446652, 
+            37.637347
+          ], 
+          [
+            -79.446972, 
+            37.637611
+          ], 
+          [
+            -79.447219, 
+            37.637826
+          ], 
+          [
+            -79.447271, 
+            37.637884
+          ], 
+          [
+            -79.447302, 
+            37.637935
+          ], 
+          [
+            -79.447325, 
+            37.638003
+          ], 
+          [
+            -79.447335, 
+            37.638124
+          ], 
+          [
+            -79.447326, 
+            37.638256
+          ], 
+          [
+            -79.447299, 
+            37.638386
+          ], 
+          [
+            -79.447246, 
+            37.638541
+          ], 
+          [
+            -79.447183, 
+            37.638666
+          ], 
+          [
+            -79.447105, 
+            37.638785
+          ], 
+          [
+            -79.44701, 
+            37.638896
+          ], 
+          [
+            -79.446607, 
+            37.639246
+          ], 
+          [
+            -79.445817, 
+            37.639862
+          ], 
+          [
+            -79.444899, 
+            37.640613
+          ], 
+          [
+            -79.444523, 
+            37.640878
+          ], 
+          [
+            -79.443961, 
+            37.641297
+          ], 
+          [
+            -79.442588, 
+            37.642358
+          ], 
+          [
+            -79.441966, 
+            37.642833
+          ], 
+          [
+            -79.44177, 
+            37.643017
+          ], 
+          [
+            -79.441608, 
+            37.643151
+          ], 
+          [
+            -79.441327, 
+            37.643364
+          ], 
+          [
+            -79.441073, 
+            37.643556
+          ], 
+          [
+            -79.440911, 
+            37.643689
+          ], 
+          [
+            -79.440882, 
+            37.643708
+          ], 
+          [
+            -79.440838, 
+            37.643727
+          ], 
+          [
+            -79.440778, 
+            37.643738
+          ], 
+          [
+            -79.440715, 
+            37.643735
+          ], 
+          [
+            -79.440657, 
+            37.643718
+          ], 
+          [
+            -79.440402, 
+            37.643557
+          ], 
+          [
+            -79.440322, 
+            37.643494
+          ], 
+          [
+            -79.440233, 
+            37.6434
+          ], 
+          [
+            -79.440038, 
+            37.64318
+          ], 
+          [
+            -79.43999, 
+            37.643115
+          ], 
+          [
+            -79.439899, 
+            37.64273
+          ], 
+          [
+            -79.439832, 
+            37.642448
+          ], 
+          [
+            -79.439732, 
+            37.642068
+          ], 
+          [
+            -79.439674, 
+            37.641792
+          ], 
+          [
+            -79.439667, 
+            37.641705
+          ], 
+          [
+            -79.439684, 
+            37.641603
+          ], 
+          [
+            -79.439718, 
+            37.64152
+          ], 
+          [
+            -79.439781, 
+            37.64143
+          ], 
+          [
+            -79.440378, 
+            37.640949
+          ], 
+          [
+            -79.441215, 
+            37.640237
+          ], 
+          [
+            -79.441838, 
+            37.639767
+          ], 
+          [
+            -79.442535, 
+            37.639214
+          ], 
+          [
+            -79.443374, 
+            37.638557
+          ], 
+          [
+            -79.445145, 
+            37.637133
+          ], 
+          [
+            -79.44581, 
+            37.636628
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219123273", 
+        "name": "Burlington", 
+        "to": "219123273", 
+        "length": "2126.2950128883954", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.44581, 
+            37.636628
+          ], 
+          [
+            -79.445145, 
+            37.637133
+          ], 
+          [
+            -79.443374, 
+            37.638557
+          ], 
+          [
+            -79.442535, 
+            37.639214
+          ], 
+          [
+            -79.441838, 
+            37.639767
+          ], 
+          [
+            -79.441215, 
+            37.640237
+          ], 
+          [
+            -79.440378, 
+            37.640949
+          ], 
+          [
+            -79.439781, 
+            37.64143
+          ], 
+          [
+            -79.439718, 
+            37.64152
+          ], 
+          [
+            -79.439684, 
+            37.641603
+          ], 
+          [
+            -79.439667, 
+            37.641705
+          ], 
+          [
+            -79.439674, 
+            37.641792
+          ], 
+          [
+            -79.439732, 
+            37.642068
+          ], 
+          [
+            -79.439832, 
+            37.642448
+          ], 
+          [
+            -79.439899, 
+            37.64273
+          ], 
+          [
+            -79.43999, 
+            37.643115
+          ], 
+          [
+            -79.440038, 
+            37.64318
+          ], 
+          [
+            -79.440233, 
+            37.6434
+          ], 
+          [
+            -79.440322, 
+            37.643494
+          ], 
+          [
+            -79.440402, 
+            37.643557
+          ], 
+          [
+            -79.440657, 
+            37.643718
+          ], 
+          [
+            -79.440715, 
+            37.643735
+          ], 
+          [
+            -79.440778, 
+            37.643738
+          ], 
+          [
+            -79.440838, 
+            37.643727
+          ], 
+          [
+            -79.440882, 
+            37.643708
+          ], 
+          [
+            -79.440911, 
+            37.643689
+          ], 
+          [
+            -79.441073, 
+            37.643556
+          ], 
+          [
+            -79.441327, 
+            37.643364
+          ], 
+          [
+            -79.441608, 
+            37.643151
+          ], 
+          [
+            -79.44177, 
+            37.643017
+          ], 
+          [
+            -79.441966, 
+            37.642833
+          ], 
+          [
+            -79.442588, 
+            37.642358
+          ], 
+          [
+            -79.443961, 
+            37.641297
+          ], 
+          [
+            -79.444523, 
+            37.640878
+          ], 
+          [
+            -79.444899, 
+            37.640613
+          ], 
+          [
+            -79.445817, 
+            37.639862
+          ], 
+          [
+            -79.446607, 
+            37.639246
+          ], 
+          [
+            -79.44701, 
+            37.638896
+          ], 
+          [
+            -79.447105, 
+            37.638785
+          ], 
+          [
+            -79.447183, 
+            37.638666
+          ], 
+          [
+            -79.447246, 
+            37.638541
+          ], 
+          [
+            -79.447299, 
+            37.638386
+          ], 
+          [
+            -79.447326, 
+            37.638256
+          ], 
+          [
+            -79.447335, 
+            37.638124
+          ], 
+          [
+            -79.447325, 
+            37.638003
+          ], 
+          [
+            -79.447302, 
+            37.637935
+          ], 
+          [
+            -79.447271, 
+            37.637884
+          ], 
+          [
+            -79.447219, 
+            37.637826
+          ], 
+          [
+            -79.446972, 
+            37.637611
+          ], 
+          [
+            -79.446652, 
+            37.637347
+          ], 
+          [
+            -79.446397, 
+            37.637144
+          ], 
+          [
+            -79.446088, 
+            37.63687
+          ], 
+          [
+            -79.445903, 
+            37.636713
+          ], 
+          [
+            -79.44581, 
+            37.636628
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219123273", 
+        "name": "Burlington", 
+        "to": "219123273", 
+        "length": "2126.29501288946", 
+        "key": "1", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482820"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451312, 
+            37.634862
+          ], 
+          [
+            -79.451271, 
+            37.63481
+          ], 
+          [
+            -79.450829, 
+            37.634191
+          ], 
+          [
+            -79.450713, 
+            37.634041
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219149784", 
+        "name": "Blue Ridge Road", 
+        "to": "218945975", 
+        "length": "105.47717255644869", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20486800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450713, 
+            37.634041
+          ], 
+          [
+            -79.450662, 
+            37.633975
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218945975", 
+        "name": "", 
+        "to": "218945972", 
+        "length": "8.606364189323381", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20473796"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450713, 
+            37.634041
+          ], 
+          [
+            -79.450337, 
+            37.634306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218945975", 
+        "name": "McCulloch Street", 
+        "to": "218992031", 
+        "length": "44.3356855616647", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.454998, 
+            37.63173
+          ], 
+          [
+            -79.45522, 
+            37.632484
+          ], 
+          [
+            -79.455218, 
+            37.632537
+          ], 
+          [
+            -79.455197, 
+            37.632587
+          ], 
+          [
+            -79.45518, 
+            37.632606
+          ], 
+          [
+            -79.455165, 
+            37.632623
+          ], 
+          [
+            -79.455116, 
+            37.632655
+          ], 
+          [
+            -79.455045, 
+            37.632683
+          ], 
+          [
+            -79.454562, 
+            37.632761
+          ], 
+          [
+            -79.454099, 
+            37.632844
+          ], 
+          [
+            -79.453731, 
+            37.632902
+          ], 
+          [
+            -79.453298, 
+            37.632983
+          ], 
+          [
+            -79.453003, 
+            37.633015
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210994", 
+        "name": "['11th Street', 'McCulloch Street']", 
+        "to": "219116370", 
+        "length": "299.05433319434286", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20495146, 20492618]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450662, 
+            37.633975
+          ], 
+          [
+            -79.45123, 
+            37.633643
+          ], 
+          [
+            -79.451439, 
+            37.633531
+          ], 
+          [
+            -79.45182, 
+            37.633352
+          ], 
+          [
+            -79.451991, 
+            37.633284
+          ], 
+          [
+            -79.452229, 
+            37.633201
+          ], 
+          [
+            -79.452474, 
+            37.63313
+          ], 
+          [
+            -79.452635, 
+            37.633092
+          ], 
+          [
+            -79.453003, 
+            37.633015
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218945972", 
+        "name": "McCulloch Street", 
+        "to": "219116370", 
+        "length": "234.49938818155405", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492618"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453003, 
+            37.633015
+          ], 
+          [
+            -79.452734, 
+            37.632102
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116367", 
+        "name": "10th Street", 
+        "to": "219116370", 
+        "length": "104.27732195232664", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.457009, 
+            37.630474
+          ], 
+          [
+            -79.456177, 
+            37.6306
+          ], 
+          [
+            -79.455049, 
+            37.630815
+          ], 
+          [
+            -79.454779, 
+            37.63086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169608", 
+        "name": "Fitzlee Street", 
+        "to": "219169624", 
+        "length": "201.12023731210704", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.454779, 
+            37.63086
+          ], 
+          [
+            -79.454998, 
+            37.63173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210994", 
+        "name": "11th Street", 
+        "to": "219169624", 
+        "length": "98.67097239735077", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495146"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.454779, 
+            37.63086
+          ], 
+          [
+            -79.454192, 
+            37.630947
+          ], 
+          [
+            -79.45379, 
+            37.631015
+          ], 
+          [
+            -79.45348, 
+            37.631053
+          ], 
+          [
+            -79.453293, 
+            37.631069
+          ], 
+          [
+            -79.453007, 
+            37.631121
+          ], 
+          [
+            -79.452781, 
+            37.631172
+          ], 
+          [
+            -79.452708, 
+            37.631194
+          ], 
+          [
+            -79.452582, 
+            37.631219
+          ], 
+          [
+            -79.452531, 
+            37.631225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169624", 
+        "name": "Fitzlee Street", 
+        "to": "219116357", 
+        "length": "202.42616518907457", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.446306, 
+            37.633577
+          ], 
+          [
+            -79.445661, 
+            37.634101
+          ], 
+          [
+            -79.445206, 
+            37.634453
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218623125", 
+        "name": "Gordon Place", 
+        "to": "219309659", 
+        "length": "137.41940927319666", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20493361"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.463216, 
+            37.627606
+          ], 
+          [
+            -79.463332, 
+            37.628113
+          ], 
+          [
+            -79.463393, 
+            37.628298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115145", 
+        "name": "15th Street", 
+        "to": "219212638", 
+        "length": "78.57696616467837", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495153"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.446346, 
+            37.641285
+          ], 
+          [
+            -79.447157, 
+            37.641932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219093090", 
+        "name": "4th Street", 
+        "to": "219093087", 
+        "length": "101.39379803966946", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481688"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.444762, 
+            37.642549
+          ], 
+          [
+            -79.444959, 
+            37.642382
+          ], 
+          [
+            -79.445318, 
+            37.642087
+          ], 
+          [
+            -79.445724, 
+            37.641763
+          ], 
+          [
+            -79.446346, 
+            37.641285
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219164077", 
+        "name": "Pocahantas Street", 
+        "to": "219093087", 
+        "length": "198.09126882335056", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.445581, 
+            37.643191
+          ], 
+          [
+            -79.446117, 
+            37.642759
+          ], 
+          [
+            -79.446439, 
+            37.64249
+          ], 
+          [
+            -79.446847, 
+            37.642185
+          ], 
+          [
+            -79.447157, 
+            37.641932
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219028116", 
+        "name": "Catawba Street", 
+        "to": "219093090", 
+        "length": "197.2097577935217", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481896"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447157, 
+            37.641932
+          ], 
+          [
+            -79.448, 
+            37.642568
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219093093", 
+        "name": "4th Street", 
+        "to": "219093090", 
+        "length": "102.55035946045493", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481688"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449623, 
+            37.641331
+          ], 
+          [
+            -79.449086, 
+            37.641745
+          ], 
+          [
+            -79.448722, 
+            37.642017
+          ], 
+          [
+            -79.44851, 
+            37.642185
+          ], 
+          [
+            -79.448138, 
+            37.64245
+          ], 
+          [
+            -79.448, 
+            37.642568
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219321209", 
+        "name": "Shawnee Street", 
+        "to": "219093093", 
+        "length": "198.46395661440064", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.443897, 
+            37.644548
+          ], 
+          [
+            -79.443578, 
+            37.644784
+          ], 
+          [
+            -79.44334, 
+            37.644909
+          ], 
+          [
+            -79.443139, 
+            37.645055
+          ], 
+          [
+            -79.442828, 
+            37.645358
+          ], 
+          [
+            -79.44266, 
+            37.645531
+          ], 
+          [
+            -79.442418, 
+            37.645739
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218554291", 
+        "name": "Catawba Street", 
+        "to": "219098983", 
+        "length": "186.7805987229587", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481898"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448824, 
+            37.63806
+          ], 
+          [
+            -79.450274, 
+            37.636877
+          ], 
+          [
+            -79.450336, 
+            37.636852
+          ], 
+          [
+            -79.450395, 
+            37.636847
+          ], 
+          [
+            -79.450474, 
+            37.636864
+          ], 
+          [
+            -79.450583, 
+            37.636945
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218764981", 
+        "name": "", 
+        "to": "218765002", 
+        "length": "215.10083834290742", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20466134"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.443961, 
+            37.643177
+          ], 
+          [
+            -79.444762, 
+            37.642549
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219164077", 
+        "name": "Pocahantas Street", 
+        "to": "219180394", 
+        "length": "99.27636338096286", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485391"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449452, 
+            37.632345
+          ], 
+          [
+            -79.449171, 
+            37.63198
+          ], 
+          [
+            -79.448466, 
+            37.631043
+          ], 
+          [
+            -79.448325, 
+            37.630889
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169699", 
+        "name": "Blue Ridge Road", 
+        "to": "219194280", 
+        "length": "190.02423719559306", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308440215"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449452, 
+            37.632345
+          ], 
+          [
+            -79.449242, 
+            37.632513
+          ], 
+          [
+            -79.449029, 
+            37.632677
+          ], 
+          [
+            -79.44876, 
+            37.632934
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169699", 
+        "name": "Fitzlee Street", 
+        "to": "219169712", 
+        "length": "89.58992594995809", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449452, 
+            37.632345
+          ], 
+          [
+            -79.449639, 
+            37.632564
+          ], 
+          [
+            -79.449811, 
+            37.632792
+          ], 
+          [
+            -79.449931, 
+            37.633006
+          ], 
+          [
+            -79.450012, 
+            37.633131
+          ], 
+          [
+            -79.450066, 
+            37.633225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169699", 
+        "name": "Blue Ridge Road", 
+        "to": "219194310", 
+        "length": "112.10313858453361", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308440215"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.44876, 
+            37.632934
+          ], 
+          [
+            -79.448339, 
+            37.633252
+          ], 
+          [
+            -79.448045, 
+            37.633497
+          ], 
+          [
+            -79.447127, 
+            37.634221
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169712", 
+        "name": "Fitzlee Street", 
+        "to": "219169725", 
+        "length": "202.95845223149405", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.445737, 
+            37.63534
+          ], 
+          [
+            -79.446037, 
+            37.635087
+          ], 
+          [
+            -79.446371, 
+            37.634824
+          ], 
+          [
+            -79.446753, 
+            37.634516
+          ], 
+          [
+            -79.446863, 
+            37.634434
+          ], 
+          [
+            -79.447127, 
+            37.634221
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169748", 
+        "name": "Fitzlee Street", 
+        "to": "219169725", 
+        "length": "174.61083996236067", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484789"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447127, 
+            37.634221
+          ], 
+          [
+            -79.446306, 
+            37.633577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218623125", 
+        "name": "7th Street", 
+        "to": "219169725", 
+        "length": "101.78638668611119", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.457009, 
+            37.630474
+          ], 
+          [
+            -79.456892, 
+            37.630054
+          ], 
+          [
+            -79.45673, 
+            37.629438
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169608", 
+        "name": "12th Street", 
+        "to": "219212659", 
+        "length": "117.82409292509611", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492720"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45673, 
+            37.629438
+          ], 
+          [
+            -79.455886, 
+            37.629585
+          ], 
+          [
+            -79.454142, 
+            37.62988
+          ], 
+          [
+            -79.453516, 
+            37.629974
+          ], 
+          [
+            -79.452708, 
+            37.630125
+          ], 
+          [
+            -79.452285, 
+            37.630198
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219212659", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219116353", 
+        "length": "400.6046501793586", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45673, 
+            37.629438
+          ], 
+          [
+            -79.458938, 
+            37.629055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219200467", 
+        "name": "Wert Faulkner Highway", 
+        "to": "219212659", 
+        "length": "199.11045076946428", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 130", 
+        "highway": "secondary", 
+        "osmid": "20488696"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.471292, 
+            37.627713
+          ], 
+          [
+            -79.470914, 
+            37.627979
+          ], 
+          [
+            -79.470771, 
+            37.628062
+          ], 
+          [
+            -79.470668, 
+            37.628109
+          ], 
+          [
+            -79.47038, 
+            37.628217
+          ], 
+          [
+            -79.4702, 
+            37.628266
+          ], 
+          [
+            -79.469688, 
+            37.628375
+          ], 
+          [
+            -79.469559, 
+            37.628393
+          ], 
+          [
+            -79.469532, 
+            37.628394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219073755", 
+        "name": "Pineview Drive", 
+        "to": "219195765", 
+        "length": "176.09191006037852", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20486962"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452392, 
+            37.635531
+          ], 
+          [
+            -79.452354, 
+            37.635522
+          ], 
+          [
+            -79.452285, 
+            37.635528
+          ], 
+          [
+            -79.452089, 
+            37.635516
+          ], 
+          [
+            -79.451965, 
+            37.635513
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218990786", 
+        "name": "Kevin Grove", 
+        "to": "219271558", 
+        "length": "37.850355693859846", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452285, 
+            37.630198
+          ], 
+          [
+            -79.452531, 
+            37.631225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116357", 
+        "name": "10th Street", 
+        "to": "219116353", 
+        "length": "116.2665508805431", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452285, 
+            37.630198
+          ], 
+          [
+            -79.452045, 
+            37.629234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116353", 
+        "name": "10th Street", 
+        "to": "219115231", 
+        "length": "109.28645795628634", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.46408, 
+            37.627334
+          ], 
+          [
+            -79.464067, 
+            37.627297
+          ], 
+          [
+            -79.46404, 
+            37.627278
+          ], 
+          [
+            -79.464019, 
+            37.627271
+          ], 
+          [
+            -79.463994, 
+            37.62727
+          ], 
+          [
+            -79.463928, 
+            37.627279
+          ], 
+          [
+            -79.463626, 
+            37.627346
+          ], 
+          [
+            -79.463427, 
+            37.627399
+          ], 
+          [
+            -79.463381, 
+            37.62742
+          ], 
+          [
+            -79.463325, 
+            37.627456
+          ], 
+          [
+            -79.463264, 
+            37.62751
+          ], 
+          [
+            -79.463233, 
+            37.627551
+          ], 
+          [
+            -79.463216, 
+            37.627606
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219115190", 
+        "name": "Kanawha Street", 
+        "to": "219115145", 
+        "length": "94.39082333905289", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.463903, 
+            37.630244
+          ], 
+          [
+            -79.464332, 
+            37.630186
+          ], 
+          [
+            -79.464619, 
+            37.630142
+          ], 
+          [
+            -79.464719, 
+            37.630126
+          ], 
+          [
+            -79.465196, 
+            37.630042
+          ], 
+          [
+            -79.465476, 
+            37.630001
+          ], 
+          [
+            -79.465973, 
+            37.629899
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210924", 
+        "name": "Anderson Street", 
+        "to": "219210903", 
+        "length": "186.42601017345126", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488494"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.4572, 
+            37.631324
+          ], 
+          [
+            -79.457216, 
+            37.631291
+          ], 
+          [
+            -79.457122, 
+            37.630897
+          ], 
+          [
+            -79.457009, 
+            37.630474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210984", 
+        "name": "12th Street", 
+        "to": "219169608", 
+        "length": "96.62039997394842", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492720"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.445581, 
+            37.643191
+          ], 
+          [
+            -79.444762, 
+            37.642549
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219164077", 
+        "name": "3rd Street", 
+        "to": "219028116", 
+        "length": "101.4984954275077", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484588"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.445581, 
+            37.643191
+          ], 
+          [
+            -79.445554, 
+            37.643212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219028119", 
+        "name": "", 
+        "to": "219028116", 
+        "length": "3.333223618219418", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20478007"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.445645, 
+            37.63333
+          ], 
+          [
+            -79.445791, 
+            37.633278
+          ], 
+          [
+            -79.445879, 
+            37.633262
+          ], 
+          [
+            -79.445937, 
+            37.63327
+          ], 
+          [
+            -79.446002, 
+            37.63331
+          ], 
+          [
+            -79.446306, 
+            37.633577
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218623139", 
+        "name": "", 
+        "to": "218623125", 
+        "length": "74.47780335227753", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20459722"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.446306, 
+            37.633577
+          ], 
+          [
+            -79.447025, 
+            37.632996
+          ], 
+          [
+            -79.447511, 
+            37.632619
+          ], 
+          [
+            -79.447954, 
+            37.632284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218623125", 
+        "name": "Gordon Street", 
+        "to": "219053751", 
+        "length": "204.36093273288455", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20479914"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.446091, 
+            37.643693
+          ], 
+          [
+            -79.445903, 
+            37.643512
+          ], 
+          [
+            -79.445554, 
+            37.643212
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219164091", 
+        "name": "3rd Street", 
+        "to": "219028119", 
+        "length": "71.43342581587429", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.456244, 
+            37.627556
+          ], 
+          [
+            -79.455908, 
+            37.627602
+          ], 
+          [
+            -79.455575, 
+            37.627664
+          ], 
+          [
+            -79.455443, 
+            37.627693
+          ], 
+          [
+            -79.45426, 
+            37.627878
+          ], 
+          [
+            -79.453955, 
+            37.627942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172782", 
+        "name": "Virginia Street", 
+        "to": "219172765", 
+        "length": "206.25604962549085", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484873"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453955, 
+            37.627942
+          ], 
+          [
+            -79.453021, 
+            37.628091
+          ], 
+          [
+            -79.451977, 
+            37.628247
+          ], 
+          [
+            -79.451886, 
+            37.628261
+          ], 
+          [
+            -79.451816, 
+            37.628287
+          ], 
+          [
+            -79.451778, 
+            37.628309
+          ], 
+          [
+            -79.451783, 
+            37.628396
+          ], 
+          [
+            -79.451886, 
+            37.628751
+          ], 
+          [
+            -79.452045, 
+            37.629234
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172765", 
+        "name": "['10th Street', 'Virginia Street']", 
+        "to": "219115231", 
+        "length": "302.35962655776757", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20484873, 20482551]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448443, 
+            37.635219
+          ], 
+          [
+            -79.449836, 
+            37.634131
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218939810", 
+        "name": "", 
+        "to": "218939806", 
+        "length": "172.33511954293357", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20473547"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448443, 
+            37.635219
+          ], 
+          [
+            -79.448814, 
+            37.635518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219269623", 
+        "name": "7th Street", 
+        "to": "218939806", 
+        "length": "46.6247998103396", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449586, 
+            37.633616
+          ], 
+          [
+            -79.449775, 
+            37.633776
+          ], 
+          [
+            -79.450337, 
+            37.634306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992039", 
+        "name": "", 
+        "to": "218992031", 
+        "length": "101.34708019814911", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20475795"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448814, 
+            37.635518
+          ], 
+          [
+            -79.449261, 
+            37.635166
+          ], 
+          [
+            -79.449955, 
+            37.634576
+          ], 
+          [
+            -79.450337, 
+            37.634306
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219269623", 
+        "name": "McCulloch Street", 
+        "to": "218992031", 
+        "length": "190.30914442475117", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492620"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.449586, 
+            37.633616
+          ], 
+          [
+            -79.450066, 
+            37.633225
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194310", 
+        "name": "Anderson Street", 
+        "to": "218992039", 
+        "length": "60.65436003271259", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.443897, 
+            37.644548
+          ], 
+          [
+            -79.443921, 
+            37.64459
+          ], 
+          [
+            -79.443934, 
+            37.644642
+          ], 
+          [
+            -79.44398, 
+            37.644922
+          ], 
+          [
+            -79.444, 
+            37.645013
+          ], 
+          [
+            -79.444008, 
+            37.645052
+          ], 
+          [
+            -79.444047, 
+            37.64515
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218554291", 
+        "name": "", 
+        "to": "218554311", 
+        "length": "68.52608409767412", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20456415"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.456244, 
+            37.627556
+          ], 
+          [
+            -79.456243, 
+            37.627534
+          ], 
+          [
+            -79.456275, 
+            37.627288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219172782", 
+        "name": "12th Street", 
+        "to": "219296683", 
+        "length": "29.955046061993162", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20492720"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461654, 
+            37.630615
+          ], 
+          [
+            -79.461896, 
+            37.630575
+          ], 
+          [
+            -79.462413, 
+            37.630476
+          ], 
+          [
+            -79.462894, 
+            37.630402
+          ], 
+          [
+            -79.463511, 
+            37.630315
+          ], 
+          [
+            -79.463903, 
+            37.630244
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116280", 
+        "name": "Anderson Street", 
+        "to": "219210924", 
+        "length": "202.41839627901282", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488494"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.44876, 
+            37.632934
+          ], 
+          [
+            -79.448229, 
+            37.632501
+          ], 
+          [
+            -79.447954, 
+            37.632284
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219169712", 
+        "name": "8th Street", 
+        "to": "219053751", 
+        "length": "101.33096134735092", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20485019"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452392, 
+            37.635531
+          ], 
+          [
+            -79.452467, 
+            37.635564
+          ], 
+          [
+            -79.452502, 
+            37.6356
+          ], 
+          [
+            -79.452709, 
+            37.635908
+          ], 
+          [
+            -79.453088, 
+            37.636405
+          ], 
+          [
+            -79.453144, 
+            37.636455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218990786", 
+        "name": "Kevin Grove", 
+        "to": "219271601", 
+        "length": "123.42896699479111", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491537"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.447966, 
+            37.638954
+          ], 
+          [
+            -79.448824, 
+            37.63806
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218764981", 
+        "name": "", 
+        "to": "218764978", 
+        "length": "124.89398835990448", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20466134"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451402, 
+            37.631905
+          ], 
+          [
+            -79.451314, 
+            37.63193
+          ], 
+          [
+            -79.45067, 
+            37.632175
+          ], 
+          [
+            -79.450615, 
+            37.632205
+          ], 
+          [
+            -79.450573, 
+            37.632247
+          ], 
+          [
+            -79.450548, 
+            37.632296
+          ], 
+          [
+            -79.450546, 
+            37.632361
+          ], 
+          [
+            -79.450561, 
+            37.632441
+          ], 
+          [
+            -79.450634, 
+            37.632622
+          ], 
+          [
+            -79.450717, 
+            37.632759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992093", 
+        "name": "", 
+        "to": "218992051", 
+        "length": "143.15036447515536", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20475796"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450066, 
+            37.633225
+          ], 
+          [
+            -79.450219, 
+            37.633117
+          ], 
+          [
+            -79.450435, 
+            37.63294
+          ], 
+          [
+            -79.450532, 
+            37.632874
+          ], 
+          [
+            -79.450717, 
+            37.632759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194310", 
+        "name": "Anderson Street", 
+        "to": "218992051", 
+        "length": "77.41255497973356", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452734, 
+            37.632102
+          ], 
+          [
+            -79.451978, 
+            37.63228
+          ], 
+          [
+            -79.451472, 
+            37.632407
+          ], 
+          [
+            -79.451354, 
+            37.632446
+          ], 
+          [
+            -79.451242, 
+            37.632493
+          ], 
+          [
+            -79.45101, 
+            37.632602
+          ], 
+          [
+            -79.450717, 
+            37.632759
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116367", 
+        "name": "Anderson Street", 
+        "to": "218992051", 
+        "length": "193.579725299654", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.450066, 
+            37.633225
+          ], 
+          [
+            -79.450395, 
+            37.63363
+          ], 
+          [
+            -79.450662, 
+            37.633975
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194310", 
+        "name": "Blue Ridge Road", 
+        "to": "218945972", 
+        "length": "98.56985007735574", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "308440215"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453155, 
+            37.634609
+          ], 
+          [
+            -79.453508, 
+            37.635073
+          ], 
+          [
+            -79.453548, 
+            37.635141
+          ], 
+          [
+            -79.453604, 
+            37.635201
+          ], 
+          [
+            -79.453674, 
+            37.635251
+          ], 
+          [
+            -79.453772, 
+            37.635295
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219091106", 
+        "name": "Smiley Lane", 
+        "to": "219091125", 
+        "length": "95.12009311815709", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481615"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452531, 
+            37.631225
+          ], 
+          [
+            -79.452632, 
+            37.631637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992107", 
+        "name": "10th Street", 
+        "to": "219116357", 
+        "length": "46.680851045651565", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.455163, 
+            37.640145
+          ], 
+          [
+            -79.455226, 
+            37.640118
+          ], 
+          [
+            -79.455296, 
+            37.640103
+          ], 
+          [
+            -79.455384, 
+            37.640102
+          ], 
+          [
+            -79.455494, 
+            37.640116
+          ], 
+          [
+            -79.455739, 
+            37.64018
+          ], 
+          [
+            -79.456088, 
+            37.640245
+          ], 
+          [
+            -79.456234, 
+            37.640256
+          ], 
+          [
+            -79.456324, 
+            37.640253
+          ], 
+          [
+            -79.456398, 
+            37.640235
+          ], 
+          [
+            -79.456464, 
+            37.640204
+          ], 
+          [
+            -79.456509, 
+            37.640171
+          ], 
+          [
+            -79.456549, 
+            37.640124
+          ], 
+          [
+            -79.456563, 
+            37.640095
+          ], 
+          [
+            -79.456564, 
+            37.640057
+          ], 
+          [
+            -79.456548, 
+            37.64002
+          ], 
+          [
+            -79.456516, 
+            37.639991
+          ], 
+          [
+            -79.456473, 
+            37.639973
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218735613", 
+        "name": "", 
+        "to": "218735549", 
+        "length": "151.29190491259956", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20464821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461654, 
+            37.630615
+          ], 
+          [
+            -79.460975, 
+            37.630706
+          ], 
+          [
+            -79.460599, 
+            37.630761
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116280", 
+        "name": "Anderson Street", 
+        "to": "219210945", 
+        "length": "94.34242338846568", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488494"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453206, 
+            37.635598
+          ], 
+          [
+            -79.453181, 
+            37.635563
+          ], 
+          [
+            -79.453138, 
+            37.635527
+          ], 
+          [
+            -79.453084, 
+            37.635502
+          ], 
+          [
+            -79.453023, 
+            37.635489
+          ], 
+          [
+            -79.452789, 
+            37.635522
+          ], 
+          [
+            -79.452591, 
+            37.635533
+          ], 
+          [
+            -79.452392, 
+            37.635531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218990812", 
+        "name": "", 
+        "to": "218990786", 
+        "length": "77.00575724889569", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20475736"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453528, 
+            37.638301
+          ], 
+          [
+            -79.453441, 
+            37.638173
+          ], 
+          [
+            -79.453322, 
+            37.638018
+          ], 
+          [
+            -79.453165, 
+            37.637842
+          ], 
+          [
+            -79.452976, 
+            37.63762
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194102", 
+        "name": "Blue Ridge Road", 
+        "to": "218735648", 
+        "length": "90.09131224061352", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20486800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453528, 
+            37.638301
+          ], 
+          [
+            -79.452912, 
+            37.638698
+          ], 
+          [
+            -79.452868, 
+            37.638708
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219194102", 
+        "name": "Shawnee Street", 
+        "to": "218991833", 
+        "length": "73.98563487488829", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20495158"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.455163, 
+            37.640145
+          ], 
+          [
+            -79.455129, 
+            37.640124
+          ], 
+          [
+            -79.454972, 
+            37.640004
+          ], 
+          [
+            -79.454801, 
+            37.639818
+          ], 
+          [
+            -79.45454, 
+            37.639548
+          ], 
+          [
+            -79.454313, 
+            37.639343
+          ], 
+          [
+            -79.454012, 
+            37.638991
+          ], 
+          [
+            -79.453528, 
+            37.638301
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218735613", 
+        "name": "Blue Ridge Road", 
+        "to": "219194102", 
+        "length": "251.82520284672722", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20486800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.4572, 
+            37.631324
+          ], 
+          [
+            -79.457306, 
+            37.631327
+          ], 
+          [
+            -79.45741, 
+            37.631317
+          ], 
+          [
+            -79.457582, 
+            37.63128
+          ], 
+          [
+            -79.457784, 
+            37.631222
+          ], 
+          [
+            -79.457829, 
+            37.631193
+          ], 
+          [
+            -79.45786, 
+            37.631154
+          ], 
+          [
+            -79.457868, 
+            37.631097
+          ], 
+          [
+            -79.457858, 
+            37.63104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210984", 
+        "name": "Anderson Street", 
+        "to": "219210952", 
+        "length": "76.21391962118851", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.442272, 
+            37.643084
+          ], 
+          [
+            -79.442598, 
+            37.643336
+          ], 
+          [
+            -79.443173, 
+            37.643842
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219135189", 
+        "name": "2nd Street", 
+        "to": "219135178", 
+        "length": "115.8347060086227", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451539, 
+            37.6351415
+          ], 
+          [
+            -79.451312, 
+            37.634862
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218991078", 
+        "name": "Blue Ridge Road", 
+        "to": "219149784", 
+        "length": "36.96256866357224", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20486800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452976, 
+            37.63762
+          ], 
+          [
+            -79.452875, 
+            37.637458
+          ], 
+          [
+            -79.452742, 
+            37.637199
+          ], 
+          [
+            -79.452681, 
+            37.637038
+          ], 
+          [
+            -79.452562, 
+            37.636691
+          ], 
+          [
+            -79.452431, 
+            37.636341
+          ], 
+          [
+            -79.45235, 
+            37.636175
+          ], 
+          [
+            -79.452238, 
+            37.635993
+          ], 
+          [
+            -79.452125, 
+            37.635834
+          ], 
+          [
+            -79.4518881, 
+            37.635534
+          ], 
+          [
+            -79.4518147, 
+            37.6354717
+          ], 
+          [
+            -79.4517753, 
+            37.6354282
+          ], 
+          [
+            -79.4517457, 
+            37.6353947
+          ], 
+          [
+            -79.451699, 
+            37.6353439
+          ], 
+          [
+            -79.451539, 
+            37.6351415
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218735648", 
+        "name": "Blue Ridge Road", 
+        "to": "218991078", 
+        "length": "305.9752551161676", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20486800"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.451312, 
+            37.634862
+          ], 
+          [
+            -79.451079, 
+            37.63507
+          ], 
+          [
+            -79.450423, 
+            37.635607
+          ], 
+          [
+            -79.449649, 
+            37.636214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219149784", 
+        "name": "Powhatan Street", 
+        "to": "219149798", 
+        "length": "209.97738772930953", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.45203, 
+            37.638065
+          ], 
+          [
+            -79.452412, 
+            37.638377
+          ], 
+          [
+            -79.452457, 
+            37.638413
+          ], 
+          [
+            -79.452779, 
+            37.638682
+          ], 
+          [
+            -79.4528, 
+            37.638696
+          ], 
+          [
+            -79.452833, 
+            37.638706
+          ], 
+          [
+            -79.452868, 
+            37.638708
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219098916", 
+        "name": "7th Street", 
+        "to": "218991833", 
+        "length": "103.81568983828296", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491428"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.453646, 
+            37.639558
+          ], 
+          [
+            -79.453498, 
+            37.639428
+          ], 
+          [
+            -79.453411, 
+            37.639333
+          ], 
+          [
+            -79.453291, 
+            37.639168
+          ], 
+          [
+            -79.453195, 
+            37.639048
+          ], 
+          [
+            -79.452868, 
+            37.638708
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218991855", 
+        "name": "", 
+        "to": "218991833", 
+        "length": "117.03410173743197", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20475787"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.471292, 
+            37.627713
+          ], 
+          [
+            -79.471957, 
+            37.628127
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219073760", 
+        "name": "Laurel Road", 
+        "to": "219073755", 
+        "length": "74.51182726291468", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20480939"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452632, 
+            37.631637
+          ], 
+          [
+            -79.451752, 
+            37.631808
+          ], 
+          [
+            -79.451609, 
+            37.631845
+          ], 
+          [
+            -79.451402, 
+            37.631905
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992107", 
+        "name": "", 
+        "to": "218992093", 
+        "length": "112.48293288652758", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20475796"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.454998, 
+            37.63173
+          ], 
+          [
+            -79.453857, 
+            37.631935
+          ], 
+          [
+            -79.453406, 
+            37.632007
+          ], 
+          [
+            -79.452734, 
+            37.632102
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210994", 
+        "name": "Anderson Street", 
+        "to": "219116367", 
+        "length": "203.71458523682804", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.452632, 
+            37.631637
+          ], 
+          [
+            -79.452687, 
+            37.631859
+          ], 
+          [
+            -79.452734, 
+            37.632102
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218992107", 
+        "name": "10th Street", 
+        "to": "219116367", 
+        "length": "52.50623367736816", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482551"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448109, 
+            37.637485
+          ], 
+          [
+            -79.448226, 
+            37.637343
+          ], 
+          [
+            -79.449649, 
+            37.636214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219149808", 
+        "name": "Powhatan Street", 
+        "to": "219149798", 
+        "length": "196.28044052299313", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483983"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448814, 
+            37.635518
+          ], 
+          [
+            -79.449291, 
+            37.6359
+          ], 
+          [
+            -79.449649, 
+            37.636214
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219269623", 
+        "name": "7th Street", 
+        "to": "219149798", 
+        "length": "106.80769130853429", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20491431"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.454998, 
+            37.63173
+          ], 
+          [
+            -79.455194, 
+            37.631697
+          ], 
+          [
+            -79.456541, 
+            37.631452
+          ], 
+          [
+            -79.456993, 
+            37.631376
+          ], 
+          [
+            -79.457178, 
+            37.631339
+          ], 
+          [
+            -79.4572, 
+            37.631324
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219210994", 
+        "name": "Anderson Street", 
+        "to": "219210984", 
+        "length": "199.4587132795459", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488504"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461689, 
+            37.630765
+          ], 
+          [
+            -79.461654, 
+            37.630615
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116282", 
+        "name": "14th Street", 
+        "to": "219116280", 
+        "length": "16.966407208384474", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482547"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.448824, 
+            37.63806
+          ], 
+          [
+            -79.4486453, 
+            37.6379204
+          ], 
+          [
+            -79.4486185, 
+            37.6378947
+          ], 
+          [
+            -79.4484602, 
+            37.637767
+          ], 
+          [
+            -79.4484455, 
+            37.6377556
+          ], 
+          [
+            -79.448109, 
+            37.637485
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218764981", 
+        "name": "6th Street", 
+        "to": "219149808", 
+        "length": "89.77348061288453", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489737"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -79.461467, 
+            37.629734
+          ], 
+          [
+            -79.461654, 
+            37.630615
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "219116280", 
+        "name": "14th Street", 
+        "to": "219116278", 
+        "length": "99.36520845919274", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482547"
+      }
+    }
+  ]
+}

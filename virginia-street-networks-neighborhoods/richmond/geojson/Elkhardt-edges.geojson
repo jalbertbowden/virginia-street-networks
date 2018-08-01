@@ -1,0 +1,1233 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5138947, 
+            37.4835669
+          ], 
+          [
+            -77.5134403, 
+            37.4832191
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "49617860", 
+        "length": "55.72232460679884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614192", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5141174, 
+            37.4836502
+          ], 
+          [
+            -77.5139983, 
+            37.4836044
+          ], 
+          [
+            -77.5138947, 
+            37.4835669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "49617860", 
+        "length": "21.731428494050732", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353759", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5129916, 
+            37.4848807
+          ], 
+          [
+            -77.5130563, 
+            37.4846134
+          ], 
+          [
+            -77.5130918, 
+            37.4844866
+          ], 
+          [
+            -77.5132161, 
+            37.4842696
+          ], 
+          [
+            -77.5136621, 
+            37.483772
+          ], 
+          [
+            -77.5138947, 
+            37.4835669
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Barriedale Road", 
+        "to": "49617860", 
+        "length": "169.8410626824783", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034806"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5113359, 
+            37.4844941
+          ], 
+          [
+            -77.5116218, 
+            37.4845926
+          ], 
+          [
+            -77.511965, 
+            37.4846506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greenbank Road", 
+        "to": "49613448", 
+        "length": "58.47941046512036", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039347"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.511965, 
+            37.4846506
+          ], 
+          [
+            -77.5127523, 
+            37.4827394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ivymount Road", 
+        "to": "49613448", 
+        "length": "223.64471501993992", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49613452", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033322"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5129916, 
+            37.4848807
+          ], 
+          [
+            -77.5129171, 
+            37.484876
+          ], 
+          [
+            -77.5122018, 
+            37.4847061
+          ], 
+          [
+            -77.511965, 
+            37.4846506
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greenbank Road", 
+        "to": "49613448", 
+        "length": "94.288362090915", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039347"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.515428, 
+            37.4837826
+          ], 
+          [
+            -77.5154531, 
+            37.4839081
+          ], 
+          [
+            -77.5155013, 
+            37.4841484
+          ], 
+          [
+            -77.51556, 
+            37.4844417
+          ], 
+          [
+            -77.5157838, 
+            37.4855237
+          ], 
+          [
+            -77.5159223, 
+            37.4858619
+          ], 
+          [
+            -77.516075, 
+            37.4861042
+          ], 
+          [
+            -77.51632, 
+            37.4863606
+          ], 
+          [
+            -77.5165905, 
+            37.4865406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cargreen Road", 
+        "to": "2145353803", 
+        "length": "332.81779797687335", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353764", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204538336"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5170556, 
+            37.4867271
+          ], 
+          [
+            -77.5169095, 
+            37.4866988
+          ], 
+          [
+            -77.5167994, 
+            37.4866509
+          ], 
+          [
+            -77.5165905, 
+            37.4865406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Cargreen Road", 
+        "to": "2145353803", 
+        "length": "46.50064091856535", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353806", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204538336"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5162988, 
+            37.4836115
+          ], 
+          [
+            -77.5167311, 
+            37.4846158
+          ], 
+          [
+            -77.5168366, 
+            37.4853291
+          ], 
+          [
+            -77.5167864, 
+            37.485624
+          ], 
+          [
+            -77.5166257, 
+            37.4863413
+          ], 
+          [
+            -77.5165905, 
+            37.4865406
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Armfield Road", 
+        "to": "2145353803", 
+        "length": "334.4393494817107", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353758", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204538335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5127523, 
+            37.4827394
+          ], 
+          [
+            -77.5134403, 
+            37.4832191
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "49613452", 
+        "length": "80.8344127357031", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614192", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038670"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5143821, 
+            37.4821473
+          ], 
+          [
+            -77.51408, 
+            37.4820886
+          ], 
+          [
+            -77.51354, 
+            37.4819921
+          ], 
+          [
+            -77.5127523, 
+            37.4827394
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Armfield Road', 'Ivymount Road']", 
+        "to": "49613452", 
+        "length": "184.67021686203483", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609968", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6033323, 204538335]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5127523, 
+            37.4827394
+          ], 
+          [
+            -77.5121985, 
+            37.482554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "49613452", 
+        "length": "53.051458381649276", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623413", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038672"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5169411, 
+            37.4869965
+          ], 
+          [
+            -77.5170441, 
+            37.486757
+          ], 
+          [
+            -77.5170556, 
+            37.4867271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Flynn Road", 
+        "to": "2145353806", 
+        "length": "31.6241518797794", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353808", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037272"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5169451, 
+            37.4834846
+          ], 
+          [
+            -77.5173424, 
+            37.4844407
+          ], 
+          [
+            -77.5175554, 
+            37.4849
+          ], 
+          [
+            -77.5175838, 
+            37.4852691
+          ], 
+          [
+            -77.5174844, 
+            37.4856186
+          ], 
+          [
+            -77.5170556, 
+            37.4867271
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Flynn Road", 
+        "to": "2145353806", 
+        "length": "376.364194379466", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353755", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037272"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5134403, 
+            37.4832191
+          ], 
+          [
+            -77.5137879, 
+            37.4828897
+          ], 
+          [
+            -77.5141906, 
+            37.4825558
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Stowmarket Court", 
+        "to": "2145353751", 
+        "length": "99.19292588960107", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614192", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6033518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5145851, 
+            37.4815416
+          ], 
+          [
+            -77.5155994, 
+            37.4817541
+          ], 
+          [
+            -77.5157373, 
+            37.4817952
+          ], 
+          [
+            -77.5161137, 
+            37.481975
+          ], 
+          [
+            -77.516483, 
+            37.4823639
+          ], 
+          [
+            -77.5167813, 
+            37.4830824
+          ], 
+          [
+            -77.5169451, 
+            37.4834846
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['Elkhardt Road', 'Flynn Road']", 
+        "to": "2145353755", 
+        "length": "329.688490652924", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609970", 
+        "ref": "", 
+        "highway": "['residential', 'tertiary']", 
+        "osmid": "[6037272, 6032878]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5169451, 
+            37.4834846
+          ], 
+          [
+            -77.5166095, 
+            37.4835537
+          ], 
+          [
+            -77.5162988, 
+            37.4836115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "2145353758", 
+        "length": "58.767570343636905", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353755", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5140818, 
+            37.4843715
+          ], 
+          [
+            -77.5143577, 
+            37.484483
+          ], 
+          [
+            -77.5146917, 
+            37.4847161
+          ], 
+          [
+            -77.5150768, 
+            37.4849654
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Gavestone Court", 
+        "to": "49628252", 
+        "length": "110.45005225189055", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353777", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039116"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5106476, 
+            37.4801283
+          ], 
+          [
+            -77.5114972, 
+            37.4798866
+          ], 
+          [
+            -77.5119624, 
+            37.4797541
+          ], 
+          [
+            -77.5125583, 
+            37.479581
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "['2', '3']", 
+        "name": "Hull Street Road", 
+        "to": "2393503773", 
+        "length": "179.29980068832685", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "2393503786", 
+        "ref": "US 360", 
+        "highway": "primary", 
+        "osmid": "[230917592, 19966191]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5143821, 
+            37.4821473
+          ], 
+          [
+            -77.5145807, 
+            37.4821907
+          ], 
+          [
+            -77.5153701, 
+            37.4823682
+          ], 
+          [
+            -77.5156464, 
+            37.4824379
+          ], 
+          [
+            -77.5158397, 
+            37.4825794
+          ], 
+          [
+            -77.5159301, 
+            37.4827109
+          ], 
+          [
+            -77.5162988, 
+            37.4836115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Armfield Road", 
+        "to": "2145353758", 
+        "length": "261.3851288954895", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609968", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204538335"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.515428, 
+            37.4837826
+          ], 
+          [
+            -77.5154607, 
+            37.4837805
+          ], 
+          [
+            -77.515885, 
+            37.4837171
+          ], 
+          [
+            -77.5162988, 
+            37.4836115
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "2145353758", 
+        "length": "79.36742994791678", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353764", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5147167, 
+            37.4837988
+          ], 
+          [
+            -77.5144131, 
+            37.4837369
+          ], 
+          [
+            -77.5141174, 
+            37.4836502
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "2145353759", 
+        "length": "55.48973371580939", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353765", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5142239, 
+            37.4841095
+          ], 
+          [
+            -77.5142417, 
+            37.4840081
+          ], 
+          [
+            -77.5142381, 
+            37.4839207
+          ], 
+          [
+            -77.5142097, 
+            37.4838418
+          ], 
+          [
+            -77.5141174, 
+            37.4836502
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greenbank Road", 
+        "to": "2145353759", 
+        "length": "53.055262749120374", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353773", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039347"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5128582, 
+            37.4836891
+          ], 
+          [
+            -77.5134403, 
+            37.4832191
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145353760", 
+        "length": "73.29665828684111", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49614192", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204538347"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5148767, 
+            37.4838055
+          ], 
+          [
+            -77.5149554, 
+            37.4831905
+          ], 
+          [
+            -77.5149956, 
+            37.4827441
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Eddystone Court", 
+        "to": "49616219", 
+        "length": "118.53393410575836", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353766", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034202"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5148767, 
+            37.4838055
+          ], 
+          [
+            -77.5149866, 
+            37.4838101
+          ], 
+          [
+            -77.515428, 
+            37.4837826
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "2145353764", 
+        "length": "48.79158836698782", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353766", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5142239, 
+            37.4841095
+          ], 
+          [
+            -77.5143862, 
+            37.4839645
+          ], 
+          [
+            -77.514546, 
+            37.4838715
+          ], 
+          [
+            -77.5147167, 
+            37.4837988
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "2145353765", 
+        "length": "56.16050285697868", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353773", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "204538356"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5147167, 
+            37.4837988
+          ], 
+          [
+            -77.5148767, 
+            37.4838055
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elmbridge Road", 
+        "to": "2145353765", 
+        "length": "14.141386721217934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353766", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6038668"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.512754, 
+            37.4811913
+          ], 
+          [
+            -77.5110709, 
+            37.4808522
+          ], 
+          [
+            -77.5109331, 
+            37.4806973
+          ], 
+          [
+            -77.5106476, 
+            37.4801283
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elkhardt Road", 
+        "to": "2393503786", 
+        "length": "242.4803058137004", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611946", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5140818, 
+            37.4843715
+          ], 
+          [
+            -77.5141742, 
+            37.4842363
+          ], 
+          [
+            -77.5142239, 
+            37.4841095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greenbank Road", 
+        "to": "2145353773", 
+        "length": "31.876724814337912", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353777", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039347"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5143821, 
+            37.4821473
+          ], 
+          [
+            -77.5145851, 
+            37.4815416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "49609968", 
+        "length": "69.71166568458798", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49609970", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032139"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5129916, 
+            37.4848807
+          ], 
+          [
+            -77.513187, 
+            37.4848929
+          ], 
+          [
+            -77.5134888, 
+            37.4848225
+          ], 
+          [
+            -77.5136877, 
+            37.4847464
+          ], 
+          [
+            -77.5138013, 
+            37.4846872
+          ], 
+          [
+            -77.5140393, 
+            37.4844336
+          ], 
+          [
+            -77.5140818, 
+            37.4843715
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Greenbank Road", 
+        "to": "2145353777", 
+        "length": "119.57640576403955", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2145353791", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6039347"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5145851, 
+            37.4815416
+          ], 
+          [
+            -77.512754, 
+            37.4811913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Elkhardt Road", 
+        "to": "49609970", 
+        "length": "166.2498650252458", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611946", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6032878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5113359, 
+            37.4844941
+          ], 
+          [
+            -77.5121985, 
+            37.482554
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Whitehead Road", 
+        "to": "49623411", 
+        "length": "228.8269005769245", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49623413", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036881"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.5121985, 
+            37.482554
+          ], 
+          [
+            -77.512754, 
+            37.4811913
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Whitehead Road", 
+        "to": "49623413", 
+        "length": "159.30104220984805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611946", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "6036881"
+      }
+    }
+  ]
+}

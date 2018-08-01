@@ -1,0 +1,800 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436393, 
+            37.4884807
+          ], 
+          [
+            -77.4437292, 
+            37.489361
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Columbia Street", 
+        "to": "49612161", 
+        "length": "98.23340747478514", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3049280216", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "300835508"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4436393, 
+            37.4884807
+          ], 
+          [
+            -77.4426997, 
+            37.4885472
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Drake Street", 
+        "to": "49612161", 
+        "length": "83.25389102617231", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611851", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032951"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.439534, 
+            37.4897637
+          ], 
+          [
+            -77.4382723, 
+            37.489825
+          ], 
+          [
+            -77.438305, 
+            37.489347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Colby Lane", 
+        "to": "49611513", 
+        "length": "164.8027617992867", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611516", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032739"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4454477, 
+            37.4912071
+          ], 
+          [
+            -77.4435653, 
+            37.491333
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Bellemeade Road", 
+        "to": "49625939", 
+        "length": "166.71478990751527", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049266081", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6038033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4452557, 
+            37.4893476
+          ], 
+          [
+            -77.4454353, 
+            37.4910871
+          ], 
+          [
+            -77.4454477, 
+            37.4912071
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "3", 
+        "name": "Jefferson Davis Highway", 
+        "to": "3049266081", 
+        "length": "207.51817361168406", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49612222", 
+        "ref": "US 1;US 301", 
+        "highway": "primary", 
+        "osmid": "107818077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4435653, 
+            37.491333
+          ], 
+          [
+            -77.441771, 
+            37.4914526
+          ], 
+          [
+            -77.4416825, 
+            37.4914585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Bellemeade Road", 
+        "to": "49625578", 
+        "length": "166.74595700520447", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625939", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6038033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4416825, 
+            37.4914585
+          ], 
+          [
+            -77.437586, 
+            37.4917252
+          ], 
+          [
+            -77.4374508, 
+            37.4917338
+          ], 
+          [
+            -77.4371764, 
+            37.4917549
+          ], 
+          [
+            -77.4370369, 
+            37.4917709
+          ], 
+          [
+            -77.4369016, 
+            37.4917928
+          ], 
+          [
+            -77.4367674, 
+            37.491822
+          ], 
+          [
+            -77.4366356, 
+            37.4918587
+          ], 
+          [
+            -77.4365072, 
+            37.4919029
+          ], 
+          [
+            -77.4363818, 
+            37.4919527
+          ], 
+          [
+            -77.4362658, 
+            37.4920096
+          ], 
+          [
+            -77.4361498, 
+            37.4920724
+          ], 
+          [
+            -77.4360428, 
+            37.4921407
+          ], 
+          [
+            -77.4359209, 
+            37.4922289
+          ], 
+          [
+            -77.4358313, 
+            37.4923028
+          ], 
+          [
+            -77.4357476, 
+            37.4923796
+          ], 
+          [
+            -77.4356646, 
+            37.4924697
+          ], 
+          [
+            -77.4355896, 
+            37.4925651
+          ], 
+          [
+            -77.4355205, 
+            37.4926618
+          ], 
+          [
+            -77.4354555, 
+            37.4927539
+          ], 
+          [
+            -77.4346199, 
+            37.4940472
+          ], 
+          [
+            -77.4341171, 
+            37.4948227
+          ], 
+          [
+            -77.4340584, 
+            37.4949149
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "35 mph", 
+        "lanes": "2", 
+        "name": "Bellemeade Road", 
+        "to": "49625933", 
+        "length": "865.9645213799859", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49625578", 
+        "ref": "", 
+        "highway": "secondary", 
+        "osmid": "6038033"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4415938, 
+            37.4906288
+          ], 
+          [
+            -77.4416715, 
+            37.4913554
+          ], 
+          [
+            -77.4416825, 
+            37.4914585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lynhaven Avenue", 
+        "to": "49625578", 
+        "length": "92.61583133514272", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618894", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037860"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4426997, 
+            37.4885472
+          ], 
+          [
+            -77.4414499, 
+            37.4886356
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Drake Street", 
+        "to": "49611851", 
+        "length": "110.73872027555325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612159", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6032951"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441523, 
+            37.4898032
+          ], 
+          [
+            -77.4427304, 
+            37.4897215
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Atwell Lane", 
+        "to": "49625580", 
+        "length": "106.94443359824943", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3097567280", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041009"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441523, 
+            37.4898032
+          ], 
+          [
+            -77.4415938, 
+            37.4906288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lynhaven Avenue", 
+        "to": "49625580", 
+        "length": "92.04073032921433", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618894", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037860"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441523, 
+            37.4898032
+          ], 
+          [
+            -77.4414499, 
+            37.4886356
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lynhaven Avenue", 
+        "to": "49625580", 
+        "length": "130.0279190718396", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612159", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037860"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.439534, 
+            37.4897637
+          ], 
+          [
+            -77.4396285, 
+            37.4907307
+          ], 
+          [
+            -77.4415938, 
+            37.4906288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Brady Street', 'Krouse Street']", 
+        "to": "49618894", 
+        "length": "281.69166897432046", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49611516", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035578, 6035228]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4415938, 
+            37.4906288
+          ], 
+          [
+            -77.4434795, 
+            37.4905104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Brady Street", 
+        "to": "49618894", 
+        "length": "166.93867210375655", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49618895", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6035228"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4434795, 
+            37.4905104
+          ], 
+          [
+            -77.4435653, 
+            37.491333
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Columbia Street", 
+        "to": "49618895", 
+        "length": "91.80751301031987", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625939", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041092"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443405, 
+            37.4894085
+          ], 
+          [
+            -77.4444289, 
+            37.4903883
+          ], 
+          [
+            -77.444375, 
+            37.4904478
+          ], 
+          [
+            -77.4434795, 
+            37.4905104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Columbia Street', 'Brady Street']", 
+        "to": "49618895", 
+        "length": "196.74518956745516", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617143", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6041083, 6035228]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441345, 
+            37.4871774
+          ], 
+          [
+            -77.441323, 
+            37.4868918
+          ], 
+          [
+            -77.441285, 
+            37.4863993
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lynhaven Avenue", 
+        "to": "49625586", 
+        "length": "86.70700410480389", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49625582", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037860"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.441345, 
+            37.4871774
+          ], 
+          [
+            -77.4414499, 
+            37.4886356
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lynhaven Avenue", 
+        "to": "49625582", 
+        "length": "162.4541424448247", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612159", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6037860"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4437292, 
+            37.489361
+          ], 
+          [
+            -77.4438161, 
+            37.4894347
+          ], 
+          [
+            -77.4443405, 
+            37.4894085
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Atwell Drive", 
+        "to": "49617143", 
+        "length": "57.59781075005744", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280216", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034516"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443405, 
+            37.4894085
+          ], 
+          [
+            -77.4443255, 
+            37.4892528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Columbia Street", 
+        "to": "3049280217", 
+        "length": "17.36845169998431", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49617143", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6041083"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443405, 
+            37.4894085
+          ], 
+          [
+            -77.4452557, 
+            37.4893476
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Atwell Drive", 
+        "to": "49612222", 
+        "length": "81.05384450750395", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "49617143", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034516"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4443255, 
+            37.4892528
+          ], 
+          [
+            -77.4438281, 
+            37.4892849
+          ], 
+          [
+            -77.4437292, 
+            37.489361
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Atwell Drive", 
+        "to": "3049280216", 
+        "length": "56.20118369829988", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "3049280217", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "6034516"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.4414499, 
+            37.4886356
+          ], 
+          [
+            -77.4391993, 
+            37.4887949
+          ], 
+          [
+            -77.439534, 
+            37.4897637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Drake Street', 'Krouse Street']", 
+        "to": "49611516", 
+        "length": "311.14687579144385", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "49612159", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[6035578, 6032951]"
+      }
+    }
+  ]
+}
