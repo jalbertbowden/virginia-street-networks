@@ -12,4 +12,5 @@ Datasets converted to GeoJSON for www; via [OSMnx Street Networks Dataverse](htt
 * [OSMnx Features Round-Up](https://geoffboeing.com/2018/03/osmnx-features-roundup/)  
 * [OSMnx: Python for Street Networks](https://geoffboeing.com/2016/11/osmnx-python-street-networks/)  
 
+![MPL 2.0 - Mozilla Public License Version 2.0](https://raw.githubusercontent.com/jalbertbowden/virginia-street-networks/master/mozilla-logo-bw-rgb-w200.png)
 [MLP 2.0](https://www.mozilla.org/en-US/MPL/2.0/)
