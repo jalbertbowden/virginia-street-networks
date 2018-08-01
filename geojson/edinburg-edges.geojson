@@ -1,0 +1,3827 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.567612, 
+            38.82361
+          ], 
+          [
+            -78.567703, 
+            38.823757
+          ], 
+          [
+            -78.567789, 
+            38.82391
+          ], 
+          [
+            -78.567865, 
+            38.824068
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219122816", 
+        "length": "55.497485098111575", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219225528", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568423, 
+            38.825095
+          ], 
+          [
+            -78.568218, 
+            38.824714
+          ], 
+          [
+            -78.567937, 
+            38.824215
+          ], 
+          [
+            -78.567865, 
+            38.824068
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219122816", 
+        "length": "124.05818524906753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219143418", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.567865, 
+            38.824068
+          ], 
+          [
+            -78.566876, 
+            38.824449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Avenue", 
+        "to": "219122816", 
+        "length": "95.60513331901858", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219122821", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5535331, 
+            38.8247267
+          ], 
+          [
+            -78.5539497, 
+            38.8248626
+          ], 
+          [
+            -78.5541636, 
+            38.8249635
+          ], 
+          [
+            -78.5543859, 
+            38.8250731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3126268525", 
+        "length": "83.6003279534902", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3126268522", 
+        "ref": "SR 1426", 
+        "highway": "residential", 
+        "osmid": "307466066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5543859, 
+            38.8250731
+          ], 
+          [
+            -78.5542536, 
+            38.8252639
+          ], 
+          [
+            -78.5542311, 
+            38.8253582
+          ], 
+          [
+            -78.5542339, 
+            38.8254371
+          ], 
+          [
+            -78.554248, 
+            38.8255358
+          ], 
+          [
+            -78.5542142, 
+            38.8256279
+          ], 
+          [
+            -78.5541664, 
+            38.8257287
+          ], 
+          [
+            -78.553505, 
+            38.8265378
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3126271234", 
+        "length": "183.91297357590904", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3126268525", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "307466084"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.555294, 
+            38.823821
+          ], 
+          [
+            -78.555796, 
+            38.823186
+          ], 
+          [
+            -78.555808, 
+            38.823154
+          ], 
+          [
+            -78.555784, 
+            38.82313
+          ], 
+          [
+            -78.555735, 
+            38.823104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Grove Avenue", 
+        "to": "219066884", 
+        "length": "95.17927135486876", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219108120", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482241"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.557634, 
+            38.821741
+          ], 
+          [
+            -78.557717, 
+            38.82133
+          ], 
+          [
+            -78.557746, 
+            38.821113
+          ], 
+          [
+            -78.55774, 
+            38.82105
+          ], 
+          [
+            -78.557677, 
+            38.820984
+          ], 
+          [
+            -78.55756, 
+            38.820917
+          ], 
+          [
+            -78.557396, 
+            38.820879
+          ], 
+          [
+            -78.557181, 
+            38.820847
+          ], 
+          [
+            -78.556968, 
+            38.820848
+          ], 
+          [
+            -78.556871, 
+            38.820931
+          ], 
+          [
+            -78.556796, 
+            38.821173
+          ], 
+          [
+            -78.556784, 
+            38.821221
+          ], 
+          [
+            -78.556675, 
+            38.821651
+          ], 
+          [
+            -78.5566, 
+            38.821977
+          ], 
+          [
+            -78.556523, 
+            38.822152
+          ], 
+          [
+            -78.556396, 
+            38.822349
+          ], 
+          [
+            -78.556285, 
+            38.822481
+          ], 
+          [
+            -78.555811, 
+            38.822957
+          ], 
+          [
+            -78.555735, 
+            38.823104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Grove Avenue", 
+        "to": "219066884", 
+        "length": "430.0421852593062", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219123860", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482842"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.556881, 
+            38.823559
+          ], 
+          [
+            -78.556383, 
+            38.823283
+          ], 
+          [
+            -78.556131, 
+            38.823194
+          ], 
+          [
+            -78.555831, 
+            38.823115
+          ], 
+          [
+            -78.555735, 
+            38.823104
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "Edinburg Gap Road", 
+        "to": "219066884", 
+        "length": "112.7844765718052", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219066901", 
+        "ref": "SR 675", 
+        "highway": "unclassified", 
+        "osmid": "162152654"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566876, 
+            38.824449
+          ], 
+          [
+            -78.56568, 
+            38.826146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Avenue", 
+        "to": "219122821", 
+        "length": "215.33071336091774", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086177", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566876, 
+            38.824449
+          ], 
+          [
+            -78.5676189, 
+            38.8249517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Piccadilly Street", 
+        "to": "219122821", 
+        "length": "85.26646772979139", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198163", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566591, 
+            38.8239
+          ], 
+          [
+            -78.566634, 
+            38.824077
+          ], 
+          [
+            -78.566642, 
+            38.824156
+          ], 
+          [
+            -78.566649, 
+            38.82422
+          ], 
+          [
+            -78.566719, 
+            38.824312
+          ], 
+          [
+            -78.566876, 
+            38.824449
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Piccadilly Street", 
+        "to": "219122821", 
+        "length": "68.31798307387758", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219056199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56285, 
+            38.819184
+          ], 
+          [
+            -78.5628, 
+            38.81909
+          ], 
+          [
+            -78.562788, 
+            38.818968
+          ], 
+          [
+            -78.562796, 
+            38.818847
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Palmyra Road", 
+        "to": "219091590", 
+        "length": "38.403180809371236", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219091600", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481638"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.557661, 
+            38.820089
+          ], 
+          [
+            -78.557916, 
+            38.820066
+          ], 
+          [
+            -78.558006, 
+            38.820076
+          ], 
+          [
+            -78.558424, 
+            38.820201
+          ], 
+          [
+            -78.558538, 
+            38.820248
+          ], 
+          [
+            -78.558701, 
+            38.820276
+          ], 
+          [
+            -78.5589, 
+            38.820255
+          ], 
+          [
+            -78.559104, 
+            38.82019
+          ], 
+          [
+            -78.559223, 
+            38.820128
+          ], 
+          [
+            -78.559385, 
+            38.820063
+          ], 
+          [
+            -78.559608, 
+            38.820021
+          ], 
+          [
+            -78.559864, 
+            38.819982
+          ], 
+          [
+            -78.560133, 
+            38.819932
+          ], 
+          [
+            -78.560399, 
+            38.819864
+          ], 
+          [
+            -78.560615, 
+            38.819786
+          ], 
+          [
+            -78.560805, 
+            38.819687
+          ], 
+          [
+            -78.560987, 
+            38.819518
+          ], 
+          [
+            -78.561221, 
+            38.819244
+          ], 
+          [
+            -78.561349, 
+            38.819102
+          ], 
+          [
+            -78.561502, 
+            38.818972
+          ], 
+          [
+            -78.561645, 
+            38.818888
+          ], 
+          [
+            -78.561795, 
+            38.818847
+          ], 
+          [
+            -78.562389, 
+            38.818847
+          ], 
+          [
+            -78.562616, 
+            38.818843
+          ], 
+          [
+            -78.562796, 
+            38.818847
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North Whissen Street", 
+        "to": "219091590", 
+        "length": "506.52928711174013", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219127792", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482985"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562796, 
+            38.818847
+          ], 
+          [
+            -78.562837, 
+            38.818846
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South Whissen Street", 
+        "to": "219091590", 
+        "length": "3.55479697472732", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219091813", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482861"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.564933, 
+            38.827227
+          ], 
+          [
+            -78.564778, 
+            38.827513
+          ], 
+          [
+            -78.564637, 
+            38.827718
+          ], 
+          [
+            -78.564501, 
+            38.827898
+          ], 
+          [
+            -78.564356, 
+            38.82808
+          ], 
+          [
+            -78.564155, 
+            38.828402
+          ], 
+          [
+            -78.564041, 
+            38.828551
+          ], 
+          [
+            -78.563901, 
+            38.828662
+          ], 
+          [
+            -78.563769, 
+            38.828715
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Avenue", 
+        "to": "219122860", 
+        "length": "196.7487190115986", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219063442", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566494, 
+            38.823321
+          ], 
+          [
+            -78.567018, 
+            38.823178
+          ], 
+          [
+            -78.56732, 
+            38.823089
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Printz Street", 
+        "to": "219201293", 
+        "length": "76.09151075550878", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198202", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487526"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5663811, 
+            38.8213543
+          ], 
+          [
+            -78.56647, 
+            38.821549
+          ], 
+          [
+            -78.566674, 
+            38.8219
+          ], 
+          [
+            -78.566727, 
+            38.821991
+          ], 
+          [
+            -78.567125, 
+            38.822714
+          ], 
+          [
+            -78.56732, 
+            38.823089
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219201293", 
+        "length": "209.45945295107796", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198179", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.567598, 
+            38.823587
+          ], 
+          [
+            -78.5675722, 
+            38.8235471
+          ], 
+          [
+            -78.5675292, 
+            38.8234698
+          ], 
+          [
+            -78.567436, 
+            38.823287
+          ], 
+          [
+            -78.56732, 
+            38.823089
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219201293", 
+        "length": "60.42552846542557", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219225525", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.563076, 
+            38.821288
+          ], 
+          [
+            -78.564359, 
+            38.821156
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219163626", 
+        "length": "112.14616871597013", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219163629", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "20481162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.563076, 
+            38.821288
+          ], 
+          [
+            -78.563045, 
+            38.821011
+          ], 
+          [
+            -78.563014, 
+            38.820963
+          ], 
+          [
+            -78.562859, 
+            38.820933
+          ], 
+          [
+            -78.562448, 
+            38.820879
+          ], 
+          [
+            -78.562317, 
+            38.820859
+          ], 
+          [
+            -78.562287, 
+            38.820858
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "219091742", 
+        "length": "101.03255544801549", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219163629", 
+        "ref": "SR 760", 
+        "highway": "residential", 
+        "osmid": "20489169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.563076, 
+            38.821288
+          ], 
+          [
+            -78.562186, 
+            38.821385
+          ], 
+          [
+            -78.5618254, 
+            38.821419
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219111135", 
+        "length": "109.35204424941938", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219163629", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "20481162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562028, 
+            38.819666
+          ], 
+          [
+            -78.562274, 
+            38.819668
+          ], 
+          [
+            -78.562489, 
+            38.81965
+          ], 
+          [
+            -78.562619, 
+            38.819618
+          ], 
+          [
+            -78.562701, 
+            38.819532
+          ], 
+          [
+            -78.562779, 
+            38.819278
+          ], 
+          [
+            -78.56285, 
+            38.819184
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Bluff Circle", 
+        "to": "219091600", 
+        "length": "104.9690365106152", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219223977", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489590"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562287, 
+            38.820858
+          ], 
+          [
+            -78.562292, 
+            38.820766
+          ], 
+          [
+            -78.562386, 
+            38.820647
+          ], 
+          [
+            -78.562459, 
+            38.820574
+          ], 
+          [
+            -78.562573, 
+            38.820524
+          ], 
+          [
+            -78.5626492, 
+            38.8204763
+          ], 
+          [
+            -78.562944, 
+            38.820233
+          ], 
+          [
+            -78.563032, 
+            38.820205
+          ], 
+          [
+            -78.563121, 
+            38.820208
+          ], 
+          [
+            -78.563293, 
+            38.820246
+          ], 
+          [
+            -78.563451, 
+            38.82024
+          ], 
+          [
+            -78.563568, 
+            38.820209
+          ], 
+          [
+            -78.563637, 
+            38.820165
+          ], 
+          [
+            -78.563662, 
+            38.820144
+          ], 
+          [
+            -78.563691, 
+            38.820104
+          ], 
+          [
+            -78.563701, 
+            38.820051
+          ], 
+          [
+            -78.563679, 
+            38.819972
+          ], 
+          [
+            -78.563641, 
+            38.819908
+          ], 
+          [
+            -78.563571, 
+            38.819859
+          ], 
+          [
+            -78.56329, 
+            38.819719
+          ], 
+          [
+            -78.563162, 
+            38.819617
+          ], 
+          [
+            -78.562961, 
+            38.819347
+          ], 
+          [
+            -78.56285, 
+            38.819184
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Palmyra Road", 
+        "to": "219091600", 
+        "length": "295.9483464214315", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219091742", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20481638, 162152734, 162152735]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56568, 
+            38.826146
+          ], 
+          [
+            -78.565569, 
+            38.82634
+          ], 
+          [
+            -78.565043, 
+            38.827061
+          ], 
+          [
+            -78.564933, 
+            38.827227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Shenandoah Avenue", 
+        "to": "219063442", 
+        "length": "136.64444590640275", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086177", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482785"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.563457, 
+            38.825934
+          ], 
+          [
+            -78.563558, 
+            38.826136
+          ], 
+          [
+            -78.563626, 
+            38.826252
+          ], 
+          [
+            -78.563799, 
+            38.826482
+          ], 
+          [
+            -78.563908, 
+            38.826645
+          ], 
+          [
+            -78.564047, 
+            38.826775
+          ], 
+          [
+            -78.564197, 
+            38.826892
+          ], 
+          [
+            -78.564355, 
+            38.826991
+          ], 
+          [
+            -78.564759, 
+            38.82717
+          ], 
+          [
+            -78.564933, 
+            38.827227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jackson Street", 
+        "to": "219063442", 
+        "length": "199.79791510002073", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219063411", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20480513"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56835, 
+            38.820722
+          ], 
+          [
+            -78.568261, 
+            38.820723
+          ], 
+          [
+            -78.56811, 
+            38.820734
+          ], 
+          [
+            -78.5678245, 
+            38.8207623
+          ], 
+          [
+            -78.56745, 
+            38.820799
+          ], 
+          [
+            -78.56737, 
+            38.820808
+          ], 
+          [
+            -78.5671922, 
+            38.8208288
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "yes", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "['S Main Street', 'Main Street']", 
+        "to": "3126311444", 
+        "length": "101.0897823183529", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219154229", 
+        "ref": "US 11", 
+        "highway": "primary", 
+        "osmid": "[162153131, 162153132, 20484573]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5671922, 
+            38.8208288
+          ], 
+          [
+            -78.567242, 
+            38.8210882
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Creekview Lane", 
+        "to": "3126311444", 
+        "length": "29.17305232527284", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3126311446", 
+        "ref": "", 
+        "highway": "road", 
+        "osmid": "307468656"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5671922, 
+            38.8208288
+          ], 
+          [
+            -78.566172, 
+            38.820948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "S Main Street", 
+        "to": "3126311444", 
+        "length": "89.396518063163", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219163615", 
+        "ref": "US 11", 
+        "highway": "primary", 
+        "osmid": "162153131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.555215, 
+            38.825506
+          ], 
+          [
+            -78.555765, 
+            38.824758
+          ], 
+          [
+            -78.556039, 
+            38.824402
+          ], 
+          [
+            -78.556221, 
+            38.824178
+          ], 
+          [
+            -78.556423, 
+            38.823981
+          ], 
+          [
+            -78.556881, 
+            38.823559
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219066901", 
+        "length": "261.04888604164466", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219062592", 
+        "ref": "US 11", 
+        "highway": "primary", 
+        "osmid": "172361934"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.556881, 
+            38.823559
+          ], 
+          [
+            -78.557343, 
+            38.823152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219066901", 
+        "length": "60.432101762289896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219099977", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "307466337"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5617987, 
+            38.8216744
+          ], 
+          [
+            -78.5618461, 
+            38.82245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hisey Street", 
+        "to": "3126311449", 
+        "length": "86.36481474381722", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219100370", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "307468658"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566477, 
+            38.821927
+          ], 
+          [
+            -78.56624, 
+            38.821959
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "High Street", 
+        "to": "219105562", 
+        "length": "20.843640846717197", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219105567", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20482140"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56181, 
+            38.820851
+          ], 
+          [
+            -78.562127, 
+            38.820849
+          ], 
+          [
+            -78.562287, 
+            38.820858
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "219091742", 
+        "length": "41.37260524177991", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219111133", 
+        "ref": "SR 760", 
+        "highway": "residential", 
+        "osmid": "20489169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5663811, 
+            38.8213543
+          ], 
+          [
+            -78.566245, 
+            38.821384
+          ], 
+          [
+            -78.566207, 
+            38.821403
+          ], 
+          [
+            -78.566172, 
+            38.82142
+          ], 
+          [
+            -78.566156, 
+            38.821449
+          ], 
+          [
+            -78.566167, 
+            38.821531
+          ], 
+          [
+            -78.56619, 
+            38.821651
+          ], 
+          [
+            -78.566212, 
+            38.821761
+          ], 
+          [
+            -78.56624, 
+            38.821959
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Piccadilly Street", 
+        "to": "219105567", 
+        "length": "80.44965564187876", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198179", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56624, 
+            38.821959
+          ], 
+          [
+            -78.566494, 
+            38.823321
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Piccadilly Street", 
+        "to": "219105567", 
+        "length": "153.08078979837288", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198202", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487182"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56456, 
+            38.822145
+          ], 
+          [
+            -78.565294, 
+            38.822056
+          ], 
+          [
+            -78.5653389, 
+            38.8220511
+          ], 
+          [
+            -78.565769, 
+            38.822004
+          ], 
+          [
+            -78.56624, 
+            38.821959
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "South High Street", 
+        "to": "219105567", 
+        "length": "147.05793333906038", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219100382", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488131"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.570231, 
+            38.830236
+          ], 
+          [
+            -78.570458, 
+            38.830183
+          ], 
+          [
+            -78.572328, 
+            38.829655
+          ], 
+          [
+            -78.572479, 
+            38.829577
+          ], 
+          [
+            -78.572523, 
+            38.82955
+          ], 
+          [
+            -78.572569, 
+            38.829522
+          ], 
+          [
+            -78.572665, 
+            38.829392
+          ], 
+          [
+            -78.573063, 
+            38.828712
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Windsor Knit Road", 
+        "to": "219086503", 
+        "length": "318.2927677121163", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086521", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481429"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568457, 
+            38.825156
+          ], 
+          [
+            -78.568872, 
+            38.825673
+          ], 
+          [
+            -78.569049, 
+            38.825846
+          ], 
+          [
+            -78.569171, 
+            38.825978
+          ], 
+          [
+            -78.569528, 
+            38.826281
+          ], 
+          [
+            -78.569771, 
+            38.826448
+          ], 
+          [
+            -78.570176, 
+            38.826709
+          ], 
+          [
+            -78.570533, 
+            38.826963
+          ], 
+          [
+            -78.5712, 
+            38.827421
+          ], 
+          [
+            -78.572192, 
+            38.828117
+          ], 
+          [
+            -78.5724, 
+            38.828272
+          ], 
+          [
+            -78.572924, 
+            38.828627
+          ], 
+          [
+            -78.573063, 
+            38.828712
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219086503", 
+        "length": "564.9256390500927", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198171", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5687596, 
+            38.8297597
+          ], 
+          [
+            -78.567905, 
+            38.829325
+          ], 
+          [
+            -78.567521, 
+            38.82911
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rose Hill Drive", 
+        "to": "219148075", 
+        "length": "129.4105409942805", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2701497592", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20486960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5678329, 
+            38.8288446
+          ], 
+          [
+            -78.5677336, 
+            38.8289013
+          ], 
+          [
+            -78.5676154, 
+            38.8289956
+          ], 
+          [
+            -78.567521, 
+            38.82911
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kadies Lane", 
+        "to": "219148075", 
+        "length": "40.45402348488108", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219148089", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.567521, 
+            38.82911
+          ], 
+          [
+            -78.567101, 
+            38.828882
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rose Hill Drive", 
+        "to": "219148075", 
+        "length": "44.3563357153408", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219195759", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20486960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.563364, 
+            38.817372
+          ], 
+          [
+            -78.563639, 
+            38.816967
+          ], 
+          [
+            -78.563803, 
+            38.816785
+          ], 
+          [
+            -78.564099, 
+            38.816494
+          ], 
+          [
+            -78.564155, 
+            38.816377
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Palmyra Road", 
+        "to": "219091756", 
+        "length": "130.88507876937882", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219091772", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5663811, 
+            38.8213543
+          ], 
+          [
+            -78.566172, 
+            38.820948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219163615", 
+        "length": "48.6886177809789", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198179", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568423, 
+            38.825095
+          ], 
+          [
+            -78.568658, 
+            38.824888
+          ], 
+          [
+            -78.568837, 
+            38.824691
+          ], 
+          [
+            -78.56902, 
+            38.824428
+          ], 
+          [
+            -78.569378, 
+            38.824003
+          ], 
+          [
+            -78.569366, 
+            38.823896
+          ], 
+          [
+            -78.568929, 
+            38.823261
+          ], 
+          [
+            -78.568816, 
+            38.823159
+          ], 
+          [
+            -78.56875, 
+            38.82317
+          ], 
+          [
+            -78.568448, 
+            38.823287
+          ], 
+          [
+            -78.567612, 
+            38.82361
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Creekside Lane', 'Railroad Avenue']", 
+        "to": "219225528", 
+        "length": "370.40855482115563", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219143418", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20489752, 20483730]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.567612, 
+            38.82361
+          ], 
+          [
+            -78.567598, 
+            38.823587
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219225528", 
+        "length": "2.8312822128444677", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219225525", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5685939, 
+            38.8286686
+          ], 
+          [
+            -78.5681225, 
+            38.8287476
+          ], 
+          [
+            -78.5678329, 
+            38.8288446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kadies Lane", 
+        "to": "219148089", 
+        "length": "69.0945530606434", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219148098", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5679971, 
+            38.8281478
+          ], 
+          [
+            -78.5677932, 
+            38.8282041
+          ], 
+          [
+            -78.567821, 
+            38.828275
+          ], 
+          [
+            -78.5679612, 
+            38.8286355
+          ], 
+          [
+            -78.5678407, 
+            38.8287213
+          ], 
+          [
+            -78.5678329, 
+            38.8288446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prim Rose Lane", 
+        "to": "219148089", 
+        "length": "96.76322650312171", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219210582", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488461"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566494, 
+            38.823321
+          ], 
+          [
+            -78.5665673, 
+            38.8237624
+          ], 
+          [
+            -78.5665771, 
+            38.8238001
+          ], 
+          [
+            -78.566591, 
+            38.8239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Piccadilly Street", 
+        "to": "219056199", 
+        "length": "64.95939807403553", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198202", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20487179, 20487182]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566494, 
+            38.823321
+          ], 
+          [
+            -78.56588, 
+            38.823391
+          ], 
+          [
+            -78.56481, 
+            38.823496
+          ], 
+          [
+            -78.564724, 
+            38.823103
+          ], 
+          [
+            -78.56456, 
+            38.822145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Center Street', 'Printz Street']", 
+        "to": "219100382", 
+        "length": "299.06611598904146", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198202", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20487491, 20487526]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.564359, 
+            38.821156
+          ], 
+          [
+            -78.564778, 
+            38.821103
+          ], 
+          [
+            -78.5652563, 
+            38.821048
+          ], 
+          [
+            -78.565673, 
+            38.821
+          ], 
+          [
+            -78.565791, 
+            38.820988
+          ], 
+          [
+            -78.566172, 
+            38.820948
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "S Main Street", 
+        "to": "219163615", 
+        "length": "158.81169914299244", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219163626", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "108533130"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562927, 
+            38.81819
+          ], 
+          [
+            -78.562947, 
+            38.81798
+          ], 
+          [
+            -78.563074, 
+            38.817754
+          ], 
+          [
+            -78.563221, 
+            38.817569
+          ], 
+          [
+            -78.563364, 
+            38.817372
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Palmyra Road", 
+        "to": "219091772", 
+        "length": "100.23710291165555", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219091790", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56568, 
+            38.826146
+          ], 
+          [
+            -78.565268, 
+            38.825985
+          ], 
+          [
+            -78.564819, 
+            38.825793
+          ], 
+          [
+            -78.564222, 
+            38.82553
+          ], 
+          [
+            -78.564154, 
+            38.825454
+          ], 
+          [
+            -78.564064, 
+            38.825323
+          ], 
+          [
+            -78.564024, 
+            38.825226
+          ], 
+          [
+            -78.564005, 
+            38.825099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Koontz Street", 
+        "to": "219158846", 
+        "length": "196.1348305952016", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086177", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484385"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.564005, 
+            38.825099
+          ], 
+          [
+            -78.563911, 
+            38.824921
+          ], 
+          [
+            -78.563895, 
+            38.824845
+          ], 
+          [
+            -78.563927, 
+            38.824766
+          ], 
+          [
+            -78.564023, 
+            38.82471
+          ], 
+          [
+            -78.564116, 
+            38.824718
+          ], 
+          [
+            -78.564161, 
+            38.824775
+          ], 
+          [
+            -78.564184, 
+            38.824833
+          ], 
+          [
+            -78.564005, 
+            38.825099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Koontz Street", 
+        "to": "219158846", 
+        "length": "105.28887301368748", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219158846", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484385"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.564005, 
+            38.825099
+          ], 
+          [
+            -78.564184, 
+            38.824833
+          ], 
+          [
+            -78.564161, 
+            38.824775
+          ], 
+          [
+            -78.564116, 
+            38.824718
+          ], 
+          [
+            -78.564023, 
+            38.82471
+          ], 
+          [
+            -78.563927, 
+            38.824766
+          ], 
+          [
+            -78.563895, 
+            38.824845
+          ], 
+          [
+            -78.563911, 
+            38.824921
+          ], 
+          [
+            -78.564005, 
+            38.825099
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Koontz Street", 
+        "to": "219158846", 
+        "length": "105.28887301316078", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "219158846", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20484385"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566591, 
+            38.8239
+          ], 
+          [
+            -78.566755, 
+            38.823848
+          ], 
+          [
+            -78.566997, 
+            38.823791
+          ], 
+          [
+            -78.567188, 
+            38.823741
+          ], 
+          [
+            -78.567437, 
+            38.823658
+          ], 
+          [
+            -78.567598, 
+            38.823587
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Railroad Avenue", 
+        "to": "219225525", 
+        "length": "94.21114053430263", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219056199", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.555215, 
+            38.825506
+          ], 
+          [
+            -78.5543859, 
+            38.8250731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3126268525", 
+        "length": "86.48617149523541", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219062592", 
+        "ref": "SR 1426", 
+        "highway": "residential", 
+        "osmid": "307466066"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.558924, 
+            38.821004
+          ], 
+          [
+            -78.558884, 
+            38.821099
+          ], 
+          [
+            -78.558831, 
+            38.82115
+          ], 
+          [
+            -78.558736, 
+            38.821185
+          ], 
+          [
+            -78.558581, 
+            38.821224
+          ], 
+          [
+            -78.558486, 
+            38.821285
+          ], 
+          [
+            -78.55845, 
+            38.821389
+          ], 
+          [
+            -78.558469, 
+            38.821473
+          ], 
+          [
+            -78.5587, 
+            38.82204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Walnut Street", 
+        "to": "219107171", 
+        "length": "139.9424117544312", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219107137", 
+        "ref": "SR 1403", 
+        "highway": "residential", 
+        "osmid": "20482199"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56181, 
+            38.820851
+          ], 
+          [
+            -78.560354, 
+            38.82088
+          ], 
+          [
+            -78.559557, 
+            38.820912
+          ], 
+          [
+            -78.559191, 
+            38.820965
+          ], 
+          [
+            -78.558924, 
+            38.821004
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Water Street", 
+        "to": "219107137", 
+        "length": "251.17249304276652", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219111133", 
+        "ref": "SR 760", 
+        "highway": "residential", 
+        "osmid": "20489169"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5687596, 
+            38.8297597
+          ], 
+          [
+            -78.5700931, 
+            38.8293833
+          ], 
+          [
+            -78.5702362, 
+            38.8293289
+          ], 
+          [
+            -78.5703282, 
+            38.8292347
+          ], 
+          [
+            -78.5703691, 
+            38.8291258
+          ], 
+          [
+            -78.5703282, 
+            38.8289785
+          ], 
+          [
+            -78.5701289, 
+            38.8288206
+          ], 
+          [
+            -78.5698938, 
+            38.8286746
+          ], 
+          [
+            -78.5696928, 
+            38.8286188
+          ], 
+          [
+            -78.5695292, 
+            38.8286042
+          ], 
+          [
+            -78.5685939, 
+            38.8286686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Kadies Lane", 
+        "to": "219148098", 
+        "length": "344.0365066506886", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2701497592", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20483925"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568394, 
+            38.828079
+          ], 
+          [
+            -78.56844, 
+            38.828105
+          ], 
+          [
+            -78.568495, 
+            38.828255
+          ], 
+          [
+            -78.5685939, 
+            38.8286686
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prim Rose Lane", 
+        "to": "219148098", 
+        "length": "69.0701946072162", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219148116", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488461"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56972, 
+            38.830367
+          ], 
+          [
+            -78.568637, 
+            38.830672
+          ], 
+          [
+            -78.568402, 
+            38.830738
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Windsor Knit Road", 
+        "to": "219086531", 
+        "length": "121.42572244775884", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086527", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481429"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.563249, 
+            38.823908
+          ], 
+          [
+            -78.563359, 
+            38.823874
+          ], 
+          [
+            -78.563619, 
+            38.823881
+          ], 
+          [
+            -78.564228, 
+            38.823925
+          ], 
+          [
+            -78.564757, 
+            38.823939
+          ], 
+          [
+            -78.565942, 
+            38.823983
+          ], 
+          [
+            -78.566282, 
+            38.823951
+          ], 
+          [
+            -78.566458, 
+            38.823962
+          ], 
+          [
+            -78.566591, 
+            38.8239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Railroad Avenue", 
+        "to": "219056199", 
+        "length": "292.87120021163105", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219227386", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20489751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.566591, 
+            38.8239
+          ], 
+          [
+            -78.56612, 
+            38.824375
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "219056199", 
+        "length": "66.761030552681", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219056203", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20480095"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.557343, 
+            38.823152
+          ], 
+          [
+            -78.557503, 
+            38.823005
+          ], 
+          [
+            -78.557816, 
+            38.82274
+          ], 
+          [
+            -78.558096, 
+            38.822486
+          ], 
+          [
+            -78.558275, 
+            38.822337
+          ], 
+          [
+            -78.558435, 
+            38.822229
+          ], 
+          [
+            -78.558646, 
+            38.822068
+          ], 
+          [
+            -78.5587, 
+            38.82204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219107171", 
+        "length": "170.9914233793626", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219099977", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "307466337"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.559239, 
+            38.823406
+          ], 
+          [
+            -78.55917, 
+            38.823262
+          ], 
+          [
+            -78.559061, 
+            38.823034
+          ], 
+          [
+            -78.55897, 
+            38.822858
+          ], 
+          [
+            -78.558884, 
+            38.822742
+          ], 
+          [
+            -78.558801, 
+            38.822705
+          ], 
+          [
+            -78.558642, 
+            38.822701
+          ], 
+          [
+            -78.558487, 
+            38.822723
+          ], 
+          [
+            -78.558376, 
+            38.822756
+          ], 
+          [
+            -78.557622, 
+            38.823142
+          ], 
+          [
+            -78.557343, 
+            38.823152
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Winifred Street', 'Winfred Street']", 
+        "to": "219099977", 
+        "length": "228.5651553270672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219051108", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20481539, 20481934]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562837, 
+            38.818846
+          ], 
+          [
+            -78.562834, 
+            38.8187
+          ], 
+          [
+            -78.562879, 
+            38.818346
+          ], 
+          [
+            -78.562927, 
+            38.81819
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Palmyra Road", 
+        "to": "219091790", 
+        "length": "73.6508002908127", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219091813", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562837, 
+            38.818846
+          ], 
+          [
+            -78.564725, 
+            38.818825
+          ], 
+          [
+            -78.564964, 
+            38.818834
+          ], 
+          [
+            -78.56514, 
+            38.818835
+          ], 
+          [
+            -78.565234, 
+            38.818825
+          ], 
+          [
+            -78.56532, 
+            38.81877
+          ], 
+          [
+            -78.565333, 
+            38.818678
+          ], 
+          [
+            -78.565353, 
+            38.818291
+          ], 
+          [
+            -78.565349, 
+            38.818223
+          ], 
+          [
+            -78.565307, 
+            38.818181
+          ], 
+          [
+            -78.565242, 
+            38.818166
+          ], 
+          [
+            -78.564244, 
+            38.818169
+          ], 
+          [
+            -78.562927, 
+            38.81819
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['South Whissen Street', 'Orchard Street', 'Massanutten Street']", 
+        "to": "219091790", 
+        "length": "490.8690408439694", 
+        "key": "1", 
+        "oneway": "False", 
+        "from": "219091813", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20485480, 20488634, 20482861]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.562927, 
+            38.81819
+          ], 
+          [
+            -78.562879, 
+            38.818346
+          ], 
+          [
+            -78.562834, 
+            38.8187
+          ], 
+          [
+            -78.562837, 
+            38.818846
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Palmyra Road", 
+        "to": "219091813", 
+        "length": "73.65080029137853", 
+        "key": "2", 
+        "oneway": "False", 
+        "from": "219091790", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481639"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.560704, 
+            38.821539
+          ], 
+          [
+            -78.560738, 
+            38.82164
+          ], 
+          [
+            -78.560754, 
+            38.822231
+          ], 
+          [
+            -78.560749, 
+            38.822408
+          ], 
+          [
+            -78.560761, 
+            38.822501
+          ], 
+          [
+            -78.560786, 
+            38.82255
+          ], 
+          [
+            -78.560792, 
+            38.822553
+          ], 
+          [
+            -78.560844, 
+            38.822578
+          ], 
+          [
+            -78.561141, 
+            38.822544
+          ], 
+          [
+            -78.561507, 
+            38.822487
+          ], 
+          [
+            -78.5618461, 
+            38.82245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['North High Street', 'Comer Street']", 
+        "to": "219100370", 
+        "length": "207.25678578611513", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219135200", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20481945, 20483396]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56456, 
+            38.822145
+          ], 
+          [
+            -78.563748, 
+            38.822234
+          ], 
+          [
+            -78.56287, 
+            38.82234
+          ], 
+          [
+            -78.5618461, 
+            38.82245
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North High Street", 
+        "to": "219100370", 
+        "length": "237.61551040469107", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219100382", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481945"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56626, 
+            38.826381
+          ], 
+          [
+            -78.5662828, 
+            38.8263556
+          ], 
+          [
+            -78.566395, 
+            38.826231
+          ], 
+          [
+            -78.56653, 
+            38.826105
+          ], 
+          [
+            -78.566738, 
+            38.825935
+          ], 
+          [
+            -78.566917, 
+            38.825767
+          ], 
+          [
+            -78.567082, 
+            38.825561
+          ], 
+          [
+            -78.567299, 
+            38.825305
+          ], 
+          [
+            -78.5676189, 
+            38.8249517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Town Hall Avenue", 
+        "to": "219198163", 
+        "length": "198.2576724300326", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086184", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488398"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568457, 
+            38.825156
+          ], 
+          [
+            -78.568136, 
+            38.825345
+          ], 
+          [
+            -78.5676189, 
+            38.8249517
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Piccadilly Street", 
+        "to": "219198163", 
+        "length": "97.48660663912872", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219198171", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487179"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568394, 
+            38.828079
+          ], 
+          [
+            -78.568482, 
+            38.828049
+          ], 
+          [
+            -78.568722, 
+            38.828029
+          ], 
+          [
+            -78.5687911, 
+            38.8279849
+          ], 
+          [
+            -78.5684053, 
+            38.8276593
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rose Bud Court", 
+        "to": "219210621", 
+        "length": "86.26310954942062", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219148116", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488463"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568394, 
+            38.828079
+          ], 
+          [
+            -78.5679971, 
+            38.8281478
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Prim Rose Lane", 
+        "to": "219148116", 
+        "length": "35.23192913299012", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219210582", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20488461"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568049, 
+            38.827588
+          ], 
+          [
+            -78.568209, 
+            38.82765
+          ], 
+          [
+            -78.56826, 
+            38.827718
+          ], 
+          [
+            -78.568256, 
+            38.827768
+          ], 
+          [
+            -78.568192, 
+            38.827896
+          ], 
+          [
+            -78.56816, 
+            38.827944
+          ], 
+          [
+            -78.568118, 
+            38.827997
+          ], 
+          [
+            -78.567992, 
+            38.828115
+          ], 
+          [
+            -78.5679971, 
+            38.8281478
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rose Bud Court", 
+        "to": "219210582", 
+        "length": "78.78572042863672", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219210612", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "264470407"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.570231, 
+            38.830236
+          ], 
+          [
+            -78.56972, 
+            38.830367
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Windsor Knit Road", 
+        "to": "219086521", 
+        "length": "46.61197111322575", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086527", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481429"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.568457, 
+            38.825156
+          ], 
+          [
+            -78.568423, 
+            38.825095
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Stoney Creek Boulevard", 
+        "to": "219198171", 
+        "length": "7.396856957142684", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219143418", 
+        "ref": "SR 185;SR 675", 
+        "highway": "secondary", 
+        "osmid": "20489666"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56181, 
+            38.820851
+          ], 
+          [
+            -78.5618254, 
+            38.821419
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Hisey Street", 
+        "to": "219111135", 
+        "length": "63.19060641792603", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219111133", 
+        "ref": "SR 1407", 
+        "highway": "residential", 
+        "osmid": "20482371"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56456, 
+            38.822145
+          ], 
+          [
+            -78.564359, 
+            38.821156
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Street", 
+        "to": "219100382", 
+        "length": "111.37321875575881", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219163626", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20487491"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.560704, 
+            38.821539
+          ], 
+          [
+            -78.561036, 
+            38.821512
+          ], 
+          [
+            -78.5618254, 
+            38.821419
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219111135", 
+        "length": "98.11080126034359", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219135200", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "20481162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.560704, 
+            38.821539
+          ], 
+          [
+            -78.559897, 
+            38.821634
+          ], 
+          [
+            -78.559637, 
+            38.821705
+          ], 
+          [
+            -78.559424, 
+            38.821754
+          ], 
+          [
+            -78.559218, 
+            38.821815
+          ], 
+          [
+            -78.559147, 
+            38.821841
+          ], 
+          [
+            -78.559039, 
+            38.821881
+          ], 
+          [
+            -78.558835, 
+            38.821973
+          ], 
+          [
+            -78.5587, 
+            38.82204
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "25 mph", 
+        "lanes": "2", 
+        "name": "N Main Street", 
+        "to": "219107171", 
+        "length": "184.40024754410803", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219135200", 
+        "ref": "US 11;SR 675", 
+        "highway": "primary", 
+        "osmid": "20481162"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56626, 
+            38.826381
+          ], 
+          [
+            -78.565952, 
+            38.826268
+          ], 
+          [
+            -78.56568, 
+            38.826146
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Park Road", 
+        "to": "219086177", 
+        "length": "56.69609503650888", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086184", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20481406"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56626, 
+            38.826381
+          ], 
+          [
+            -78.5659577, 
+            38.826799
+          ], 
+          [
+            -78.565772, 
+            38.8270817
+          ], 
+          [
+            -78.5657533, 
+            38.8272184
+          ], 
+          [
+            -78.5658521, 
+            38.8273339
+          ], 
+          [
+            -78.566508, 
+            38.8276524
+          ], 
+          [
+            -78.5665949, 
+            38.8277811
+          ], 
+          [
+            -78.5666239, 
+            38.8283691
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Town Hall Avenue", 
+        "to": "2701497575", 
+        "length": "268.0080111196924", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086184", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "264470411"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.5550107, 
+            38.824389
+          ], 
+          [
+            -78.5543859, 
+            38.8250731
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "3126268525", 
+        "length": "93.38564610843127", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "3126268521", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "307466079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.56972, 
+            38.830367
+          ], 
+          [
+            -78.568994, 
+            38.829879
+          ], 
+          [
+            -78.5687596, 
+            38.8297597
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "bridge": "", 
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Rose Hill Drive", 
+        "to": "2701497592", 
+        "length": "107.34593694103135", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "219086527", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20486960"
+      }
+    }
+  ]
+}

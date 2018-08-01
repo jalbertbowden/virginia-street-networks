@@ -1,0 +1,2517 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.618601, 
+            37.832789
+          ], 
+          [
+            -75.618768, 
+            37.832603
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205585918", 
+        "name": "", 
+        "to": "205585921", 
+        "length": "25.36176647631818", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760077"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.627646, 
+            37.827555
+          ], 
+          [
+            -75.62772, 
+            37.827437
+          ], 
+          [
+            -75.627895, 
+            37.827131
+          ], 
+          [
+            -75.627933, 
+            37.827087
+          ], 
+          [
+            -75.627973, 
+            37.827059
+          ], 
+          [
+            -75.628028, 
+            37.827035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630352", 
+        "name": "Shore Main Drive", 
+        "to": "205630339", 
+        "length": "68.13323351112888", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.62649, 
+            37.824504
+          ], 
+          [
+            -75.626706, 
+            37.824822
+          ], 
+          [
+            -75.627211, 
+            37.825539
+          ], 
+          [
+            -75.627275, 
+            37.825659
+          ], 
+          [
+            -75.627319, 
+            37.825775
+          ], 
+          [
+            -75.627335, 
+            37.825869
+          ], 
+          [
+            -75.627337, 
+            37.825926
+          ], 
+          [
+            -75.627314, 
+            37.826214
+          ], 
+          [
+            -75.627333, 
+            37.82632
+          ], 
+          [
+            -75.627368, 
+            37.826404
+          ], 
+          [
+            -75.627407, 
+            37.826468
+          ], 
+          [
+            -75.627456, 
+            37.826528
+          ], 
+          [
+            -75.627529, 
+            37.826595
+          ], 
+          [
+            -75.62777, 
+            37.826773
+          ], 
+          [
+            -75.627875, 
+            37.82685
+          ], 
+          [
+            -75.627949, 
+            37.826917
+          ], 
+          [
+            -75.628007, 
+            37.826995
+          ], 
+          [
+            -75.628028, 
+            37.827035
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205600829", 
+        "name": "Mason Road", 
+        "to": "205630339", 
+        "length": "322.09894247775094", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 681", 
+        "highway": "tertiary", 
+        "osmid": "19763219"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625605, 
+            37.825815
+          ], 
+          [
+            -75.625944, 
+            37.825979
+          ], 
+          [
+            -75.625985, 
+            37.825981
+          ], 
+          [
+            -75.626016, 
+            37.825972
+          ], 
+          [
+            -75.626034, 
+            37.82596
+          ], 
+          [
+            -75.626075, 
+            37.825901
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205582069", 
+        "name": "", 
+        "to": "205582086", 
+        "length": "50.99091837171096", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19759885"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.619525, 
+            37.833046
+          ], 
+          [
+            -75.619891, 
+            37.83326
+          ], 
+          [
+            -75.6203386, 
+            37.8335296
+          ], 
+          [
+            -75.62041, 
+            37.833574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586008", 
+        "name": "Mitchell Road", 
+        "to": "205621257", 
+        "length": "97.43625800800092", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 684", 
+        "highway": "tertiary", 
+        "osmid": "19764960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.621, 
+            37.833956
+          ], 
+          [
+            -75.620467, 
+            37.833608
+          ], 
+          [
+            -75.62041, 
+            37.833574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205621261", 
+        "name": "Guards Shore Road", 
+        "to": "205621257", 
+        "length": "67.02424969102793", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 684", 
+        "highway": "tertiary", 
+        "osmid": "19761581"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623085, 
+            37.829552
+          ], 
+          [
+            -75.623072, 
+            37.829597
+          ], 
+          [
+            -75.622863, 
+            37.829888
+          ], 
+          [
+            -75.622346, 
+            37.830658
+          ], 
+          [
+            -75.622094, 
+            37.831052
+          ], 
+          [
+            -75.621682, 
+            37.831662
+          ], 
+          [
+            -75.62041, 
+            37.833574
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630391", 
+        "name": "Bayside Drive", 
+        "to": "205621257", 
+        "length": "505.517593518996", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 779", 
+        "highway": "tertiary", 
+        "osmid": "108533115"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.618759, 
+            37.830003
+          ], 
+          [
+            -75.618468, 
+            37.829842
+          ], 
+          [
+            -75.617866, 
+            37.829522
+          ], 
+          [
+            -75.617413, 
+            37.829247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205209882", 
+        "name": "Liberty Street", 
+        "to": "205209867", 
+        "length": "145.15309607182712", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19737479"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.616458, 
+            37.830025
+          ], 
+          [
+            -75.616807, 
+            37.829701
+          ], 
+          [
+            -75.617101, 
+            37.829454
+          ], 
+          [
+            -75.617265, 
+            37.829336
+          ], 
+          [
+            -75.617413, 
+            37.829247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630443", 
+        "name": "Shore Main Drive", 
+        "to": "205209867", 
+        "length": "120.85332029769823", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.617717, 
+            37.829111
+          ], 
+          [
+            -75.617564, 
+            37.829173
+          ], 
+          [
+            -75.617413, 
+            37.829247
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205535788", 
+        "name": "Shore Main Drive", 
+        "to": "205209867", 
+        "length": "30.718548979520165", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623302, 
+            37.830674
+          ], 
+          [
+            -75.622595, 
+            37.831597
+          ], 
+          [
+            -75.621, 
+            37.833956
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642676", 
+        "name": "Back Street", 
+        "to": "205621261", 
+        "length": "417.43863760677596", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762399"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.627069, 
+            37.828496
+          ], 
+          [
+            -75.627215, 
+            37.828248
+          ], 
+          [
+            -75.627646, 
+            37.827555
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630356", 
+        "name": "Shore Main Drive", 
+        "to": "205630352", 
+        "length": "116.29832207089433", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625952, 
+            37.828034
+          ], 
+          [
+            -75.625504, 
+            37.827852
+          ], 
+          [
+            -75.625204, 
+            37.827737
+          ], 
+          [
+            -75.62516, 
+            37.827706
+          ], 
+          [
+            -75.625129, 
+            37.827666
+          ], 
+          [
+            -75.625112, 
+            37.827611
+          ], 
+          [
+            -75.625121, 
+            37.827555
+          ], 
+          [
+            -75.625134, 
+            37.827528
+          ], 
+          [
+            -75.625603, 
+            37.826828
+          ], 
+          [
+            -75.62564, 
+            37.826801
+          ], 
+          [
+            -75.625677, 
+            37.826788
+          ], 
+          [
+            -75.625727, 
+            37.826784
+          ], 
+          [
+            -75.625776, 
+            37.826794
+          ], 
+          [
+            -75.626497, 
+            37.827095
+          ], 
+          [
+            -75.627646, 
+            37.827555
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205673140", 
+        "name": "Circle Drive", 
+        "to": "205630352", 
+        "length": "389.48867183817555", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763651"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623125, 
+            37.825912
+          ], 
+          [
+            -75.623536, 
+            37.826123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205582040", 
+        "name": "", 
+        "to": "205582038", 
+        "length": "43.065057751806094", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19759881"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.615825, 
+            37.83051
+          ], 
+          [
+            -75.615833, 
+            37.83061
+          ], 
+          [
+            -75.615827, 
+            37.83065
+          ], 
+          [
+            -75.615775, 
+            37.830734
+          ], 
+          [
+            -75.615765, 
+            37.830774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630456", 
+        "name": "Bethel Church Road", 
+        "to": "205662262", 
+        "length": "30.559922302277137", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 687", 
+        "highway": "tertiary", 
+        "osmid": "19763247"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.61718, 
+            37.831685
+          ], 
+          [
+            -75.616503, 
+            37.831278
+          ], 
+          [
+            -75.616022, 
+            37.831003
+          ], 
+          [
+            -75.615811, 
+            37.830875
+          ], 
+          [
+            -75.615785, 
+            37.830846
+          ], 
+          [
+            -75.615769, 
+            37.830813
+          ], 
+          [
+            -75.615765, 
+            37.830774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205627581", 
+        "name": "Mitchell Road", 
+        "to": "205662262", 
+        "length": "162.5136239761689", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 684", 
+        "highway": "tertiary", 
+        "osmid": "19764960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.614274, 
+            37.832645
+          ], 
+          [
+            -75.614823, 
+            37.831982
+          ], 
+          [
+            -75.614984, 
+            37.831763
+          ], 
+          [
+            -75.615001, 
+            37.831739
+          ], 
+          [
+            -75.615163, 
+            37.83149
+          ], 
+          [
+            -75.615303, 
+            37.831261
+          ], 
+          [
+            -75.61545, 
+            37.831054
+          ], 
+          [
+            -75.615615, 
+            37.830856
+          ], 
+          [
+            -75.615668, 
+            37.830817
+          ], 
+          [
+            -75.615698, 
+            37.8308
+          ], 
+          [
+            -75.615765, 
+            37.830774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205560366", 
+        "name": "Bethel Church Road", 
+        "to": "205662262", 
+        "length": "247.69013560632857", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 687", 
+        "highway": "tertiary", 
+        "osmid": "19763247"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.624924, 
+            37.83008
+          ], 
+          [
+            -75.623918, 
+            37.829818
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630377", 
+        "name": "Shore Main Drive", 
+        "to": "205245459", 
+        "length": "93.05797080163563", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.624924, 
+            37.83008
+          ], 
+          [
+            -75.625194, 
+            37.830151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586339", 
+        "name": "Shore Main Drive", 
+        "to": "205245459", 
+        "length": "24.999601680471628", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.624985, 
+            37.82982
+          ], 
+          [
+            -75.625, 
+            37.829835
+          ], 
+          [
+            -75.625011, 
+            37.829857
+          ], 
+          [
+            -75.625013, 
+            37.829892
+          ], 
+          [
+            -75.624924, 
+            37.83008
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245470", 
+        "name": "", 
+        "to": "205245459", 
+        "length": "30.978274167284113", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19739975"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625952, 
+            37.828034
+          ], 
+          [
+            -75.626482, 
+            37.828248
+          ], 
+          [
+            -75.627069, 
+            37.828496
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205673140", 
+        "name": "Circle Drive", 
+        "to": "205630356", 
+        "length": "110.77608418660691", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763651"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.626433, 
+            37.829495
+          ], 
+          [
+            -75.626745, 
+            37.82903
+          ], 
+          [
+            -75.627069, 
+            37.828496
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630359", 
+        "name": "Shore Main Drive", 
+        "to": "205630356", 
+        "length": "124.39735307246656", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.615825, 
+            37.83051
+          ], 
+          [
+            -75.615757, 
+            37.830517
+          ], 
+          [
+            -75.615665, 
+            37.830515
+          ], 
+          [
+            -75.615594, 
+            37.830502
+          ], 
+          [
+            -75.615349, 
+            37.830425
+          ], 
+          [
+            -75.614677, 
+            37.830195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630456", 
+        "name": "Shore Main Drive", 
+        "to": "205586326", 
+        "length": "108.01645297063789", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.614263, 
+            37.830854
+          ], 
+          [
+            -75.614399, 
+            37.830659
+          ], 
+          [
+            -75.614677, 
+            37.830195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586331", 
+        "name": "", 
+        "to": "205586326", 
+        "length": "81.85790865742202", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760094"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625304, 
+            37.829005
+          ], 
+          [
+            -75.62579, 
+            37.829207
+          ], 
+          [
+            -75.626433, 
+            37.829495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642596", 
+        "name": "Marshall Street", 
+        "to": "205630359", 
+        "length": "113.1852648920658", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625194, 
+            37.830151
+          ], 
+          [
+            -75.625669, 
+            37.83028
+          ], 
+          [
+            -75.625696, 
+            37.830287
+          ], 
+          [
+            -75.625755, 
+            37.830297
+          ], 
+          [
+            -75.625828, 
+            37.830291
+          ], 
+          [
+            -75.625884, 
+            37.83027
+          ], 
+          [
+            -75.625929, 
+            37.830238
+          ], 
+          [
+            -75.626044, 
+            37.830093
+          ], 
+          [
+            -75.626433, 
+            37.829495
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586339", 
+        "name": "Shore Main Drive", 
+        "to": "205630359", 
+        "length": "162.9469118729687", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.618996, 
+            37.828793
+          ], 
+          [
+            -75.619028, 
+            37.828958
+          ], 
+          [
+            -75.619073, 
+            37.829255
+          ], 
+          [
+            -75.61908, 
+            37.82935
+          ], 
+          [
+            -75.619063, 
+            37.829455
+          ], 
+          [
+            -75.619029, 
+            37.829539
+          ], 
+          [
+            -75.618883, 
+            37.829781
+          ], 
+          [
+            -75.618759, 
+            37.830003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205620805", 
+        "name": "Hinman Street", 
+        "to": "205209882", 
+        "length": "140.8082766453584", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.618196, 
+            37.831003
+          ], 
+          [
+            -75.618506, 
+            37.830458
+          ], 
+          [
+            -75.618759, 
+            37.830003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586111", 
+        "name": "Hinman Street", 
+        "to": "205209882", 
+        "length": "121.72825903604746", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.622385, 
+            37.829325
+          ], 
+          [
+            -75.622704, 
+            37.82882
+          ], 
+          [
+            -75.623123, 
+            37.828079
+          ], 
+          [
+            -75.623658, 
+            37.827232
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630400", 
+        "name": "Bull Street", 
+        "to": "205591579", 
+        "length": "258.3200234341374", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623658, 
+            37.827232
+          ], 
+          [
+            -75.623543, 
+            37.827186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205557317", 
+        "name": "Bull Street", 
+        "to": "205591579", 
+        "length": "11.324820086570476", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762881"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623658, 
+            37.827232
+          ], 
+          [
+            -75.623796, 
+            37.827287
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205591582", 
+        "name": "State Route T-2508", 
+        "to": "205591579", 
+        "length": "13.579741079917927", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760362"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.613989, 
+            37.83298
+          ], 
+          [
+            -75.613939, 
+            37.832974
+          ], 
+          [
+            -75.613879, 
+            37.832959
+          ], 
+          [
+            -75.613641, 
+            37.83285
+          ], 
+          [
+            -75.613491, 
+            37.83277
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205560355", 
+        "name": "", 
+        "to": "205560348", 
+        "length": "50.03965529988905", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19758322"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.617717, 
+            37.829111
+          ], 
+          [
+            -75.617918, 
+            37.829043
+          ], 
+          [
+            -75.618064, 
+            37.829001
+          ], 
+          [
+            -75.618739, 
+            37.828845
+          ], 
+          [
+            -75.618996, 
+            37.828793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205535788", 
+        "name": "Shore Main Drive", 
+        "to": "205620805", 
+        "length": "117.95340090432902", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6207, 
+            37.828685
+          ], 
+          [
+            -75.620642, 
+            37.828669
+          ], 
+          [
+            -75.620456, 
+            37.828633
+          ], 
+          [
+            -75.620298, 
+            37.828618
+          ], 
+          [
+            -75.620139, 
+            37.828618
+          ], 
+          [
+            -75.61979, 
+            37.828651
+          ], 
+          [
+            -75.619475, 
+            37.828696
+          ], 
+          [
+            -75.618996, 
+            37.828793
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245781", 
+        "name": "Shore Main Drive", 
+        "to": "205620805", 
+        "length": "152.6137180175084", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623868, 
+            37.828408
+          ], 
+          [
+            -75.624399, 
+            37.827628
+          ], 
+          [
+            -75.625066, 
+            37.826625
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642593", 
+        "name": "Bayside Drive", 
+        "to": "205557664", 
+        "length": "224.51669230859846", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19762578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625605, 
+            37.825815
+          ], 
+          [
+            -75.625363, 
+            37.826179
+          ], 
+          [
+            -75.625066, 
+            37.826625
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205582069", 
+        "name": "Bayside Drive", 
+        "to": "205557664", 
+        "length": "101.78002314169208", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19762578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625463, 
+            37.826809
+          ], 
+          [
+            -75.625323, 
+            37.826736
+          ], 
+          [
+            -75.625195, 
+            37.826676
+          ], 
+          [
+            -75.625066, 
+            37.826625
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205557671", 
+        "name": "", 
+        "to": "205557664", 
+        "length": "40.4879508350169", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19757937"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625194, 
+            37.830151
+          ], 
+          [
+            -75.62529, 
+            37.830004
+          ], 
+          [
+            -75.625383, 
+            37.829886
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586339", 
+        "name": "", 
+        "to": "205586337", 
+        "length": "33.85707955872837", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760097"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6207, 
+            37.828685
+          ], 
+          [
+            -75.621405, 
+            37.827545
+          ], 
+          [
+            -75.622813, 
+            37.82519
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245781", 
+        "name": "Hall Street", 
+        "to": "205592872", 
+        "length": "430.79351879845785", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760422"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623918, 
+            37.829818
+          ], 
+          [
+            -75.623302, 
+            37.830674
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642676", 
+        "name": "Back Street", 
+        "to": "205630377", 
+        "length": "109.51428768180875", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762399"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623085, 
+            37.829552
+          ], 
+          [
+            -75.623101, 
+            37.829571
+          ], 
+          [
+            -75.62313, 
+            37.829593
+          ], 
+          [
+            -75.623261, 
+            37.829642
+          ], 
+          [
+            -75.623523, 
+            37.829721
+          ], 
+          [
+            -75.623918, 
+            37.829818
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630391", 
+        "name": "Shore Main Drive", 
+        "to": "205630377", 
+        "length": "79.78082697390744", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "tertiary", 
+        "osmid": "19761900"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.614274, 
+            37.832645
+          ], 
+          [
+            -75.613989, 
+            37.83298
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205560355", 
+        "name": "Bethel Church Road", 
+        "to": "205560366", 
+        "length": "44.89083346799573", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 687", 
+        "highway": "tertiary", 
+        "osmid": "19763247"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.615047, 
+            37.832759
+          ], 
+          [
+            -75.615, 
+            37.832792
+          ], 
+          [
+            -75.614955, 
+            37.83281
+          ], 
+          [
+            -75.614894, 
+            37.832821
+          ], 
+          [
+            -75.614651, 
+            37.832822
+          ], 
+          [
+            -75.614591, 
+            37.832809
+          ], 
+          [
+            -75.614274, 
+            37.832645
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205560380", 
+        "name": "", 
+        "to": "205560366", 
+        "length": "75.5547845903578", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19758325"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625952, 
+            37.828034
+          ], 
+          [
+            -75.625304, 
+            37.829005
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642596", 
+        "name": "Pruitt Street", 
+        "to": "205673140", 
+        "length": "122.085875100656", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764133"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.618196, 
+            37.831003
+          ], 
+          [
+            -75.618253, 
+            37.831017
+          ], 
+          [
+            -75.618484, 
+            37.831108
+          ], 
+          [
+            -75.618591, 
+            37.831163
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586111", 
+        "name": "", 
+        "to": "205586102", 
+        "length": "39.13634187601983", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760084"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.622385, 
+            37.829325
+          ], 
+          [
+            -75.6229907, 
+            37.8295513
+          ], 
+          [
+            -75.623039, 
+            37.829558
+          ], 
+          [
+            -75.623085, 
+            37.829552
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630400", 
+        "name": "Shore Main Drive", 
+        "to": "205630391", 
+        "length": "67.2682449497852", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623868, 
+            37.828408
+          ], 
+          [
+            -75.623315, 
+            37.829252
+          ], 
+          [
+            -75.623114, 
+            37.829535
+          ], 
+          [
+            -75.623085, 
+            37.829552
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642593", 
+        "name": "Bayside Drive", 
+        "to": "205630391", 
+        "length": "144.96544799208812", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19762578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.622025, 
+            37.828637
+          ], 
+          [
+            -75.622449, 
+            37.827949
+          ], 
+          [
+            -75.622879, 
+            37.827216
+          ], 
+          [
+            -75.623023, 
+            37.826979
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245816", 
+        "name": "Parks Street", 
+        "to": "205557307", 
+        "length": "204.20293622651806", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623536, 
+            37.826123
+          ], 
+          [
+            -75.623244, 
+            37.826616
+          ], 
+          [
+            -75.623023, 
+            37.826979
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205582038", 
+        "name": "Parks Street", 
+        "to": "205557307", 
+        "length": "105.33960009349055", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623023, 
+            37.826979
+          ], 
+          [
+            -75.623543, 
+            37.827186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205557307", 
+        "name": "Bull Street", 
+        "to": "205557317", 
+        "length": "51.15779770950763", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762881"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623023, 
+            37.826979
+          ], 
+          [
+            -75.622683, 
+            37.826843
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205557310", 
+        "name": "", 
+        "to": "205557307", 
+        "length": "33.48218439225177", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19757926"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.62649, 
+            37.824504
+          ], 
+          [
+            -75.625605, 
+            37.825815
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205582069", 
+        "name": "Bayside Drive", 
+        "to": "205600829", 
+        "length": "165.25206362725027", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19762578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.616458, 
+            37.830025
+          ], 
+          [
+            -75.616956, 
+            37.830303
+          ], 
+          [
+            -75.617387, 
+            37.830558
+          ], 
+          [
+            -75.617833, 
+            37.830815
+          ], 
+          [
+            -75.618087, 
+            37.830956
+          ], 
+          [
+            -75.618196, 
+            37.831003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630443", 
+        "name": "Hearn Street", 
+        "to": "205586111", 
+        "length": "187.56490570390642", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763432"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.617627, 
+            37.83195
+          ], 
+          [
+            -75.617833, 
+            37.831642
+          ], 
+          [
+            -75.618196, 
+            37.831003
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205620827", 
+        "name": "Hinman Street", 
+        "to": "205586111", 
+        "length": "116.64349898806722", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761549"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.622385, 
+            37.829325
+          ], 
+          [
+            -75.621763, 
+            37.829086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630403", 
+        "name": "Shore Main Drive", 
+        "to": "205630400", 
+        "length": "60.766501028784134", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.621763, 
+            37.829086
+          ], 
+          [
+            -75.622025, 
+            37.828637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245816", 
+        "name": "Parks Street", 
+        "to": "205630403", 
+        "length": "54.98954952471517", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6207, 
+            37.828685
+          ], 
+          [
+            -75.620886, 
+            37.828744
+          ], 
+          [
+            -75.621763, 
+            37.829086
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245781", 
+        "name": "Shore Main Drive", 
+        "to": "205630403", 
+        "length": "103.53362342564017", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.623834, 
+            37.826712
+          ], 
+          [
+            -75.623607, 
+            37.827058
+          ], 
+          [
+            -75.623543, 
+            37.827186
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205557323", 
+        "name": "", 
+        "to": "205557317", 
+        "length": "58.651665091923874", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19757928"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.61718, 
+            37.831685
+          ], 
+          [
+            -75.61694, 
+            37.831927
+          ], 
+          [
+            -75.61674, 
+            37.832142
+          ], 
+          [
+            -75.616708, 
+            37.832186
+          ], 
+          [
+            -75.616692, 
+            37.832235
+          ], 
+          [
+            -75.616694, 
+            37.832286
+          ], 
+          [
+            -75.616708, 
+            37.832325
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205627581", 
+        "name": "State Route 9640", 
+        "to": "205627594", 
+        "length": "85.3214889422339", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761805"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.615825, 
+            37.83051
+          ], 
+          [
+            -75.615916, 
+            37.830486
+          ], 
+          [
+            -75.615995, 
+            37.830451
+          ], 
+          [
+            -75.616064, 
+            37.830403
+          ], 
+          [
+            -75.616458, 
+            37.830025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205630456", 
+        "name": "Shore Main Drive", 
+        "to": "205630443", 
+        "length": "78.92152349557195", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 187", 
+        "highway": "secondary", 
+        "osmid": "108533147"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.620217, 
+            37.829611
+          ], 
+          [
+            -75.620318, 
+            37.829394
+          ], 
+          [
+            -75.620539, 
+            37.828966
+          ], 
+          [
+            -75.6207, 
+            37.828685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245790", 
+        "name": "", 
+        "to": "205245781", 
+        "length": "111.4331613421086", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19739994"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.624183, 
+            37.825506
+          ], 
+          [
+            -75.62386, 
+            37.825677
+          ], 
+          [
+            -75.623783, 
+            37.825739
+          ], 
+          [
+            -75.62372, 
+            37.825811
+          ], 
+          [
+            -75.623536, 
+            37.826123
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205648121", 
+        "name": "Parks Street", 
+        "to": "205582038", 
+        "length": "91.8397203798238", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762653"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.619525, 
+            37.833046
+          ], 
+          [
+            -75.618768, 
+            37.832603
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205585918", 
+        "name": "Mitchell Road", 
+        "to": "205586008", 
+        "length": "82.76543007608988", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 684", 
+        "highway": "tertiary", 
+        "osmid": "19764960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.620458, 
+            37.831663
+          ], 
+          [
+            -75.620433, 
+            37.831748
+          ], 
+          [
+            -75.620401, 
+            37.831814
+          ], 
+          [
+            -75.620359, 
+            37.831875
+          ], 
+          [
+            -75.620293, 
+            37.831946
+          ], 
+          [
+            -75.620056, 
+            37.832125
+          ], 
+          [
+            -75.619863, 
+            37.832294
+          ], 
+          [
+            -75.619806, 
+            37.83236
+          ], 
+          [
+            -75.619759, 
+            37.832431
+          ], 
+          [
+            -75.619715, 
+            37.832524
+          ], 
+          [
+            -75.619645, 
+            37.832773
+          ], 
+          [
+            -75.61963, 
+            37.832865
+          ], 
+          [
+            -75.619608, 
+            37.832924
+          ], 
+          [
+            -75.619525, 
+            37.833046
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205586039", 
+        "name": "", 
+        "to": "205586008", 
+        "length": "178.98054891396913", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760081"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.617627, 
+            37.83195
+          ], 
+          [
+            -75.61718, 
+            37.831685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205627581", 
+        "name": "Mitchell Road", 
+        "to": "205620827", 
+        "length": "49.099463396005646", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 684", 
+        "highway": "tertiary", 
+        "osmid": "19764960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.618768, 
+            37.832603
+          ], 
+          [
+            -75.618033, 
+            37.832175
+          ], 
+          [
+            -75.617627, 
+            37.83195
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205585918", 
+        "name": "Mitchell Road", 
+        "to": "205620827", 
+        "length": "123.79022663253076", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 684", 
+        "highway": "tertiary", 
+        "osmid": "19764960"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.625304, 
+            37.829005
+          ], 
+          [
+            -75.624686, 
+            37.828741
+          ], 
+          [
+            -75.623868, 
+            37.828408
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205642596", 
+        "name": "Marshall Street", 
+        "to": "205642593", 
+        "length": "142.57050380536958", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762392"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.621543, 
+            37.828467
+          ], 
+          [
+            -75.62165, 
+            37.828487
+          ], 
+          [
+            -75.621887, 
+            37.828573
+          ], 
+          [
+            -75.622025, 
+            37.828637
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205245821", 
+        "name": "", 
+        "to": "205245816", 
+        "length": "46.63181453565487", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19739998"
+      }
+    }
+  ]
+}

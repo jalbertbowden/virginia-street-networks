@@ -1,0 +1,1257 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.666529, 
+            39.135412
+          ], 
+          [
+            -77.665681, 
+            39.13522
+          ], 
+          [
+            -77.66495, 
+            39.135049
+          ], 
+          [
+            -77.664646, 
+            39.134986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63499195", 
+        "name": "West Colonial Highway", 
+        "to": "63499200", 
+        "length": "169.23192092499835", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.66407, 
+            39.134825
+          ], 
+          [
+            -77.664322, 
+            39.134898
+          ], 
+          [
+            -77.664646, 
+            39.134986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63499204", 
+        "name": "West Colonial Highway", 
+        "to": "63499200", 
+        "length": "52.82464390191052", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.665844, 
+            39.137304
+          ], 
+          [
+            -77.66479, 
+            39.137067
+          ], 
+          [
+            -77.664511, 
+            39.136999
+          ], 
+          [
+            -77.664055, 
+            39.136888
+          ], 
+          [
+            -77.663963, 
+            39.136862
+          ], 
+          [
+            -77.663929, 
+            39.136844
+          ], 
+          [
+            -77.663905, 
+            39.136821
+          ], 
+          [
+            -77.663891, 
+            39.136792
+          ], 
+          [
+            -77.663889, 
+            39.136756
+          ], 
+          [
+            -77.663913, 
+            39.136686
+          ], 
+          [
+            -77.663972, 
+            39.136562
+          ], 
+          [
+            -77.663994, 
+            39.136512
+          ], 
+          [
+            -77.664218, 
+            39.135991
+          ], 
+          [
+            -77.664415, 
+            39.135516
+          ], 
+          [
+            -77.664603, 
+            39.135038
+          ], 
+          [
+            -77.664646, 
+            39.134986
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63536965", 
+        "name": "['West Virginia Avenue', 'North Rogers Street']", 
+        "to": "63499200", 
+        "length": "391.55304226846715", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[8810986, 8811197]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.65473, 
+            39.1328451
+          ], 
+          [
+            -77.654737, 
+            39.133481
+          ], 
+          [
+            -77.654739, 
+            39.133503
+          ], 
+          [
+            -77.654759, 
+            39.133766
+          ], 
+          [
+            -77.654771, 
+            39.133923
+          ], 
+          [
+            -77.654776, 
+            39.13416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63421456", 
+        "name": "Harmony Church Road", 
+        "to": "63656640", 
+        "length": "146.34509724977025", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 704", 
+        "highway": "tertiary", 
+        "osmid": "345150821"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.65793, 
+            39.133613
+          ], 
+          [
+            -77.657637, 
+            39.133645
+          ], 
+          [
+            -77.657112, 
+            39.133719
+          ], 
+          [
+            -77.656424, 
+            39.133841
+          ], 
+          [
+            -77.65536, 
+            39.134053
+          ], 
+          [
+            -77.654776, 
+            39.13416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63609662", 
+        "name": "East Colonial Highway", 
+        "to": "63656640", 
+        "length": "279.00120137697445", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "8818191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.666074, 
+            39.136667
+          ], 
+          [
+            -77.666678, 
+            39.13681
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63515633", 
+        "name": "Cricket Lane", 
+        "to": "63515650", 
+        "length": "54.48153392528198", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8809830"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.666529, 
+            39.135412
+          ], 
+          [
+            -77.666302, 
+            39.13604
+          ], 
+          [
+            -77.666074, 
+            39.136667
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63499195", 
+        "name": "North Laycock Street", 
+        "to": "63515650", 
+        "length": "145.00333354600866", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8814862"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.666074, 
+            39.136667
+          ], 
+          [
+            -77.665844, 
+            39.137304
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63536965", 
+        "name": "North Laycock Street", 
+        "to": "63515650", 
+        "length": "73.57719688909893", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8814862"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.661745, 
+            39.135287
+          ], 
+          [
+            -77.662287, 
+            39.135337
+          ], 
+          [
+            -77.662511, 
+            39.135358
+          ], 
+          [
+            -77.66268, 
+            39.135374
+          ], 
+          [
+            -77.662843, 
+            39.135389
+          ], 
+          [
+            -77.66294, 
+            39.135398
+          ], 
+          [
+            -77.66345, 
+            39.135452
+          ], 
+          [
+            -77.66354, 
+            39.135452
+          ], 
+          [
+            -77.663628, 
+            39.135438
+          ], 
+          [
+            -77.663706, 
+            39.135411
+          ], 
+          [
+            -77.663777, 
+            39.135373
+          ], 
+          [
+            -77.663841, 
+            39.135321
+          ], 
+          [
+            -77.663897, 
+            39.135232
+          ], 
+          [
+            -77.66396, 
+            39.135104
+          ], 
+          [
+            -77.66407, 
+            39.134825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63577646", 
+        "name": "['King Street', 'North King Street']", 
+        "to": "63499204", 
+        "length": "245.2681055557536", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[8813352, 8817030]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.662388, 
+            39.134199
+          ], 
+          [
+            -77.662531, 
+            39.134278
+          ], 
+          [
+            -77.662744, 
+            39.134384
+          ], 
+          [
+            -77.662954, 
+            39.134473
+          ], 
+          [
+            -77.663214, 
+            39.134573
+          ], 
+          [
+            -77.663406, 
+            39.13464
+          ], 
+          [
+            -77.66407, 
+            39.134825
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63499215", 
+        "name": "West Colonial Highway", 
+        "to": "63499204", 
+        "length": "161.6965159753608", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.669635, 
+            39.138156
+          ], 
+          [
+            -77.669411, 
+            39.138108
+          ], 
+          [
+            -77.66634, 
+            39.137411
+          ], 
+          [
+            -77.665844, 
+            39.137304
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63432675", 
+        "name": "West Virginia Avenue", 
+        "to": "63536965", 
+        "length": "340.50925567334866", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8810986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.668098, 
+            39.135774
+          ], 
+          [
+            -77.668319, 
+            39.135217
+          ], 
+          [
+            -77.668396, 
+            39.134994
+          ], 
+          [
+            -77.668412, 
+            39.134929
+          ], 
+          [
+            -77.668429, 
+            39.134817
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63499191", 
+        "name": "South James Street", 
+        "to": "63503110", 
+        "length": "110.40189708189735", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8817316"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.659887, 
+            39.133523
+          ], 
+          [
+            -77.6599152, 
+            39.1333271
+          ], 
+          [
+            -77.6599474, 
+            39.1331024
+          ], 
+          [
+            -77.6600225, 
+            39.132861
+          ], 
+          [
+            -77.6601525, 
+            39.132367
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63656609", 
+        "name": "Elementary Dr", 
+        "to": "881792224", 
+        "length": "130.7706830848556", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "74658571"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.659887, 
+            39.133523
+          ], 
+          [
+            -77.660148, 
+            39.133528
+          ], 
+          [
+            -77.660346, 
+            39.133542
+          ], 
+          [
+            -77.660647, 
+            39.133572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63656609", 
+        "name": "East Colonial Highway", 
+        "to": "63598689", 
+        "length": "65.8606876288257", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "8818191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.659887, 
+            39.133523
+          ], 
+          [
+            -77.659612, 
+            39.133525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63656611", 
+        "name": "East Colonial Highway", 
+        "to": "63656609", 
+        "length": "23.726854092101632", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "8818191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.669868, 
+            39.136039
+          ], 
+          [
+            -77.669762, 
+            39.136024
+          ], 
+          [
+            -77.669315, 
+            39.135966
+          ], 
+          [
+            -77.668815, 
+            39.135908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63423986", 
+        "name": "West Colonial Highway", 
+        "to": "63490263", 
+        "length": "92.01165935940843", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.668098, 
+            39.135774
+          ], 
+          [
+            -77.668396, 
+            39.135834
+          ], 
+          [
+            -77.668815, 
+            39.135908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63499191", 
+        "name": "West Colonial Highway", 
+        "to": "63490263", 
+        "length": "63.63486558970229", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.668494, 
+            39.137391
+          ], 
+          [
+            -77.66868, 
+            39.136753
+          ], 
+          [
+            -77.668778, 
+            39.136222
+          ], 
+          [
+            -77.668815, 
+            39.135908
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63490255", 
+        "name": "Sydnor Street", 
+        "to": "63490263", 
+        "length": "167.48783427843057", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8807878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.666529, 
+            39.135412
+          ], 
+          [
+            -77.666813, 
+            39.135473
+          ], 
+          [
+            -77.668098, 
+            39.135774
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63499195", 
+        "name": "West Colonial Highway", 
+        "to": "63499191", 
+        "length": "141.22953780713746", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.6569388, 
+            39.1324055
+          ], 
+          [
+            -77.6569119, 
+            39.1325928
+          ], 
+          [
+            -77.6567617, 
+            39.132755
+          ], 
+          [
+            -77.656523, 
+            39.1328301
+          ], 
+          [
+            -77.655225, 
+            39.1328521
+          ], 
+          [
+            -77.65473, 
+            39.1328451
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63421436", 
+        "name": "", 
+        "to": "63421456", 
+        "length": "220.12562703808305", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8802028"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.65793, 
+            39.133613
+          ], 
+          [
+            -77.658069, 
+            39.133598
+          ], 
+          [
+            -77.658615, 
+            39.133557
+          ], 
+          [
+            -77.65892, 
+            39.13354
+          ], 
+          [
+            -77.65923, 
+            39.133529
+          ], 
+          [
+            -77.659612, 
+            39.133525
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63609662", 
+        "name": "East Colonial Highway", 
+        "to": "63656611", 
+        "length": "145.55016500980102", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "8818191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.670032, 
+            39.136063
+          ], 
+          [
+            -77.669868, 
+            39.136039
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63423986", 
+        "name": "West Colonial Highway", 
+        "to": "63432663", 
+        "length": "14.398321522198907", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.670032, 
+            39.136063
+          ], 
+          [
+            -77.669965, 
+            39.136478
+          ], 
+          [
+            -77.669867, 
+            39.13698
+          ], 
+          [
+            -77.669736, 
+            39.137596
+          ], 
+          [
+            -77.669635, 
+            39.138156
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63432663", 
+        "name": "North Ivandale Road", 
+        "to": "63432675", 
+        "length": "235.3258620849218", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 709", 
+        "highway": "residential", 
+        "osmid": "8803289"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.672105, 
+            39.136313
+          ], 
+          [
+            -77.671815, 
+            39.136286
+          ], 
+          [
+            -77.670032, 
+            39.136063
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63499181", 
+        "name": "West Colonial Highway", 
+        "to": "63432663", 
+        "length": "181.0091908622017", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "244645208"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.661317, 
+            39.132289
+          ], 
+          [
+            -77.661273, 
+            39.132352
+          ], 
+          [
+            -77.661185, 
+            39.132512
+          ], 
+          [
+            -77.661035, 
+            39.132807
+          ], 
+          [
+            -77.660647, 
+            39.133572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63598680", 
+        "name": "Woodlawn Avenue", 
+        "to": "63598689", 
+        "length": "154.02542347060862", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8814682"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.6593282, 
+            39.132227
+          ], 
+          [
+            -77.6592822, 
+            39.1324615
+          ], 
+          [
+            -77.6593206, 
+            39.1326177
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "881792284", 
+        "name": "Lamplighter Ct", 
+        "to": "881792282", 
+        "length": "44.06938165754163", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "74658589"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.661326, 
+            39.133706
+          ], 
+          [
+            -77.661524, 
+            39.133773
+          ], 
+          [
+            -77.661768, 
+            39.133883
+          ], 
+          [
+            -77.662388, 
+            39.134199
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63521855", 
+        "name": "East Colonial Highway", 
+        "to": "63499215", 
+        "length": "106.99021448094905", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "8818191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.6601525, 
+            39.132367
+          ], 
+          [
+            -77.6595612, 
+            39.1322701
+          ], 
+          [
+            -77.6593282, 
+            39.132227
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "881792224", 
+        "name": "Levenbury Pl", 
+        "to": "881792284", 
+        "length": "72.80802865231672", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "74658584"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.6593282, 
+            39.132227
+          ], 
+          [
+            -77.6588423, 
+            39.132137
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "881792222", 
+        "name": "Levenbury Pl", 
+        "to": "881792284", 
+        "length": "43.10074327186094", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "74658584"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.6601525, 
+            39.132367
+          ], 
+          [
+            -77.6602371, 
+            39.1320454
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "881792126", 
+        "name": "Elementary Dr", 
+        "to": "881792224", 
+        "length": "36.507467461210275", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "74658571"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.661326, 
+            39.133706
+          ], 
+          [
+            -77.661218, 
+            39.133676
+          ], 
+          [
+            -77.660924, 
+            39.133615
+          ], 
+          [
+            -77.660647, 
+            39.133572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "25 mph", 
+        "from": "63521855", 
+        "name": "East Colonial Highway", 
+        "to": "63598689", 
+        "length": "60.52617548535113", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 7 Business", 
+        "highway": "primary", 
+        "osmid": "8818191"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.672194, 
+            39.138694
+          ], 
+          [
+            -77.670003, 
+            39.138228
+          ], 
+          [
+            -77.669635, 
+            39.138156
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63424571", 
+        "name": "West Virginia Avenue", 
+        "to": "63432675", 
+        "length": "228.736285254702", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8810986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.669868, 
+            39.136039
+          ], 
+          [
+            -77.669941, 
+            39.135737
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "from": "63423988", 
+        "name": "", 
+        "to": "63423986", 
+        "length": "34.17563338630341", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "8802331"
+      }
+    }
+  ]
+}

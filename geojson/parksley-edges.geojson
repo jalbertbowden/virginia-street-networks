@@ -1,0 +1,3376 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6518359, 
+            37.7858182
+          ], 
+          [
+            -75.65152, 
+            37.786297
+          ], 
+          [
+            -75.651231, 
+            37.78673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205612796", 
+        "name": "Patton Avenue", 
+        "to": "205612800", 
+        "length": "114.5101390798859", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.650629, 
+            37.7876405
+          ], 
+          [
+            -75.65094, 
+            37.787171
+          ], 
+          [
+            -75.651231, 
+            37.78673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205612802", 
+        "name": "Patton Avenue", 
+        "to": "205612800", 
+        "length": "114.26323126188723", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6495383, 
+            37.7860145
+          ], 
+          [
+            -75.650267, 
+            37.786324
+          ], 
+          [
+            -75.650455, 
+            37.786408
+          ], 
+          [
+            -75.650871, 
+            37.786584
+          ], 
+          [
+            -75.651231, 
+            37.78673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205671916", 
+        "name": "Maxwell Street", 
+        "to": "205612800", 
+        "length": "168.7482501731493", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 674", 
+        "highway": "tertiary", 
+        "osmid": "19763607"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.651548, 
+            37.7868622
+          ], 
+          [
+            -75.6514437, 
+            37.7868183
+          ], 
+          [
+            -75.651231, 
+            37.78673
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613550", 
+        "name": "Maxwell Street", 
+        "to": "205612800", 
+        "length": "31.506619832643253", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 674", 
+        "highway": "tertiary", 
+        "osmid": "19763607"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6562048, 
+            37.7831446
+          ], 
+          [
+            -75.656271, 
+            37.783063
+          ], 
+          [
+            -75.65649, 
+            37.782785
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205527682", 
+        "name": "", 
+        "to": "205527689", 
+        "length": "47.20565882173001", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19756507"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6562048, 
+            37.7831446
+          ], 
+          [
+            -75.6573553, 
+            37.783623
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205584147", 
+        "name": "Bennett Street", 
+        "to": "205527682", 
+        "length": "114.27937156719493", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 673", 
+        "highway": "tertiary", 
+        "osmid": "19763483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6544959, 
+            37.782434
+          ], 
+          [
+            -75.6550347, 
+            37.7826581
+          ], 
+          [
+            -75.6562048, 
+            37.7831446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613534", 
+        "name": "Bennett Street", 
+        "to": "205527682", 
+        "length": "169.74675291277688", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 673", 
+        "highway": "tertiary", 
+        "osmid": "19763483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6556246, 
+            37.7840162
+          ], 
+          [
+            -75.6559155, 
+            37.7835792
+          ], 
+          [
+            -75.6562048, 
+            37.7831446
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618782", 
+        "name": "Wilson Avenue", 
+        "to": "205527682", 
+        "length": "109.54258825673676", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6550471, 
+            37.7848838
+          ], 
+          [
+            -75.6567327, 
+            37.7855847
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631683", 
+        "name": "Mary Street", 
+        "to": "205633110", 
+        "length": "167.427415839311", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6550471, 
+            37.7848838
+          ], 
+          [
+            -75.6546121, 
+            37.7847029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205533036", 
+        "name": "Mary Street", 
+        "to": "205633110", 
+        "length": "43.20894831629661", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6550471, 
+            37.7848838
+          ], 
+          [
+            -75.6547549, 
+            37.7853226
+          ], 
+          [
+            -75.6544645, 
+            37.7857589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205633110", 
+        "name": "Wilson Avenue", 
+        "to": "205645141", 
+        "length": "109.98477780361755", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6556246, 
+            37.7840162
+          ], 
+          [
+            -75.6553402, 
+            37.7844435
+          ], 
+          [
+            -75.6550471, 
+            37.7848838
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618782", 
+        "name": "Wilson Avenue", 
+        "to": "205633110", 
+        "length": "109.03806364163692", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.650042, 
+            37.788538
+          ], 
+          [
+            -75.649774, 
+            37.788945
+          ], 
+          [
+            -75.649665, 
+            37.789118
+          ], 
+          [
+            -75.649535, 
+            37.789254
+          ], 
+          [
+            -75.649303, 
+            37.789459
+          ], 
+          [
+            -75.649173, 
+            37.789588
+          ], 
+          [
+            -75.649108, 
+            37.789626
+          ], 
+          [
+            -75.649064, 
+            37.789638
+          ], 
+          [
+            -75.649006, 
+            37.78964
+          ], 
+          [
+            -75.64891, 
+            37.78962
+          ], 
+          [
+            -75.64882, 
+            37.789582
+          ], 
+          [
+            -75.648727, 
+            37.789531
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589755", 
+        "name": "Patton Avenue", 
+        "to": "470160647", 
+        "length": "184.36396068898276", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6499402, 
+            37.7821668
+          ], 
+          [
+            -75.6502287, 
+            37.7817336
+          ], 
+          [
+            -75.6504162, 
+            37.7814519
+          ], 
+          [
+            -75.6506963, 
+            37.7810311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205591562", 
+        "name": "Sea Side Avenue", 
+        "to": "205591560", 
+        "length": "142.73940332673885", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760361"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6518042, 
+            37.7814193
+          ], 
+          [
+            -75.651522, 
+            37.781328
+          ], 
+          [
+            -75.65118, 
+            37.781211
+          ], 
+          [
+            -75.6506963, 
+            37.7810311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205592004", 
+        "name": "Bennett Street", 
+        "to": "205591560", 
+        "length": "106.56000295273203", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 176", 
+        "highway": "secondary", 
+        "osmid": "37832046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6496193, 
+            37.7805828
+          ], 
+          [
+            -75.649952, 
+            37.780729
+          ], 
+          [
+            -75.650452, 
+            37.780935
+          ], 
+          [
+            -75.6506963, 
+            37.7810311
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589647", 
+        "name": "Bennett Street", 
+        "to": "205591560", 
+        "length": "107.02085087260068", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 176", 
+        "highway": "secondary", 
+        "osmid": "37832046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6490482, 
+            37.7835068
+          ], 
+          [
+            -75.6491286, 
+            37.783386
+          ], 
+          [
+            -75.649348, 
+            37.7830564
+          ], 
+          [
+            -75.649633, 
+            37.7826283
+          ], 
+          [
+            -75.6499402, 
+            37.7821668
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205591570", 
+        "name": "Sea Side Avenue", 
+        "to": "205591562", 
+        "length": "168.41137648013768", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760361"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6499402, 
+            37.7821668
+          ], 
+          [
+            -75.6488631, 
+            37.7817189
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589654", 
+        "name": "Cooke Street", 
+        "to": "205591562", 
+        "length": "106.99126431413579", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6499402, 
+            37.7821668
+          ], 
+          [
+            -75.6510104, 
+            37.7826118
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205592007", 
+        "name": "Cooke Street", 
+        "to": "205591562", 
+        "length": "106.3037751571397", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6573553, 
+            37.783623
+          ], 
+          [
+            -75.657393, 
+            37.783575
+          ], 
+          [
+            -75.657492, 
+            37.783427
+          ], 
+          [
+            -75.657577, 
+            37.783275
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205584147", 
+        "name": "", 
+        "to": "205584139", 
+        "length": "43.38809950249683", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19759979"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.650042, 
+            37.788538
+          ], 
+          [
+            -75.650325, 
+            37.788098
+          ], 
+          [
+            -75.650629, 
+            37.7876405
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589755", 
+        "name": "Patton Avenue", 
+        "to": "205612802", 
+        "length": "112.37433536049977", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.648927, 
+            37.7869328
+          ], 
+          [
+            -75.6501963, 
+            37.7874605
+          ], 
+          [
+            -75.650629, 
+            37.7876405
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205647327", 
+        "name": "Callen Street", 
+        "to": "205612802", 
+        "length": "169.05171633049133", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762625"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.648559, 
+            37.780041
+          ], 
+          [
+            -75.649012, 
+            37.780286
+          ], 
+          [
+            -75.649353, 
+            37.780457
+          ], 
+          [
+            -75.6496193, 
+            37.7805828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160669", 
+        "name": "Bennett Street", 
+        "to": "205589647", 
+        "length": "111.02895888554723", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 176", 
+        "highway": "secondary", 
+        "osmid": "37832046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6488631, 
+            37.7817189
+          ], 
+          [
+            -75.6491167, 
+            37.7813379
+          ], 
+          [
+            -75.649339, 
+            37.781004
+          ], 
+          [
+            -75.6496193, 
+            37.7805828
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589654", 
+        "name": "Hickman Avenue", 
+        "to": "205589647", 
+        "length": "142.78305723084986", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760283"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6465854, 
+            37.7824827
+          ], 
+          [
+            -75.6479244, 
+            37.7830396
+          ], 
+          [
+            -75.6490482, 
+            37.7835068
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160665", 
+        "name": "Adelaide Street", 
+        "to": "205591570", 
+        "length": "244.63243464075276", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6490482, 
+            37.7835068
+          ], 
+          [
+            -75.6507396, 
+            37.7842101
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205690850", 
+        "name": "Adelaide Street", 
+        "to": "205591570", 
+        "length": "168.00536042408964", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6573553, 
+            37.783623
+          ], 
+          [
+            -75.6578905, 
+            37.7838456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631680", 
+        "name": "Bennett Street", 
+        "to": "205584147", 
+        "length": "53.16408869948018", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 673", 
+        "highway": "tertiary", 
+        "osmid": "19763483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.647623, 
+            37.7812032
+          ], 
+          [
+            -75.6477641, 
+            37.7812619
+          ], 
+          [
+            -75.6488631, 
+            37.7817189
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160667", 
+        "name": "Cooke Street", 
+        "to": "205589654", 
+        "length": "123.18407174062914", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6534932, 
+            37.781995
+          ], 
+          [
+            -75.6536514, 
+            37.7820626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668890", 
+        "name": "Bennett Street", 
+        "to": "205668888", 
+        "length": "15.809392347979106", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 176", 
+        "highway": "secondary", 
+        "osmid": "37832046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6518042, 
+            37.7814193
+          ], 
+          [
+            -75.652708, 
+            37.781688
+          ], 
+          [
+            -75.652999, 
+            37.781788
+          ], 
+          [
+            -75.6531232, 
+            37.7818406
+          ], 
+          [
+            -75.6534932, 
+            37.781995
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205592004", 
+        "name": "Bennett Street", 
+        "to": "205668888", 
+        "length": "161.94887638399464", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 176", 
+        "highway": "secondary", 
+        "osmid": "37832046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6534932, 
+            37.781995
+          ], 
+          [
+            -75.654119, 
+            37.781052
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160671", 
+        "name": "Mill Road", 
+        "to": "205668888", 
+        "length": "118.43798679575548", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19765014"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.647623, 
+            37.7812032
+          ], 
+          [
+            -75.647377, 
+            37.78151
+          ], 
+          [
+            -75.6465854, 
+            37.7824827
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160667", 
+        "name": "County Road", 
+        "to": "470160665", 
+        "length": "169.0363931094264", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 678", 
+        "highway": "tertiary", 
+        "osmid": "19763751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6536514, 
+            37.7820626
+          ], 
+          [
+            -75.6527925, 
+            37.7833528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205658148", 
+        "name": "Dunne Avenue", 
+        "to": "205668890", 
+        "length": "162.1546320852868", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764305"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6544959, 
+            37.782434
+          ], 
+          [
+            -75.654408, 
+            37.7823823
+          ], 
+          [
+            -75.6543632, 
+            37.7823634
+          ], 
+          [
+            -75.6536514, 
+            37.7820626
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613534", 
+        "name": "Bennett Street", 
+        "to": "205668890", 
+        "length": "85.0513884557568", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 176", 
+        "highway": "secondary", 
+        "osmid": "37832046"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.648559, 
+            37.780041
+          ], 
+          [
+            -75.647964, 
+            37.780786
+          ], 
+          [
+            -75.647623, 
+            37.7812032
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160669", 
+        "name": "County Road", 
+        "to": "470160667", 
+        "length": "153.2353121228779", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 678", 
+        "highway": "tertiary", 
+        "osmid": "19763751"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6509363, 
+            37.7877811
+          ], 
+          [
+            -75.6525829, 
+            37.7884657
+          ], 
+          [
+            -75.6526452, 
+            37.7884917
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613552", 
+        "name": "Callen Street", 
+        "to": "205645146", 
+        "length": "169.7371414482334", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6509363, 
+            37.7877811
+          ], 
+          [
+            -75.6512523, 
+            37.7873064
+          ], 
+          [
+            -75.651548, 
+            37.7868622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613552", 
+        "name": "Cassatt Avenue", 
+        "to": "205613550", 
+        "length": "115.48654016215082", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6509363, 
+            37.7877811
+          ], 
+          [
+            -75.6506394, 
+            37.788227
+          ], 
+          [
+            -75.6503314, 
+            37.7886896
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613552", 
+        "name": "Cassatt Avenue", 
+        "to": "205589726", 
+        "length": "114.18421150675977", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6507396, 
+            37.7842101
+          ], 
+          [
+            -75.6510394, 
+            37.7837597
+          ], 
+          [
+            -75.6513244, 
+            37.7833316
+          ], 
+          [
+            -75.6516316, 
+            37.7828701
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205690850", 
+        "name": "Browne Avenue", 
+        "to": "205658147", 
+        "length": "168.41102905874016", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6527925, 
+            37.7833528
+          ], 
+          [
+            -75.6522631, 
+            37.7831327
+          ], 
+          [
+            -75.6516316, 
+            37.7828701
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205658148", 
+        "name": "Cooke Street", 
+        "to": "205658147", 
+        "length": "115.31146847739674", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6516316, 
+            37.7828701
+          ], 
+          [
+            -75.6510104, 
+            37.7826118
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205592007", 
+        "name": "Cooke Street", 
+        "to": "205658147", 
+        "length": "61.703970906440766", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763090"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6519004, 
+            37.7846928
+          ], 
+          [
+            -75.6522541, 
+            37.7841615
+          ], 
+          [
+            -75.6527925, 
+            37.7833528
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205690446", 
+        "name": "Dunne Avenue", 
+        "to": "205658148", 
+        "length": "168.41488356709274", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764305"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6501388, 
+            37.7851126
+          ], 
+          [
+            -75.6498513, 
+            37.7855444
+          ], 
+          [
+            -75.6495383, 
+            37.7860145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205532659", 
+        "name": "Browne Avenue", 
+        "to": "205671916", 
+        "length": "113.35535562417486", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.648927, 
+            37.7869328
+          ], 
+          [
+            -75.6492401, 
+            37.7864625
+          ], 
+          [
+            -75.6495383, 
+            37.7860145
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205647327", 
+        "name": "Browne Avenue", 
+        "to": "205671916", 
+        "length": "115.41139578990067", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6612543, 
+            37.7852443
+          ], 
+          [
+            -75.6610487, 
+            37.7855531
+          ], 
+          [
+            -75.660965, 
+            37.7856788
+          ], 
+          [
+            -75.6606741, 
+            37.7861158
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668903", 
+        "name": "Woodland Avenue", 
+        "to": "205618800", 
+        "length": "109.5320703496541", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6612543, 
+            37.7852443
+          ], 
+          [
+            -75.6595692, 
+            37.7845436
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668903", 
+        "name": "Bennett Street", 
+        "to": "205668194", 
+        "length": "167.3787649683408", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 673", 
+        "highway": "tertiary", 
+        "osmid": "19763483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.654546, 
+            37.784205
+          ], 
+          [
+            -75.654703, 
+            37.784278
+          ], 
+          [
+            -75.654772, 
+            37.784319
+          ], 
+          [
+            -75.654789, 
+            37.784343
+          ], 
+          [
+            -75.654796, 
+            37.784381
+          ], 
+          [
+            -75.654785, 
+            37.784426
+          ], 
+          [
+            -75.6546121, 
+            37.7847029
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205533049", 
+        "name": "", 
+        "to": "205533036", 
+        "length": "70.37357022338298", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19756788"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6546121, 
+            37.7847029
+          ], 
+          [
+            -75.6538769, 
+            37.7843973
+          ], 
+          [
+            -75.6533381, 
+            37.7841732
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205533036", 
+        "name": "Mary Street", 
+        "to": "205613542", 
+        "length": "126.54245636026127", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762031"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6510104, 
+            37.7826118
+          ], 
+          [
+            -75.6512989, 
+            37.7821786
+          ], 
+          [
+            -75.6514864, 
+            37.7818969
+          ], 
+          [
+            -75.6518042, 
+            37.7814193
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205592007", 
+        "name": "Virginia Avenue", 
+        "to": "205592004", 
+        "length": "149.87336985971066", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760383"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6503314, 
+            37.7886896
+          ], 
+          [
+            -75.651072, 
+            37.7889975
+          ], 
+          [
+            -75.6520404, 
+            37.7894002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589726", 
+        "name": "Gertrude Street", 
+        "to": "205589721", 
+        "length": "169.74327888990678", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760286"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6503314, 
+            37.7886896
+          ], 
+          [
+            -75.6500364, 
+            37.7891328
+          ], 
+          [
+            -75.6497284, 
+            37.7895953
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589726", 
+        "name": "Cassatt Avenue", 
+        "to": "205595498", 
+        "length": "113.83053192853762", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.65487, 
+            37.781908
+          ], 
+          [
+            -75.654844, 
+            37.781947
+          ], 
+          [
+            -75.654777, 
+            37.782047
+          ], 
+          [
+            -75.654683, 
+            37.782201
+          ], 
+          [
+            -75.6544959, 
+            37.782434
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205619260", 
+        "name": "Greenbush Road", 
+        "to": "205613534", 
+        "length": "67.20111834634747", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "VA 316", 
+        "highway": "secondary", 
+        "osmid": "19760744"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6573103, 
+            37.7847171
+          ], 
+          [
+            -75.6576012, 
+            37.7842801
+          ], 
+          [
+            -75.6578905, 
+            37.7838456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618785", 
+        "name": "Jones Avenue", 
+        "to": "205631680", 
+        "length": "109.53251978831291", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6578905, 
+            37.7838456
+          ], 
+          [
+            -75.6595692, 
+            37.7845436
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631680", 
+        "name": "Bennett Street", 
+        "to": "205668194", 
+        "length": "166.7422905722265", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 673", 
+        "highway": "tertiary", 
+        "osmid": "19763483"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6585015, 
+            37.7829277
+          ], 
+          [
+            -75.6582703, 
+            37.7832749
+          ], 
+          [
+            -75.6578905, 
+            37.7838456
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "470160676", 
+        "name": "Jones Avenue", 
+        "to": "205631680", 
+        "length": "115.36078908871589", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6507396, 
+            37.7842101
+          ], 
+          [
+            -75.6513711, 
+            37.7844727
+          ], 
+          [
+            -75.6519004, 
+            37.7846928
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205690850", 
+        "name": "Adelaide Street", 
+        "to": "205690446", 
+        "length": "115.30205157218437", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6501388, 
+            37.7851126
+          ], 
+          [
+            -75.6504511, 
+            37.7846434
+          ], 
+          [
+            -75.6505662, 
+            37.7844705
+          ], 
+          [
+            -75.6507396, 
+            37.7842101
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205532659", 
+        "name": "Browne Avenue", 
+        "to": "205690850", 
+        "length": "113.4269950106543", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764924"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.65973, 
+            37.787997
+          ], 
+          [
+            -75.659514, 
+            37.7878585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205565253", 
+        "name": "", 
+        "to": "205565251", 
+        "length": "24.449850660593363", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19758941"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.659514, 
+            37.7878585
+          ], 
+          [
+            -75.6600838, 
+            37.7870025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205633132", 
+        "name": "Woodland Avenue", 
+        "to": "205565253", 
+        "length": "107.58013231921817", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.659514, 
+            37.7878585
+          ], 
+          [
+            -75.6578288, 
+            37.7871578
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668196", 
+        "name": "Adelaide Street", 
+        "to": "205565253", 
+        "length": "167.38190697164694", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6572281, 
+            37.7880602
+          ], 
+          [
+            -75.6589132, 
+            37.7887609
+          ], 
+          [
+            -75.659514, 
+            37.7878585
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668198", 
+        "name": "['Woodland Avenue', 'Chadbourne Street']", 
+        "to": "205565253", 
+        "length": "280.78846452093484", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[19763864, 19764965]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6567327, 
+            37.7855847
+          ], 
+          [
+            -75.6564406, 
+            37.7860235
+          ], 
+          [
+            -75.6561501, 
+            37.7864598
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631683", 
+        "name": "Jones Avenue", 
+        "to": "205631686", 
+        "length": "109.98455121345077", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6578288, 
+            37.7871578
+          ], 
+          [
+            -75.6575447, 
+            37.7870397
+          ], 
+          [
+            -75.6561501, 
+            37.7864598
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668196", 
+        "name": "Adelaide Street", 
+        "to": "205631686", 
+        "length": "166.73767128401118", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6561501, 
+            37.7864598
+          ], 
+          [
+            -75.6544645, 
+            37.7857589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645141", 
+        "name": "Adelaide Street", 
+        "to": "205631686", 
+        "length": "167.42586314802264", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6561501, 
+            37.7864598
+          ], 
+          [
+            -75.6558341, 
+            37.7869346
+          ], 
+          [
+            -75.6555494, 
+            37.7873623
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631686", 
+        "name": "Jones Avenue", 
+        "to": "205631687", 
+        "length": "113.42215371553272", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6572281, 
+            37.7880602
+          ], 
+          [
+            -75.6567191, 
+            37.7878486
+          ], 
+          [
+            -75.6559103, 
+            37.7875123
+          ], 
+          [
+            -75.6555494, 
+            37.7873623
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668198", 
+        "name": "Chadbourne Street", 
+        "to": "205631687", 
+        "length": "166.73089818133255", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763864"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6549372, 
+            37.7882817
+          ], 
+          [
+            -75.6552381, 
+            37.7878298
+          ], 
+          [
+            -75.6555494, 
+            37.7873623
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631691", 
+        "name": "Jones Avenue", 
+        "to": "205631687", 
+        "length": "115.55605176298735", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6555494, 
+            37.7873623
+          ], 
+          [
+            -75.6538637, 
+            37.7866614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631687", 
+        "name": "Chadbourne Street", 
+        "to": "205645142", 
+        "length": "167.43204093873135", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763864"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6566108, 
+            37.7889874
+          ], 
+          [
+            -75.656, 
+            37.788728
+          ], 
+          [
+            -75.655601, 
+            37.788565
+          ], 
+          [
+            -75.6549372, 
+            37.7882817
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668200", 
+        "name": "Maxwell Street", 
+        "to": "205631691", 
+        "length": "166.74376418141094", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 674", 
+        "highway": "tertiary", 
+        "osmid": "19763607"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6532527, 
+            37.7875791
+          ], 
+          [
+            -75.653495, 
+            37.787685
+          ], 
+          [
+            -75.654288, 
+            37.788006
+          ], 
+          [
+            -75.654736, 
+            37.788201
+          ], 
+          [
+            -75.6549372, 
+            37.7882817
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645143", 
+        "name": "Maxwell Street", 
+        "to": "205631691", 
+        "length": "167.44543804570168", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 674", 
+        "highway": "tertiary", 
+        "osmid": "19763607"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6543309, 
+            37.7891925
+          ], 
+          [
+            -75.6546475, 
+            37.788717
+          ], 
+          [
+            -75.6549372, 
+            37.7882817
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631693", 
+        "name": "Jones Avenue", 
+        "to": "205631691", 
+        "length": "114.46773985793337", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6556246, 
+            37.7840162
+          ], 
+          [
+            -75.6573103, 
+            37.7847171
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618782", 
+        "name": "Catherine Street", 
+        "to": "205618785", 
+        "length": "167.43673466431366", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761456"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6556246, 
+            37.7840162
+          ], 
+          [
+            -75.6550875, 
+            37.7837929
+          ], 
+          [
+            -75.6544545, 
+            37.7835297
+          ], 
+          [
+            -75.6539157, 
+            37.7833056
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618782", 
+        "name": "Catherine Street", 
+        "to": "205613539", 
+        "length": "169.74518515725083", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761456"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6520404, 
+            37.7894002
+          ], 
+          [
+            -75.6536871, 
+            37.7900848
+          ], 
+          [
+            -75.653726, 
+            37.790101
+          ], 
+          [
+            -75.6540232, 
+            37.7896547
+          ], 
+          [
+            -75.6543309, 
+            37.7891925
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589721", 
+        "name": "['Jones Avenue', 'Gertrude Street']", 
+        "to": "205631693", 
+        "length": "281.59796298977466", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[19761971, 19760286]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6543309, 
+            37.7891925
+          ], 
+          [
+            -75.6526452, 
+            37.7884917
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645146", 
+        "name": "Callen Street", 
+        "to": "205631693", 
+        "length": "167.42361449861446", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762623"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6519004, 
+            37.7846928
+          ], 
+          [
+            -75.6524371, 
+            37.7849159
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205612790", 
+        "name": "Adelaide Street", 
+        "to": "205690446", 
+        "length": "53.30607124030498", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6527555, 
+            37.7850484
+          ], 
+          [
+            -75.6532943, 
+            37.7852724
+          ], 
+          [
+            -75.6544645, 
+            37.7857589
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613545", 
+        "name": "Adelaide Street", 
+        "to": "205645141", 
+        "length": "169.74465075109205", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6544645, 
+            37.7857589
+          ], 
+          [
+            -75.6541484, 
+            37.7862337
+          ], 
+          [
+            -75.6538637, 
+            37.7866614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645141", 
+        "name": "Wilson Avenue", 
+        "to": "205645142", 
+        "length": "113.42647936649526", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6532527, 
+            37.7875791
+          ], 
+          [
+            -75.6535568, 
+            37.7871224
+          ], 
+          [
+            -75.6538637, 
+            37.7866614
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645143", 
+        "name": "Wilson Avenue", 
+        "to": "205645142", 
+        "length": "115.33983818703305", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6538637, 
+            37.7866614
+          ], 
+          [
+            -75.6521547, 
+            37.7859508
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613548", 
+        "name": "Chadbourne Street", 
+        "to": "205645142", 
+        "length": "169.74820581040495", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763864"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6526452, 
+            37.7884917
+          ], 
+          [
+            -75.6529479, 
+            37.7880371
+          ], 
+          [
+            -75.6532527, 
+            37.7875791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645146", 
+        "name": "Wilson Avenue", 
+        "to": "205645143", 
+        "length": "114.69426973593994", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.651548, 
+            37.7868622
+          ], 
+          [
+            -75.652242, 
+            37.787151
+          ], 
+          [
+            -75.652489, 
+            37.787252
+          ], 
+          [
+            -75.652674, 
+            37.787334
+          ], 
+          [
+            -75.65299, 
+            37.78746
+          ], 
+          [
+            -75.6532527, 
+            37.7875791
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613550", 
+        "name": "Maxwell Street", 
+        "to": "205645143", 
+        "length": "169.76787561476928", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 674", 
+        "highway": "tertiary", 
+        "osmid": "19763607"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6520404, 
+            37.7894002
+          ], 
+          [
+            -75.6517331, 
+            37.7898618
+          ], 
+          [
+            -75.6514374, 
+            37.7903059
+          ], 
+          [
+            -75.6513938, 
+            37.7902878
+          ], 
+          [
+            -75.6497284, 
+            37.7895953
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589721", 
+        "name": "['Wilson Avenue', 'Pine Street']", 
+        "to": "205595498", 
+        "length": "283.57194422752366", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[19760521, 19762518]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6526452, 
+            37.7884917
+          ], 
+          [
+            -75.6523448, 
+            37.7889429
+          ], 
+          [
+            -75.6522417, 
+            37.7890977
+          ], 
+          [
+            -75.6520404, 
+            37.7894002
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205645146", 
+        "name": "Wilson Avenue", 
+        "to": "205589721", 
+        "length": "114.17988152782456", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762518"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6539157, 
+            37.7833056
+          ], 
+          [
+            -75.6544041, 
+            37.7825719
+          ], 
+          [
+            -75.6544959, 
+            37.782434
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613539", 
+        "name": "Cassatt Avenue", 
+        "to": "205613534", 
+        "length": "109.54281657372168", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.650042, 
+            37.788538
+          ], 
+          [
+            -75.649977, 
+            37.788523
+          ], 
+          [
+            -75.649854, 
+            37.788486
+          ], 
+          [
+            -75.649215, 
+            37.788213
+          ], 
+          [
+            -75.649007, 
+            37.788131
+          ], 
+          [
+            -75.648503, 
+            37.787921
+          ], 
+          [
+            -75.648467, 
+            37.787898
+          ], 
+          [
+            -75.648429, 
+            37.787865
+          ], 
+          [
+            -75.6483485, 
+            37.7878018
+          ], 
+          [
+            -75.6486312, 
+            37.7873771
+          ], 
+          [
+            -75.648927, 
+            37.7869328
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205589755", 
+        "name": "['Browne Avenue', 'Gertrude Street']", 
+        "to": "205647327", 
+        "length": "280.1066989650303", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[19760288, 19764924]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6578288, 
+            37.7871578
+          ], 
+          [
+            -75.6581134, 
+            37.7867304
+          ], 
+          [
+            -75.6583987, 
+            37.7863018
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668196", 
+        "name": "Staunton Avenue", 
+        "to": "205633120", 
+        "length": "107.58444642145254", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6583987, 
+            37.7863018
+          ], 
+          [
+            -75.658989, 
+            37.7854151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618794", 
+        "name": "Staunton Avenue", 
+        "to": "205633120", 
+        "length": "111.44158867065717", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6583987, 
+            37.7863018
+          ], 
+          [
+            -75.6592342, 
+            37.7866492
+          ], 
+          [
+            -75.6600838, 
+            37.7870025
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205633120", 
+        "name": "Mary Street", 
+        "to": "205633132", 
+        "length": "167.37564637939144", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762032"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6573103, 
+            37.7847171
+          ], 
+          [
+            -75.658989, 
+            37.7854151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618794", 
+        "name": "Catherine Street", 
+        "to": "205618785", 
+        "length": "166.7407506129156", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761456"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6567327, 
+            37.7855847
+          ], 
+          [
+            -75.6567705, 
+            37.7855279
+          ], 
+          [
+            -75.6573103, 
+            37.7847171
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205631683", 
+        "name": "Jones Avenue", 
+        "to": "205618785", 
+        "length": "109.04193232422712", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761971"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.658989, 
+            37.7854151
+          ], 
+          [
+            -75.6592799, 
+            37.7849782
+          ], 
+          [
+            -75.6595692, 
+            37.7845436
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618794", 
+        "name": "Staunton Avenue", 
+        "to": "205668194", 
+        "length": "109.53229548694293", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6539157, 
+            37.7833056
+          ], 
+          [
+            -75.6533381, 
+            37.7841732
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613542", 
+        "name": "Cassatt Avenue", 
+        "to": "205613539", 
+        "length": "109.04238374680341", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6572281, 
+            37.7880602
+          ], 
+          [
+            -75.6573574, 
+            37.787866
+          ], 
+          [
+            -75.6575128, 
+            37.7876325
+          ], 
+          [
+            -75.6578288, 
+            37.7871578
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668198", 
+        "name": "Staunton Avenue", 
+        "to": "205668196", 
+        "length": "113.41207797741473", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6533381, 
+            37.7841732
+          ], 
+          [
+            -75.6527555, 
+            37.7850484
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613545", 
+        "name": "Cassatt Avenue", 
+        "to": "205613542", 
+        "length": "109.99484991567984", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6566108, 
+            37.7889874
+          ], 
+          [
+            -75.6568937, 
+            37.7885625
+          ], 
+          [
+            -75.6572281, 
+            37.7880602
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205668200", 
+        "name": "Staunton Avenue", 
+        "to": "205668198", 
+        "length": "116.53232704925409", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763452"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6524371, 
+            37.7849159
+          ], 
+          [
+            -75.6525395, 
+            37.7849596
+          ], 
+          [
+            -75.6526094, 
+            37.7849876
+          ], 
+          [
+            -75.6526563, 
+            37.7850071
+          ], 
+          [
+            -75.6527555, 
+            37.7850484
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205612790", 
+        "name": "Adelaide Street", 
+        "to": "205613545", 
+        "length": "31.632930516821876", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764321"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6521547, 
+            37.7859508
+          ], 
+          [
+            -75.6524395, 
+            37.7855231
+          ], 
+          [
+            -75.6527555, 
+            37.7850484
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613548", 
+        "name": "Cassatt Avenue", 
+        "to": "205613545", 
+        "length": "113.41687261252983", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6600838, 
+            37.7870025
+          ], 
+          [
+            -75.6606741, 
+            37.7861158
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205633132", 
+        "name": "Woodland Avenue", 
+        "to": "205618800", 
+        "length": "111.44135959733806", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764965"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6521547, 
+            37.7859508
+          ], 
+          [
+            -75.6518417, 
+            37.7864211
+          ], 
+          [
+            -75.651548, 
+            37.7868622
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613548", 
+        "name": "Cassatt Avenue", 
+        "to": "205613550", 
+        "length": "114.54395411018652", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "SR 316", 
+        "highway": "secondary", 
+        "osmid": "19761233"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6606741, 
+            37.7861158
+          ], 
+          [
+            -75.658989, 
+            37.7854151
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205618794", 
+        "name": "Catherine Street", 
+        "to": "205618800", 
+        "length": "167.37721913645282", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761456"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6501388, 
+            37.7851126
+          ], 
+          [
+            -75.6503676, 
+            37.7852077
+          ], 
+          [
+            -75.6518359, 
+            37.7858182
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205532659", 
+        "name": "Chadbourne Street", 
+        "to": "205612796", 
+        "length": "168.5650353171861", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763864"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6496231, 
+            37.7848981
+          ], 
+          [
+            -75.6500223, 
+            37.7850641
+          ], 
+          [
+            -75.6501388, 
+            37.7851126
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205532666", 
+        "name": "", 
+        "to": "205532659", 
+        "length": "51.22690749228533", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19756765"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6524371, 
+            37.7849159
+          ], 
+          [
+            -75.652138, 
+            37.785364
+          ], 
+          [
+            -75.6518359, 
+            37.7858182
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205612790", 
+        "name": "Patton Avenue", 
+        "to": "205612796", 
+        "length": "113.42348239856265", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761190"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.6521547, 
+            37.7859508
+          ], 
+          [
+            -75.652053, 
+            37.7859085
+          ], 
+          [
+            -75.6520132, 
+            37.7858919
+          ], 
+          [
+            -75.6518359, 
+            37.7858182
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "205613548", 
+        "name": "Chadbourne Street", 
+        "to": "205612796", 
+        "length": "31.66753318649588", 
+        "key": "0", 
+        "oneway": "False", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763864"
+      }
+    }
+  ]
+}

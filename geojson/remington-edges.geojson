@@ -1,0 +1,1565 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.810861, 
+            38.538511
+          ], 
+          [
+            -77.810182, 
+            38.538293
+          ], 
+          [
+            -77.809506, 
+            38.538083
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Bowen Street", 
+        "to": "210777757", 
+        "length": "127.13658523642897", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210777760", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808078, 
+            38.537494
+          ], 
+          [
+            -77.808039, 
+            38.537464
+          ], 
+          [
+            -77.807604, 
+            38.537185
+          ], 
+          [
+            -77.807107, 
+            38.536861
+          ], 
+          [
+            -77.806842, 
+            38.536706
+          ], 
+          [
+            -77.806799, 
+            38.536685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Bowen Street", 
+        "to": "210765827", 
+        "length": "143.18776525037802", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210415440", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806799, 
+            38.536685
+          ], 
+          [
+            -77.807293, 
+            38.535778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "James Madison Street", 
+        "to": "210765827", 
+        "length": "109.65604057957906", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789969", 
+        "ref": "US 15 Business;US 29 Business", 
+        "highway": "primary", 
+        "osmid": "215342850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.8061673, 
+            38.5364473
+          ], 
+          [
+            -77.806389, 
+            38.536531
+          ], 
+          [
+            -77.806714, 
+            38.536649
+          ], 
+          [
+            -77.806799, 
+            38.536685
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Bowen Street", 
+        "to": "210765827", 
+        "length": "61.00056356216803", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1148324851", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000168"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806799, 
+            38.536685
+          ], 
+          [
+            -77.806444, 
+            38.537337
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "James Madison Street", 
+        "to": "210765827", 
+        "length": "78.82261040691306", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210415452", 
+        "ref": "US 15 Business;US 29 Business", 
+        "highway": "primary", 
+        "osmid": "215342036"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.810514, 
+            38.535812
+          ], 
+          [
+            -77.809807, 
+            38.535578
+          ], 
+          [
+            -77.809165, 
+            38.535351
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "210828357", 
+        "length": "128.0888925273145", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210828361", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20002552"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.809165, 
+            38.535351
+          ], 
+          [
+            -77.809751, 
+            38.533994
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Church Street", 
+        "to": "210828357", 
+        "length": "159.31265990702525", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210809787", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003614"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.80876, 
+            38.536265
+          ], 
+          [
+            -77.809, 
+            38.535714
+          ], 
+          [
+            -77.809165, 
+            38.535351
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Church Street", 
+        "to": "210828357", 
+        "length": "107.59648293362767", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789972", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003614"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.807769, 
+            38.534903
+          ], 
+          [
+            -77.808135, 
+            38.535018
+          ], 
+          [
+            -77.808702, 
+            38.535208
+          ], 
+          [
+            -77.809165, 
+            38.535351
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Marshall Street", 
+        "to": "210828357", 
+        "length": "131.29305514666575", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210783909", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20002552"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.811095, 
+            38.53447
+          ], 
+          [
+            -77.811048, 
+            38.534578
+          ], 
+          [
+            -77.810727, 
+            38.535319
+          ], 
+          [
+            -77.81056, 
+            38.535706
+          ], 
+          [
+            -77.810514, 
+            38.535812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Rappahannock Street", 
+        "to": "210828361", 
+        "length": "157.59277514351808", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210514615", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.810111, 
+            38.536722
+          ], 
+          [
+            -77.810237, 
+            38.536437
+          ], 
+          [
+            -77.810365, 
+            38.53615
+          ], 
+          [
+            -77.810392, 
+            38.53609
+          ], 
+          [
+            -77.810514, 
+            38.535812
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Rappahannock Street", 
+        "to": "210828361", 
+        "length": "107.11709625466833", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789973", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806303, 
+            38.532775
+          ], 
+          [
+            -77.806026, 
+            38.532675
+          ], 
+          [
+            -77.805958, 
+            38.532636
+          ], 
+          [
+            -77.805902, 
+            38.532586
+          ], 
+          [
+            -77.8058823, 
+            38.5325575
+          ], 
+          [
+            -77.805862, 
+            38.532528
+          ], 
+          [
+            -77.805838, 
+            38.532464
+          ], 
+          [
+            -77.805832, 
+            38.532425
+          ], 
+          [
+            -77.805838, 
+            38.53239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "210788747", 
+        "length": "64.31919751611956", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210772251", 
+        "ref": "SR T651", 
+        "highway": "tertiary", 
+        "osmid": "20000919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.812137, 
+            38.537373
+          ], 
+          [
+            -77.812016, 
+            38.536848
+          ], 
+          [
+            -77.811977, 
+            38.536679
+          ], 
+          [
+            -77.811924, 
+            38.536472
+          ], 
+          [
+            -77.811874, 
+            38.536274
+          ], 
+          [
+            -77.811721, 
+            38.535674
+          ], 
+          [
+            -77.811487, 
+            38.534734
+          ], 
+          [
+            -77.811489, 
+            38.534716
+          ], 
+          [
+            -77.81151, 
+            38.534675
+          ], 
+          [
+            -77.811556, 
+            38.534635
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Duey Road", 
+        "to": "210763406", 
+        "length": "311.83892378719753", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210763419", 
+        "ref": "SR 1204", 
+        "highway": "residential", 
+        "osmid": "20000079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.811556, 
+            38.534635
+          ], 
+          [
+            -77.811095, 
+            38.53447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Main Street", 
+        "to": "210763406", 
+        "length": "44.10847049018694", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210514615", 
+        "ref": "SR T651", 
+        "highway": "tertiary", 
+        "osmid": "20001825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806444, 
+            38.537337
+          ], 
+          [
+            -77.806574, 
+            38.537385
+          ], 
+          [
+            -77.807653, 
+            38.537701
+          ], 
+          [
+            -77.807699, 
+            38.53771
+          ], 
+          [
+            -77.807757, 
+            38.537708
+          ], 
+          [
+            -77.807812, 
+            38.537691
+          ], 
+          [
+            -77.808078, 
+            38.537494
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "210415440", 
+        "length": "158.93647742163756", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210415452", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19981989"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808078, 
+            38.537494
+          ], 
+          [
+            -77.808194, 
+            38.537572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Bowen Street", 
+        "to": "210415440", 
+        "length": "13.308573823340287", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210777748", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.807293, 
+            38.535778
+          ], 
+          [
+            -77.806699, 
+            38.535587
+          ], 
+          [
+            -77.806246, 
+            38.535439
+          ], 
+          [
+            -77.806215, 
+            38.535414
+          ], 
+          [
+            -77.806201, 
+            38.535381
+          ], 
+          [
+            -77.806204, 
+            38.535346
+          ], 
+          [
+            -77.806297, 
+            38.535172
+          ], 
+          [
+            -77.806647, 
+            38.534518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['East Washington Street', 'North John Stone Street']", 
+        "to": "210783904", 
+        "length": "210.0665912575584", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789969", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20002272, 20003402]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.80876, 
+            38.536265
+          ], 
+          [
+            -77.807709, 
+            38.535913
+          ], 
+          [
+            -77.80765, 
+            38.535893
+          ], 
+          [
+            -77.807293, 
+            38.535778
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Washington Street", 
+        "to": "210789969", 
+        "length": "138.65460322463682", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789972", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000973"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.807293, 
+            38.535778
+          ], 
+          [
+            -77.807769, 
+            38.534903
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "James Madison Street", 
+        "to": "210789969", 
+        "length": "105.76798519885845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210783909", 
+        "ref": "US 15 Business;US 29 Business", 
+        "highway": "primary", 
+        "osmid": "215342850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808765, 
+            38.537832
+          ], 
+          [
+            -77.808484, 
+            38.537715
+          ], 
+          [
+            -77.808376, 
+            38.53767
+          ], 
+          [
+            -77.808194, 
+            38.537572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Bowen Street", 
+        "to": "210777748", 
+        "length": "57.56447733602667", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210777755", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808596, 
+            38.53666
+          ], 
+          [
+            -77.80835, 
+            38.537233
+          ], 
+          [
+            -77.808194, 
+            38.537572
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Church Street", 
+        "to": "210777748", 
+        "length": "107.30430922485701", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210387511", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003614"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808263, 
+            38.533994
+          ], 
+          [
+            -77.8085149, 
+            38.5335524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "James Madison Street", 
+        "to": "210842830", 
+        "length": "53.78544440911931", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210788763", 
+        "ref": "US 15 Business;US 29 Business", 
+        "highway": "primary", 
+        "osmid": "215342850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808263, 
+            38.533994
+          ], 
+          [
+            -77.807127, 
+            38.53362
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Madison Street", 
+        "to": "210842830", 
+        "length": "107.2356770214298", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210514837", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20002995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.807769, 
+            38.534903
+          ], 
+          [
+            -77.807909, 
+            38.534644
+          ], 
+          [
+            -77.808263, 
+            38.533994
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "James Madison Street", 
+        "to": "210842830", 
+        "length": "109.86122741265797", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210783909", 
+        "ref": "US 15 Business;US 29 Business", 
+        "highway": "primary", 
+        "osmid": "215342850"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808765, 
+            38.537832
+          ], 
+          [
+            -77.809506, 
+            38.538083
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Bowen Street", 
+        "to": "210777757", 
+        "length": "70.25284733917472", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210777755", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000578"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.809506, 
+            38.538083
+          ], 
+          [
+            -77.809912, 
+            38.537173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Rappahannock Street", 
+        "to": "210777757", 
+        "length": "107.20229301266339", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210387493", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.807769, 
+            38.534903
+          ], 
+          [
+            -77.807576, 
+            38.534843
+          ], 
+          [
+            -77.807174, 
+            38.534703
+          ], 
+          [
+            -77.806647, 
+            38.534518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "to": "210783904", 
+        "length": "106.61197291192346", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210783909", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000779"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.807127, 
+            38.53362
+          ], 
+          [
+            -77.807126, 
+            38.533638
+          ], 
+          [
+            -77.80711, 
+            38.533682
+          ], 
+          [
+            -77.80673, 
+            38.534359
+          ], 
+          [
+            -77.806647, 
+            38.534518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North John Stone Street", 
+        "to": "210783904", 
+        "length": "108.4333791067445", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210514837", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003402"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.805535, 
+            38.534162
+          ], 
+          [
+            -77.80559, 
+            38.534166
+          ], 
+          [
+            -77.806439, 
+            38.534453
+          ], 
+          [
+            -77.806596, 
+            38.534506
+          ], 
+          [
+            -77.806647, 
+            38.534518
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Marshall Street", 
+        "to": "210783904", 
+        "length": "104.78689541365583", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210514671", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000779"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806303, 
+            38.532775
+          ], 
+          [
+            -77.806734, 
+            38.532927
+          ], 
+          [
+            -77.807268, 
+            38.533112
+          ], 
+          [
+            -77.807414, 
+            38.533163
+          ], 
+          [
+            -77.807945, 
+            38.533349
+          ], 
+          [
+            -77.8085149, 
+            38.5335524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Main Street", 
+        "to": "210788763", 
+        "length": "210.9838731422229", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210772251", 
+        "ref": "SR T651", 
+        "highway": "tertiary", 
+        "osmid": "215342852"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.809751, 
+            38.533994
+          ], 
+          [
+            -77.809226, 
+            38.533807
+          ], 
+          [
+            -77.8085149, 
+            38.5335524
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Main Street", 
+        "to": "210788763", 
+        "length": "118.23312959793412", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210809787", 
+        "ref": "SR T651", 
+        "highway": "tertiary", 
+        "osmid": "20001825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.810111, 
+            38.536722
+          ], 
+          [
+            -77.81059, 
+            38.536883
+          ], 
+          [
+            -77.811388, 
+            38.537144
+          ], 
+          [
+            -77.811655, 
+            38.537235
+          ], 
+          [
+            -77.811932, 
+            38.53733
+          ], 
+          [
+            -77.812024, 
+            38.537355
+          ], 
+          [
+            -77.812137, 
+            38.537373
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Washington Street", 
+        "to": "210763419", 
+        "length": "190.770102211083", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789973", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000973"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.808596, 
+            38.53666
+          ], 
+          [
+            -77.808684, 
+            38.536697
+          ], 
+          [
+            -77.808759, 
+            38.536746
+          ], 
+          [
+            -77.80882, 
+            38.536805
+          ], 
+          [
+            -77.808848, 
+            38.536828
+          ], 
+          [
+            -77.80887, 
+            38.536846
+          ], 
+          [
+            -77.808943, 
+            38.536887
+          ], 
+          [
+            -77.809024, 
+            38.536914
+          ], 
+          [
+            -77.809672, 
+            38.537094
+          ], 
+          [
+            -77.809912, 
+            38.537173
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Ghilton Lane", 
+        "to": "210387493", 
+        "length": "129.89574560716278", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210387511", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19980627"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.809912, 
+            38.537173
+          ], 
+          [
+            -77.810111, 
+            38.536722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Rappahannock Street", 
+        "to": "210387493", 
+        "length": "53.066786267751404", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789973", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003767"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806303, 
+            38.532775
+          ], 
+          [
+            -77.806124, 
+            38.533099
+          ], 
+          [
+            -77.806031, 
+            38.533268
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Franklin Street", 
+        "to": "210772252", 
+        "length": "59.723524901104156", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210772251", 
+        "ref": "SR 656", 
+        "highway": "tertiary", 
+        "osmid": "20000369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.806031, 
+            38.533268
+          ], 
+          [
+            -77.806472, 
+            38.53341
+          ], 
+          [
+            -77.807127, 
+            38.53362
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "East Madison Street", 
+        "to": "210514837", 
+        "length": "103.08319440770981", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210772252", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20002995"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.805535, 
+            38.534162
+          ], 
+          [
+            -77.805858, 
+            38.533582
+          ], 
+          [
+            -77.806031, 
+            38.533268
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Franklin Street", 
+        "to": "210772252", 
+        "length": "108.39721946525556", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210514671", 
+        "ref": "SR 656", 
+        "highway": "tertiary", 
+        "osmid": "20000369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.8061673, 
+            38.5364473
+          ], 
+          [
+            -77.8060522, 
+            38.5366479
+          ], 
+          [
+            -77.8059779, 
+            38.5368151
+          ], 
+          [
+            -77.8059372, 
+            38.5369867
+          ], 
+          [
+            -77.8058325, 
+            38.5373645
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Poland Ct", 
+        "to": "1148324845", 
+        "length": "106.55401192739976", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "1148324851", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "215346251"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.810111, 
+            38.536722
+          ], 
+          [
+            -77.80876, 
+            38.536265
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Washington Street", 
+        "to": "210789972", 
+        "length": "128.06035981572347", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210789973", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20000973"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.804948, 
+            38.535216
+          ], 
+          [
+            -77.805274, 
+            38.534618
+          ], 
+          [
+            -77.805535, 
+            38.534162
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Franklin Street", 
+        "to": "210514671", 
+        "length": "127.87907717135866", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210772253", 
+        "ref": "SR 656", 
+        "highway": "tertiary", 
+        "osmid": "20000369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.804948, 
+            38.535216
+          ], 
+          [
+            -77.804714, 
+            38.535668
+          ], 
+          [
+            -77.804609, 
+            38.535857
+          ], 
+          [
+            -77.804619, 
+            38.535889
+          ], 
+          [
+            -77.804644, 
+            38.535916
+          ], 
+          [
+            -77.805559, 
+            38.536226
+          ], 
+          [
+            -77.805923, 
+            38.536349
+          ], 
+          [
+            -77.8061673, 
+            38.5364473
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "['North Franklin Street', 'East Bowen Street']", 
+        "to": "1148324851", 
+        "length": "229.68683770776695", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210772253", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20000168, 99277077]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.809751, 
+            38.533994
+          ], 
+          [
+            -77.810333, 
+            38.5342
+          ], 
+          [
+            -77.811095, 
+            38.53447
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "West Main Street", 
+        "to": "210514615", 
+        "length": "128.3620837491177", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210809787", 
+        "ref": "SR T651", 
+        "highway": "tertiary", 
+        "osmid": "20001825"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.80876, 
+            38.536265
+          ], 
+          [
+            -77.808596, 
+            38.53666
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "North Church Street", 
+        "to": "210789972", 
+        "length": "46.193250961606154", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "210387511", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20003614"
+      }
+    }
+  ]
+}

@@ -1,0 +1,765 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2888063, 
+            38.520936
+          ], 
+          [
+            -77.2905954, 
+            38.5215068
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218226000", 
+        "name": "Potomac Avenue", 
+        "to": "218490272", 
+        "length": "168.13633097074114", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20453853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2881207, 
+            38.5216166
+          ], 
+          [
+            -77.2882991, 
+            38.5212799
+          ], 
+          [
+            -77.2884961, 
+            38.5209286
+          ], 
+          [
+            -77.2885423, 
+            38.5208463
+          ], 
+          [
+            -77.2887044, 
+            38.5209025
+          ], 
+          [
+            -77.2888063, 
+            38.520936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218388568", 
+        "name": "['River Road', 'Potomac Avenue']", 
+        "to": "218490272", 
+        "length": "118.25470909449464", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[20453853, 20449878]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2893058, 
+            38.5202292
+          ], 
+          [
+            -77.2892087, 
+            38.5201974
+          ], 
+          [
+            -77.2888063, 
+            38.520936
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3294765444", 
+        "name": "['Summers Avenue', '5th Avenue']", 
+        "to": "218490272", 
+        "length": "98.46384979365658", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[20458148, 20452919]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2923684, 
+            38.5221051
+          ], 
+          [
+            -77.2923196, 
+            38.5221803
+          ], 
+          [
+            -77.2918961, 
+            38.5228327
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218459076", 
+        "name": "C Street", 
+        "to": "218459072", 
+        "length": "90.76633363174682", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20452638"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2918961, 
+            38.5228327
+          ], 
+          [
+            -77.2913797, 
+            38.5234942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218459068", 
+        "name": "C Street", 
+        "to": "218459072", 
+        "length": "86.21329266890262", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20452638"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2918961, 
+            38.5228327
+          ], 
+          [
+            -77.290613, 
+            38.5224226
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253469", 
+        "name": "4th Avenue", 
+        "to": "218459072", 
+        "length": "120.6122878649782", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20459698"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2896525, 
+            38.5236742
+          ], 
+          [
+            -77.2891101, 
+            38.5234512
+          ], 
+          [
+            -77.2883474, 
+            38.523254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3658813523", 
+        "name": "2nd Avenue", 
+        "to": "3658813521", 
+        "length": "123.2184170138807", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "361401170"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2896525, 
+            38.5236742
+          ], 
+          [
+            -77.2901212, 
+            38.5230787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3658813523", 
+        "name": "Broadway Street", 
+        "to": "218253475", 
+        "length": "77.78535974753237", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20444671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2896525, 
+            38.5236742
+          ], 
+          [
+            -77.2895207, 
+            38.5238416
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "3658813523", 
+        "name": "Broadway Street", 
+        "to": "218253479", 
+        "length": "21.868111508860462", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20444671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2901212, 
+            38.5230787
+          ], 
+          [
+            -77.2878235, 
+            38.5223177
+          ], 
+          [
+            -77.2877643, 
+            38.5222981
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253475", 
+        "name": "3rd Avenue", 
+        "to": "218388563", 
+        "length": "222.7159798233528", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20453633"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2901212, 
+            38.5230787
+          ], 
+          [
+            -77.2913797, 
+            38.5234942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218459068", 
+        "name": "3rd Avenue", 
+        "to": "218253475", 
+        "length": "118.86467133802061", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20453633"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.290613, 
+            38.5224226
+          ], 
+          [
+            -77.2905765, 
+            38.5224713
+          ], 
+          [
+            -77.2901212, 
+            38.5230787
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253469", 
+        "name": "Broadway Street", 
+        "to": "218253475", 
+        "length": "84.59861880297068", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20444671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2893058, 
+            38.5202292
+          ], 
+          [
+            -77.2909897, 
+            38.5207808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218226005", 
+        "name": "5th Avenue", 
+        "to": "3294765444", 
+        "length": "158.86130441232564", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20452919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2925677, 
+            38.5221542
+          ], 
+          [
+            -77.2930931, 
+            38.5214767
+          ], 
+          [
+            -77.2927534, 
+            38.5213652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218325945", 
+        "name": "['5th Avenue', 'Railroad Avenue']", 
+        "to": "218459080", 
+        "length": "120.19808570624528", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[20447402, 20452919]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2927534, 
+            38.5213652
+          ], 
+          [
+            -77.2914246, 
+            38.5209166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253460", 
+        "name": "5th Avenue", 
+        "to": "218459080", 
+        "length": "125.93940764160789", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20452919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2923684, 
+            38.5221051
+          ], 
+          [
+            -77.2924121, 
+            38.5220211
+          ], 
+          [
+            -77.2927534, 
+            38.5213652
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218459076", 
+        "name": "C Street", 
+        "to": "218459080", 
+        "length": "88.85449194755326", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20452638"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.290613, 
+            38.5224226
+          ], 
+          [
+            -77.2905456, 
+            38.5224008
+          ], 
+          [
+            -77.2881207, 
+            38.5216166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253469", 
+        "name": "4th Avenue", 
+        "to": "218388568", 
+        "length": "234.6778529620002", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20459698"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.290613, 
+            38.5224226
+          ], 
+          [
+            -77.2906388, 
+            38.5223734
+          ], 
+          [
+            -77.290969, 
+            38.5217453
+          ], 
+          [
+            -77.2910176, 
+            38.5216529
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253469", 
+        "name": "Broadway Street", 
+        "to": "218253466", 
+        "length": "92.56802840871518", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20444671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2910176, 
+            38.5216529
+          ], 
+          [
+            -77.2909518, 
+            38.5216301
+          ], 
+          [
+            -77.2905954, 
+            38.5215068
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253466", 
+        "name": "Potomac Avenue", 
+        "to": "218226000", 
+        "length": "40.173361539341485", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20453853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2905954, 
+            38.5215068
+          ], 
+          [
+            -77.2909897, 
+            38.5207808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218226005", 
+        "name": "Virginia Avenue", 
+        "to": "218226000", 
+        "length": "87.73793144903385", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20443201"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2877643, 
+            38.5222981
+          ], 
+          [
+            -77.2881207, 
+            38.5216166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218388568", 
+        "name": "River Road", 
+        "to": "218388563", 
+        "length": "81.89999712944554", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20449878"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2910176, 
+            38.5216529
+          ], 
+          [
+            -77.2910624, 
+            38.5215718
+          ], 
+          [
+            -77.2913938, 
+            38.5209724
+          ], 
+          [
+            -77.2914246, 
+            38.5209166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253466", 
+        "name": "Broadway Street", 
+        "to": "218253460", 
+        "length": "89.22631654189166", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20444671"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2914246, 
+            38.5209166
+          ], 
+          [
+            -77.2909897, 
+            38.5207808
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218226005", 
+        "name": "5th Avenue", 
+        "to": "218253460", 
+        "length": "40.74844525975089", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20452919"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2925677, 
+            38.5221542
+          ], 
+          [
+            -77.2924279, 
+            38.5221197
+          ], 
+          [
+            -77.2923684, 
+            38.5221051
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218325945", 
+        "name": "Potomac Avenue", 
+        "to": "218459076", 
+        "length": "18.182585453637365", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20453853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2910176, 
+            38.5216529
+          ], 
+          [
+            -77.2911186, 
+            38.5216867
+          ], 
+          [
+            -77.2922856, 
+            38.5220774
+          ], 
+          [
+            -77.2923684, 
+            38.5221051
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218253466", 
+        "name": "Potomac Avenue", 
+        "to": "218459076", 
+        "length": "127.85533600372615", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "20453853"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -77.2903576, 
+            38.5242697
+          ], 
+          [
+            -77.2907116, 
+            38.5243788
+          ], 
+          [
+            -77.2913797, 
+            38.5234942
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "from": "218336340", 
+        "name": "['C Street', '2nd Avenue']", 
+        "to": "218459068", 
+        "length": "147.39100679363182", 
+        "key": "0", 
+        "oneway": "False", 
+        "highway": "residential", 
+        "osmid": "[20447793, 20452638]"
+      }
+    }
+  ]
+}

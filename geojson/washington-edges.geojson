@@ -1,0 +1,1133 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1619687, 
+            38.7132565
+          ], 
+          [
+            -78.1620413, 
+            38.7132935
+          ], 
+          [
+            -78.1621463, 
+            38.7133229
+          ], 
+          [
+            -78.1622745, 
+            38.7133674
+          ], 
+          [
+            -78.1623737, 
+            38.7133904
+          ], 
+          [
+            -78.1624274, 
+            38.7133925
+          ], 
+          [
+            -78.1624756, 
+            38.7133842
+          ], 
+          [
+            -78.1625405, 
+            38.7133439
+          ], 
+          [
+            -78.1626022, 
+            38.7132643
+          ], 
+          [
+            -78.1626291, 
+            38.713189
+          ], 
+          [
+            -78.162688, 
+            38.712983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218190980", 
+        "length": "97.03258851000297", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2219801954", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20440476"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.163231, 
+            38.713116
+          ], 
+          [
+            -78.162896, 
+            38.713034
+          ], 
+          [
+            -78.162688, 
+            38.712983
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Piedmont Pvt Lane", 
+        "to": "218190980", 
+        "length": "49.39342844451402", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218191226", 
+        "ref": "SR 626", 
+        "highway": "tertiary", 
+        "osmid": "20443070"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.162688, 
+            38.712983
+          ], 
+          [
+            -78.16244, 
+            38.712922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Piedmont Pvt Lane", 
+        "to": "218190980", 
+        "length": "22.5676321379032", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218208389", 
+        "ref": "SR 626", 
+        "highway": "tertiary", 
+        "osmid": "20443070"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.16244, 
+            38.712922
+          ], 
+          [
+            -78.162353, 
+            38.713166
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218208389", 
+        "length": "28.16998568824564", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218208393", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442048"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.161911, 
+            38.712792
+          ], 
+          [
+            -78.162201, 
+            38.712863
+          ], 
+          [
+            -78.162382, 
+            38.712908
+          ], 
+          [
+            -78.16244, 
+            38.712922
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Piedmont Pvt Lane", 
+        "to": "218208389", 
+        "length": "48.13454114298324", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218192876", 
+        "ref": "SR 626", 
+        "highway": "tertiary", 
+        "osmid": "20443070"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1587236, 
+            38.7145967
+          ], 
+          [
+            -78.1594537, 
+            38.7147474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Calvert Street", 
+        "to": "218219848", 
+        "length": "65.54242136030933", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220394", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20443374"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1590701, 
+            38.7158615
+          ], 
+          [
+            -78.158568, 
+            38.715767
+          ], 
+          [
+            -78.1584911, 
+            38.7157462
+          ], 
+          [
+            -78.1584473, 
+            38.7157177
+          ], 
+          [
+            -78.1584422, 
+            38.7156756
+          ], 
+          [
+            -78.1584504, 
+            38.7156288
+          ], 
+          [
+            -78.1587236, 
+            38.7145967
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "['Wheeler Street', 'Gay Street']", 
+        "to": "218219848", 
+        "length": "184.01436998436", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220403", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[20442848, 20443563]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1587236, 
+            38.7145967
+          ], 
+          [
+            -78.1590624, 
+            38.7134208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Gay Street", 
+        "to": "218219848", 
+        "length": "134.05537088378935", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218219845", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442848"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1599996, 
+            38.7103737
+          ], 
+          [
+            -78.1597846, 
+            38.7110783
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Gay Street", 
+        "to": "218219748", 
+        "length": "80.56091260296255", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218219837", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442848"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1570524, 
+            38.7125689
+          ], 
+          [
+            -78.1568805, 
+            38.7125364
+          ], 
+          [
+            -78.1567028, 
+            38.7125187
+          ], 
+          [
+            -78.1564903, 
+            38.7125129
+          ], 
+          [
+            -78.1557558, 
+            38.712536
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warren Avenue", 
+        "to": "218200588", 
+        "length": "113.15067880349193", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218217114", 
+        "ref": "US 211 Business", 
+        "highway": "secondary", 
+        "osmid": "20443780"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1559363, 
+            38.7100123
+          ], 
+          [
+            -78.1557834, 
+            38.7101484
+          ], 
+          [
+            -78.1557217, 
+            38.7102237
+          ], 
+          [
+            -78.1556815, 
+            38.7102991
+          ], 
+          [
+            -78.1556735, 
+            38.7103744
+          ], 
+          [
+            -78.1556842, 
+            38.7104477
+          ], 
+          [
+            -78.1557553, 
+            38.7106874
+          ], 
+          [
+            -78.1559819, 
+            38.7113414
+          ], 
+          [
+            -78.1560141, 
+            38.7115004
+          ], 
+          [
+            -78.1560222, 
+            38.7116009
+          ], 
+          [
+            -78.1560222, 
+            38.71167
+          ], 
+          [
+            -78.1560083, 
+            38.7117151
+          ], 
+          [
+            -78.1559437, 
+            38.711838
+          ], 
+          [
+            -78.155856, 
+            38.7120836
+          ], 
+          [
+            -78.1557809, 
+            38.7123424
+          ], 
+          [
+            -78.1557558, 
+            38.712536
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218200588", 
+        "length": "294.7242698654629", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "2219099244", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20441382"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.161472, 
+            38.712968
+          ], 
+          [
+            -78.161556, 
+            38.712705
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218192732", 
+        "length": "30.147253583305076", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218192738", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20440636"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1570524, 
+            38.7125689
+          ], 
+          [
+            -78.156919, 
+            38.711441
+          ], 
+          [
+            -78.156824, 
+            38.711425
+          ], 
+          [
+            -78.156735, 
+            38.711254
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Avon Lane", 
+        "to": "218217102", 
+        "length": "154.9485509169246", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218217114", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442690"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.16115, 
+            38.712876
+          ], 
+          [
+            -78.161196, 
+            38.712617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218209294", 
+        "length": "29.082919241775453", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218209298", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442110"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.161556, 
+            38.712705
+          ], 
+          [
+            -78.1613192, 
+            38.7126471
+          ], 
+          [
+            -78.161196, 
+            38.712617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Piedmont Pvt Lane", 
+        "to": "218209294", 
+        "length": "32.741301720410775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218192732", 
+        "ref": "SR 626", 
+        "highway": "tertiary", 
+        "osmid": "20443070"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1601487, 
+            38.71239
+          ], 
+          [
+            -78.1604315, 
+            38.7124505
+          ], 
+          [
+            -78.160859, 
+            38.712542
+          ], 
+          [
+            -78.160976, 
+            38.712563
+          ], 
+          [
+            -78.161196, 
+            38.712617
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Piedmont Pvt Lane", 
+        "to": "218209294", 
+        "length": "94.35812792515698", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218218309", 
+        "ref": "SR 626", 
+        "highway": "tertiary", 
+        "osmid": "20443070"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1598069, 
+            38.7135424
+          ], 
+          [
+            -78.1599768, 
+            38.7129872
+          ], 
+          [
+            -78.1601487, 
+            38.71239
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Main Street", 
+        "to": "218218309", 
+        "length": "131.56798311707163", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220392", 
+        "ref": "US 211 Business", 
+        "highway": "secondary", 
+        "osmid": "20442890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1601487, 
+            38.71239
+          ], 
+          [
+            -78.1605129, 
+            38.7112208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Main Street", 
+        "to": "218218309", 
+        "length": "133.83205174458325", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218219752", 
+        "ref": "US 211 Business", 
+        "highway": "secondary", 
+        "osmid": "20442890"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1601487, 
+            38.71239
+          ], 
+          [
+            -78.1594217, 
+            38.7122537
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Jett Street", 
+        "to": "218218309", 
+        "length": "64.891610097028", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218218313", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442755"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1590624, 
+            38.7134208
+          ], 
+          [
+            -78.1587788, 
+            38.7133698
+          ], 
+          [
+            -78.1585925, 
+            38.7133304
+          ], 
+          [
+            -78.1584117, 
+            38.7132743
+          ], 
+          [
+            -78.1582674, 
+            38.7132139
+          ], 
+          [
+            -78.1580972, 
+            38.7131098
+          ], 
+          [
+            -78.1576493, 
+            38.7128358
+          ], 
+          [
+            -78.1574787, 
+            38.7127355
+          ], 
+          [
+            -78.1573213, 
+            38.7126646
+          ], 
+          [
+            -78.15715, 
+            38.7126
+          ], 
+          [
+            -78.1570524, 
+            38.7125689
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Warren Avenue", 
+        "to": "218217114", 
+        "length": "201.2458848869006", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218219845", 
+        "ref": "US 211 Business", 
+        "highway": "secondary", 
+        "osmid": "20443780"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.161828, 
+            38.713048
+          ], 
+          [
+            -78.161911, 
+            38.712792
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218192876", 
+        "length": "29.370972492033964", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218192879", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20440646"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.161556, 
+            38.712705
+          ], 
+          [
+            -78.161911, 
+            38.712792
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Piedmont Pvt Lane", 
+        "to": "218192876", 
+        "length": "32.29392292138472", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218192732", 
+        "ref": "SR 626", 
+        "highway": "tertiary", 
+        "osmid": "20443070"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1590624, 
+            38.7134208
+          ], 
+          [
+            -78.1598069, 
+            38.7135424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Middle Street", 
+        "to": "218219845", 
+        "length": "66.01403751021802", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220392", 
+        "ref": "US 211 Business", 
+        "highway": "secondary", 
+        "osmid": "20442997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1590624, 
+            38.7134208
+          ], 
+          [
+            -78.1594217, 
+            38.7122537
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Gay Street", 
+        "to": "218219845", 
+        "length": "133.50501783627212", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218218313", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442848"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1597846, 
+            38.7110783
+          ], 
+          [
+            -78.1605129, 
+            38.7112208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Porter Street", 
+        "to": "218219748", 
+        "length": "65.16661009115934", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218219752", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "20442839"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1597846, 
+            38.7110783
+          ], 
+          [
+            -78.1594217, 
+            38.7122537
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "2", 
+        "name": "Gay Street", 
+        "to": "218219748", 
+        "length": "134.47578721771677", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218218313", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20442848"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1603694, 
+            38.7136626
+          ], 
+          [
+            -78.1598069, 
+            38.7135424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Middle Street", 
+        "to": "218222247", 
+        "length": "50.61574303130754", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220392", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "88626847"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1594537, 
+            38.7147474
+          ], 
+          [
+            -78.1595504, 
+            38.714421
+          ], 
+          [
+            -78.1596555, 
+            38.714066
+          ], 
+          [
+            -78.1598069, 
+            38.7135424
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Main Street", 
+        "to": "218220392", 
+        "length": "137.4887392851804", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220394", 
+        "ref": "SR 628", 
+        "highway": "tertiary", 
+        "osmid": "88626845"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1620876, 
+            38.7115535
+          ], 
+          [
+            -78.1605129, 
+            38.7112208
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Porter Street", 
+        "to": "218219753", 
+        "length": "141.59024052056904", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218219752", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "88626846"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1590701, 
+            38.7158615
+          ], 
+          [
+            -78.1592047, 
+            38.7154697
+          ], 
+          [
+            -78.1593433, 
+            38.715066
+          ], 
+          [
+            -78.1594537, 
+            38.7147474
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Main Street", 
+        "to": "218220394", 
+        "length": "128.3112407935002", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218220403", 
+        "ref": "SR 628", 
+        "highway": "tertiary", 
+        "osmid": "88626845"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.1599144, 
+            38.7161114
+          ], 
+          [
+            -78.1598377, 
+            38.7160414
+          ], 
+          [
+            -78.1597484, 
+            38.716006
+          ], 
+          [
+            -78.1595947, 
+            38.7159624
+          ], 
+          [
+            -78.1593564, 
+            38.7159186
+          ], 
+          [
+            -78.1590701, 
+            38.7158615
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "Wheeler Street", 
+        "to": "218220403", 
+        "length": "80.0215054658201", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218231481", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20443563"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -78.163231, 
+            38.713116
+          ], 
+          [
+            -78.163252, 
+            38.71285
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "lanes": "", 
+        "name": "", 
+        "to": "218191229", 
+        "length": "29.64226720136316", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "218191226", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "20440500"
+      }
+    }
+  ]
+}

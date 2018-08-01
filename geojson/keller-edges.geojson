@@ -1,0 +1,1707 @@
+{
+  "type": "FeatureCollection", 
+  "features": [
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764363, 
+            37.618402
+          ], 
+          [
+            -75.764428, 
+            37.618239
+          ], 
+          [
+            -75.764489, 
+            37.618058
+          ], 
+          [
+            -75.764528, 
+            37.618001
+          ], 
+          [
+            -75.764561, 
+            37.617976
+          ], 
+          [
+            -75.764602, 
+            37.617962
+          ], 
+          [
+            -75.764631, 
+            37.617961
+          ], 
+          [
+            -75.764654, 
+            37.617965
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Street", 
+        "to": "205686209", 
+        "length": "59.64941986304587", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205625667", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.765643, 
+            37.622121
+          ], 
+          [
+            -75.766137, 
+            37.620923
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jefferson Avenue", 
+        "to": "205631490", 
+        "length": "140.1760779724775", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205561952", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763403"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.76761, 
+            37.621312
+          ], 
+          [
+            -75.767579, 
+            37.621396
+          ], 
+          [
+            -75.767476, 
+            37.62164
+          ], 
+          [
+            -75.767308, 
+            37.622058
+          ], 
+          [
+            -75.767153, 
+            37.622406
+          ], 
+          [
+            -75.767114, 
+            37.622442
+          ], 
+          [
+            -75.767063, 
+            37.622466
+          ], 
+          [
+            -75.767046, 
+            37.622469
+          ], 
+          [
+            -75.767015, 
+            37.622475
+          ], 
+          [
+            -75.766944, 
+            37.622469
+          ], 
+          [
+            -75.7664, 
+            37.622316
+          ], 
+          [
+            -75.765643, 
+            37.622121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "['Lee Street', 'Madison Avenue']", 
+        "to": "205631490", 
+        "length": "270.3088215530336", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205600796", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "[19762784, 19761957]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764266, 
+            37.621722
+          ], 
+          [
+            -75.764932, 
+            37.621926
+          ], 
+          [
+            -75.765152, 
+            37.621993
+          ], 
+          [
+            -75.765643, 
+            37.622121
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lee Street", 
+        "to": "205631490", 
+        "length": "129.21076435343366", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205631495", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761957"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7635252, 
+            37.6181347
+          ], 
+          [
+            -75.763686, 
+            37.618203
+          ], 
+          [
+            -75.763882, 
+            37.618268
+          ], 
+          [
+            -75.764363, 
+            37.618402
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "2nd Street", 
+        "to": "205625667", 
+        "length": "79.71692283504137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205625660", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761752"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764363, 
+            37.618402
+          ], 
+          [
+            -75.765487, 
+            37.618714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "2nd Street", 
+        "to": "205625667", 
+        "length": "104.93054253302732", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205625670", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761752"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764363, 
+            37.618402
+          ], 
+          [
+            -75.763988, 
+            37.619332
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Street", 
+        "to": "205625667", 
+        "length": "108.58831699312479", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205657393", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.76512, 
+            37.619663
+          ], 
+          [
+            -75.765632, 
+            37.619826
+          ], 
+          [
+            -75.76592, 
+            37.619908
+          ], 
+          [
+            -75.765975, 
+            37.61992
+          ], 
+          [
+            -75.766129, 
+            37.619952
+          ], 
+          [
+            -75.766271, 
+            37.61997
+          ], 
+          [
+            -75.766846, 
+            37.619998
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "1st Street", 
+        "to": "205657413", 
+        "length": "158.0513171884184", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205637042", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7660366, 
+            37.6209058
+          ], 
+          [
+            -75.766063, 
+            37.620886
+          ], 
+          [
+            -75.766103, 
+            37.620876
+          ], 
+          [
+            -75.766142, 
+            37.620852
+          ], 
+          [
+            -75.766181, 
+            37.620807
+          ], 
+          [
+            -75.766233, 
+            37.620698
+          ], 
+          [
+            -75.766338, 
+            37.620444
+          ], 
+          [
+            -75.766402, 
+            37.620323
+          ], 
+          [
+            -75.76644, 
+            37.620277
+          ], 
+          [
+            -75.766481, 
+            37.620227
+          ], 
+          [
+            -75.766571, 
+            37.620147
+          ], 
+          [
+            -75.766675, 
+            37.620077
+          ], 
+          [
+            -75.766791, 
+            37.62002
+          ], 
+          [
+            -75.766846, 
+            37.619998
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Jefferson Avenue", 
+        "to": "205657413", 
+        "length": "128.74200961668896", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205561950", 
+        "ref": "SR 180", 
+        "highway": "secondary", 
+        "osmid": "19763402"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.765092, 
+            37.61609
+          ], 
+          [
+            -75.765209, 
+            37.616255
+          ], 
+          [
+            -75.765315, 
+            37.616375
+          ], 
+          [
+            -75.765718, 
+            37.616866
+          ], 
+          [
+            -75.765764, 
+            37.616953
+          ], 
+          [
+            -75.765813, 
+            37.617089
+          ], 
+          [
+            -75.765832, 
+            37.617182
+          ], 
+          [
+            -75.76584, 
+            37.617287
+          ], 
+          [
+            -75.765827, 
+            37.6174
+          ], 
+          [
+            -75.765788, 
+            37.617565
+          ], 
+          [
+            -75.765776, 
+            37.617673
+          ], 
+          [
+            -75.76577, 
+            37.61792
+          ], 
+          [
+            -75.765758, 
+            37.617988
+          ], 
+          [
+            -75.765718, 
+            37.618078
+          ], 
+          [
+            -75.765682, 
+            37.618218
+          ], 
+          [
+            -75.765648, 
+            37.618323
+          ], 
+          [
+            -75.765487, 
+            37.618714
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Street", 
+        "to": "205625670", 
+        "length": "313.64955127688626", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205681440", 
+        "ref": "SR 620", 
+        "highway": "tertiary", 
+        "osmid": "19763997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.765487, 
+            37.618714
+          ], 
+          [
+            -75.76512, 
+            37.619663
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Street", 
+        "to": "205625670", 
+        "length": "110.39477607838226", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205637042", 
+        "ref": "SR 620", 
+        "highway": "tertiary", 
+        "osmid": "19763997"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7647946, 
+            37.6205858
+          ], 
+          [
+            -75.76467, 
+            37.620764
+          ], 
+          [
+            -75.764378, 
+            37.621483
+          ], 
+          [
+            -75.764278, 
+            37.621705
+          ], 
+          [
+            -75.764266, 
+            37.621722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "West Street", 
+        "to": "205631495", 
+        "length": "135.04763152694645", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205600779", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763999"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764206, 
+            37.621821
+          ], 
+          [
+            -75.764227, 
+            37.621746
+          ], 
+          [
+            -75.764266, 
+            37.621722
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Lee Street", 
+        "to": "205631495", 
+        "length": "12.895590661377772", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205631501", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19761957"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.763988, 
+            37.619332
+          ], 
+          [
+            -75.763646, 
+            37.620233
+          ], 
+          [
+            -75.7636616, 
+            37.6202928
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Street", 
+        "to": "205600776", 
+        "length": "111.43812452025517", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205657393", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19764128"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7636616, 
+            37.6202928
+          ], 
+          [
+            -75.7647946, 
+            37.6205858
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North R North Street", 
+        "to": "205600776", 
+        "length": "105.00177779143951", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205600779", 
+        "ref": "VA 180", 
+        "highway": "secondary", 
+        "osmid": "19760738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7623355, 
+            37.6199207
+          ], 
+          [
+            -75.7626586, 
+            37.6200058
+          ], 
+          [
+            -75.7634156, 
+            37.6202278
+          ], 
+          [
+            -75.7636616, 
+            37.6202928
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North R North Street", 
+        "to": "205600776", 
+        "length": "123.95977120370068", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205679979", 
+        "ref": "VA 180", 
+        "highway": "secondary", 
+        "osmid": "19760738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764206, 
+            37.621821
+          ], 
+          [
+            -75.764149, 
+            37.621677
+          ], 
+          [
+            -75.763582, 
+            37.620436
+          ], 
+          [
+            -75.76357, 
+            37.620392
+          ], 
+          [
+            -75.763571, 
+            37.620346
+          ], 
+          [
+            -75.763598, 
+            37.620287
+          ], 
+          [
+            -75.7636616, 
+            37.6202928
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Avenue", 
+        "to": "205600776", 
+        "length": "186.3218446475475", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205631501", 
+        "ref": "SR 620", 
+        "highway": "tertiary", 
+        "osmid": "19762884"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.766137, 
+            37.620923
+          ], 
+          [
+            -75.76761, 
+            37.621312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North R North Street", 
+        "to": "205600796", 
+        "length": "136.7918484441405", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205561952", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.766137, 
+            37.620923
+          ], 
+          [
+            -75.7660366, 
+            37.6209058
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "205561950", 
+        "length": "9.049627651448587", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205561952", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19758471"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.76512, 
+            37.619663
+          ], 
+          [
+            -75.765046, 
+            37.619822
+          ], 
+          [
+            -75.764939, 
+            37.620104
+          ], 
+          [
+            -75.764897, 
+            37.62019
+          ], 
+          [
+            -75.7647946, 
+            37.6205858
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "H West Street", 
+        "to": "205600779", 
+        "length": "106.79446715492102", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205637042", 
+        "ref": "SR 620", 
+        "highway": "tertiary", 
+        "osmid": "19762171"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7660366, 
+            37.6209058
+          ], 
+          [
+            -75.7659706, 
+            37.6208918
+          ], 
+          [
+            -75.7654716, 
+            37.6207618
+          ], 
+          [
+            -75.7647946, 
+            37.6205858
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North R North Street", 
+        "to": "205600779", 
+        "length": "115.07094040142961", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205561950", 
+        "ref": "VA 180", 
+        "highway": "secondary", 
+        "osmid": "19760738"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.764206, 
+            37.621821
+          ], 
+          [
+            -75.764458, 
+            37.622455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Avenue", 
+        "to": "205631501", 
+        "length": "73.92950644293563", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205509334", 
+        "ref": "SR 620", 
+        "highway": "tertiary", 
+        "osmid": "19762884"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.761016, 
+            37.61957
+          ], 
+          [
+            -75.760893, 
+            37.619879
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "205565880", 
+        "length": "36.036754616187984", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205565881", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19758986"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.761016, 
+            37.61957
+          ], 
+          [
+            -75.7618595, 
+            37.6197961
+          ], 
+          [
+            -75.762186, 
+            37.6198836
+          ], 
+          [
+            -75.7623355, 
+            37.6199207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North R Street", 
+        "to": "205679979", 
+        "length": "122.62101425588814", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205565880", 
+        "ref": "SR 696", 
+        "highway": "tertiary", 
+        "osmid": "19764991"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.76761, 
+            37.621312
+          ], 
+          [
+            -75.767698, 
+            37.621119
+          ], 
+          [
+            -75.768012, 
+            37.620353
+          ], 
+          [
+            -75.768036, 
+            37.620294
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Madison Avenue", 
+        "to": "205651668", 
+        "length": "119.29597896420286", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205600796", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19762784"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7629292, 
+            37.6190257
+          ], 
+          [
+            -75.763988, 
+            37.619332
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "1st Street", 
+        "to": "205657393", 
+        "length": "99.30768515491388", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205657390", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7629292, 
+            37.6190257
+          ], 
+          [
+            -75.7623355, 
+            37.6199207
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "50 mph", 
+        "lanes": "5", 
+        "name": "Lankford Highway", 
+        "to": "205679979", 
+        "length": "112.4523697296844", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205657390", 
+        "ref": "US 13", 
+        "highway": "trunk", 
+        "osmid": "108533151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7629292, 
+            37.6190257
+          ], 
+          [
+            -75.7635252, 
+            37.6181347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "50 mph", 
+        "lanes": "5", 
+        "name": "Lankford Highway", 
+        "to": "205625660", 
+        "length": "112.15373199495583", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205657390", 
+        "ref": "US 13", 
+        "highway": "trunk", 
+        "osmid": "108533151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.765003, 
+            37.61599
+          ], 
+          [
+            -75.765092, 
+            37.61609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North West Street", 
+        "to": "205679958", 
+        "length": "13.608771580054976", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205681440", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "19765079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.765003, 
+            37.61599
+          ], 
+          [
+            -75.764472, 
+            37.616772
+          ], 
+          [
+            -75.764416, 
+            37.616852
+          ], 
+          [
+            -75.764133, 
+            37.617257
+          ], 
+          [
+            -75.7639788, 
+            37.6174524
+          ], 
+          [
+            -75.7638507, 
+            37.6176288
+          ], 
+          [
+            -75.7637648, 
+            37.6178103
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "['50 mph', '55 mph']", 
+        "lanes": "2", 
+        "name": "Lankford Highway", 
+        "to": "205681452", 
+        "length": "230.24785535624235", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "205679958", 
+        "ref": "US 13", 
+        "highway": "trunk", 
+        "osmid": "[127288925, 127288934]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.765003, 
+            37.61599
+          ], 
+          [
+            -75.7648666, 
+            37.6158394
+          ], 
+          [
+            -75.764798, 
+            37.615772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North West Street", 
+        "to": "205709230", 
+        "length": "30.245250414317137", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205679958", 
+        "ref": "", 
+        "highway": "tertiary", 
+        "osmid": "19765079"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.768973, 
+            37.621597
+          ], 
+          [
+            -75.768952, 
+            37.621631
+          ], 
+          [
+            -75.768927, 
+            37.621647
+          ], 
+          [
+            -75.768895, 
+            37.621654
+          ], 
+          [
+            -75.768852, 
+            37.62165
+          ], 
+          [
+            -75.768794, 
+            37.621624
+          ], 
+          [
+            -75.768704, 
+            37.621594
+          ], 
+          [
+            -75.768523, 
+            37.621559
+          ], 
+          [
+            -75.768266, 
+            37.621483
+          ], 
+          [
+            -75.76761, 
+            37.621312
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "North R North Street", 
+        "to": "205600796", 
+        "length": "129.67741559937943", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205600820", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19760741"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7637648, 
+            37.6178103
+          ], 
+          [
+            -75.763946, 
+            37.617672
+          ], 
+          [
+            -75.7640709, 
+            37.6175201
+          ], 
+          [
+            -75.764307, 
+            37.617233
+          ], 
+          [
+            -75.764534, 
+            37.616929
+          ], 
+          [
+            -75.76473, 
+            37.616636
+          ], 
+          [
+            -75.764806, 
+            37.616513
+          ], 
+          [
+            -75.765092, 
+            37.61609
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "['55 mph', '50 mph']", 
+        "lanes": "2", 
+        "name": "Lankford Highway", 
+        "to": "205681440", 
+        "length": "225.2117657720825", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "205681452", 
+        "ref": "US 13", 
+        "highway": "trunk", 
+        "osmid": "[127288923, 322133612]"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.758617, 
+            37.625772
+          ], 
+          [
+            -75.758839, 
+            37.625772
+          ], 
+          [
+            -75.760164, 
+            37.625722
+          ], 
+          [
+            -75.76031, 
+            37.625715
+          ], 
+          [
+            -75.760484, 
+            37.625703
+          ], 
+          [
+            -75.761286, 
+            37.625647
+          ], 
+          [
+            -75.76219, 
+            37.625576
+          ], 
+          [
+            -75.764251, 
+            37.625397
+          ], 
+          [
+            -75.764585, 
+            37.625371
+          ], 
+          [
+            -75.764776, 
+            37.625365
+          ], 
+          [
+            -75.76546, 
+            37.625396
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Adams Crossing", 
+        "to": "470160241", 
+        "length": "605.041647737876", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "470160251", 
+        "ref": "SR 623", 
+        "highway": "tertiary", 
+        "osmid": "19763369"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.76546, 
+            37.625396
+          ], 
+          [
+            -75.765393, 
+            37.625185
+          ], 
+          [
+            -75.765146, 
+            37.624317
+          ], 
+          [
+            -75.765059, 
+            37.624049
+          ], 
+          [
+            -75.764933, 
+            37.623697
+          ], 
+          [
+            -75.764458, 
+            37.622455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Center Avenue", 
+        "to": "205509334", 
+        "length": "338.9802939428646", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "470160241", 
+        "ref": "SR 620", 
+        "highway": "tertiary", 
+        "osmid": "19762884"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.759733, 
+            37.6238856
+          ], 
+          [
+            -75.7595551, 
+            37.6240772
+          ], 
+          [
+            -75.759206, 
+            37.624629
+          ], 
+          [
+            -75.758445, 
+            37.625771
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "Lankford Highway", 
+        "to": "470160252", 
+        "length": "238.72790495050694", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "205681464", 
+        "ref": "US 13;VA 180", 
+        "highway": "trunk", 
+        "osmid": "127288928"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.758445, 
+            37.625771
+          ], 
+          [
+            -75.758617, 
+            37.625772
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "Wachapreague Road", 
+        "to": "470160251", 
+        "length": "15.15238292430209", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "470160252", 
+        "ref": "VA 180", 
+        "highway": "secondary", 
+        "osmid": "108533132"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7623355, 
+            37.6199207
+          ], 
+          [
+            -75.7601432, 
+            37.6232266
+          ], 
+          [
+            -75.7598779, 
+            37.6236355
+          ], 
+          [
+            -75.759733, 
+            37.6238856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "50 mph", 
+        "lanes": "5", 
+        "name": "Lankford Highway", 
+        "to": "205681464", 
+        "length": "497.08085035442485", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205679979", 
+        "ref": "US 13;VA 180", 
+        "highway": "trunk", 
+        "osmid": "127288929"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.7637648, 
+            37.6178103
+          ], 
+          [
+            -75.7635612, 
+            37.6180807
+          ], 
+          [
+            -75.7635252, 
+            37.6181347
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "50 mph", 
+        "lanes": "5", 
+        "name": "Lankford Highway", 
+        "to": "205625660", 
+        "length": "41.81074855568143", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205681452", 
+        "ref": "US 13", 
+        "highway": "trunk", 
+        "osmid": "108533151"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.763462, 
+            37.62244
+          ], 
+          [
+            -75.763464, 
+            37.622472
+          ], 
+          [
+            -75.763481, 
+            37.622522
+          ], 
+          [
+            -75.763566, 
+            37.622653
+          ], 
+          [
+            -75.763598, 
+            37.622672
+          ], 
+          [
+            -75.763638, 
+            37.622677
+          ], 
+          [
+            -75.763867, 
+            37.62261
+          ], 
+          [
+            -75.764458, 
+            37.622455
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "", 
+        "to": "205509334", 
+        "length": "109.1477247903845", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205509358", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19755275"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.76512, 
+            37.619663
+          ], 
+          [
+            -75.764894, 
+            37.619589
+          ], 
+          [
+            -75.763988, 
+            37.619332
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "", 
+        "lanes": "", 
+        "name": "1st Street", 
+        "to": "205657393", 
+        "length": "106.32788488621037", 
+        "key": "0", 
+        "oneway": "False", 
+        "from": "205637042", 
+        "ref": "", 
+        "highway": "residential", 
+        "osmid": "19763061"
+      }
+    }, 
+    {
+      "geometry": {
+        "type": "LineString", 
+        "coordinates": [
+          [
+            -75.758617, 
+            37.625772
+          ], 
+          [
+            -75.758759, 
+            37.625562
+          ], 
+          [
+            -75.759365, 
+            37.624635
+          ], 
+          [
+            -75.7596684, 
+            37.6241054
+          ], 
+          [
+            -75.759733, 
+            37.6238856
+          ]
+        ]
+      }, 
+      "type": "Feature", 
+      "properties": {
+        "maxspeed": "55 mph", 
+        "lanes": "2", 
+        "name": "Lankford Highway", 
+        "to": "205681464", 
+        "length": "232.39049542839072", 
+        "key": "0", 
+        "oneway": "True", 
+        "from": "470160251", 
+        "ref": "US 13;VA 180", 
+        "highway": "trunk", 
+        "osmid": "108533152"
+      }
+    }
+  ]
+}
